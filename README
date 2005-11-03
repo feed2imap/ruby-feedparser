@@ -1,0 +1,14 @@
+ Ruby-Feedparser 
+-----------------
+by Lucas Nussbaum <lucas@lucas-nussbaum.net>
+
+Currently, all the information is provided on
+
+       http://home.gna.org/ruby-feedparser/
+
+If you need to ask questions, feel free to ask them on the
+ruby-feedparser-devel@gna.org mailing list.
+
+Ruby-Feedparser is released under the Ruby license (see the LICENSE file),
+which is compatible with the GNU GPL (see the COPYING file) via an explicit
+dual-licensing clause.
