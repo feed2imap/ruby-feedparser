@@ -1,5 +1,9 @@
+Type: rss
 Title: Planet GNOME
 Link: http://planet.gnome.org/
+Encoding: UTF-8
+Description: Planet GNOME - http://planet.gnome.org/
+Creator: 
 
 --------------------------------
 Title: John Fleck: Savant
@@ -87,7 +91,7 @@ Content:
 	<li>Open the book to page 123.</li>
 	<li>Find the fifth sentence.</li>
 	<li>Post the text of the sentence in your journal along with these instructions.</li>
-	<li>Don&#8217;t search around and look for the &#8220;coolest&#8221; book you can find. Do whats actually next to you.</li>
+	<li>Don&#8217;t search around and look for the &#8220;coolest&#8221; book you can find. Do whatâ€™s actually next to you.</li>
 </ol>
 </small></p>
 --------------------------------
@@ -173,7 +177,7 @@ previously,  but will not delete it until told to.</p>
 
 <p>    - work around 67411 (Hans)<br />
     - 64 bit fixes (Michael)<br />
-    - Turkish locale fixes (S.Çaglar Onur)</p>
+    - Turkish locale fixes (S.Ã‡aglar Onur)</p>
 
 <p> * Calendar</p>
 
@@ -209,7 +213,7 @@ previously,  but will not delete it until told to.</p>
   - sr@Latn (Danilo Segan)<br />
   - en_CA (Adam Weinberger)<br />
   - pt_BR (Raphael Higino)<br />
-  - nn (Åsmund Skjæveland)</p>
+  - nn (Ã…smund SkjÃ¦veland)</p>
 
 <p>Exchange Connector 2.0.4  2005-02-14<br />
 ------------------------------------</p>
@@ -788,7 +792,7 @@ Creator:
 Subject: 
 Category: 
 Content:
-<img src="http://planet.gnome.org/heads/hub.png" align="right" alt=""><p>Some eye candy for this evening. We still haven't finished our tour of Périgord, so I return to my slide archives. Back to the <a href="http://www.sigoules.com/visiter/chateaux/cloitre_de_cadouin.htm">Cadouin Cloister</a> <em>(fr)</em>, facing the inside yard and tower:</p>
+<img src="http://planet.gnome.org/heads/hub.png" align="right" alt=""><p>Some eye candy for this evening. We still haven't finished our tour of PÃ©rigord, so I return to my slide archives. Back to the <a href="http://www.sigoules.com/visiter/chateaux/cloitre_de_cadouin.htm">Cadouin Cloister</a> <em>(fr)</em>, facing the inside yard and tower:</p>
 
 
 <p><a href="http://photo.figuiere.net/photodb/rolls/2001-09-21-2S/2001-09-21-2S-04.jpg"><img src="http://photo.figuiere.net/photodb/rolls/2001-09-21-2S/thumb_2001-09-21-2S-04.jpg" alt="" /></a></p>
@@ -968,9 +972,9 @@ Content:
 <img src="http://planet.gnome.org/heads/rodrigo.png" align="right" alt=""><b>GUADEC-ES</b>
       <br />
       The <a href="http://2005.guadec-es.org/">II GUADEC-ES</a> will take
-      place from May 19th to 21st, in A Coruña, in the northwest of Spain. This is just
+      place from May 19th to 21st, in A CoruÃ±a, in the northwest of Spain. This is just
       a week before the real <a href="http://2005.guadec.org">GUADEC</a>,
-      so anybody planning to do some travelling can have A Coruña as one of the scales.
+      so anybody planning to do some travelling can have A CoruÃ±a as one of the scales.
 --------------------------------
 Title: Alvaro del Castillo: 19 Feb 2005
 Link: http://www.advogato.org/person/alvaro/diary.html?start=52
@@ -979,7 +983,7 @@ Creator:
 Subject: 
 Category: 
 Content:
-Finally I have decided to help in developing <a href="http://rt2x00.serialmonkey.com/">a driver for the wireless USB 54 Mbps rt2570</a>, very similar to the ralink 2500 chipset. I have two USB networks card using this chipset: they are very cheap, around 30€. In my student days, I developed an ethernet driver so maybe, this knowledge will be useful. I am learning about USB stuff, using howto develop USB drivers for Linux, the USB Nutshell and finally, with the USB standard. I am not sure how far I will go in the project, but for now, I am trying to understand the USB traffic until we get the data sheets: <a href="http://benoit.papillault.free.fr/usbsnoop/">USB sniff</a> is the right tool to log the USB traffic and analyze it later (grep, cat, awk, uniq, sort ...)
+Finally I have decided to help in developing <a href="http://rt2x00.serialmonkey.com/">a driver for the wireless USB 54 Mbps rt2570</a>, very similar to the ralink 2500 chipset. I have two USB networks card using this chipset: they are very cheap, around 30Â€. In my student days, I developed an ethernet driver so maybe, this knowledge will be useful. I am learning about USB stuff, using howto develop USB drivers for Linux, the USB Nutshell and finally, with the USB standard. I am not sure how far I will go in the project, but for now, I am trying to understand the USB traffic until we get the data sheets: <a href="http://benoit.papillault.free.fr/usbsnoop/">USB sniff</a> is the right tool to log the USB traffic and analyze it later (grep, cat, awk, uniq, sort ...)
 
 <p> A dude working with me in LambdaUX is developing in C# and Mono a program to update Debian systems. It is getting very nice. A pit I don't have yet screenshots about it.
 
@@ -1690,7 +1694,7 @@ Current GStreamer-0.8 design has various generally agreed-on problems that canno
 <li>negotiation protocol issues
 <li>a lot more
 </ul>
-Wim was leading the discussion to identify and agree on the mistakes in our current 0.8 tree, particularly the ones that we cannot fix in the 0.8 timeframe. This is mostly stuff that we agree on and know how to fix. It´s just something we need on paper for later.
+Wim was leading the discussion to identify and agree on the mistakes in our current 0.8 tree, particularly the ones that we cannot fix in the 0.8 timeframe. This is mostly stuff that we agree on and know how to fix. ItÂ´s just something we need on paper for later.
 <p>
 <i>Generally agreed-on solutions:</i><br />
 Here is what came out of this discussion:
@@ -1698,7 +1702,7 @@ Here is what came out of this discussion:
 <li>eos/error should not change state. More generally, state and actual processing ("scheduling") should be separated from each other.
 <li>refcounting should be threadsafe (glib)
 <li>signals should be marshalled to the correct thread, either through a message bus or through cross-thread signal marshalling.
-<li>Clocking should be improved to be implicitely synchronization (which we don´t have right now; *shame*) across streams.
+<li>Clocking should be improved to be implicitely synchronization (which we donÂ´t have right now; *shame*) across streams.
 </ul>
 Most of thursday was spent on discussing and agreeing on the above. We mostly agree on all this. Friday was spent talking about scheduling of pipelines ("processing of the media").
 <p>

@@ -3,12 +3,14 @@
 $:.unshift File.join(File.dirname(__FILE__), '..', 'lib')
 
 require 'test/unit'
-require 'feedparser/channel'
+require 'feedparser'
 
-class ChannelParserTest < Test::Unit::TestCase
+# This class includes some basic tests of the parser. More detailed test is
+# made by tc_parser.rb
+class FeedParserTest < Test::Unit::TestCase
   # From http://my.netscape.com/publish/formats/rss-spec-0.91.html
   def test_parse_rss091_1
-    ch = Channel::new <<-EOF
+    ch = FeedParser::Feed::new <<-EOF
 <?xml version="1.0"?>
 <!DOCTYPE rss SYSTEM "http://my.netscape.com/publish/formats/rss-0.91.dtd">
 <rss version="0.91">
@@ -32,7 +34,7 @@ class ChannelParserTest < Test::Unit::TestCase
   end
 
   def test_parse_rss091_complete
-    ch = Channel::new <<-EOF
+    ch = FeedParser::Feed::new <<-EOF
 <?xml version="1.0"?>
 <!DOCTYPE rss SYSTEM "http://my.netscape.com/publish/formats/rss-0.91.dtd">
 <rss version="0.91">

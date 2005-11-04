@@ -1,15 +1,19 @@
+Type: rss
 Title: GBlog RSS
 Link: http://guillaume.apinc.org/
+Encoding: ISO-8859-1
+Description: PensÃ©es personelles sur le web et autre.
+Creator: Guillaume Bouchard
 
 --------------------------------
-Title: Brève cinema
+Title: BrÃ¨ve cinema
 Link: http://guillaume.apinc.org/2005/janvier/23/75-breve-cinema
 Date: Sun Jan 23 10:41:02 UTC 2005
 Creator: Guillaume Bouchard
 Subject: 
-Category: Cinéma
+Category: CinÃ©ma
 Content:
-<p>Description de quatres films, les Daltons, Benjamin Gate et le trésor des Templiers, Mystic river et Un monde parfait.</p>
+<p>Description de quatres films, les Daltons, Benjamin Gate et le trÃ©sor des Templiers, Mystic river et Un monde parfait.</p>
 --------------------------------
 Title: Veille de DS chez Totoro
 Link: http://guillaume.apinc.org/2005/janvier/20/74-veille-de-ds-chez-totoro
@@ -25,7 +29,7 @@ Link: http://guillaume.apinc.org/2005/janvier/02/73-locean-de-la-lame-indestruct
 Date: Sun Jan 02 15:52:01 UTC 2005
 Creator: Guillaume Bouchard
 Subject: 
-Category: Cinéma
+Category: CinÃ©ma
 Content:
 <p>Quatre films au cinema, Blade 3, Ocean's twelve, Les indestructibles et Le secret des poignards volants.</p>
 --------------------------------
@@ -45,7 +49,7 @@ Creator: Guillaume Bouchard
 Subject: 
 Category: Vie en vrai
 Content:
-<p>Une bonne année, mes résolutions et bilan, bref totalement ininteressant. Je raconte ma vie !</p>
+<p>Une bonne annÃ©e, mes rÃ©solutions et bilan, bref totalement ininteressant. Je raconte ma vie !</p>
 --------------------------------
 Title: Philosophie de l'update.
 Link: http://guillaume.apinc.org/2005/janvier/02/70-philosophie-de-lupdate
@@ -54,14 +58,14 @@ Creator: Guillaume Bouchard
 Subject: 
 Category: Autres
 Content:
-<p>L'histoire vrai d'une personne qui doit racheter un ordinateur à cause d'une mise à jour d'un petit programme.</p>
+<p>L'histoire vrai d'une personne qui doit racheter un ordinateur Ã  cause d'une mise Ã  jour d'un petit programme.</p>
 --------------------------------
 Title: Resident Evil 2
 Link: http://guillaume.apinc.org/2004/novembre/08/69-resident-evil-2
 Date: Mon Nov 08 20:17:16 UTC 2004
 Creator: Guillaume Bouchard
 Subject: 
-Category: Cinéma
+Category: CinÃ©ma
 Content:
 <p>Resident Evil 2 est au cinema. Sans plus.</p>
 --------------------------------
@@ -72,14 +76,14 @@ Creator: Guillaume Bouchard
 Subject: 
 Category: Blog
 Content:
-<p>Un bug du RSS corigé et de nouvelles fonctionalitées (RSS des commentaires)</p>
+<p>Un bug du RSS corigÃ© et de nouvelles fonctionalitÃ©es (RSS des commentaires)</p>
 --------------------------------
 Title: Star Wars, The return of the DVD
 Link: http://guillaume.apinc.org/2004/novembre/01/67-star-wars-the-return-of-the-dvd
 Date: Mon Nov 01 10:33:20 UTC 2004
 Creator: Guillaume Bouchard
 Subject: 
-Category: Cinéma
+Category: CinÃ©ma
 Content:
 <p>J'ai acheter le DVD de Stars Wars.</p>
 --------------------------------
@@ -90,16 +94,16 @@ Creator: Guillaume Bouchard
 Subject: 
 Category: Autres
 Content:
-<p>Une petite pointe d'enervement fasse à Tiscali, mon FAI 56 K ainsi qu'une critique d'un logiciel de P2P.</p>
+<p>Une petite pointe d'enervement fasse Ã  Tiscali, mon FAI 56 K ainsi qu'une critique d'un logiciel de P2P.</p>
 --------------------------------
-Title: J'ai rencontré Tristan
+Title: J'ai rencontrÃ© Tristan
 Link: http://guillaume.apinc.org/2004/novembre/01/65-jai-rencontre-tristan
 Date: Mon Nov 01 10:28:02 UTC 2004
 Creator: Guillaume Bouchard
 Subject: 
 Category: Vie en vrai
 Content:
-<p>Ma rencontre avec Tristan Nitot et un peu sur les journées du logiciels libre à Lyon.</p>
+<p>Ma rencontre avec Tristan Nitot et un peu sur les journÃ©es du logiciels libre Ã  Lyon.</p>
 --------------------------------
 Title: L'informatique consomme le temps
 Link: http://guillaume.apinc.org/2004/novembre/01/64-linformatique-consomme-le-temps
@@ -108,16 +112,16 @@ Creator: Guillaume Bouchard
 Subject: 
 Category: Linux
 Content:
-<p>Petite pensée sur le temps que prend l'informatique.</p>
+<p>Petite pensÃ©e sur le temps que prend l'informatique.</p>
 --------------------------------
 Title: Vacance et cinema
 Link: http://guillaume.apinc.org/2004/novembre/01/63-vacance-et-cinema
 Date: Mon Nov 01 10:25:49 UTC 2004
 Creator: Guillaume Bouchard
 Subject: 
-Category: Cinéma
+Category: CinÃ©ma
 Content:
-<p>Trois films vu pendant ces vacances. Arsene Lupin, Vipère au poing et Un long dimanche de fiancailles.</p>
+<p>Trois films vu pendant ces vacances. Arsene Lupin, VipÃ¨re au poing et Un long dimanche de fiancailles.</p>
 --------------------------------
 Title: Gagner un livre Debian
 Link: http://guillaume.apinc.org/2004/octobre/15/62-gagner-un-livre-debian
@@ -128,21 +132,21 @@ Category: Linux
 Content:
 <p>Gagnez un livre Debian, promis je vais faire des vrais articles... Un jour.</p>
 --------------------------------
-Title: Où se cachent les terroristes ?
+Title: OÃ¹ se cachent les terroristes ?
 Link: http://guillaume.apinc.org/2004/septembre/06/61-ou-se-cachent-les-terroristes-
 Date: Mon Sep 06 12:30:22 UTC 2004
 Creator: Guillaume Bouchard
 Subject: 
 Category: Politique
 Content:
-<p>Critique de la societé de consomation et d'un événements à Lyon.</p>
+<p>Critique de la societÃ© de consomation et d'un Ã©vÃ©nements Ã  Lyon.</p>
 --------------------------------
-Title: Résumé des films precedents
+Title: RÃ©sumÃ© des films precedents
 Link: http://guillaume.apinc.org/2004/aout/16/60-resume-des-films-precedents
 Date: Mon Aug 16 06:13:12 UTC 2004
 Creator: Guillaume Bouchard
 Subject: 
-Category: Cinéma
+Category: CinÃ©ma
 Content:
 <p>Critique de diverses films dont Farenheit 9/11.</p>
 --------------------------------
@@ -153,7 +157,7 @@ Creator: Guillaume Bouchard
 Subject: 
 Category: Linux
 Content:
-<p>Résumé d'une install party raté et pourquoi Gentoo reste la meilleur distribution Linux du marché.</p>
+<p>RÃ©sumÃ© d'une install party ratÃ© et pourquoi Gentoo reste la meilleur distribution Linux du marchÃ©.</p>
 --------------------------------
 Title: Critique sur l'orthographe
 Link: http://guillaume.apinc.org/2004/aout/16/58-critique-sur-lorthographe
@@ -162,7 +166,7 @@ Creator: Guillaume Bouchard
 Subject: 
 Category: Autres
 Content:
-<p>Reponse à la critique de phnk sur l'orthgraphe.</p>
+<p>Reponse Ã  la critique de phnk sur l'orthgraphe.</p>
 --------------------------------
 Title: La fin du mangeur
 Link: http://guillaume.apinc.org/2004/aout/16/57-la-fin-du-mangeur
@@ -171,7 +175,7 @@ Creator: Guillaume Bouchard
 Subject: 
 Category: Mangeur de cigogne
 Content:
-<p>Mon dégout de la tournure qu'a prit le mangeur de cigogne sur la fin.</p>
+<p>Mon dÃ©gout de la tournure qu'a prit le mangeur de cigogne sur la fin.</p>
 --------------------------------
 Title: Je suis de retour...
 Link: http://guillaume.apinc.org/2004/aout/16/56-je-suis-de-retour

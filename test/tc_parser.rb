@@ -3,21 +3,24 @@
 $:.unshift File.join(File.dirname(__FILE__), '..', 'lib')
 
 require 'test/unit'
-require 'feedparser/channel'
+require 'feedparser'
 
 class ParserTest < Test::Unit::TestCase
-  DATADIR = 'test/parserdata'
+  if File::directory?('test/parserdata')
+    DATADIR = 'test/parserdata'
+  elsif File::directory?('parserdata')
+    DATADIR = 'parserdata'
+  else
+    raise 'parserdata directory not found.'
+  end
   def test_parser
-    return if not File::exist?(DATADIR)
     allok = true
     Dir.foreach(DATADIR) do |f|
       next if f !~ /.xml$/
 #      puts "Checking #{f}"
       str = File::read(DATADIR + '/' + f)
-      chan = Channel::new(str)
-      # for easier reading, go to ISO
+      chan = FeedParser::Feed::new(str)
       chanstr = chan.to_s
-      chanstr = chanstr.unpack('U*').pack('C*')
       if File::exist?(DATADIR + '/' + f.gsub(/.xml$/, '.output'))
         output = File::read(DATADIR + '/' + f.gsub(/.xml$/, '.output'))
         File::open(DATADIR + '/' + f.gsub(/.xml$/, '.output.new'), "w") do |fd|

@@ -1,5 +1,9 @@
+Type: rss
 Title: David Baron's Weblog
 Link: http://dbaron.org/log/
+Encoding: UTF-8
+Description: David Baron's weblog
+Creator: 
 
 --------------------------------
 Title: Political spectra
@@ -19,7 +23,7 @@ component analysis</a> to derive the axes from the data, rather than
 trying to pick axes in advance.  It's also interesting because the most
 significant axis it finds is the traditional left/right axis, but the
 second axis isn't the libertarian/authoritarian axis that some assert
-should be the second axisrather, it's a pragmatic/idealistic
+should be the second axis–rather, it's a pragmatic/idealistic
 axis.</p>
 
 <p xmlns="http://www.w3.org/1999/xhtml">I've taken the survey twice, once in February and once today.  My
@@ -42,7 +46,7 @@ these days, getting that is much easier than worrying about fixing a bad
 memory slot.</li>
 
 <li>CSS error reporting is now enabled in trunk Mozilla builds.  Check
-out the Javascript Console.</li>
+out the “Javascript Console”.</li>
 
 <li>I compiled a custom Linux kernel Tuesday to try to get suspend and
 resume working on my laptop, but it didn't help.  My display still
@@ -75,7 +79,7 @@ got Linux to use my CPU at full speed instead of half speed (by adding
 <code>DEVICE=&quot;acpi&quot;</code> to <code>/etc/cpuspeed.conf</code>), memory
 has really seemed to be the limiting factor.  (Well, it has a slow disk
 too.)  I've also been doing some things that use a lot of memory lately.
-I wondered why I only got 256 MiB of RAM in the first placethat
+I wondered why I only got 256 MiB of RAM in the first place—that
 didn't seem like something I'd do.  So, with the thought of buying more
 RAM in mind, I pulled out the folder that had the receipt for my laptop
 to see whether I had an empty memory slot or 2 128 MiB DIMMs.</p>
@@ -95,7 +99,7 @@ from Dell again.</p>
 --------------------------------
 Title: Weblog feed
 Link: http://dbaron.org/log/2004-08#e20040830a
-Date: Tue Aug 31 05:48:00 UTC 2004
+Date: Wed Sep 01 05:48:00 UTC 2004
 Creator: David Baron
 Subject: 
 Category: 
@@ -103,11 +107,11 @@ Content:
 <p xmlns="http://www.w3.org/1999/xhtml">Reading the <a shape="rect" href="http://www.mozilla.org/webtools/bonsai/cvsblame.cgi?file=mozilla-org/tools/feed2html.xsl&amp;rev=1.1.2.2&amp;cvsroot=/cvsroot">XSLT
 used</a> for the newsfeed on the <a shape="rect" href="http://website-beta.mozilla.org/">new mozilla.org webpage</a>
 inspired me to finish a project I started <a shape="rect" href="http://dbaron.org/log/2003-09#e20030909a">quite a while
-ago</a>making an RSS feed for this weblog.  After reading the one
+ago</a>—making an RSS feed for this weblog.  After reading the one
 example XSLT file, I did the rest using only the <a shape="rect" href="http://www.w3.org/TR/1999/REC-xslt-19991116">XSLT spec</a> and the
 <a shape="rect" href="http://www.w3.org/TR/1999/REC-xpath-19991116">XPath spec</a>.
 So I now have an <a shape="rect" href="rss1">RSS feed</a> produced by an <a shape="rect" href="make-rss-transform">XSLT transformation sheet</a> (I don't like
-the use of the word stylesheet for XSLT).  And it's
+the use of the word “stylesheet” for XSLT).  And it's
 apparently even <a shape="rect" href="http://feedvalidator.org/check.cgi?url=http%3A%2F%2Fdbaron.org%2Flog%2Frss1">valid</a>.</p>
 
 <p xmlns="http://www.w3.org/1999/xhtml">Writing it wasn't nearly as bad as I expected, although I am somewhat
@@ -116,7 +120,7 @@ an already transformed tree, in the form of a <a shape="rect" href="http://www.w
 tree fragment</a> bound to a variable, as the source tree for an
 additional transformation).  I worked around the problem using a named
 template and <code><a shape="rect" href="http://www.w3.org/TR/1999/REC-xslt-19991116#section-Result-Tree-Fragments">xsl:call-template</a></code>.
-At least I think it's something XSLT can't doat least I couldn't
+At least I think it's something XSLT can't do—at least I couldn't
 see how in the spec.</p>
 --------------------------------
 Title: Intranet mode?
@@ -129,14 +133,14 @@ Content:
 <p xmlns="http://www.w3.org/1999/xhtml">If Microsoft is
 <a shape="rect" href="http://blogs.msdn.com/dmassy/archive/2004/06/16/157263.aspx">going
 to develop IE again</a>, I challenge them to move most of
-their non-standard behavior out of quirks mode and into an Intranet
-mode.</p>
+their non-standard behavior out of quirks mode and into an “Intranet
+mode”.</p>
 
 <p xmlns="http://www.w3.org/1999/xhtml">Most of the quirky behavior of IE for Windows isn't actually needed
 to display Web sites correctly.  It's
-needed for Intranet sites that have been designed to work with
+needed for “Intranet” sites that have been designed to work with
 only one browser.  Backwards-compatibility for corporate, academic, and
-government Intranets is a perfectly good reason to want to
+government “Intranets” is a perfectly good reason to want to
 produce software that continues to display such sites, but it's no
 reason to inflict such software on the Web.  This would make IE's
 handling of most web pages much more standard and lessen one of the main
