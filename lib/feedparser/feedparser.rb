@@ -24,7 +24,7 @@ module FeedParser
       # Dirty hack: some feeds contain the & char. It must be changed to &amp;
       str.gsub!(/&(\s+)/, '&amp;\1')
       doc = REXML::Document.new(str)
-      # get channel info
+      # get feed info
       @encoding = doc.encoding
       @title,@link,@description,@creator = nil
       @items = []
@@ -96,7 +96,14 @@ module FeedParser
     end
 
     def to_s
-      s = "Type: #{@type}\nTitle: #{@title}\nLink: #{@link}\nEncoding: #{@encoding}\nDescription: #{@description}\nCreator: #{@creator}\n\n"
+      s  = ''
+      s += "Type: #{@type}\n"
+      s += "Encoding: #{@encoding}\n"
+      s += "Title: #{@title}\n"
+      s += "Link: #{@link}\n"
+      s += "Description: #{@description}\n"
+      s += "Creator: #{@creator}\n"
+      s += "\n"
       @items.each { |i| s += i.to_s }
       s
     end

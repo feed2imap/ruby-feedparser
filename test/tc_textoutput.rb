@@ -4,14 +4,15 @@ $:.unshift File.join(File.dirname(__FILE__), '..', 'lib')
 
 require 'test/unit'
 require 'feedparser'
+require 'feedparser/text-output'
 
-class ParserTest < Test::Unit::TestCase
+class TextOutputTest < Test::Unit::TestCase
   if File::directory?('test/source')
     SRCDIR = 'test/source'
-    DSTDIR = 'test/parser_output'
+    DSTDIR = 'test/text_output'
   elsif File::directory?('source')
     SRCDIR = 'source'
-    DSTDIR = 'parser_output'
+    DSTDIR = 'text_output'
   else
     raise 'source directory not found.'
   end
@@ -22,7 +23,7 @@ class ParserTest < Test::Unit::TestCase
       puts "Checking #{f}"
       str = File::read(SRCDIR + '/' + f)
       chan = FeedParser::Feed::new(str)
-      chanstr = chan.to_s
+      chanstr = chan.to_text
       if File::exist?(DSTDIR + '/' + f.gsub(/.xml$/, '.output'))
         output = File::read(DSTDIR + '/' + f.gsub(/.xml$/, '.output'))
         if output != chanstr

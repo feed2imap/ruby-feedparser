@@ -4,17 +4,17 @@ require 'feedparser/html2text-parser'
 
 # This class provides various converters
 class String
-  # is this text HTML ? search for tags
+  # is this text HTML ? search for tags. used by String#text2html
   def html?
     return (self =~ /<p>/) || (self =~ /<br>/) || (self =~ /<br\s*(\/)?\s*>/) || (self =~ /<\/a>/) || (self =~ /<img.*>/)
   end
 
-  # returns true if the text contains escaped HTML (with HTML entities)
+  # returns true if the text contains escaped HTML (with HTML entities). used by String#text2html
   def escaped_html?
     return (self =~ /&lt;img src=/) || (self =~ /&lt;a href=/) || (self =~ /&lt;br(\/| \/|)&gt;/)
   end
 
-  # un-escape HTML in the text
+  # un-escape HTML in the text. used by String#text2html
   def unescape_html
     {
       '<' => '&lt;',
@@ -45,41 +45,6 @@ class String
     text
   end
 
-  # Convert an HTML text to plain text
-  def html2text
-    if false
-      text = self.clone
-      # let's remove all CR
-      text.gsub!(/\n/, '')
-      # convert <p> and <br>
-      text.gsub!(/\s*<\/p>\s*/, '')
-      text.gsub!(/\s*<p(\s[^>]*)?>\s*/, "\n\n")
-      text.gsub!(/\s*<br(\s*)\/?(\s*)>\s*/, "\n")
-      # remove other tags
-      text.gsub!(/<[^>]*>/, '')
-      # remove leading and trailing whilespace
-      text.gsub!(/\A\s*/m, '')
-      text.gsub!(/\s*\Z/m, '')
-      text
-    else
-      text = self.clone
-      # parse HTML
-      p = HTML2TextParser::new(true)
-      p.feed(text)
-      p.close
-      text = p.savedata
-      # remove leading and trailing whilespace
-      text.gsub!(/\A\s*/m, '')
-      text.gsub!(/\s*\Z/m, '')
-      # remove whitespace around \n
-      text.gsub!(/ *\n/m, "\n")
-      text.gsub!(/\n */m, "\n")
-      # and duplicates \n
-      text.gsub!(/\n\n+/m, "\n\n")
-      text
-    end
-  end
-
   # Remove white space around the text
   def rmWhiteSpace!
     return self.gsub!(/\A\s*/m, '').gsub!(/\s*\Z/m,'')
@@ -105,16 +70,5 @@ class String
     else
       return self
     end
-  end
-
-  def needMIME
-    utf8 = false
-    self.unpack('U*').each do |c|
-      if c > 127
-        utf8 = true
-        break
-      end
-    end
-    utf8
   end
 end

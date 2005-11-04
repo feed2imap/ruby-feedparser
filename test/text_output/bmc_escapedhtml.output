@@ -1,0 +1,23 @@
+Type: rss
+Encoding: UTF-8
+Title: The Observation Deck
+Link: http://blogs.sun.com/roller/page/bmc
+Description: Views on software from Bryan Cantrill's deck chair
+Creator: 
+
+****************************************
+Feed: The Observation Deck <http://blogs.sun.com/roller/page/bmc>
+Item: TR35 <http://blogs.sun.com/roller/page/bmc?entry=tr35>
+
+Date: Fri Sep 09 19:50:11 CEST 2005
+Author: Bryan Cantrill
+Category: Solaris
+
+So MIT's Technology Review[1] has named me as one of theirTR35[2] -- the top 35 innovators under the age of thirty-five.  It's a great honor, especially because the otherhonorees are /actually/ working on things likecures for cancer[3]androcket science[4] -- domainsthat I have known only as rhetorical flourish.Should you like to hear me make a jackass out of myself on the subject, you mightwant to check outRichard Giles[5]'slatest I/O podcast[6],in which he interviewed me about the award.
+
+[1] http://www.techreview.com/
+[2] http://www.technologyreview.com/articles/05/10/issue/feature_tr35.asp
+[3] http://www.wi.mit.edu/research/fellows/brummelkamp.html
+[4] http://www.pw.utc.com/shock-system/popsci.html
+[5] http://blogs.sun.com/roller/page/rgiles
+[6] http://blogs.sun.com/roller/page/rgiles?entry=i_o_podcast_0003_bryan
