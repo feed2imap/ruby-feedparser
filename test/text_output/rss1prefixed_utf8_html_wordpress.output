@@ -46,7 +46,7 @@ I really need a better memory of what I ordered.  Or better memory.Or something.
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: Weblog feed <http://dbaron.org/log/2004-08#e20040830a>
 
-Date: Wed Sep 01 05:48:00 UTC 2004
+Date: Tue Aug 31 05:48:00 UTC 2004
 Author: David Baron
 
 Reading the XSLTused[1] for the newsfeed on the new mozilla.org webpage[2]inspired me to finish a project I started quite a whileago[3]—making an RSS feed for this weblog.  After reading the oneexample XSLT file, I did the rest using only the XSLT spec[4] and theXPath spec[5].So I now have an RSS feed[6] produced by an XSLT transformation sheet[7] (I don't likethe use of the word “stylesheet” for XSLT).  And it'sapparently even valid[8].

@@ -2,7 +2,7 @@
 ****************************************
 <p>Feed: <a href="http://www.beatniksoftware.com/blog">beatnikblog</a><br/>
 Item: <a href="http://www.beatniksoftware.com/blog/index.php?p=16">Erotic cleft</a>
-<br/>Date: Mon Feb 21 07:42:05 CET 2005<br/>Category: General</p><p><p>From <em>Jennifer and the Master: A Unique Erotica</em>, a hardcore S&#038;M book (opus really), the only book on my desk:</p>
+<br/>Date: Mon Feb 21 07:42:05 CET 2005<br/>Category: General</p><p><p>From <em>Jennifer and the Master: A Unique Erotica</em>, a hardcore S&#38;M book (opus really), the only book on my desk:</p>
 	<blockquote><p>Within the living mirror, the beholders fondle the erotic cleft between them.</p></blockquote>
 	<p>This book was left inexplicably at our doorstep on Valentine&#8217;s eve, and thus far no one has taken credit.</p>
 	<p><a href="http://www.inkstain.net/fleck/archives/001577.html">Blah blah blah</a>&#8230;</p>
@@ -67,15 +67,15 @@ Item: <a href="http://www.beatniksoftware.com/blog/index.php?p=10">Anti-Viral De
 	<p>Jeffrey.  It isn&#8217;t a one-time fee.  It&#8217;s a per-user $100 fee, plus a multi-phase disconnected registration process that cannot be automated.  How much of a percentage drop in purchases could you expect if Ebay charged $100 for a user&#8217;s first purchase, no matter what?</p>
 	<p><strong>NO ONE</strong> (in their right mind or otherwise) is going to go through this trouble.</p>
 	<p>It&#8217;s also important to realize that the only people who would use this application are already giving Ebay their money.</p>
-	<p>Really, what do you have to lose by opening up the read-only methods for all to use for free?  I mean, it <a href="http://manatee.mojam.com/~skip/triumph/ebay.html">isn&#8217;t</a> <a href="http://torque.oncloud8.com/archives/000099.html">as if</a> <a href="http://news.com.com/2100-1017-253443.html?legacy=cnet">people</a> <a href="http://dev-forums.ebay.com/thread.jsp?forum=3007&#038;thread=100000430">aren&#8217;t</a> <a href="http://sourceforge.net/projects/ebayagent/">screen-scraping</a> <a href="http://www.jbidwatcher.com/">already</a>.</p></p></body></html>****************************************
+	<p>Really, what do you have to lose by opening up the read-only methods for all to use for free?  I mean, it <a href="http://manatee.mojam.com/~skip/triumph/ebay.html">isn&#8217;t</a> <a href="http://torque.oncloud8.com/archives/000099.html">as if</a> <a href="http://news.com.com/2100-1017-253443.html?legacy=cnet">people</a> <a href="http://dev-forums.ebay.com/thread.jsp?forum=3007&#38;thread=100000430">aren&#8217;t</a> <a href="http://sourceforge.net/projects/ebayagent/">screen-scraping</a> <a href="http://www.jbidwatcher.com/">already</a>.</p></p></body></html>****************************************
 <p>Feed: <a href="http://www.beatniksoftware.com/blog">beatnikblog</a><br/>
 Item: <a href="http://www.beatniksoftware.com/blog/index.php?p=9">Anti-viral Development</a>
 <br/>Date: Thu Dec 09 10:24:47 CET 2004<br/>Category: General</p><p><p>I started working on an open-source applet that would monitor your active Ebay bids and flash when someone out-bids you:</p>
 	<p><center><img src="http://www.beatniksoftware.com/img/ebay-applet.png" alt="Ebay Applet" /></center></p>
 	<p>And I can use the multiple Ebay APIs to get the data and avoid error-prone screen-scraping to provide a reliable user experience!  Man, this will be useful&#8230;</p>
 	<blockquote><p>People who want to use your application can join the [Developer Program] themselves and insert their own set of keys to enable the application. Since they will presumably want to use it against live data, there will be a charge for them.</p></blockquote>
-	<p><a href="http://dev-forums.ebay.com/thread.jsp?forum=3&#038;thread=100000780">Uh-Oh.  </a></p>
-	<p>Ebay&#8217;s reasoning for this <a href="http://dev-forums.ebay.com/thread.jsp?forum=3&#038;thread=100000534">is not monetary</a>, rather that they want to promote efficient 3rd-party applications by charging developers <a href="http://developer.ebay.com/DevProgram/membership/services.asp">large subscription fees</a>, and requiring thorough registration and app certification.</p>
+	<p><a href="http://dev-forums.ebay.com/thread.jsp?forum=3&#38;thread=100000780">Uh-Oh.  </a></p>
+	<p>Ebay&#8217;s reasoning for this <a href="http://dev-forums.ebay.com/thread.jsp?forum=3&#38;thread=100000534">is not monetary</a>, rather that they want to promote efficient 3rd-party applications by charging developers <a href="http://developer.ebay.com/DevProgram/membership/services.asp">large subscription fees</a>, and requiring thorough registration and app certification.</p>
 	<p>Of course the only option for most developers (open or proprietary) given these restrictions is to screen-scrape, completely defeating the <a href="http://developer.ebay.com/DevProgram/membership/index.asp">stated purpose</a> of the Developer Program.</p>
 	<p>It&#8217;s amazing that a large company, built largely around a viral business model can be this hypocritical.
 </p></p></body></html>****************************************
@@ -97,11 +97,11 @@ Item: <a href="http://www.beatniksoftware.com/blog/index.php?p=7">Screwed by a b
 	<p>On the INS&#8217;s Form I-9, used to establish employment eligibility, Section 2 regarding the presentation of forms of identity reads: </p>
 	<blockquote><p><strong>Examine one document from List A OR examine one document from List B <u>and</u> from List C</strong></p></blockquote>
 	<p>For me, this translates to: </p>
-	<p><code>A || (B &#038;&amp; C)</code></p>
+	<p><code>A || (B &#38;&amp; C)</code></p>
 	<p>Since I had presented a valid U.S. passport (List A) and a Virginia Driver&#8217;s License (List B), I believed I was in the clear.</p>
 	<p>Today however, I learned that according to this manager&#8217;s interpretation, I am not.  Instead I must present a form of identification from List C.  Namely a Social Security Card I do not have.  </p>
 	<p>You see, the manager who has been handling hirings for over 10 years, reads the above instructions (disregarding all the form&#8217;s other visual queues) as:</p>
-	<p><code>(A || B) &#038;&amp; C</code></p>
+	<p><code>(A || B) &#38;&amp; C</code></p>
 	<p>This misinterpretation means 10-12 days of waiting for the Social Security Department to create a card for me.  Which means at least another month before my first paycheck.  </p></p></body></html>****************************************
 <p>Feed: <a href="http://www.beatniksoftware.com/blog">beatnikblog</a><br/>
 Item: <a href="http://www.beatniksoftware.com/blog/index.php?p=6">Wanna see something amazing?</a>

@@ -95,4 +95,9 @@ class FeedParserTest < Test::Unit::TestCase
     assert_equal("<p>aa bb cc\n  dd ee ff</p>", ch.items[1].content)
     assert_equal('second item\'s title', ch.items[1].title)
   end
+
+  def test_unescape_numbers
+    s = 'aaaaa&#038;bbbb'
+    puts s.unescape_html
+  end
 end
