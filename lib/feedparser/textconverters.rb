@@ -6,12 +6,12 @@ require 'feedparser/html2text-parser'
 class String
   # is this text HTML ? search for tags. used by String#text2html
   def html?
-    return (self =~ /<p>/) || (self =~ /<br>/) || (self =~ /<br\s*(\/)?\s*>/) || (self =~ /<\/a>/) || (self =~ /<img.*>/)
+    return (self =~ /<p>/) || (self =~ /<\/p>/) || (self =~ /<br>/) || (self =~ /<br\s*(\/)?\s*>/) || (self =~ /<\/a>/) || (self =~ /<img.*>/)
   end
 
   # returns true if the text contains escaped HTML (with HTML entities). used by String#text2html
   def escaped_html?
-    return (self =~ /&lt;img src=/) || (self =~ /&lt;a href=/) || (self =~ /&lt;br(\/| \/|)&gt;/)
+    return (self =~ /&lt;img src=/) || (self =~ /&lt;a href=/) || (self =~ /&lt;br(\/| \/|)&gt;/) || (self =~ /&lt;p&gt;/)
   end
 
   # un-escape HTML in the text. used by String#text2html

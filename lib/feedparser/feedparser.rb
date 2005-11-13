@@ -84,7 +84,8 @@ module FeedParser
         end
         # Description
         if e = doc.root.elements['/feed/info']
-          @description = e.elements.to_s.toUTF8(@encoding).rmWhiteSpace!
+          e = e.elements['div'] || e
+          @description = e.to_s.toUTF8(@encoding).rmWhiteSpace!
         end
         # Items
         doc.root.each_element('/feed/entry') do |e|
@@ -151,17 +152,7 @@ module FeedParser
       # Content
       if (e = item.elements['content:encoded']) ||
         (e = item.elements['description'] || item.elements['rss:description'])
-        if e.children.length > 1
-          s = ''
-          e.children.each { |c| s += c.to_s }
-          @content = s.toUTF8(@feed.encoding).rmWhiteSpace!.text2html
-        elsif e.children.length == 1
-          if e.cdatas[0]
-            @content = e.cdatas[0].to_s.toUTF8(@feed.encoding).rmWhiteSpace!
-          elsif e.text
-            @content = e.text.toUTF8(@feed.encoding).text2html
-          end
-        end
+        @content = FeedParser::getcontent(e, @feed)
       end
       # Date
       if e = item.elements['dc:date'] || item.elements['pubDate'] || 
@@ -220,9 +211,7 @@ module FeedParser
           e.text
           @content = e.text.toUTF8(@feed.encoding).rmWhiteSpace!
         else
-          # go one step deeper in the recursion if possible
-          e = e.elements['div'] || e
-          @content = e.to_s.toUTF8(@feed.encoding).rmWhiteSpace!
+          @content = FeedParser::getcontent(e, @feed)
         end
       end
       # Date
@@ -245,6 +234,29 @@ module FeedParser
       @creator = @feed.creator
       if (e = item.elements['author/name']) && e.text
         @creator = e.text.toUTF8(@feed.encoding).rmWhiteSpace!
+      end
+    end
+  end
+
+  def FeedParser::getcontent(e, feed = nil)
+    encoding = feed ? feed.encoding : 'utf-8'
+    children = e.children.reject do |i|
+      i.class == REXML::Text and i.to_s.chomp == ''
+    end
+    if children.length > 1
+      s = ''
+      children.each { |c| s += c.to_s }
+      return s.toUTF8(encoding).rmWhiteSpace!.text2html
+    elsif children.length == 1
+      c = children[0]
+      if c.class == REXML::Text
+        return e.text.toUTF8(encoding).rmWhiteSpace!.text2html
+      else
+        if c.class == REXML::CData
+          return c.to_s.toUTF8(encoding).rmWhiteSpace!.text2html
+        elsif c.text
+          return c.text.toUTF8(encoding).text2html
+        end
       end
     end
   end

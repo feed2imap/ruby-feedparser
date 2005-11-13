@@ -95,4 +95,88 @@ class FeedParserTest < Test::Unit::TestCase
     assert_equal("<p>aa bb cc\n  dd ee ff</p>", ch.items[1].content)
     assert_equal('second item\'s title', ch.items[1].title)
   end
+
+  def test_getcontent_1
+    str =<<-EOF
+<content:encoded>&lt;img src="http://planet.gnome.org/heads/hp.png" align="right" alt=""&gt;&lt;p&gt;
+
+What an exhausting week; &lt;a href=&quot;http://freedesktop.org/wiki/Software_2fXDevConf&quot;&gt;XDevConf&lt;/a&gt;
+last weekend, LWE, then &lt;a href=&quot;http://fedoraproject.org/fudcon/&quot;&gt;FUDCon&lt;/a&gt;. Really enjoyed
+FUDCon today, I thought it went really well. Big thanks to the
+organizers. We also had a very productive meeting yesterday with some
+of the major external contributors and some Red Hat people; decisions
+were reached and action items assigned on a variety of issues.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+Since I suck at displays of enthusiasm &lt;a href=&quot;http://www.gnome.org/~seth/&quot;&gt;Seth&lt;/a&gt; is picking up the slack
+explaining some of the Red Hat team's work. We also presented some of
+this stuff at XDevConf and FUDCon this week.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+I think some people didn't catch on to how Sabayon works and what it
+does; this thing is not a control panel. It's a sort of live
+summarizer of changes you've made to a prototype user account, and
+lets you choose the changes to be included in a user profile. The idea
+is to take care of any needed hacks as well, for example stripping out
+user home directories hardcoded in settings. As far as we can tell
+this automates what most admins already do by hand today.  Any cruise
+through list archives reveals that admins have a lot of trouble
+figuring out which files to extract and what to do with them after
+they set up a prototype user the way they want. Even the strongest
+mind can be crushed by the GConf and OpenOffice.org tag team.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+Colin has been doing a ton of work to create GObject bindings for
+D-BUS; looking nice so far, see the &lt;a href=&quot;http://lists.freedesktop.org/archives/dbus/2005-February/thread.html&quot;&gt;list
+archives&lt;/a&gt;.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+I want to elaborate a bit on one aspect of &quot;next generation rendering&quot;
+that we haven't really worked on yet. Everyone is working on the
+ability to do OS X or Enlightenment style effects; essentially,
+enabling the window manager to use OpenGL and enabling the toolkit to
+use Cairo. This gives us drop shadows and minimize animations, and
+kills off a bunch of flicker/tearing artifacts. Very good stuff.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+However, it doesn't address one huge limitation: themes can only be
+designed piecemeal (button, scrollbar, etc.). Graphical elements can't
+span multiple widgets. An especially hard case to solve is that
+graphical elements can't cover both the window manager frame and
+inside the application window.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+To make the desktop look really nice, you want the ability to theme a
+window (or sub-component thereof) as a whole. This could mean graphics
+that span multiple widgets, it could mean moving widgets around, it
+could mean changing the spacing between widgets, etc.
+
+&lt;/p&gt;
+
+&lt;pre&gt; ControlPanel -&amp;gt; Frame -&amp;gt; Button -&amp;gt; Rectangle -&amp;gt; Line
+&lt;/pre&gt;
+
+</content:encoded>
+    EOF
+    d = REXML::Document::new(str).root
+    puts FeedParser::getcontent(d)
+  end
 end
