@@ -5,6 +5,7 @@ Link: http://www.bouil.org/joueb/blog.html
 Description: 
 Creator: 
 
+
 ****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Portable Linux <http://www.bouil.org/joueb/entree.html?id=10>
@@ -18,7 +19,8 @@ Eh oui, c'est possible. Sur Materiel.net[1], on trouve le même portable, un MSI
 [2] http://www.materiel.net/details_M510APM735LINUX.html
 [3] http://www.materiel.net/details_M510APM735.html
 [4] http://www.materiel.net/details_SODDR333DAN512.html
-[5] http://www.linux-center.org/detaxe/****************************************
+[5] http://www.linux-center.org/detaxe/
+****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Europe et Afrique <http://www.bouil.org/joueb/entree.html?id=9>
 
@@ -31,7 +33,8 @@ En effet, depuis une quizaine d'années l'Union Européenne conclue des accords 
 
 Heureusement, l'Europe est unie dans sa diversité (devise de l'UE) et respecte la diversité culturelle, religieuse et linguistique (article 22 de la Charte des droits fondamentaux, qui fait également partie de projet de traité établissant une Constitution pour l'Europe)...
 
-[1] ...****************************************
+[1] ...
+****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Dollar <http://www.bouil.org/joueb/entree.html?id=8>
 
@@ -42,7 +45,8 @@ Ce matin, sur France Inter toujours, Hervé Gaymard, ministre des Finances, a an
 
 Il a déclaré�: [...] nous devons mettre en place des taxations internationales, par exemple un dollar par billet d'avion [...]. Ce n'est pas le fond qui me préoccupe ici, dont le but est tout à fait louable, mais la forme. En effet, il est étrange de voir un ministre français, défendant une initiative européenne, proposer une taxe libellée en Dollars (américains)...
 
-[1] http://www.reuters.fr/locales/c_newsArticle.jsp?type=topNews&amp;localeKey=fr_FR&amp;storyID=7536796****************************************
+[1] http://www.reuters.fr/locales/c_newsArticle.jsp?type=topNews&amp;localeKey=fr_FR&amp;storyID=7536796
+****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Bell et brevet... <http://www.bouil.org/joueb/entree.html?id=7>
 
@@ -57,7 +61,8 @@ Ce qu'omet de dire ce spot publicitaire, c'est que la paternité de cette invent
 
 [1] http://fr.wikipedia.org/wiki/Alexandre_Graham_Bell
 [2] http://fr.wikipedia.org/wiki/Antonio_Meucci
-[3] http://linuxfr.org/~Kartoch/16990.html****************************************
+[3] http://linuxfr.org/~Kartoch/16990.html
+****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Réappropriez vous le Web <http://www.bouil.org/joueb/entree.html?id=6>
 
@@ -68,7 +73,8 @@ Aujourd'hui, c'est la sortie de Mozilla Firefox 1.0[1].
 
 Je rejoins toute la communauté du Logiciel Libre (et beaucoup d'autres) pour souhaiter un bon vent à ce navigateur fantastique,... et pour mettre la raclée le plus vite possible à ce vieux navigateur que tant de gens utilisent encore�!
 
-[1] http://www.mozilla-europe.org/fr/products/firefox/****************************************
+[1] http://www.mozilla-europe.org/fr/products/firefox/
+****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Script de sauvegarde <http://www.bouil.org/joueb/entree.html?id=5>
 
@@ -79,7 +85,8 @@ Voici un lien vers un petit script[1] que j'utilise pour faire mes sauvegardes. 
 
 Ce script est assez pratique, à mettre dans un cron hebdomadaire. Grâce à rsync, il va faire des copies incrémentales des répertoires à sauver.
 
-[1] http://www.fr.linuxfocus.org/Francais/March2004/article326.shtml****************************************
+[1] http://www.fr.linuxfocus.org/Francais/March2004/article326.shtml
+****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Gestion de parc informatique <http://www.bouil.org/joueb/entree.html?id=4>
 
@@ -96,7 +103,8 @@ Pour les clients, l'exécution du programme se place dans le script de connexion
 
 Coté serveur de fichiers, on visionne simplement les résultats dans un programme qui synthétise tout ça. On peut avoir une vue globale du parc sur un point donné (par exemple, la liste des cartes vidéo installés), ou bien la liste de tout le matériel d'une machine, ou encore connaitre combien de copies d'un logiciel donné sont installés.
 
-[1] http://ocsinventory.sourceforge.net****************************************
+[1] http://ocsinventory.sourceforge.net
+****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Nouveau site web <http://www.bouil.org/joueb/entree.html?id=3>
 
@@ -107,14 +115,16 @@ Le site de la poterie du Coin Cendré (Crançot)[1] a été conçu dans le respe
 
 Le seul obstacle à sa validation est du à SPIP, qui ne donne pas l'attribut "alt" aux images...
 
-[1] http://www.coincendre.com****************************************
+[1] http://www.coincendre.com
+****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Quelques raccourcis <http://www.bouil.org/joueb/entree.html?id=2>
 
 Date: Wed Mar 31 17:43:49 UTC 2004
 Author: Bouil
 
-Quelques raccourcis sympatiques, que j'oublie sans arrêt�:	  	    	      C-M-\	    	    	      Intente la région selectionnée du buffer courant.	    	    	      M-/	    	    	      Complète le mot courant à partir des mots déjà écrits dans les buffers ouverts.****************************************
+Quelques raccourcis sympatiques, que j'oublie sans arrêt�:	  	    	      C-M-\	    	    	      Intente la région selectionnée du buffer courant.	    	    	      M-/	    	    	      Complète le mot courant à partir des mots déjà écrits dans les buffers ouverts.
+****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Détacher un processus d'un terminal <http://www.bouil.org/joueb/entree.html?id=1>
 

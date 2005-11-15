@@ -1,8 +1,26 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><body><p>Type: rss<br>Encoding: UTF-8<br>Title: Advogato diary for sopwith<br>Link: http://www.advogato.org/person/sopwith/<br>Description: Advogato diary for sopwith<br>Creator: </p>
-****************************************
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">Advogato diary for sopwith</a><br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=10">21 Sep 2004</a>
-<br/>Date: Tue Sep 21 23:20:46 CEST 2004</p><p>On the Fedora front:
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<body>
+<p>Type: rss<br>
+Encoding: UTF-8<br>
+Title: Advogato diary for sopwith<br>
+Link: http://www.advogato.org/person/sopwith/<br>
+Description: Advogato diary for sopwith<br>
+Creator: </p>
+
+
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith
+</a>
+<br/>
+Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=10">
+21 Sep 2004
+</a>
+
+<br/>Date: Tue Sep 21 23:20:46 CEST 2004
+</p>
+On the Fedora front:
 
 <p> FC3test2 is out (give it a try) and it's not too shabby.
 
@@ -12,54 +30,135 @@ Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=10">21 Se
 
 <p> On the everything-else front:
 
-<p> <a href="http://cakeru.image.pbase.com/image/33879157/large.jpg" >a funny picture</a>.</p></body></html>****************************************
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">Advogato diary for sopwith</a><br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=9">24 Aug 2004</a>
-<br/>Date: Wed Aug 25 01:07:13 CEST 2004</p><p>The Fedora community can really use people who are willing to go through bugzilla and tame things down there. There are just a ton of bugs that the package maintainers will have no time to get to.
+<p> <a href="http://cakeru.image.pbase.com/image/33879157/large.jpg" >a funny picture</a>.</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith
+</a>
+<br/>
+Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=9">
+24 Aug 2004
+</a>
+
+<br/>Date: Wed Aug 25 01:07:13 CEST 2004
+</p>
+The Fedora community can really use people who are willing to go through bugzilla and tame things down there. There are just a ton of bugs that the package maintainers will have no time to get to.
 <p>
 It's not the most exciting task, but it's something that almost anyone can help with in as small or large quantities as desired.
 <p>
-Also needed are community leaders for each of the architectures. E.g. Justin Forbes is The Man for AMD64, but we can always use peeps for ia64 and s390* :)</p></body></html>****************************************
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">Advogato diary for sopwith</a><br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=8">27 Jul 2004</a>
-<br/>Date: Tue Jul 27 18:38:36 CEST 2004</p><p>What's happening with Fedora lately:
+Also needed are community leaders for each of the architectures. E.g. Justin Forbes is The Man for AMD64, but we can always use peeps for ia64 and s390* :)</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith
+</a>
+<br/>
+Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=8">
+27 Jul 2004
+</a>
+
+<br/>Date: Tue Jul 27 18:38:36 CEST 2004
+</p>
+What's happening with Fedora lately:
 
 <p> <ul><li>FC3test1 came out a little while ago.
 <li>The devel tree is totally unfrozen again, so broken deps should be fixable if not fixed.
 <li>CVS should be rolled out "soon"
-</ul></p></body></html>****************************************
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">Advogato diary for sopwith</a><br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=7">23 Apr 2004</a>
-<br/>Date: Fri Apr 23 17:09:39 CEST 2004</p><p>Cool link of the day is <a href="http://www.tradingbrain.com/" >TradingBrain</a>.
+</ul></body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith
+</a>
+<br/>
+Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=7">
+23 Apr 2004
+</a>
+
+<br/>Date: Fri Apr 23 17:09:39 CEST 2004
+</p>
+Cool link of the day is <a href="http://www.tradingbrain.com/" >TradingBrain</a>.
 
 <p> If you added a user-login feature, you could use a neural network to combine individual responses into something meaningful. Neat experiment in distributed decision-making, in any case.
 
-<p> FC2test3 is being pushed out and is on track for Monday release.</p></body></html>****************************************
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">Advogato diary for sopwith</a><br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=6">22 Apr 2004</a>
-<br/>Date: Thu Apr 22 21:35:13 CEST 2004</p><p><a href="http://www.benandjerrys.com/" >Ben &amp; Jerry's</a> annual Free Cone Day. Tuesday, April 27 12pm-8pm. Follow the link to find out where.</p></body></html>****************************************
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">Advogato diary for sopwith</a><br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=5">21 Apr 2004</a>
-<br/>Date: Wed Apr 21 17:49:59 CEST 2004</p><p>Plots orkut people on a map: <a href="http://www.datawhorehouse.com/orkut/" >http://www.datawhorehouse.com/orkut/</a>.
+<p> FC2test3 is being pushed out and is on track for Monday release.</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith
+</a>
+<br/>
+Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=6">
+22 Apr 2004
+</a>
 
-<p> PS. If you still haven't gotten an orkut invite, send me an e-mail of introduction, already. :)</p></body></html>****************************************
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">Advogato diary for sopwith</a><br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=4">20 Apr 2004</a>
-<br/>Date: Wed Apr 21 05:00:51 CEST 2004</p><p>Only a few diary entries ago, I was complaining about the last company meeting. Now a new one is coming up, and I'm really looking forward to meeting all the great people that work at Red Hat.
+<br/>Date: Thu Apr 22 21:35:13 CEST 2004
+</p>
+<a href="http://www.benandjerrys.com/" >Ben &amp; Jerry's</a> annual Free Cone Day. Tuesday, April 27 12pm-8pm. Follow the link to find out where.</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith
+</a>
+<br/>
+Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=5">
+21 Apr 2004
+</a>
+
+<br/>Date: Wed Apr 21 17:49:59 CEST 2004
+</p>
+Plots orkut people on a map: <a href="http://www.datawhorehouse.com/orkut/" >http://www.datawhorehouse.com/orkut/</a>.
+
+<p> PS. If you still haven't gotten an orkut invite, send me an e-mail of introduction, already. :)</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith
+</a>
+<br/>
+Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=4">
+20 Apr 2004
+</a>
+
+<br/>Date: Wed Apr 21 05:00:51 CEST 2004
+</p>
+Only a few diary entries ago, I was complaining about the last company meeting. Now a new one is coming up, and I'm really looking forward to meeting all the great people that work at Red Hat.
 <p>
 Dropping by to say hello to the advogato crowd,<p>
--- Elliot</p></body></html>****************************************
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">Advogato diary for sopwith</a><br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=3">16 Sep 2003</a>
-<br/>Date: Tue Sep 16 22:41:24 CEST 2003</p><p><a href="http://people.redhat.com/sopwith/" >My home page</a></p></body></html>****************************************
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">Advogato diary for sopwith</a><br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=2">12 Apr 2001</a>
-<br/>Date: Thu Apr 12 17:53:44 CEST 2001</p><p>I hate this open source game - it just proves my in(s)anity.
+-- Elliot</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith
+</a>
+<br/>
+Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=3">
+16 Sep 2003
+</a>
 
-<p> &lt;/rant&gt;</p></body></html>****************************************
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">Advogato diary for sopwith</a><br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=1">19 Sep 2000</a>
-<br/>Date: Wed Sep 20 08:45:03 CEST 2000</p><p>It's 02:01, I can't sleep, and there's a bunch of company 
+<br/>Date: Tue Sep 16 22:41:24 CEST 2003
+</p>
+<a href="http://people.redhat.com/sopwith/" >My home page</a></body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith
+</a>
+<br/>
+Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=2">
+12 Apr 2001
+</a>
+
+<br/>Date: Thu Apr 12 17:53:44 CEST 2001
+</p>
+I hate this open source game - it just proves my in(s)anity.
+
+<p> &lt;/rant&gt;</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith
+</a>
+<br/>
+Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=1">
+19 Sep 2000
+</a>
+
+<br/>Date: Wed Sep 20 08:45:03 CEST 2000
+</p>
+It's 02:01, I can't sleep, and there's a bunch of company 
 meetings today at 08:30 that appear increasingly boring as 
 the time approaches. It sort of rains on my parade of TODO 
 items - I could have finished libGIOP this 
@@ -104,4 +203,4 @@ embedded systems builders in the process.
 I'm done with the unprovoked insults and needless griping, 
 so LART me and get back to your regularly scheduled world.
  I'm sure by lunchtime I'll have gotten enough sleep to 
-regret this all.</p></body></html>
+regret this all.</body></html>

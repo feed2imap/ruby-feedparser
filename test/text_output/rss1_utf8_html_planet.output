@@ -5,6 +5,7 @@ Link: http://planet.gnome.org/
 Description: Planet GNOME - http://planet.gnome.org/
 Creator: 
 
+
 ****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: John Fleck: Savant <http://www.inkstain.net/fleck/archives/001578.html>
@@ -16,7 +17,8 @@ Last night, Sadie was behaving powerfully strangely. Lissa and I were reading in
 When I opened this morning's paper, I understood. Hunter S. Thompson[1] and  Sandra Dee[2] had died. It's like Sadie is some sort of pop culture doggie savant, like she knew.
 
 [1] http://english.aljazeera.net/NR/exeres/67D36E3F-9D1E-4E17-8938-5624B812897C.htm
-[2] http://news.bbc.co.uk/1/hi/entertainment/film/4283213.stm****************************************
+[2] http://news.bbc.co.uk/1/hi/entertainment/film/4283213.stm
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Hubert Figuiere: Software Rant <http://www.figuiere.net/hub/blog/?2005/02/21/100-software-rant>
 
@@ -27,7 +29,8 @@ I'm ranting about Evolution, its speed and its antispam[1], I'm not alone[2]. So
 [1] http://www.figuiere.net/hub/blog/?2005/02/09/83-all-mailers-suck
 [2] http://www.advogato.org/person/robertc/diary.html?start=31
 [3] http://bugzilla.ximian.com/show_bug.cgi?id=72547
-[4] http://www.advogato.org/person/avriettea/diary.html?start=51****************************************
+[4] http://www.advogato.org/person/avriettea/diary.html?start=51
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Dave Neary: 21 Feb 2005 <http://www.advogato.org/person/bolsh/diary.html?start=81>
 
@@ -45,7 +48,8 @@ Second, several attendees can get funding to attend if the conference is an acad
 
 Finally, we're not asking for a formal oeuvre. You're not going to have your article submitted for a Pulitzer. A couple of pages presenting the major concepts you want to present, essentially a long abstract, is fine. And if you don't have time, or just don't want to, let us know at guadec-papers, and we'll sort something out.
 
-That said, I encourage everyone presenting to write a paper, at least 2 pages, at most 5, since it will really help the GNOME Users and Developers in Europe, who are, after all, what the conference is about.****************************************
+That said, I encourage everyone presenting to write a paper, at least 2 pages, at most 5, since it will really help the GNOME Users and Developers in Europe, who are, after all, what the conference is about.
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Zaheer Abbas Merali: Ashura <http://zaheer.merali.org/?p=100>
 
@@ -55,13 +59,15 @@ Yesterday was Ashura[1].  The talks given at the mosque for the past 11 nights c
 
 [1] http://www.ashura.com/
 [2] http://www.hujjat.org/index.php?name=zina&#38;op=modload&#38;file=index&#38;p=Seyed+Modaressi%2FMuharram+1426
-[3] http://www.almodarresi.net/****************************************
+[3] http://www.almodarresi.net/
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Michael Meeks: 2005-02-21: Monday <http://www.gnome.org/~michael/activity.html#2005-02-21>
 
 Date: Mon Feb 21 12:00:00 UTC 2005
 
-Up late; J. off to rescue Janine from beingboxed in in Town. Got the machine-room spun up again.****************************************
+Up late; J. off to rescue Janine from beingboxed in in Town. Got the machine-room spun up again.
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Alex Graveley: Erotic cleft <http://www.beatniksoftware.com/blog/index.php?p=16>
 
@@ -71,13 +77,14 @@ From Jennifer and the Master: A Unique Erotica, a hardcore S&M book (opus really
 
 Within the living mirror, the beholders fondle the erotic cleft between them.	
 
-This book was left inexplicably at our doorstep on Valentines eve, and thus far no one has taken credit.	
+This book was left inexplicably at our doorstep on Valentine’s eve, and thus far no one has taken credit.	
 
-Blah blah blah[1]	
+Blah blah blah[1]…	
 
-Grab the nearest book.	Open the book to page 123.	Find the fifth sentence.	Post the text of the sentence in your journal along with these instructions.	Dont search around and look for the coolest book you can find. Do what’s actually next to you.
+Grab the nearest book.	Open the book to page 123.	Find the fifth sentence.	Post the text of the sentence in your journal along with these instructions.	Don’t search around and look for the “coolest” book you can find. Do what’s actually next to you.
 
-[1] http://www.inkstain.net/fleck/archives/001577.html****************************************
+[1] http://www.inkstain.net/fleck/archives/001577.html
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Evolution: Evolution 2.0.4 <http://codeblogs.ximian.com/blogs/evolution/archives/000449.html>
 
@@ -304,7 +311,8 @@ http://www.gnome.org/projects/evolution[9]
 [6] http://ftp.gnome.org/pub/gnome/sources/ximian-connector/2.0/ximian-connector-2.0.4.tar.gz
 [7] http://bugzilla.ximian.com/show_bug.cgi
 [8] http://bugzilla.ximian.com/
-[9] http://www.gnome.org/projects/evolution****************************************
+[9] http://www.gnome.org/projects/evolution
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Elijah Newren: Dealing with the d-d-l spam problem <http://www.gnome.org/~newren/blog/2005/02/20>
 
@@ -312,52 +320,56 @@ Date: Mon Feb 21 05:00:03 UTC 2005
 
 I don't know if it's just the pessimist in me, but considering theefforts before that have failed at controlling the d-d-l spam, Istarted wondering whether the recent one will work over the long-termeither (I don't see the difference between this attempt and previousones).  So, I spent a little time  trying tothink up a solution[1].  This may not be feasible (why worry aboutpetty technical details when trying to think of a good solution?), andmay be a really stupid idea anyway (it's just my brain dump from anhour or two), but I'm posting it here so the world can have a laugh atmy expense.  After all, I always appreciate it when others make melaugh, so I thought I'd try to return the favor--although in a perhapsslightly different way.  ;-)
 
-[1] http://www.gnome.org/~newren/temp/new-mailing-list.txt****************************************
+[1] http://www.gnome.org/~newren/temp/new-mailing-list.txt
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Nat Friedman: 21 February 2005 <http://nat.org/2005/february/#21-February-2005>
 
 Date: Mon Feb 21 05:00:00 UTC 2005
 
-*__*#[1]  "There he goes. One of God's own prototypes. Some kind of high powered mutant never even considered for mass production. Too weird to live, and too rare to die."
+*__* #[1]  "There he goes. One of God's own prototypes. Some kind of high powered mutant never even considered for mass production. Too weird to live, and too rare to die."
 
-[1] http://nat.org/2005/february/#21-February-2005****************************************
+[1] http://nat.org/2005/february/#21-February-2005
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Joe Shaw: there goes joeyblog <http://joeshaw.org/2005/02/21/125>
 
 Date: Mon Feb 21 02:48:32 UTC 2005
 
-Ive just transitioned my blog over to Wordpress 1.5[1], and I must say, its a dramatic improvement over the last version I tried.  Theyve separated the layout and the structure in such a nice way that I can do things like, for example, not allow comments or have categories or different authors without having to hack the hell out of things.  Ive spent all of today getting the layout correct, and with some extremely clever PHP and Javascript hacking I am pretty sure that all existing URLs continue to work.	
+I’ve just transitioned my blog over to Wordpress 1.5[1], and I must say, it’s a dramatic improvement over the last version I tried.  They’ve separated the layout and the structure in such a nice way that I can do things like, for example, not allow comments or have categories or different authors without having to hack the hell out of things.  I’ve spent all of today getting the layout correct, and with some extremely clever PHP and Javascript hacking I am pretty sure that all existing URLs continue to work.	
 
-Now, the real question is if I can get a nice client-side solution so that posting photos isnt quite a pain.  Hopefully it wont be a big deal, but Ive saved my old blog setup just in case I have to revert.
+Now, the real question is if I can get a nice client-side solution so that posting photos isn’t quite a pain.  Hopefully it won’t be a big deal, but I’ve saved my old blog setup just in case I have to revert.
 
-[1] http://wordpress.org****************************************
+[1] http://wordpress.org
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Jakub Steiner: More SVG Fun <http://jimmac.musichall.cz/weblog.php/Inkscape/SVG-NG>
 
 Date: Mon Feb 21 01:41:36 UTC 2005
 
-As I've mentioned before[1], Istarted to incorporate Inkscape[2] into my workflow. At times it's quite masochistic compared to Illustrator or GIMP, but some things are easier than what Iwas used to. One of the things is making sure the outline "snaps" to the final rendering grid. That was tough with Illustrator, not because it didn't have sophisticated aids to do that, but because it used a different renderer than the GNOME desktop.
+As I've mentioned before[1], I started to incorporate Inkscape[2] into my workflow. At times it's quite masochistic compared to Illustrator or GIMP, but some things are easier than what I was used to. One of the things is making sure the outline "snaps" to the final rendering grid. That was tough with Illustrator, not because it didn't have sophisticated aids to do that, but because it used a different renderer than the GNOME desktop.
 
-One thing that totally rocks is that in trunk (0.41) you can work pixel-precise at the target resolution and it's truly WYSIWYG. It may not have Illustrator's pixel-preview so that you can see the bitmap rendering even when working on zoomed canvas, but simply having another view at 1:1 works ok[1[3]]. Librsvg then reders it exactly the same as inkscape. Ineed to see about cairo/xsvg.
+One thing that totally rocks is that in trunk (0.41) you can work pixel-precise at the target resolution and it's truly WYSIWYG. It may not have Illustrator's pixel-preview so that you can see the bitmap rendering even when working on zoomed canvas, but simply having another view at 1:1 works ok[1[3]]. Librsvg then reders it exactly the same as inkscape. I need to see about cairo/xsvg.
 
 Original bitmap on the left. Traced and pixel positioned on the right. Renders just like that with librsvg.
 
-Ihad an idea how to overcome the complexity of creating icons at multiple resolutions that Iwrote about earlier[4]. SVG rocks for theme maintanance - you can save all the work with exporting, since you can just save your working inkscape SVG and that's it.[5]
+I had an idea how to overcome the complexity of creating icons at multiple resolutions that I wrote about earlier[4]. SVG rocks for theme maintanance - you can save all the work with exporting, since you can just save your working inkscape SVG and that's it.[5]
 
-Now while Idon't think automatic hinting can help making the icons readable for 16x16, what if Icould have layers in the SVG for individual target render size? RSVG would render a layer similarly to how the icon theme engine picks appropriate bitmap version. No need to maintain multiple images. Ithink doing bitmaps for 16x16 and 24x24 is still going to take less time than doing them in vector, but nothing prevents me having a bitmap in the SVG ;)
+Now while I don't think automatic hinting can help making the icons readable for 16x16, what if I could have layers in the SVG for individual target render size? RSVG would render a layer similarly to how the icon theme engine picks appropriate bitmap version. No need to maintain multiple images. I think doing bitmaps for 16x16 and 24x24 is still going to take less time than doing them in vector, but nothing prevents me having a bitmap in the SVG ;)
 
 Alternatively it could have the layers toggled invisible for regular rendering. But if we had some switch in inkscape to "solo" particular layer, 16x16 and 24x24 bitmap rendering could be automated with a script and still maintain a single file.
 
-[1[6]] Ialso noticed the simplification wrt grid functionality really makes sense. Ihaven't missed not being able to see the grid without snapping to it at all. If Iwant to see the grid, Imostly want to snap to it too. If Idon't, Ijust hide it.
+[1[6]] I also noticed the simplification wrt grid functionality really makes sense. I haven't missed not being able to see the grid without snapping to it at all. If I want to see the grid, I mostly want to snap to it too. If I don't, I just hide it.
 
-On the other hand Ifound out Ireally miss being able to node select from multiple objects. I'm a consistant shape tweaker and not being able to move a bunch of nodes from multiple overlaid objects is a pain.
+On the other hand I found out I really miss being able to node select from multiple objects. I'm a consistant shape tweaker and not being able to move a bunch of nodes from multiple overlaid objects is a pain.
 
 [1] http://primates.ximian.com/~jimmac/blog/Artwork/Inkscape/
 [2] http://www.inkscape.org
 [3] http://jimmac.musichall.cz/weblog.php?flav=rss#footnote1
 [4] http://primates.ximian.com/~jimmac/blog/Artwork/ScalableIcons/
 [5] http://jimmac.musichall.cz/screenshots/screenshot-413713000.jpg
-[6] http://jimmac.musichall.cz/weblog.php?flav=rss#note1****************************************
+[6] http://jimmac.musichall.cz/weblog.php?flav=rss#note1
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Jakub Steiner: Inkscape Evaluation <http://jimmac.musichall.cz/weblog.php/Inkscape/Inkscape>
 
@@ -367,12 +379,12 @@ I thought that if I have to do the icons in SVG ever again, I may as wellrevisit
 
 Since I'm an old Illustrator junkie, I knew it's going to be tough gettingused to especially since I've tried and failed before. I expected beingdisappointed, I was surprised in many areas though. Looks like a lot of goodstuff happened while I wasn't watching :) I'm actually confident that it'susable to create less complex artwork.
 
-So let's start with the good things.	Nice shortcut overview. It could have been setup on a landscape A4 to get	printed easily though.		A few introductory tutorials. Just what I needed. It's actually better	for me than a full featured documentation which is usually too boring to chew	through ;). What's even more fun is these tutorials are in fact SVG images,	so it features examples you can try right on canvas while reading.	Ingenious.		Easy numerical entry of object properties (toolbar) with advanced	properties in a floating dialog.		Keyboard navigation not only for object and canvas movement, but rotation	and scaling as well (now finally the Alt	modifier starts making sense). Moving in pixel units with Alt of the current zoom level is a lot better than	the absolute units in Adobe Illustrator. This absolutely rocks.		Layers with visibility toggle and layer locking! Oh man, I can't	stress enough how this is useful. Also individual objects can be locked, but	unlocking them is hard, I could only do this with the XML editor.	F12 toggles the visible floating docks.	Very handy in fullscreen (although the layout dock seems to be	visible all the time).	While function keys are still mapped to tools, there's also shortcuts	that are easily memorizable  T for Text,	S for Object select etc. # for grid toggle got me :).	Color Dropper. I prefer to call it picker instead since it's not	applying color on the clicked objects, it's picking it up and	applies on the selected objects.  Unfortunately the tool isn't as useful as	it could be. It only takes the color property while it could be used to pick	more properties such as stroke, fill (gradient, pattern, bitmap), effects,	etc. (configurable as tool options just like in GIMP). Inkscape does provide	this functionality with Edit>Paste Style, but doesn't allow	individual style properties to be selected (only fill, only stroke...).	Helpful status bar. It tells you what a modifier key will do. It doesn't	list all functionality, but mostly the important one. Absolutely cool for	when you're learning the tool. I found Alt+Click like that. It's used to "select under" with	the selection tool active and it's very handy when I'm left without a nice	layer stack overview.	Boolean Operations. Creating complex shapes out of primitives is a lot	easier with these tools.	Cloning. Instead of duplicating, you can create an instance of an object.	Gotta get used to the fact that even transformations are inherited.	The 0.40 aboutbox is sexy as hell :)	Metadata. Not oly cool for copyright info, but for icon	accessibility too[3].	Object stamping. You drag an object around and where you press spacebar it creates a copy.	Text tool. I wish we had a mature text tool like this in GIMP. Letter	spacing (Alt+<, Alt+>), kerning, (Alt+Left, Alt+Right),	vertical text, shaped block of text (kinda hacky, but working).		Didn't crash on me ;) While some of us take it for granted, some projects[4] don't consider stability a	priority...[5]
+So let's start with the good things.	Nice shortcut overview. It could have been setup on a landscape A4 to get	printed easily though.		A few introductory tutorials. Just what I needed. It's actually better	for me than a full featured documentation which is usually too boring to chew	through ;). What's even more fun is these tutorials are in fact SVG images,	so it features examples you can try right on canvas while reading.	Ingenious.		Easy numerical entry of object properties (toolbar) with advanced	properties in a floating dialog.		Keyboard navigation not only for object and canvas movement, but rotation	and scaling as well (now finally the Alt	modifier starts making sense). Moving in pixel units with Alt of the current zoom level is a lot better than	the absolute units in Adobe Illustrator. This absolutely rocks.		Layers with visibility toggle and layer locking! Oh man, I can't	stress enough how this is useful. Also individual objects can be locked, but	unlocking them is hard, I could only do this with the XML editor.	F12 toggles the visible floating docks.	Very handy in fullscreen (although the layout dock seems to be	visible all the time).	While function keys are still mapped to tools, there's also shortcuts	that are easily memorizable — T for Text,	S for Object select etc. # for grid toggle got me :).	Color Dropper. I prefer to call it picker instead since it's not	applying color on the clicked objects, it's picking it up and	applies on the selected objects.  Unfortunately the tool isn't as useful as	it could be. It only takes the color property while it could be used to pick	more properties such as stroke, fill (gradient, pattern, bitmap), effects,	etc. (configurable as tool options just like in GIMP). Inkscape does provide	this functionality with Edit>Paste Style, but doesn't allow	individual style properties to be selected (only fill, only stroke...).	Helpful status bar. It tells you what a modifier key will do. It doesn't	list all functionality, but mostly the important one. Absolutely cool for	when you're learning the tool. I found Alt+Click like that. It's used to "select under" with	the selection tool active and it's very handy when I'm left without a nice	layer stack overview.	Boolean Operations. Creating complex shapes out of primitives is a lot	easier with these tools.	Cloning. Instead of duplicating, you can create an instance of an object.	Gotta get used to the fact that even transformations are inherited.	The 0.40 aboutbox is sexy as hell :)	Metadata. Not oly cool for copyright info, but for icon	accessibility too[3].	Object stamping. You drag an object around and where you press spacebar it creates a copy.	Text tool. I wish we had a mature text tool like this in GIMP. Letter	spacing (Alt+<, Alt+>), kerning, (Alt+Left, Alt+Right),	vertical text, shaped block of text (kinda hacky, but working).		Didn't crash on me ;) While some of us take it for granted, some projects[4] don't consider stability a	priority...[5]
 
 So as you can see, in many areas I've been very pleasantly surprised. Youcan see Inkscape developers did listen to their artists, err users. There'ssome inconsistencies with the GIMP that I personally find confusing:	Path tool. I mean come on guys, the GIMP path tool rocks. The modifiers	rock, you can work with both nodes and segments and it's just unnice	to have something out of this planet when users like me, that are used to	GIMP could be making paths in Inkscape in a nano. /me makes a sad, sad	face.
 	I'm used to tracing objects by creating a polygon first and then	converting the particular nodes to curvy. I just found the trick is not to	try to convert a node, but a segment to a curve. Maybe if I try hard enough,	I can live with this. Also I'd love the handles to be controllable with a	keyboard, not only the nodes alone.		Redo is Ctrl+Shift+Z while GIMP's is Ctrl+Y.	Ctrl locks aspect while Shift centers the pivot point. GIMP's exactly the	other way around.	I miss the thumbnail navigator that GIMP has in the lower right	corner. Also zoom-on-resize locking that's in GIMP 2.2 (upper right corner)	would be useful here too. Update: I've been pointed out that I'm just	blind, it's right there! ;)	The gradient editor is even worse than GIMP's. When I'm bitching about	it, I guess I should provide a spec. But more annoying than defining the	gradient is not being able to specify direction and length on canvas.[6]
 
-Some minor nitpicks and suggestions.	Layer support is fairly primitive and unfinished. Apart from the spartan	XML editor, I found no way to get a graphical representation of the layer	stack. Moving objects across layers also seems only possible in XML editor	which is very hard, since the stack is reversed and the layers aren't easily	identifiable (UI shows comments, while XML edito shows ids). Also I'm not	sure about the behaviour of the root node.	While it may sound like a good idea to use vector icons in a vector	editor, it doesn't work in my opinion. The small resolution icons need detail	and crispness the vectors cannot give. Having a nice gnomish icon set would	surely help.	I miss tootips for the toobar icons.	Tool options are implemented as global preferences. While there is a	shortcut to get to these by double-clicking on the toolbar, you're presented	with a horror of two rows of tabs. Yikes!	Some sort of library is required. Just like GIMP stores brushes and	gradients, Inkscape should have some global repository of gradients and	patterns.	There's XY properties floating window depending on what type	of object is selected. These should go into the object properties float. If	the number of widgets would grow, solve either by using tabs or disclosure	triangles.	Something completely subjective  I prefer the rubberband selection	to work objects even partially selected, not only the ones completely	enclosed in the selection rectangle.	Ctrl+A actually select all object	within a layer not on the document as the tutorial suggests. Not	saying it makes less sense, just that the docs are out of sync.	One cannot group objects from different layers. Especially painful when	moving objects around layers manually is tough.	I coulnd't figure out how to scale a pattern. In fact it should be	possible to not scale pattern along with object. Similarly, it should be	possible to scale an object but not scale the stroke width along.	Deleting objects with Backspace. While	Del works, my powerbook doesn't have the del	key ;).	Cloning is cool, but it would be super cool to be able to create such	object clones (links) within an external file. You could create mime type	icons by linking the document template from an external file and have a quick	way to alter the whole set.[7]
+Some minor nitpicks and suggestions.	Layer support is fairly primitive and unfinished. Apart from the spartan	XML editor, I found no way to get a graphical representation of the layer	stack. Moving objects across layers also seems only possible in XML editor	which is very hard, since the stack is reversed and the layers aren't easily	identifiable (UI shows comments, while XML edito shows ids). Also I'm not	sure about the behaviour of the root node.	While it may sound like a good idea to use vector icons in a vector	editor, it doesn't work in my opinion. The small resolution icons need detail	and crispness the vectors cannot give. Having a nice gnomish icon set would	surely help.	I miss tootips for the toobar icons.	Tool options are implemented as global preferences. While there is a	shortcut to get to these by double-clicking on the toolbar, you're presented	with a horror of two rows of tabs. Yikes!	Some sort of library is required. Just like GIMP stores brushes and	gradients, Inkscape should have some global repository of gradients and	patterns.	There's XY properties floating window depending on what type	of object is selected. These should go into the object properties float. If	the number of widgets would grow, solve either by using tabs or disclosure	triangles.	Something completely subjective — I prefer the rubberband selection	to work objects even partially selected, not only the ones completely	enclosed in the selection rectangle.	Ctrl+A actually select all object	within a layer not on the document as the tutorial suggests. Not	saying it makes less sense, just that the docs are out of sync.	One cannot group objects from different layers. Especially painful when	moving objects around layers manually is tough.	I coulnd't figure out how to scale a pattern. In fact it should be	possible to not scale pattern along with object. Similarly, it should be	possible to scale an object but not scale the stroke width along.	Deleting objects with Backspace. While	Del works, my powerbook doesn't have the del	key ;).	Cloning is cool, but it would be super cool to be able to create such	object clones (links) within an external file. You could create mime type	icons by linking the document template from an external file and have a quick	way to alter the whole set.[7]
 
 And I few features I'm still missing an alternative for: 		Object blending. Select two objects and pick how many inbetween states	you want or optionally a path along which to do the morph. Essential time	saviour when duplicating objects. Inkscape does have a mean that's a bit less	straight forward (subjective again). You can either use stamping and then	distribute objects using the align dock or do the same with clones or	duplicates (just need to pick one from the duplicated stack and reposition to	the other extreme).	Converting stroke into objects. Sometimes you want to have more control	about the dotted outline.	I may have just missed it, but there's no outline draw mode. Sometimes	it's easier to find an object like that. Also perhaps when tweaking shapes	with the node tool, the fill could go away to speed things up. The more	complex the artwork is, the slower the thing gets. And sometimes way way	slower than bearable.	Pixel preview. If we had the same renderer in GNOME & Inkscape, it would	help tweaking the shapes pixel-precise, so it's sharp (aligns to the render	grid) at the 1:1 size.	Node edit only works within selected object. I like to rubber-band select	nodes from a number of objects and move them to "stretch" an drawing in that	particular area. Doing one by one is close to impossible and stretching the	whole object is not what I want either.
 
@@ -382,7 +394,8 @@ And I few features I'm still missing an alternative for: 		Object blending. Sele
 [4] http://www.cinepaint.org
 [5] http://jimmac.musichall.cz/images/blog/inkscape1.png
 [6] http://jimmac.musichall.cz/images/blog/inkscape2.png
-[7] http://jimmac.musichall.cz/images/blog/inkscape3.png****************************************
+[7] http://jimmac.musichall.cz/images/blog/inkscape3.png
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Jakub Steiner: Inkscape Gradients <http://jimmac.musichall.cz/weblog.php/Inkscape/InkscapeGradients>
 
@@ -393,7 +406,8 @@ Inkscape superstar, Bulia Byak, committed the beginning of his work on better gr
 Eek! I seem to have spammed planet gnome by moving things around even though the timestamps remained. Sorry.
 
 [1] http://sourceforge.net/mailarchive/message.php?msg_id=10905321
-[2] http://jimmac.musichall.cz/demos/inkscape/inkscape-gradients.avi****************************************
+[2] http://jimmac.musichall.cz/demos/inkscape/inkscape-gradients.avi
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Bryan Forbes: I can almost hear it... <http://www.reigndropsfall.net/index.php?itemid=141>
 
@@ -402,7 +416,8 @@ Date: Mon Feb 21 00:50:28 UTC 2005
 This last week I started working on audio disc support in Coaster.[1]  It has been interesting trying to figure out the Gstreamer[2] library and how to get it to interact well with Coaster without using a wrapping library (to save you guys the hassle of another binding dependency).  So far, I have some test programs that read in the information I need; next thing to do is to get an audio store, layout, and view up and going.
 
 [1] http://www.coaster-burn.org
-[2] http://gstreamer.freedesktop.org****************************************
+[2] http://gstreamer.freedesktop.org
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Bastien Nocera: Bonjour <http://hadess.net/?start=490>
 
@@ -416,7 +431,8 @@ Scots footie fans are funny lads[2], and Apple will rename Rendez-vous to Bonjou
 
 [1] http://www.imdb.com/title/tt0376541/
 [2] http://news.bbc.co.uk/sport1/hi/funny_old_game/4274777.stm
-[3] http://www.appleinsider.com/article.php?id=891****************************************
+[3] http://www.appleinsider.com/article.php?id=891
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Jakub Steiner: Drift <http://jimmac.musichall.cz/weblog.php/Music/Drift>
 
@@ -424,14 +440,15 @@ Date: Sun Feb 20 23:27:00 UTC 2005
 
 Yet another blast from the past. While writing the aboutpage on my website I found the Kosmic Archive[1] is online with mp3 versions of the old killer tracks.
 
-I recall playing this on my 1bit squeeker ripped out of the PC case so I could hear it better. Cubic Player[2] with the fancy visualisations. Memories.Drift[3]  Lovely minimalistic techno.
+I recall playing this on my 1bit squeeker ripped out of the PC case so I could hear it better. Cubic Player[2] with the fancy visualisations. Memories.Drift[3] – Lovely minimalistic techno.
 
 I hope to find more jewels like this. I should have all the XMs, S3Ms, ITs and MODs somewhere??? Beagle[4], buddy! Help!
 
 [1] http://kosmic.darkscape.net/archives/
 [2] http://www.cubic.org/player/
 [3] http://kosmic.darkscape.net/archives/1996/mp3/k_drift.mp3
-[4] http://www.gnome.org/projects/beagle/****************************************
+[4] http://www.gnome.org/projects/beagle/
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: John Fleck: The Fifth Sentence <http://www.inkstain.net/fleck/archives/001577.html>
 
@@ -439,13 +456,14 @@ Date: Sun Feb 20 20:26:48 UTC 2005
 
 I like this meme[1]:
 
-Grab the nearest book.Open the book to page 123.Find the fifth sentence.Post the text of the sentence in your journal along with these instructions.Don't search around and look for the "coolest" book you can find. Do whats actually next to you.
+Grab the nearest book.Open the book to page 123.Find the fifth sentence.Post the text of the sentence in your journal along with these instructions.Don't search around and look for the "coolest" book you can find. Do what’s actually next to you.
 
 The book (really, I closed my eyes and reached left to the nearest shelf) is the IPCC's "Climate Change 1995." Page 123 is in the chapter on "Radiative Forcing of Climate Change":
 
 It would be highly desirable to determine the indirect GWPs associated with the ozone production for these gases.
 
-[1] http://pharyngula.org/index/weblog/comments/we_are_all_lemmings_we_bloggers/****************************************
+[1] http://pharyngula.org/index/weblog/comments/we_are_all_lemmings_we_bloggers/
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Damien Sandras: A screenshot <http://www.seconix.com/wordpress/index.php?p=8>
 
@@ -456,7 +474,8 @@ I know people love screenshots. Here is a screenshot of the new accounts window,
 Here is the long-awaited screenshot:
 [1]
 
-[1] http://www.seconix.com/wordpress/wp-content/accountsscreenshot.png****************************************
+[1] http://www.seconix.com/wordpress/wp-content/accountsscreenshot.png
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Bastien Nocera: Nice-One-Brothaaaaaaa! <http://hadess.net/?start=489>
 
@@ -472,7 +491,8 @@ Music: /Itchy Trigger Finger Niggers/ (no, not really)
 
 [1] http://www.beerintheevening.com/pubs/show.shtml/3421/Five_and_Lime/Guildford
 [2] http://bugzilla.gnome.org/show_bug.cgi?id=163039
-[3] http://us.imdb.com/title/tt0099487/****************************************
+[3] http://us.imdb.com/title/tt0099487/
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: John Fleck: "I'm melting! I'm Melting!" <http://www.inkstain.net/fleck/archives/001575.html>
 
@@ -488,7 +508,8 @@ More here[3].
 
 [1] http://ams.allenpress.com/amsonline/?request=get-abstract&doi=10.1175%2FBAMS-86-1-39
 [2] http://tao.atmos.washington.edu/pdo/
-[3] http://www.abqjournal.com/paperboy/ia/news/state/307451nm02-20-05.htm****************************************
+[3] http://www.abqjournal.com/paperboy/ia/news/state/307451nm02-20-05.htm
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Miguel de Icaza: 20 Feb 2005: 250 millions of PR budget. <http://primates.ximian.com/~miguel/archive/2005/Feb-20.html>
 
@@ -524,13 +545,15 @@ He also has a screenshot of Alexsander Olk's new color	dialog here[6]	running on
 [3] http://homepage.mac.com/njenson/movies/billmaher021805gannon.mov
 [4] http://primates.ximian.com/~miguel/pic.php?name=nat-at-work.jpg&caption=Nat at Work.
 [5] http://lists.ximian.com/archives/public/mono-winforms-list/2005-February/001428.html
-[6] http://blog.sublimeintervention.com/images/pretty-colors.png****************************************
+[6] http://blog.sublimeintervention.com/images/pretty-colors.png
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Michael Meeks: 2005-02-20: Sunday <http://www.gnome.org/~michael/activity.html#2005-02-20>
 
 Date: Sun Feb 20 12:00:00 UTC 2005
 
-Hacked on the train at a command-line OO.ogallery creation tool: rather badly needed for theopenclipart.org stuff.	Got home, lovely to see my beautiful wifeagain, not to mention the girls. Slept for a good while,ate, slept again.	Up in the night, dealing with H. - nasty cold,can't breath - keeps saying 'nose' or 'mummy', slept inher bed for some hours.****************************************
+Hacked on the train at a command-line OO.ogallery creation tool: rather badly needed for theopenclipart.org stuff.	Got home, lovely to see my beautiful wifeagain, not to mention the girls. Slept for a good while,ate, slept again.	Up in the night, dealing with H. - nasty cold,can't breath - keeps saying 'nose' or 'mummy', slept inher bed for some hours.
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Davyd Madeley: Planet UCC Lives <http://www.livejournal.com/users/davyd/135461.html>
 
@@ -541,7 +564,8 @@ Due to the lack of WAIX routing, Planet UCC[1] had bought the proverbial farm. H
 The clubroom has been cleaned up[2]. And we're almost ready for O'Day. I have almost finished up the Fresher's Guide, and once I finish a list of points we covered today, it should be ready for general proof reading. Hopefully I'll get that uploaded tonight.
 
 [1] http://planet.ucc.asn.au/
-[2] http://webcam.ucc.asn.au/archive/colour3/200502/20/18/05.jpg****************************************
+[2] http://webcam.ucc.asn.au/archive/colour3/200502/20/18/05.jpg
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Hubert Figuiere: Picture of the day, February 19th, 2005 <http://www.figuiere.net/hub/blog/?2005/02/19/99-picture-of-the-day-february-19th-2005>
 
@@ -555,7 +579,8 @@ Still taken with my Canon Elan 7[3] on Provia 100F, around September 21st 2001.
 
 [1] http://www.sigoules.com/visiter/chateaux/cloitre_de_cadouin.htm
 [2] http://photo.figuiere.net/photodb/rolls/2001-09-21-2S/2001-09-21-2S-04.jpg
-[3] http://photo.net/equipment/canon/elan-7****************************************
+[3] http://photo.net/equipment/canon/elan-7
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Damien Sandras: Busy week-end <http://www.seconix.com/wordpress/index.php?p=7>
 
@@ -568,9 +593,10 @@ GnomeMeeting
 I have of course added support for the above code in GnomeMeeting. I have also reworked the preferences window so that the various VoIP capabilities appears as accounts that you can enable or disable. That permits to minimize the number of options possible while keeping an easy access to all required features. GnomeMeeting 2.00 should have some inovative features that other Linux SIP softphones do not support yet.	
 
 FOSDEM
-FOSDEM[1] will happen in one week. That means much work but also many worries. Having feedback from invited speakers is not always easy and you often have to mail some of them several times. Hopefully now everything is booked. The pre-event part is nearly over and most of the work will have to be done during the event. We expect a record in terms of visitors this year. All big projects have developers rooms with a separate schedule and talks.
+FOSDEM[1] will happen in one week. That means much work but also many worries. Having feedback from invited speakers is not always easy and you often have to mail some of them several times. Hopefully now everything is booked. The pre-event part is nearly over and most of the work will have to be done during the event. We expect a record in terms of visitors this year. All big projects have “developer’s rooms” with a separate schedule and talks.
 
-[1] http://www.fosdem.org****************************************
+[1] http://www.fosdem.org
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: John Fleck: Stuff I Wrote Elsewhere <http://www.inkstain.net/fleck/archives/001574.html>
 
@@ -578,7 +604,8 @@ Date: Sat Feb 19 23:01:12 UTC 2005
 
 Fun with magnetars[1]
 
-[1] http://www.abqjournal.com/paperboy/ia/scitech/307139science02-19-05.htm****************************************
+[1] http://www.abqjournal.com/paperboy/ia/scitech/307139science02-19-05.htm
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Daniel Veillard: 19 Feb 2005 <http://www.advogato.org/person/DV/diary.html?start=185>
 
@@ -592,7 +619,8 @@ One of the main thing we need from our target audiencei.e. people doing sysadmin
 
 [1] http://www.gnome.org/projects/evince/
 [2] http://www.gnome.org/~veillard/sabayon/
-[3] http://cvs.gnome.org/viewcvs/sabayon/ISSUES?view=auto****************************************
+[3] http://cvs.gnome.org/viewcvs/sabayon/ISSUES?view=auto
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Jakub Steiner: Macarena <http://jimmac.musichall.cz/weblog.php/Misc/Macarena>
 
@@ -606,7 +634,8 @@ Also afterwards we went to a dinner with our finance minister. Not really,of cou
 
 [1] http://www.tigert.com
 [2] http://en.wikipedia.org/wiki/Macarena
-[3] http://www.radio.cz/en/article/63152****************************************
+[3] http://www.radio.cz/en/article/63152
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Hubert Figuiere: Fighting DRM in court... Episode I <http://www.figuiere.net/hub/blog/?2005/02/19/98-fighting-drm-in-court-episode-i>
 
@@ -620,18 +649,20 @@ Source: Boing Boing[2], DLFP[3] (fr).
 
 [1] http://management.silicon.com/itpro/0,39024675,39127844,00.htm
 [2] http://www.boingboing.net/2005/02/15/apple_and_sony_sued_.html
-[3] http://linuxfr.org/2005/02/14/18305.html****************************************
+[3] http://linuxfr.org/2005/02/14/18305.html
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Federico Mena-Quintero: Sat 2005/Feb/19 <http://primates.ximian.com/~federico/news-2005-02.html#19>
 
 Date: Sat Feb 19 19:16:00 UTC 2005
 
-Daniel[1]	      writes about the	      pressure to have software patents in Europe[2].	      "Pressure" and "verbal violence" reminded me of last year[3], when I was at	      the amazing HP	      research building[4].  The first thing that greets you	      after you step out of the elevator is a wall covered	      with gold-plated patent grants.  Man, I should have	      taken a picture.  They were hung like trophies on a	      huntsman's wall.  I looked at them during conference	      breaks; some were for exotic things, other for	      ridiculously obvious ones.  The one I remember the most	      was about how to promote pixel values for low bit depths	      into values with higher bit depths.  You know, like when	      going from RGB at 8 bits per channel to 16 bits per	      channel, so you have to map the	      range[0,0xff] into a wider	      range[0,0xffff].  You can't just shift by 8	      bits to the left; you have to copy the value into the	      lower bits.  So, 0xab becomes 0xabab; the typical	      symptom of not doing this is where 100%white	      becomes almost-white.  The abstract of the patent and a	      cute diagram, gold leaf, fancy frame and everything,	      described exactly that; the only particular	      thing is that it seemed to describe a hardware	      implementation.	    	  	
+Daniel[1]	      writes about the	      pressure to have software patents in Europe[2].	      "Pressure" and "verbal violence" reminded me of last year[3], when I was at	      the amazing HP	      research building[4].  The first thing that greets you	      after you step out of the elevator is a wall covered	      with gold-plated patent grants.  Man, I should have	      taken a picture.  They were hung like trophies on a	      huntsman's wall.  I looked at them during conference	      breaks; some were for exotic things, other for	      ridiculously obvious ones.  The one I remember the most	      was about how to promote pixel values for low bit depths	      into values with higher bit depths.  You know, like when	      going from RGB at 8 bits per channel to 16 bits per	      channel, so you have to map the	      range [0, 0xff] into a wider	      range [0, 0xffff].  You can't just shift by 8	      bits to the left; you have to copy the value into the	      lower bits.  So, 0xab becomes 0xabab; the typical	      symptom of not doing this is where 100% white	      becomes almost-white.  The abstract of the patent and a	      cute diagram, gold leaf, fancy frame and everything,	      described exactly that; the only particular	      thing is that it seemed to describe a hardware	      implementation.	    	  	
 
 [1] http://www.advogato.org/person/DV/
 [2] http://www.advogato.org/person/DV/diary.html?start=184
 [3] http://primates.ximian.com/~federico/news-2004-04.html#28
-[4] http://primates.ximian.com/~federico/news-photos/2004-04-1473-monitors.jpg****************************************
+[4] http://primates.ximian.com/~federico/news-photos/2004-04-1473-monitors.jpg
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Rodrigo Moya: 19/February/2005 <http://rodrigo.gnome-db.org/news.php?19/February/2005>
 
@@ -641,7 +672,8 @@ Date: Sat Feb 19 16:51:47 UTC 2005
 The II GUADEC-ES[1] will take      place from May 19th to 21st, in A Coruña, in the northwest of Spain. This is just      a week before the real GUADEC[2],      so anybody planning to do some travelling can have A Coruña as one of the scales.
 
 [1] http://2005.guadec-es.org/
-[2] http://2005.guadec.org****************************************
+[2] http://2005.guadec.org
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Alvaro del Castillo: 19 Feb 2005 <http://www.advogato.org/person/alvaro/diary.html?start=52>
 
@@ -662,7 +694,8 @@ Hmmm, I can't forget to talk about the II GUADEC Hispana[4], a warm up meeting b
 [1] http://rt2x00.serialmonkey.com/
 [2] http://benoit.papillault.free.fr/usbsnoop/
 [3] http://agenor.opengroupware.org/
-[4] http://2005.guadec-es.org****************************************
+[4] http://2005.guadec-es.org
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Davyd Madeley <http://www.livejournal.com/users/davyd/135302.html>
 
@@ -690,7 +723,8 @@ To borrow an idea from GNOME, the UCC is having a Love Day[1] in order to finish
 Again, I've had a whole heap of stuff to write about, and again I've forgotten it. I really should take notes, or something.
 
 [1] http://lists.ucc.gu.uwa.edu.au/pipermail/ucc/2005-February/012297.html
-[2] http://beta.ucc.asn.au/****************************************
+[2] http://beta.ucc.asn.au/
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Hubert Figuiere: New Canon gear <http://www.figuiere.net/hub/blog/?2005/02/19/97-new-canon-gear>
 
@@ -701,7 +735,8 @@ New Canon gear announced this week:EF-S 60mm f2.8 Macro USM. Announcement[1]. Th
 [1] http://www.dpreview.com/news/0502/05021703canon_efs60mmmacro.asp
 [2] http://www.dpreview.com/news/0502/05021704canon_eos350d.asp
 [3] http://www.dpreview.com/news/0502/05021713canoneos350dpreview.asp
-[4] http://www.dpreview.com/news/0502/05021405canoneos20da.asp****************************************
+[4] http://www.dpreview.com/news/0502/05021405canoneos20da.asp
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Colin Walters: News Graphic Art <http://verbum.org/blog/random/news-graphic-art>
 
@@ -711,7 +746,8 @@ It's pictures like this which make me wish sometimes I couldbe a graphic artist 
 
 (The article this image attempts to graphically describe is here[1], for the curious.)
 
-[1] http://www.eweek.com/article2/0,1759,1766843,00.asp****************************************
+[1] http://www.eweek.com/article2/0,1759,1766843,00.asp
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Miguel de Icaza: 19 Feb 2005 <http://primates.ximian.com/~miguel/archive/2005/Feb-19.html>
 
@@ -758,13 +794,15 @@ Being very interested in politics, I see this phenomenon as	an interesting windo
 [7] http://pages.infinit.net/ctech/20050216-1213.html
 [8] http://www.RawByte.com
 [9] http://www.mono-project.com/downloads
-[10] http://hula-project.org****************************************
+[10] http://hula-project.org
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Michael Meeks: 2005-02-19: Saturday <http://www.gnome.org/~michael/activity.html#2005-02-19>
 
 Date: Sat Feb 19 12:00:00 UTC 2005
 
-Interesting phone-call in the morning. Lovelypatch for libbonobo on Win32 from Tor - apparently all thetests now pass.	Out to S for breakfast with Miguel &Nat, on to bowling nearby, good to see all the guys, andJacob again. Off to catch the plane - the very last personto check in, a dash to the plane, offered money to getoff etc. Slept a little on the plane, lost a lot of a nightsomewhere here.****************************************
+Interesting phone-call in the morning. Lovelypatch for libbonobo on Win32 from Tor - apparently all thetests now pass.	Out to SS for breakfast with Miguel &Nat, on to bowling nearby, good to see all the guys, andJacob again. Off to catch the plane - the very last personto check in, a dash to the plane, offered money to getoff etc. Slept a little on the plane, lost a lot of a nightsomewhere here.
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Todd Berman: Work. Life. Insanity. <http://off.net/~tberman/diary/archives/003159.html>
 
@@ -777,13 +815,15 @@ In a somewhat work related venue, I have been hacking on stetic a bit, mostly on
 It seems recently that all I do is work, and then sleep. I try to factor in a little bit of time for eating, but even that has had to slide a bit recently. Given our new (refreshingly insane) product goal, I don't see this changing anytime soon. Hopefully soon I will find some time to do the things I enjoy in life, but I'll be damned if I can even remember what they are. I think my current life goal is to quit programming by 27 and start a bar, or pass the bar, or maybe just sleep for 6 hours straight. One of the 3 has to be attainable. Maybe all 3. Only time will really tell, but I know between now and August 15th, the only thing I can think about other than work, is work. Yay for being a mindless drone. Cog in the machine. <insert random bit of bs 'independant thinking' here>.
 
 [1] http://www.mfconsulting.com/blog/
-[2] http://dev.medsphere.com/~tberman/stetic.png****************************************
+[2] http://dev.medsphere.com/~tberman/stetic.png
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Havoc Pennington: Simplifying <http://log.ometer.com/2005-02.html#19>
 
 Date: Sat Feb 19 05:41:25 UTC 2005
 
-Two simpler approaches to the theme thing:Like OS X, just scrap the idea of themes and hardcode anapplication-specific design into each app.Limit the problem to layout. So have a layout widget that looks upthe layout of an entire window from resource files, and allow themes to intercept the lookup to modify the layout.****************************************
+Two simpler approaches to the theme thing:Like OS X, just scrap the idea of themes and hardcode anapplication-specific design into each app.Limit the problem to layout. So have a layout widget that looks upthe layout of an entire window from resource files, and allow themes to intercept the lookup to modify the layout.
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Havoc Pennington: Conferences Finally Over <http://log.ometer.com/2005-02.html#18>
 
@@ -860,7 +900,8 @@ I tried sketching out what the "resource file" and code would containfor GtkButt
 [1] http://freedesktop.org/wiki/Software_2fXDevConf
 [2] http://fedoraproject.org/fudcon/
 [3] http://www.gnome.org/~seth/
-[4] http://lists.freedesktop.org/archives/dbus/2005-February/thread.html****************************************
+[4] http://lists.freedesktop.org/archives/dbus/2005-February/thread.html
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Luis Villa: Fri, 18 Feb 2005 <http://tieguy.org/blog/index.cgi/315>
 
@@ -876,17 +917,19 @@ On non-liveCD matters, I'm beginning to get seriously worried about the length a
 
 [1] http://mail.gnome.org/archives/marketing-list/2005-February/msg00135.html
 [2] http://live.gnome.org/GnomeLiveCd_2fToDo
-[3] http://mail.gnome.org/archives/desktop-devel-list/2005-February/msg00356.html****************************************
+[3] http://mail.gnome.org/archives/desktop-devel-list/2005-February/msg00356.html
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Nat Friedman: 17 February 2005 <http://nat.org/2005/february/#17-February-2005>
 
 Date: Fri Feb 18 23:50:05 UTC 2005
 
-*__*#[1]  "Writing an open source dating system is like opening a vegetarian steakhouse"
-Mike Shaver[2]
+*__* #[1]  "Writing an open source dating system is like opening a vegetarian steakhouse"
+    — Mike Shaver[2]
 
 [1] http://nat.org/2005/february/#17-February-2005
-[2] http://off.net/~shaver/diary****************************************
+[2] http://off.net/~shaver/diary
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Richard Hult: Long live Planner! <http://people.imendio.com/richard/archives/2005/02/long_live_plann.html>
 
@@ -895,25 +938,27 @@ Date: Fri Feb 18 23:34:32 UTC 2005
 Just when I thought I'd never hack on Planner again, I somehow got into fixing some small bug that I noticed when looking at a patch. Then I suddenly had done more Planner hacking in one day than over the last year I think ;) The weirdest part is that I enjoyed it, even though just last month I said that I never wanted to touch it again :)
 
 *Gazpacho*
-I just updated Gazpacho from svn and noticed that Lorenzo et al had been hacking a lot since I last tried it. It's really progressing nicely, I can't wait to be able to use it!****************************************
+I just updated Gazpacho from svn and noticed that Lorenzo et al had been hacking a lot since I last tried it. It's really progressing nicely, I can't wait to be able to use it!
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Thomas Vander Stichele: Computer trouble <http://thomas.apestaart.org/log/index.php?p=274>
 
 Date: Fri Feb 18 23:34:25 UTC 2005
 
-So, a while back I mentioned how I have this computer put together with some new and some old parts that I was having problems with.  The motherboard got replaced twice and still the damned thing wouldnt boot anymore after a few days.	
+So, a while back I mentioned how I have this computer put together with some new and some old parts that I was having problems with.  The motherboard got replaced twice and still the damned thing wouldn’t boot anymore after a few days.	
 
-Since then, I had taken my machine to work to experiment with swapping out pieces with other hardware - processor, memory, video card,  Nothing made my machine do anything other than turn on the motherboard LED and spin up the CPU fan.  No video on the card whatsoever.	
+Since then, I had taken my machine to work to experiment with swapping out pieces with other hardware - processor, memory, video card, … Nothing made my machine do anything other than turn on the motherboard LED and spin up the CPU fan.  No video on the card whatsoever.	
 
-So, time to go back one last time to the store that charged me 30 euro for looking at it and trying to brush me off by saying cables were not connected properly".  Well duh - I tried it with everything disconnected since the hard disk and other stuff is of no concern - just the cables from the power supply to the motherboard.	
+So, time to go back one last time to the store that charged me 30 euro for looking at it and trying to brush me off by saying “cables were not connected properly".  Well duh - I tried it with everything disconnected since the hard disk and other stuff is of no concern - just the cables from the power supply to the motherboard.	
 
-So anyway - I take a cab from work to the store to arrive about half an hour before the stores closing time, only to find the store chooses to close earlier and doesnt allow me to bring in the computer.  If I wasnt a big boy Id have started crying there and then.	
+So anyway - I take a cab from work to the store to arrive about half an hour before the store’s closing time, only to find the store chooses to close earlier and doesn’t allow me to bring in the computer.  If I wasn’t a big boy I’d have started crying there and then.	
 
-Instead, I bought a new stronger power supply from another store next to it - figuring it was the only thing I hadnt really tried a good replacement for and went home.  Put in the new power supply, still no sign of life.	
+Instead, I bought a new stronger power supply from another store next to it - figuring it was the only thing I hadn’t really tried a good replacement for and went home.  Put in the new power supply, still no sign of life.	
 
-So then in desperation (I mean, what can you do if youve swapped every piece of hardware in your machine for another one by one ?), I read through the motherboard manual and came across the section for BIOS reset where it explains how to remove the battery and also short-circuit two pins for ten seconds.  For some reason I decided to give that a go, and what do you know - after doing that the machine booted just fine.	
+So then in desperation (I mean, what can you do if’ you’ve swapped every piece of hardware in your machine for another one by one ?), I read through the motherboard manual and came across the section for BIOS reset where it explains how to remove the battery and also short-circuit two pins for ten seconds.  For some reason I decided to give that a go, and what do you know - after doing that the machine booted just fine.	
 
-I have no explanation for this.  The motherboard was bought new after the last failure, and had worked for about three reboots, and then stopped with similar behaviour as the previous one.  But it leads me to believe that while Id like to think about computers as logical mechanical things you can reason about it, in reality theres always a case to be made for when all else fails, experiment".****************************************
+I have no explanation for this.  The motherboard was bought new after the last failure, and had worked for about three reboots, and then stopped with similar behaviour as the previous one.  But it leads me to believe that while I’d like to think about computers as logical mechanical things you can reason about it, in reality there’s always a case to be made for “when all else fails, experiment".
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Daniel Veillard: 18 Feb 2005 <http://www.advogato.org/person/DV/diary.html?start=184>
 
@@ -947,21 +992,23 @@ I have been pointed to Radio Paradise[3]Internet radio, and have been listening 
 
 [1] http://www.lemonde.fr/web/article/0,1-0@2-3244,36-398497,0.html
 [2] http://people.redhat.com/markmc/sabayon/
-[3] http://www.radioparadise.com/****************************************
+[3] http://www.radioparadise.com/
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Jamin Philip Gray: Switched to WordPress <http://pubcrawler.org/2005/02/18/switched-to-wordpress/>
 
 Date: Fri Feb 18 16:58:34 UTC 2005
 
-Well I finally got rid of Movable Type[1] and made the switch to WordPress[2].  I evaluated WordPress 1.4 and wasnt terribly impressed but WordPress 1.5[3] is slick.  It only took me about 8 minutes to download, install, and import my MT entries.  There are some broken links and that sort of thing, but overall, it went smoothly.  If you notice any problems, let me know.  	
+Well I finally got rid of Movable Type[1] and made the switch to WordPress[2].  I evaluated WordPress 1.4 and wasn’t terribly impressed but WordPress 1.5[3] is slick.  It only took me about 8 minutes to download, install, and import my MT entries.  There are some broken links and that sort of thing, but overall, it went smoothly.  If you notice any problems, let me know.  	
 
-I really like the default theme, but Im making some minor tweaks to it.  Stay tuned	
+I really like the default theme, but I’m making some minor tweaks to it.  Stay tuned…	
 
-Unfortunately I had to remove the blogs I was hosting for friends.     Im hoping theyll move to a hosted blogging service because I always enjoy reading what my friends write.	
+Unfortunately I had to remove the blogs I was hosting for friends.     I’m hoping they’ll move to a hosted blogging service because I always enjoy reading what my friends write.	
 
 [1] http://movabletype.org
 [2] http://wordpress.org
-[3] http://wordpress.org/development/2005/02/strayhorn/****************************************
+[3] http://wordpress.org/development/2005/02/strayhorn/
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Ronald Bultje: 18 Feb 2005 <http://www.advogato.org/person/rbultje/diary.html?start=88>
 
@@ -987,7 +1034,8 @@ The rest of friday was spent on discussing both approaches, fetching problems, s
 
 Next few days, we'll be experimenting with the design and implement all of the above. We will also discuss various directions for gst-plugins that are not directly related to GStreamer core. For the near future, we will work on preparing core to become the 0.9 branch, port the various subsystems from -threaded and -noblock/async over to this 0.9 branch (and have various people understand and review this), write a porting guide, remove deprecated code, write reference plugin implementations, updating documentation and porting plugins. From then on, we hopefully rock.
 
-Time for beer. :).****************************************
+Time for beer. :).
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: John Fleck: Hockey Stick for Dummies <http://www.inkstain.net/fleck/archives/001569.html>
 
@@ -996,7 +1044,8 @@ Date: Fri Feb 18 16:18:04 UTC 2005
 Gavin and Caspar at RealClimate give the best explanation I've yet read[1] about how principal components analysis works, and how it is applied in the discussion over Michael Mann's hockey stick[2].
 
 [1] http://www.realclimate.org/index.php?p=121
-[2] http://www.realclimate.org/index.php?p=7****************************************
+[2] http://www.realclimate.org/index.php?p=7
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Luis Villa: Fri, 18 Feb 2005 <http://tieguy.org/blog/index.cgi/314>
 
@@ -1006,7 +1055,8 @@ I am sooo wiped today. I was supposed to go to fudcon[1], and I still might try 
 
 LWE in general was awesome- lots of happy GNOME users stopped by and said thanks, got to meet some new faces, see some slightly less new faces, and lots of old faces, of course. Will write more at some point after I'm recovered :)
 
-[1] http://fedoraproject.org/fudcon/****************************************
+[1] http://fedoraproject.org/fudcon/
+****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Hubert Figuiere: F-Spot and libgphoto2 <http://www.figuiere.net/hub/blog/?2005/02/18/96-f-spot-and-libgphoto2>
 

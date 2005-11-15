@@ -34,7 +34,7 @@ module FeedParser
       s += "Creator: #{@creator}\n"
       s += "\n"
       @items.each do |i|
-        s += '*' * 40 + "\n"
+        s += "\n" + '*' * 40 + "\n"
         s += i.to_text
       end
       s

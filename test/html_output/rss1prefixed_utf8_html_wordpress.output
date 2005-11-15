@@ -1,8 +1,27 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><body><p>Type: rss<br>Encoding: UTF-8<br>Title: David Baron's Weblog<br>Link: http://dbaron.org/log/<br>Description: David Baron's weblog<br>Creator: </p>
-****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-10#e20041002a">Political spectra</a>
-<br/>Date: Sat Oct 02 07:42:00 UTC 2004<br/>Author: David Baron</p><p><p xmlns="http://www.w3.org/1999/xhtml">Since politics is (are?) on my mind lately, I want to point out
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<body>
+<p>Type: rss<br>
+Encoding: UTF-8<br>
+Title: David Baron's Weblog<br>
+Link: http://dbaron.org/log/<br>
+Description: David Baron's weblog<br>
+Creator: </p>
+
+
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-10#e20041002a">
+Political spectra
+</a>
+
+<br/>Date: Sat Oct 02 07:42:00 UTC 2004
+<br/>Author: David Baron
+</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Since politics is (are?) on my mind lately, I want to point out
 an interesting site, <a shape="rect" href="http://politics.beasts.org/">Political
 Survey</a>, which I first discovered when <a shape="rect" href="http://www.meyerweb.com/eric/thoughts/2004/02/02/mapping-things-out/">Eric
 Meyer pointed it out</a> back in February.</p>
@@ -19,10 +38,20 @@ axis.</p>
 results were similar:  I was in the left/pragmatic <a shape="rect" href="http://politics.beasts.org/scripts/eigenvectors">quadrant</a> both
 times.  (In February, I was -4.08 on right/left and +5.17 on
 pragmatic/idealistic.  Today I was -3.63 on right/left and +4.65 on
-pragmatic/idealistic.)</p></p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-09#e20040922a">A few (technical) thoughts</a>
-<br/>Date: Wed Sep 22 07:48:00 UTC 2004<br/>Author: David Baron</p><p><ul xmlns="http://www.w3.org/1999/xhtml">
+pragmatic/idealistic.)</p></body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-09#e20040922a">
+A few (technical) thoughts
+</a>
+
+<br/>Date: Wed Sep 22 07:48:00 UTC 2004
+<br/>Author: David Baron
+</p>
+<ul xmlns="http://www.w3.org/1999/xhtml">
 
 <li>My 1GB DIMM arrived Monday, and it works fine.  With memory prices
 these days, getting that is much easier than worrying about fixing a bad
@@ -47,10 +76,20 @@ also some unneeded vtables.  And maybe a good bit of other stuff.
 (gcc could probably be a little better, but it's really a job for the
 linker.)</li>
 
-</ul></p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-09#e20040911a">Bad memory</a>
-<br/>Date: Sat Sep 11 19:14:00 UTC 2004<br/>Author: David Baron</p><p><p xmlns="http://www.w3.org/1999/xhtml">So this morning I was getting annoyed at the small amount of RAM in
+</ul></body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-09#e20040911a">
+Bad memory
+</a>
+
+<br/>Date: Sat Sep 11 19:14:00 UTC 2004
+<br/>Author: David Baron
+</p>
+<p xmlns="http://www.w3.org/1999/xhtml">So this morning I was getting annoyed at the small amount of RAM in
 my laptop.  Since I recently (after having the laptop for over a year)
 got Linux to use my CPU at full speed instead of half speed (by adding
 <code>DEVICE=&quot;acpi&quot;</code> to <code>/etc/cpuspeed.conf</code>), memory
@@ -72,10 +111,20 @@ Dell will honor the warranty after I've installed Linux).</p>
 
 <p xmlns="http://www.w3.org/1999/xhtml">I really need a better memory of what I ordered.  Or better memory.
 Or something.  But maybe I'll at least remember not to order laptops
-from Dell again.</p></p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-08#e20040830a">Weblog feed</a>
-<br/>Date: Tue Aug 31 05:48:00 UTC 2004<br/>Author: David Baron</p><p><p xmlns="http://www.w3.org/1999/xhtml">Reading the <a shape="rect" href="http://www.mozilla.org/webtools/bonsai/cvsblame.cgi?file=mozilla-org/tools/feed2html.xsl&amp;rev=1.1.2.2&amp;cvsroot=/cvsroot">XSLT
+from Dell again.</p></body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-08#e20040830a">
+Weblog feed
+</a>
+
+<br/>Date: Tue Aug 31 05:48:00 UTC 2004
+<br/>Author: David Baron
+</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Reading the <a shape="rect" href="http://www.mozilla.org/webtools/bonsai/cvsblame.cgi?file=mozilla-org/tools/feed2html.xsl&amp;rev=1.1.2.2&amp;cvsroot=/cvsroot">XSLT
 used</a> for the newsfeed on the <a shape="rect" href="http://website-beta.mozilla.org/">new mozilla.org webpage</a>
 inspired me to finish a project I started <a shape="rect" href="http://dbaron.org/log/2003-09#e20030909a">quite a while
 ago</a>—making an RSS feed for this weblog.  After reading the one
@@ -92,10 +141,20 @@ tree fragment</a> bound to a variable, as the source tree for an
 additional transformation).  I worked around the problem using a named
 template and <code><a shape="rect" href="http://www.w3.org/TR/1999/REC-xslt-19991116#section-Result-Tree-Fragments">xsl:call-template</a></code>.
 At least I think it's something XSLT can't do—at least I couldn't
-see how in the spec.</p></p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-06#e20040621a">Intranet mode?</a>
-<br/>Date: Mon Jun 21 21:41:00 UTC 2004<br/>Author: David Baron</p><p><p xmlns="http://www.w3.org/1999/xhtml">If Microsoft is
+see how in the spec.</p></body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-06#e20040621a">
+Intranet mode?
+</a>
+
+<br/>Date: Mon Jun 21 21:41:00 UTC 2004
+<br/>Author: David Baron
+</p>
+<p xmlns="http://www.w3.org/1999/xhtml">If Microsoft is
 <a shape="rect" href="http://blogs.msdn.com/dmassy/archive/2004/06/16/157263.aspx">going
 to develop IE again</a>, I challenge them to move most of
 their non-standard behavior out of quirks mode and into an “Intranet
@@ -109,150 +168,600 @@ government “Intranets” is a perfectly good reason to want to
 produce software that continues to display such sites, but it's no
 reason to inflict such software on the Web.  This would make IE's
 handling of most web pages much more standard and lessen one of the main
-ways IE's near-monopoly discourages competition.</p></p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-06#e20040609a">The W3C</a>
-<br/>Date: Thu Jun 10 00:06:00 UTC 2004<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-06#e20040607a">More about the workshop</a>
-<br/>Date: Mon Jun 07 19:01:00 UTC 2004<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-06#e20040604a">Travel & Meetings</a>
-<br/>Date: Fri Jun 04 22:47:00 UTC 2004<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-05#e20040527a">No exit?</a>
-<br/>Date: Thu May 27 22:51:00 UTC 2004<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-05#e20040513a">Fragmentation of document formats on the Web</a>
-<br/>Date: Thu May 13 18:30:00 UTC 2004<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-04#e20040419a">Monterey County Coast</a>
-<br/>Date: Tue Apr 20 05:54:00 UTC 2004<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-03#e20040301a">Snow in Mandelieu</a>
-<br/>Date: Mon Mar 01 17:37:00 UTC 2004<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-02#e20040203a">States I've visited</a>
-<br/>Date: Tue Feb 03 08:13:00 UTC 2004<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2004-01#e20040129a">The man to beat bush?</a>
-<br/>Date: Thu Jan 29 20:01:00 UTC 2004<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-11#e20031126a">Don't run away from tables</a>
-<br/>Date: Thu Nov 27 01:17:00 UTC 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-10#e20031007a">The good news</a>
-<br/>Date: Wed Oct 08 06:24:00 UTC 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-09#e20030914a">Mozilla Firebird, part 2</a>
-<br/>Date: Sun Sep 14 19:29:00 UTC 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-09#e20030909d">Election 2004: The Albuquerque debate</a>
-<br/>Date: Wed Sep 10 05:15:00 UTC 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-09#e20030909c">Mozilla Firebird</a>
-<br/>Date: Wed Sep 10 04:39:00 UTC 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-09#e20030909b">Israel and Palestine</a>
-<br/>Date: Wed Sep 10 04:02:00 UTC 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-09#e20030909a">My blog</a>
-<br/>Date: Wed Sep 10 03:41:00 UTC 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-08#l20030831">I wrote a letter to the New York
-Times ...</a>
-<br/>Date: Sun Aug 31 00:00:00 CEST 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-08#l20030813">The CSS3
-syntax module draft was publis...</a>
-<br/>Date: Wed Aug 13 00:00:00 CEST 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-08#l20030806">More on my new laptop.  I don't
-think I...</a>
-<br/>Date: Wed Aug 06 00:00:00 CEST 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-07#l20030731">Fun with sendmail!  More later on my
-ne...</a>
-<br/>Date: Thu Jul 31 00:00:00 CEST 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-07#l20030716">I'm amused that when the President of t...</a>
-<br/>Date: Wed Jul 16 00:00:00 CEST 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-06#l20030609">It's rally annoying whn th E ky on my k...</a>
-<br/>Date: Mon Jun 09 00:00:00 CEST 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-06#l20030604">My reading lately has consisted of read...</a>
-<br/>Date: Wed Jun 04 00:00:00 CEST 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-05#l20030523">So I've been in California for over a m...</a>
-<br/>Date: Fri May 23 00:00:00 CEST 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-04#l20030426">I lost a day's worth of dbaron.org emai...</a>
-<br/>Date: Sat Apr 26 00:00:00 CEST 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-04#l20030414">I'm moving to California on Wednesday a...</a>
-<br/>Date: Mon Apr 14 00:00:00 CEST 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-03#l20030329">The lack of UI for strict focus-follows...</a>
-<br/>Date: Sat Mar 29 00:00:00 CET 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-03#l20030314">I'm one of those tcsh users who's alway...</a>
-<br/>Date: Fri Mar 14 00:00:00 CET 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-03#l20030308">It's March now, and we're beginning to ...</a>
-<br/>Date: Sat Mar 08 00:00:00 CET 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-02#l20030213">For those of you who don't have the fun...</a>
-<br/>Date: Thu Feb 13 00:00:00 CET 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-02#l20030210">I've seen a bunch of good movies recent...</a>
-<br/>Date: Mon Feb 10 00:00:00 CET 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-02#l20030202">I've done a few neat hacks with X-Remot...</a>
-<br/>Date: Sun Feb 02 00:00:00 CET 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-01#l20030129">In the fun with old hardware category.....</a>
-<br/>Date: Wed Jan 29 00:00:00 CET 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-01#l20030112">Just for the record, I was exaggerating...</a>
-<br/>Date: Sun Jan 12 00:00:00 CET 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2003-01#l20030109">Since everyone else (hyatt,
-shaver, jwz...</a>
-<br/>Date: Thu Jan 09 00:00:00 CET 2003<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2002-12#l20021221">I obeyed his instructions ten minutes ...</a>
-<br/>Date: Sat Dec 21 00:00:00 CET 2002<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2002-12#l20021215">something I
-need to remember more often...</a>
-<br/>Date: Sun Dec 15 00:00:00 CET 2002<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2002-12#l20021214">Judging from his December 12
-entry, Hix...</a>
-<br/>Date: Sat Dec 14 00:00:00 CET 2002<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2002-12#l20021211">If you thought discrimination was a thi...</a>
-<br/>Date: Wed Dec 11 00:00:00 CET 2002<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2002-12#l20021203">It's too cold outside.  To be exact, it...</a>
-<br/>Date: Tue Dec 03 00:00:00 CET 2002<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2002-11#l20021128">[18:53:10] <Bandit> Hi all
-[18:55:05] ...</a>
-<br/>Date: Thu Nov 28 00:00:00 CET 2002<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2002-11#l20021124">The concert on
-Friday night went well, ...</a>
-<br/>Date: Sun Nov 24 00:00:00 CET 2002<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2002-11#l20021121">It's nice to wake up in the morning and...</a>
-<br/>Date: Thu Nov 21 00:00:00 CET 2002<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2002-11#l20021115">The New York Times is
+ways IE's near-monopoly discourages competition.</p></body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-06#e20040609a">
+The W3C
+</a>
+
+<br/>Date: Thu Jun 10 00:06:00 UTC 2004
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-06#e20040607a">
+More about the workshop
+</a>
+
+<br/>Date: Mon Jun 07 19:01:00 UTC 2004
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-06#e20040604a">
+Travel & Meetings
+</a>
+
+<br/>Date: Fri Jun 04 22:47:00 UTC 2004
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-05#e20040527a">
+No exit?
+</a>
+
+<br/>Date: Thu May 27 22:51:00 UTC 2004
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-05#e20040513a">
+Fragmentation of document formats on the Web
+</a>
+
+<br/>Date: Thu May 13 18:30:00 UTC 2004
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-04#e20040419a">
+Monterey County Coast
+</a>
+
+<br/>Date: Tue Apr 20 05:54:00 UTC 2004
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-03#e20040301a">
+Snow in Mandelieu
+</a>
+
+<br/>Date: Mon Mar 01 17:37:00 UTC 2004
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-02#e20040203a">
+States I've visited
+</a>
+
+<br/>Date: Tue Feb 03 08:13:00 UTC 2004
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2004-01#e20040129a">
+The man to beat bush?
+</a>
+
+<br/>Date: Thu Jan 29 20:01:00 UTC 2004
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-11#e20031126a">
+Don't run away from tables
+</a>
+
+<br/>Date: Thu Nov 27 01:17:00 UTC 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-10#e20031007a">
+The good news
+</a>
+
+<br/>Date: Wed Oct 08 06:24:00 UTC 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-09#e20030914a">
+Mozilla Firebird, part 2
+</a>
+
+<br/>Date: Sun Sep 14 19:29:00 UTC 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-09#e20030909d">
+Election 2004: The Albuquerque debate
+</a>
+
+<br/>Date: Wed Sep 10 05:15:00 UTC 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-09#e20030909c">
+Mozilla Firebird
+</a>
+
+<br/>Date: Wed Sep 10 04:39:00 UTC 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-09#e20030909b">
+Israel and Palestine
+</a>
+
+<br/>Date: Wed Sep 10 04:02:00 UTC 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-09#e20030909a">
+My blog
+</a>
+
+<br/>Date: Wed Sep 10 03:41:00 UTC 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-08#l20030831">
+I wrote a letter to the New York
+Times ...
+</a>
+
+<br/>Date: Sun Aug 31 00:00:00 CEST 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-08#l20030813">
+The CSS3
+syntax module draft was publis...
+</a>
+
+<br/>Date: Wed Aug 13 00:00:00 CEST 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-08#l20030806">
+More on my new laptop.  I don't
+think I...
+</a>
+
+<br/>Date: Wed Aug 06 00:00:00 CEST 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-07#l20030731">
+Fun with sendmail!  More later on my
+ne...
+</a>
+
+<br/>Date: Thu Jul 31 00:00:00 CEST 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-07#l20030716">
+I'm amused that when the President of t...
+</a>
+
+<br/>Date: Wed Jul 16 00:00:00 CEST 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-06#l20030609">
+It's rally annoying whn th E ky on my k...
+</a>
+
+<br/>Date: Mon Jun 09 00:00:00 CEST 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-06#l20030604">
+My reading lately has consisted of read...
+</a>
+
+<br/>Date: Wed Jun 04 00:00:00 CEST 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-05#l20030523">
+So I've been in California for over a m...
+</a>
+
+<br/>Date: Fri May 23 00:00:00 CEST 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-04#l20030426">
+I lost a day's worth of dbaron.org emai...
+</a>
+
+<br/>Date: Sat Apr 26 00:00:00 CEST 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-04#l20030414">
+I'm moving to California on Wednesday a...
+</a>
+
+<br/>Date: Mon Apr 14 00:00:00 CEST 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-03#l20030329">
+The lack of UI for strict focus-follows...
+</a>
+
+<br/>Date: Sat Mar 29 00:00:00 CET 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-03#l20030314">
+I'm one of those tcsh users who's alway...
+</a>
+
+<br/>Date: Fri Mar 14 00:00:00 CET 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-03#l20030308">
+It's March now, and we're beginning to ...
+</a>
+
+<br/>Date: Sat Mar 08 00:00:00 CET 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-02#l20030213">
+For those of you who don't have the fun...
+</a>
+
+<br/>Date: Thu Feb 13 00:00:00 CET 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-02#l20030210">
+I've seen a bunch of good movies recent...
+</a>
+
+<br/>Date: Mon Feb 10 00:00:00 CET 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-02#l20030202">
+I've done a few neat hacks with X-Remot...
+</a>
+
+<br/>Date: Sun Feb 02 00:00:00 CET 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-01#l20030129">
+In the fun with old hardware category.....
+</a>
+
+<br/>Date: Wed Jan 29 00:00:00 CET 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-01#l20030112">
+Just for the record, I was exaggerating...
+</a>
+
+<br/>Date: Sun Jan 12 00:00:00 CET 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2003-01#l20030109">
+Since everyone else (hyatt,
+shaver, jwz...
+</a>
+
+<br/>Date: Thu Jan 09 00:00:00 CET 2003
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2002-12#l20021221">
+I obeyed his instructions ten minutes ...
+</a>
+
+<br/>Date: Sat Dec 21 00:00:00 CET 2002
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2002-12#l20021215">
+something I
+need to remember more often...
+</a>
+
+<br/>Date: Sun Dec 15 00:00:00 CET 2002
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2002-12#l20021214">
+Judging from his December 12
+entry, Hix...
+</a>
+
+<br/>Date: Sat Dec 14 00:00:00 CET 2002
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2002-12#l20021211">
+If you thought discrimination was a thi...
+</a>
+
+<br/>Date: Wed Dec 11 00:00:00 CET 2002
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2002-12#l20021203">
+It's too cold outside.  To be exact, it...
+</a>
+
+<br/>Date: Tue Dec 03 00:00:00 CET 2002
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2002-11#l20021128">
+[18:53:10] <Bandit> Hi all
+[18:55:05] ...
+</a>
+
+<br/>Date: Thu Nov 28 00:00:00 CET 2002
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2002-11#l20021124">
+The concert on
+Friday night went well, ...
+</a>
+
+<br/>Date: Sun Nov 24 00:00:00 CET 2002
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2002-11#l20021121">
+It's nice to wake up in the morning and...
+</a>
+
+<br/>Date: Thu Nov 21 00:00:00 CET 2002
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2002-11#l20021115">
+The New York Times is
 	reporting
-	tha...</a>
-<br/>Date: Fri Nov 15 00:00:00 CET 2002<br/>Author: David Baron</p></body></html>****************************************
-<p>Feed: <a href="http://dbaron.org/log/">David Baron's Weblog</a><br/>
-Item: <a href="http://dbaron.org/log/2002-09#l20020914">So some people think I should have a we...</a>
-<br/>Date: Sat Sep 14 00:00:00 CEST 2002<br/>Author: David Baron</p></body></html>
+	tha...
+</a>
+
+<br/>Date: Fri Nov 15 00:00:00 CET 2002
+<br/>Author: David Baron
+</p>
+</body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://dbaron.org/log/">
+David Baron's Weblog
+</a>
+<br/>
+Item: <a href="http://dbaron.org/log/2002-09#l20020914">
+So some people think I should have a we...
+</a>
+
+<br/>Date: Sat Sep 14 00:00:00 CEST 2002
+<br/>Author: David Baron
+</p>
+</body></html>

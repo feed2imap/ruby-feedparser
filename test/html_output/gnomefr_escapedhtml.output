@@ -1,14 +1,41 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><body><p>Type: rss<br>Encoding: UTF-8<br>Title: Planète GNOME-FR<br>Link: http://planete.gnomefr.org/<br>Description: Planète GNOME-FR - http://planete.gnomefr.org/<br>Creator: </p>
-****************************************
-<p>Feed: <a href="http://planete.gnomefr.org/">Planète GNOME-FR</a><br/>
-Item: <a href="http://members.cox.net/vnoel/weblog/2005/09/i-might-need-some-supplies.html">Vincent Noel: I might need some supplies</a>
-<br/>Date: Wed Sep 14 22:21:47 CEST 2005</p><p><div>How are you supposed to trust these guys ?<img src="http://members.cox.net/vnoel/weblog/uploaded_images/Screenshot-Flight%20Details-798819.png" />
-</div></p></body></html>****************************************
-<p>Feed: <a href="http://planete.gnomefr.org/">Planète GNOME-FR</a><br/>
-Item: <a href="http://members.cox.net/vnoel/weblog/2005/09/nautilus-and-gworkspace.html">Vincent Noel: nautilus and gworkspace</a>
-<br/>Date: Wed Sep 14 21:15:01 CEST 2005</p><p><div>Is it my imagination or is nautilus, with every release, getting closer to the interface of <a href="http://www.gnustep.it/enrico/gworkspace/">GWorkspace</a> ?<blockquote>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<body>
+<p>Type: rss<br>
+Encoding: UTF-8<br>
+Title: Planète GNOME-FR<br>
+Link: http://planete.gnomefr.org/<br>
+Description: Planète GNOME-FR - http://planete.gnomefr.org/<br>
+Creator: </p>
+
+
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://planete.gnomefr.org/">
+Planète GNOME-FR
+</a>
+<br/>
+Item: <a href="http://members.cox.net/vnoel/weblog/2005/09/i-might-need-some-supplies.html">
+Vincent Noel: I might need some supplies
+</a>
+
+<br/>Date: Wed Sep 14 22:21:47 CEST 2005
+</p>
+<div>How are you supposed to trust these guys ?<img src="http://members.cox.net/vnoel/weblog/uploaded_images/Screenshot-Flight%20Details-798819.png" />
+</div></body></html>
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://planete.gnomefr.org/">
+Planète GNOME-FR
+</a>
+<br/>
+Item: <a href="http://members.cox.net/vnoel/weblog/2005/09/nautilus-and-gworkspace.html">
+Vincent Noel: nautilus and gworkspace
+</a>
+
+<br/>Date: Wed Sep 14 21:15:01 CEST 2005
+</p>
+<div>Is it my imagination or is nautilus, with every release, getting closer to the interface of <a href="http://www.gnustep.it/enrico/gworkspace/">GWorkspace</a> ?<blockquote>
 <a href="http://www.gnome.org/~vnoel/screenshots/nautilus_gworkspace.png">
 <img src="http://www.gnome.org/~vnoel/screenshots/nautilus_gworkspace_small.png" />
 </a>
 </blockquote>
-<br />Everything is there : the "places" (vertical in nautilus and horizontal in GWorkspace), the path bar (thankfully scaled down, but the idea is the same), the icon/list views... Of course, I guess inspiration mostly comes from the MacOS X rework of GWorkspace, but it's weird to think that this UI has been there for years, just waiting for somebody to pimp it up.<br />Now there is just the <a href="http://actsofvolition.com/images/screenshots/next-column-view.png">column view</a> left to implement, and we'll be at 1:1 features ratio (although with good drag-n-drop management the current path bar could replace that view in most of the cases).</div></p></body></html>
+<br />Everything is there : the "places" (vertical in nautilus and horizontal in GWorkspace), the path bar (thankfully scaled down, but the idea is the same), the icon/list views... Of course, I guess inspiration mostly comes from the MacOS X rework of GWorkspace, but it's weird to think that this UI has been there for years, just waiting for somebody to pimp it up.<br />Now there is just the <a href="http://actsofvolition.com/images/screenshots/next-column-view.png">column view</a> left to implement, and we'll be at 1:1 features ratio (although with good drag-n-drop management the current path bar could replace that view in most of the cases).</div></body></html>

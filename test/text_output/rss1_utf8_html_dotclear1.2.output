@@ -5,6 +5,7 @@ Link: http://alexx.ikse.org/blog
 Description: De tout et de rien, mais surtout de rien
 Creator: 
 
+
 ****************************************
 Feed: Alexx'Blog <http://alexx.ikse.org/blog>
 Item: .node launched <http://alexx.ikse.org/blog?2004/06/18/6-node-launched>
@@ -38,7 +39,8 @@ Une version 1.1 apportera réélement de grosses nouveautés par rapport à ce q
 [9] http://linux.org
 [10] http://mysql.com
 [11] http://php.net
-[12] http://alexx.dotnode.com****************************************
+[12] http://alexx.dotnode.com
+****************************************
 Feed: Alexx'Blog <http://alexx.ikse.org/blog>
 Item: SideBar Generator 2... <http://alexx.ikse.org/blog?2004/04/08/5-sidebar-generator-2>
 
@@ -58,7 +60,8 @@ La validation XHTML1.1 est passé sans problème (il y avait 2-3 GROS bug de deb
 Amusez-vous bien, et n'hésitez pas à me remonter des RSS interessant :)
 
 NB: Il semble qu'il y ai un pb de parse pour linuxfr.org ... il semblerait qu'il manque <![CDATA[ pour encadrer la 'description', afin que les balises HTML passent correctement, au lieu d'arreter le parsing.
-NB2: Ca ne passe plus la validation XHTML1.1, car j'ai du ajouter un attribut target au lien pour que ceux-ci s'ouvre bien dans la partie principal du browser et non dans la sidebar (Vu sur Mozilla 1.6 et 1.7B, mais fonctionnait 'normalement' sur FireBird0.8... a moins que ce ne soit FireFird le mauvais élève ;) )****************************************
+NB2: Ca ne passe plus la validation XHTML1.1, car j'ai du ajouter un attribut target au lien pour que ceux-ci s'ouvre bien dans la partie principal du browser et non dans la sidebar (Vu sur Mozilla 1.6 et 1.7B, mais fonctionnait 'normalement' sur FireBird0.8... a moins que ce ne soit FireFird le mauvais élève ;) )
+****************************************
 Feed: Alexx'Blog <http://alexx.ikse.org/blog>
 Item: IE respecte les normes W3C les plus récentes <http://alexx.ikse.org/blog?2004/03/24/4-ie-respecte-les-normes-w3c-les-plus-recentes>
 
@@ -78,7 +81,8 @@ Mais je n'ai pas reussi a isoler le pb :/
 
 Si vous avez des pistes ....
 
-[1] http://iebug.ikse.org****************************************
+[1] http://iebug.ikse.org
+****************************************
 Feed: Alexx'Blog <http://alexx.ikse.org/blog>
 Item: Re: Google censuré par la république bananière Française ! <http://alexx.ikse.org/blog?2004/03/23/3-re-google-censure-par-la-republique-bananiere-francaise>
 
@@ -96,7 +100,8 @@ A bon entendeur ...
 [1] http://linuxfr.org
 [2] http://linuxfr.org/~manchot/10802.html
 [3] http://linuxfr.org/comments/377316.html
-[4] http://linuxfr.org/comments/377319.html****************************************
+[4] http://linuxfr.org/comments/377319.html
+****************************************
 Feed: Alexx'Blog <http://alexx.ikse.org/blog>
 Item: Créer ses propres Panels/SideBars à partir de RSS/RDF <http://alexx.ikse.org/blog?2004/03/09/2-creer-ses-propres-panelssidebars-a-partir-de-rssrdf>
 
@@ -121,7 +126,8 @@ Tout les commentaires seront les bienvenu ....
 Il y a sans doute des bugs (c'est obligatoire pour un truc programmer en 15 minutes à l'arrache ;) ), merci de me les rapporter si vous en croisez un.
 Si vous avez des RSS/RDF interessant, ca peut-etre sympa de mettre ca en commentaire :)
 
-[1] http://alexx.ikse.org/?p=create****************************************
+[1] http://alexx.ikse.org/?p=create
+****************************************
 Feed: Alexx'Blog <http://alexx.ikse.org/blog>
 Item: SCO Connerie Observée (notez la recursion ;) ) <http://alexx.ikse.org/blog?2004/01/31/1-sco-connerie-observee-notez-la-recursion>
 

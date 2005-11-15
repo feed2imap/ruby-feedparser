@@ -5,6 +5,7 @@ Link: http://jroller.com/page/akarasulu
 Description: Alex Karasulu's Weblog
 Creator: 
 
+
 ****************************************
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: Another victory for svn <http://jroller.com/page/akarasulu/20040330#another_victory_for_svn>
@@ -13,7 +14,8 @@ Date: Tue Mar 30 18:39:55 CEST 2004
 Author: Alex Karasulu
 Category: General
 
-Today I resusitated a file in subversion.  I thought it was cool although its not a big deal.  However what was cool was getting help from the original authors on it.  I think people should rething the support issue for svn its definately growing strong from what I can see.****************************************
+Today I resusitated a file in subversion.  I thought it was cool although its not a big deal.  However what was cool was getting help from the original authors on it.  I think people should rething the support issue for svn its definately growing strong from what I can see.
+****************************************
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: Notification pattern has interesting effect on IoC <http://jroller.com/page/akarasulu/20040217#notification_pattern_has_interesting_effect>
 
@@ -25,7 +27,8 @@ While looking at the frontend of the Eve server I began to realize a trend emerg
 
 So the dependency graph turns into a star with all components depending on the event router, hub, bus or whatever you call it in the center.  Event types and interfaces essentially become the dependency as opposed to the service interfaces.  This way the introduction of new subscribers and publishers.  Also the dynamic rerouting of events are possible at runtime.  What this means is the dependencies between components can change on the fly!  Wow not a bad thang.
 
-What does this mean for service interfaces?  Well they start looking bleak because the Subscriber interface replaces them.  Basically methods are called internally by the Subscriber handling code on the component itself rather than exposing them on the service interface for direct calls by what are now publishers.  This is crazy my service interfaces are all empty now!****************************************
+What does this mean for service interfaces?  Well they start looking bleak because the Subscriber interface replaces them.  Basically methods are called internally by the Subscriber handling code on the component itself rather than exposing them on the service interface for direct calls by what are now publishers.  This is crazy my service interfaces are all empty now!
+****************************************
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: Groovy dude is on a roll <http://jroller.com/page/akarasulu/20040212#groovy_dude_is_on_a>
 
@@ -41,7 +44,8 @@ Was also thinking of a GroovyJndi package.  This would be most excellent when em
 
 Perhaps if someone does not implement the GroovyJndi package itmight be a way I can add my $0.02 to it and be Groovy too :-).
 
-[1] http://groovy.codehaus.org/****************************************
+[1] http://groovy.codehaus.org/
+****************************************
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: Eve formerly know as LDAPd has been accepted to Apache Incubator <http://jroller.com/page/akarasulu/20031030#eve_formerly_know_as_ldapd>
 
@@ -51,7 +55,8 @@ Category: General
 
 Eve the LDAP server formerly known as LDAPd has just been accepted last week into the incubator under the Apache Directory top level project.  Eve will be the flagship server for that Apache Directory TLP upon matriculation from the incubator.
 
-Thanks to all those that made it happen!****************************************
+Thanks to all those that made it happen!
+****************************************
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: Got committer status on Avalon <http://jroller.com/page/akarasulu/20031030#got_committer_status_on_avalon>
 
@@ -61,7 +66,8 @@ Category: General
 
 Yesterday I got voted practically unanimously to join the Avalon team as a committer. I was very excited to get the warm welcome from those guys.  I hope to do my best to further the cause there.
 
-I am especially excited to be working on getting Merlin to a generally embeddible state.  That is the subject of my first set of changes.  I'm very excited and happy to see things comming along.****************************************
+I am especially excited to be working on getting Merlin to a generally embeddible state.  That is the subject of my first set of changes.  I'm very excited and happy to see things comming along.
+****************************************
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: LDAPd Project Started Oct 16th 2002 <http://jroller.com/page/akarasulu/20031015#ldapd_project_started_oct_16th>
 

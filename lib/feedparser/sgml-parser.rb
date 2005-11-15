@@ -8,8 +8,8 @@ module FeedParser
                                 '<([a-zA-Z][^<>]*|/([a-zA-Z][^<>]*)?|' +
                                 '![^<>]*)?')
 
-    Entityref = /&([a-zA-Z][-.a-zA-Z0-9]*)[^-.a-zA-Z0-9]/
-    Charref = /&#([0-9]+)[^0-9]/
+    Entityref = /&([a-zA-Z][-.a-zA-Z0-9]*);/
+    Charref = /&#([0-9]+);/
 
     Starttagopen = /<[>a-zA-Z]/
     Endtagopen = /<\/[<>a-zA-Z]/
@@ -293,7 +293,7 @@ module FeedParser
     end
 
     def handle_charref(name)
-      n = Integer(name)
+      n = name.to_i
       if !(0 <= n && n <= 255)
         unknown_charref(name)
         return

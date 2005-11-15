@@ -1,0 +1,34 @@
+Type: rss
+Encoding: UTF-8
+Title: Normalization
+Link: http://alexx.ikse.org/blog
+Description: Paf
+Creator: 
+
+--------------------------------
+Title: content:encoded
+Link: 
+Date: 
+Creator: 
+Subject: 
+Category: 
+Content:
+<p>Ceci est test&eacute;&#xc3a9;&#141651;. Je parle d'&lt;html&gt;.</p>
+--------------------------------
+Title: HTML direct
+Link: 
+Date: 
+Creator: 
+Subject: 
+Category: 
+Content:
+<p>Ceci est test&eacute;&#xc3a9;&#141651;. Je parle d'&lt;html&gt;.</p>
+--------------------------------
+Title: Escaped
+Link: 
+Date: 
+Creator: 
+Subject: 
+Category: 
+Content:
+<p>Ceci est test&eacute;&#xc3a9;&#141651;. Je parle d'&lt;html&gt;.</p>

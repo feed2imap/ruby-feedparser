@@ -1,8 +1,28 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><body><p>Type: rss<br>Encoding: UTF-8<br>Title: The Observation Deck<br>Link: http://blogs.sun.com/roller/page/bmc<br>Description: Views on software from Bryan Cantrill's deck chair<br>Creator: </p>
-****************************************
-<p>Feed: <a href="http://blogs.sun.com/roller/page/bmc">The Observation Deck</a><br/>
-Item: <a href="http://blogs.sun.com/roller/page/bmc?entry=tr35">TR35</a>
-<br/>Date: Fri Sep 09 19:50:11 CEST 2005<br/>Author: Bryan Cantrill<br/>Category: Solaris</p><p>So MIT's 
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<body>
+<p>Type: rss<br>
+Encoding: UTF-8<br>
+Title: The Observation Deck<br>
+Link: http://blogs.sun.com/roller/page/bmc<br>
+Description: Views on software from Bryan Cantrill's deck chair<br>
+Creator: </p>
+
+
+<hr/><!-- *********************************** -->
+<p>Feed: <a href="http://blogs.sun.com/roller/page/bmc">
+The Observation Deck
+</a>
+<br/>
+Item: <a href="http://blogs.sun.com/roller/page/bmc?entry=tr35">
+TR35
+</a>
+
+<br/>Date: Fri Sep 09 19:50:11 CEST 2005
+<br/>Author: Bryan Cantrill
+<br/>Category: Solaris
+</p>
+So MIT's 
 <a href="http://www.techreview.com/">Technology Review</a> has named me as one of their
 <a href="http://www.technologyreview.com/articles/05/10/issue/feature_tr35.asp">TR35</a> -- the top 35 innovators under the age of thirty-five.  It's a great honor, especially because the other
 honorees are <i>actually</i> working on things like
@@ -14,4 +34,4 @@ Should you like to hear me make a jackass out of myself on the subject, you migh
 want to check out
 <a href="http://blogs.sun.com/roller/page/rgiles">Richard Giles</a>'s
 <a href="http://blogs.sun.com/roller/page/rgiles?entry=i_o_podcast_0003_bryan">latest I/O podcast</a>,
-in which he interviewed me about the award.</p></body></html>
+in which he interviewed me about the award.</body></html>
