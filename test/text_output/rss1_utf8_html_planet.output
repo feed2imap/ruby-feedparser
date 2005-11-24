@@ -14,7 +14,7 @@ Date: Mon Feb 21 16:32:48 UTC 2005
 
 Last night, Sadie was behaving powerfully strangely. Lissa and I were reading in bed, and Sadie was moping around the bedroom, looking at us, sniffing at things, sometimes just standing there sadly, as if she was trying to tell us something.
 
-When I opened this morning's paper, I understood. Hunter S. Thompson[1] and  Sandra Dee[2] had died. It's like Sadie is some sort of pop culture doggie savant, like she knew.
+When I opened this morning's paper, I understood. Hunter S. Thompson[1] *and*  Sandra Dee[2] had died. It's like Sadie is some sort of pop culture doggie savant, like *she knew*.
 
 [1] http://english.aljazeera.net/NR/exeres/67D36E3F-9D1E-4E17-8938-5624B812897C.htm
 [2] http://news.bbc.co.uk/1/hi/entertainment/film/4283213.stm
@@ -24,7 +24,9 @@ Item: Hubert Figuiere: Software Rant <http://www.figuiere.net/hub/blog/?2005/02/
 
 Date: Mon Feb 21 16:11:35 UTC 2005
 
-I'm ranting about Evolution, its speed and its antispam[1], I'm not alone[2]. Someone should really start to replace this antispam by what we find in Thunderbird / Mozilla, including flagging as \Junk over IMAP (I couldn't find any reference in RFCs and couldn't find the code in Thunderbird, anyone has an idea?) see bug 72547[3]. For reference, marking one message as junk on my laptop take 15 to 20sec, even if the message is local.I'm ranting about MacOS X memory usage, I'm not alone[4]. With 256MB the MacMini is barely usable. I'll get a 1GB memory...
+- I'm ranting about Evolution, its speed and its antispam[1], I'm not alone[2]. Someone should really start to replace this antispam by what we find in Thunderbird / Mozilla, including flagging as \Junk over IMAP (I couldn't find any reference in RFCs and couldn't find the code in Thunderbird, anyone has an idea?) see bug 72547[3]. For reference, marking one message as junk on my laptop take 15 to 20sec, even if the message is local.
+
+- I'm ranting about MacOS X memory usage, I'm not alone[4]. With 256MB the MacMini is barely usable. I'll get a 1GB memory...
 
 [1] http://www.figuiere.net/hub/blog/?2005/02/09/83-all-mailers-suck
 [2] http://www.advogato.org/person/robertc/diary.html?start=31
@@ -66,14 +68,14 @@ Item: Michael Meeks: 2005-02-21: Monday <http://www.gnome.org/~michael/activity.
 
 Date: Mon Feb 21 12:00:00 UTC 2005
 
-Up late; J. off to rescue Janine from beingboxed in in Town. Got the machine-room spun up again.
+- Up late; J. off to rescue Janine from beingboxed in in Town. Got the machine-room spun up again.
 ****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Alex Graveley: Erotic cleft <http://www.beatniksoftware.com/blog/index.php?p=16>
 
 Date: Mon Feb 21 06:42:05 UTC 2005
 
-From Jennifer and the Master: A Unique Erotica, a hardcore S&M book (opus really), the only book on my desk:	
+From *Jennifer and the Master: A Unique Erotica*, a hardcore S&M book (opus really), the only book on my desk:	
 
 Within the living mirror, the beholders fondle the erotic cleft between them.	
 
@@ -81,7 +83,11 @@ This book was left inexplicably at our doorstep on Valentine’s eve, and thus f
 
 Blah blah blah[1]…	
 
-Grab the nearest book.	Open the book to page 123.	Find the fifth sentence.	Post the text of the sentence in your journal along with these instructions.	Don’t search around and look for the “coolest” book you can find. Do what’s actually next to you.
+- Grab the nearest book.	
+- Open the book to page 123.	
+- Find the fifth sentence.	
+- Post the text of the sentence in your journal along with these instructions.	
+- Don’t search around and look for the “coolest” book you can find. Do what’s actually next to you.
 
 [1] http://www.inkstain.net/fleck/archives/001577.html
 ****************************************
@@ -336,7 +342,7 @@ Item: Joe Shaw: there goes joeyblog <http://joeshaw.org/2005/02/21/125>
 
 Date: Mon Feb 21 02:48:32 UTC 2005
 
-I’ve just transitioned my blog over to Wordpress 1.5[1], and I must say, it’s a dramatic improvement over the last version I tried.  They’ve separated the layout and the structure in such a nice way that I can do things like, for example, not allow comments or have categories or different authors without having to hack the hell out of things.  I’ve spent all of today getting the layout correct, and with some extremely clever PHP and Javascript hacking I am pretty sure that all existing URLs continue to work.	
+I’ve just transitioned my blog over to Wordpress 1.5[1], and I must say, it’s a dramatic improvement over the last version I tried.  They’ve separated the layout and the structure in such a nice way that I can do things like, for example, not allow comments or have categories or different authors without having to hack the hell out of things.  I’ve spent all of today getting the layout correct, and with some *extremely* clever PHP and Javascript hacking I am pretty sure that all existing URLs continue to work.	
 
 Now, the real question is if I can get a nice client-side solution so that posting photos isn’t quite a pain.  Hopefully it won’t be a big deal, but I’ve saved my old blog setup just in case I have to revert.
 
@@ -379,14 +385,59 @@ I thought that if I have to do the icons in SVG ever again, I may as wellrevisit
 
 Since I'm an old Illustrator junkie, I knew it's going to be tough gettingused to especially since I've tried and failed before. I expected beingdisappointed, I was surprised in many areas though. Looks like a lot of goodstuff happened while I wasn't watching :) I'm actually confident that it'susable to create less complex artwork.
 
-So let's start with the good things.	Nice shortcut overview. It could have been setup on a landscape A4 to get	printed easily though.		A few introductory tutorials. Just what I needed. It's actually better	for me than a full featured documentation which is usually too boring to chew	through ;). What's even more fun is these tutorials are in fact SVG images,	so it features examples you can try right on canvas while reading.	Ingenious.		Easy numerical entry of object properties (toolbar) with advanced	properties in a floating dialog.		Keyboard navigation not only for object and canvas movement, but rotation	and scaling as well (now finally the Alt	modifier starts making sense). Moving in pixel units with Alt of the current zoom level is a lot better than	the absolute units in Adobe Illustrator. This absolutely rocks.		Layers with visibility toggle and layer locking! Oh man, I can't	stress enough how this is useful. Also individual objects can be locked, but	unlocking them is hard, I could only do this with the XML editor.	F12 toggles the visible floating docks.	Very handy in fullscreen (although the layout dock seems to be	visible all the time).	While function keys are still mapped to tools, there's also shortcuts	that are easily memorizable — T for Text,	S for Object select etc. # for grid toggle got me :).	Color Dropper. I prefer to call it picker instead since it's not	applying color on the clicked objects, it's picking it up and	applies on the selected objects.  Unfortunately the tool isn't as useful as	it could be. It only takes the color property while it could be used to pick	more properties such as stroke, fill (gradient, pattern, bitmap), effects,	etc. (configurable as tool options just like in GIMP). Inkscape does provide	this functionality with Edit>Paste Style, but doesn't allow	individual style properties to be selected (only fill, only stroke...).	Helpful status bar. It tells you what a modifier key will do. It doesn't	list all functionality, but mostly the important one. Absolutely cool for	when you're learning the tool. I found Alt+Click like that. It's used to "select under" with	the selection tool active and it's very handy when I'm left without a nice	layer stack overview.	Boolean Operations. Creating complex shapes out of primitives is a lot	easier with these tools.	Cloning. Instead of duplicating, you can create an instance of an object.	Gotta get used to the fact that even transformations are inherited.	The 0.40 aboutbox is sexy as hell :)	Metadata. Not oly cool for copyright info, but for icon	accessibility too[3].	Object stamping. You drag an object around and where you press spacebar it creates a copy.	Text tool. I wish we had a mature text tool like this in GIMP. Letter	spacing (Alt+<, Alt+>), kerning, (Alt+Left, Alt+Right),	vertical text, shaped block of text (kinda hacky, but working).		Didn't crash on me ;) While some of us take it for granted, some projects[4] don't consider stability a	priority...[5]
+So let's start with the good things.
+	
+- Nice shortcut overview. It could have been setup on a landscape A4 to get	printed easily though.		
+- A few introductory tutorials. Just what I needed. It's actually better	for me than a full featured documentation which is usually too boring to chew	through ;). What's even more fun is these tutorials are in fact SVG images,	so it features examples you can try right on canvas while reading.	Ingenious.		
+- Easy numerical entry of object properties (toolbar) with advanced	properties in a floating dialog.		
+- Keyboard navigation not only for object and canvas movement, but rotation	and scaling as well (now finally the Alt	modifier starts making sense). Moving in pixel units with Alt of the current zoom level is a lot better than	the absolute units in Adobe Illustrator. This absolutely rocks.		
+- Layers with visibility toggle and *layer locking*! Oh man, I can't	stress enough how this is useful. Also individual objects can be locked, but	unlocking them is hard, I could only do this with the XML editor.	
+- F12 toggles the visible floating docks.	Very handy in fullscreen (although the *layout dock* seems to be	visible all the time).	
+- While function keys are still mapped to tools, there's also shortcuts	that are easily memorizable — T for Text,	S for Object select etc. # for grid toggle got me :).	
+- Color Dropper. I prefer to call it *picker* instead since it's not	applying color on the clicked objects, it's *picking it up* and	applies on the selected objects.  Unfortunately the tool isn't as useful as	it could be. It only takes the color property while it could be used to pick	more properties such as stroke, fill (gradient, pattern, bitmap), effects,	etc. (configurable as tool options just like in GIMP). Inkscape does provide	this functionality with *Edit>Paste Style*, but doesn't allow	individual style properties to be selected (only fill, only stroke...).	
+- Helpful status bar. It tells you what a modifier key will do. It doesn't	list all functionality, but mostly the important one. Absolutely cool for	when you're learning the tool. I found Alt+Click like that. It's used to "select under" with	the selection tool active and it's very handy when I'm left without a nice	layer stack overview.	
+- Boolean Operations. Creating complex shapes out of primitives is a lot	easier with these tools.	
+- Cloning. Instead of duplicating, you can create an instance of an object.	Gotta get used to the fact that even transformations are inherited.	
+- The 0.40 aboutbox is sexy as hell :)	
+- Metadata. Not oly cool for copyright info, but for icon	accessibility too[3].	
+- Object stamping. You drag an object around and where you press spacebar it creates a copy.	
+- Text tool. I wish we had a mature text tool like this in GIMP. Letter	spacing (Alt+<, Alt+>), kerning, (Alt+Left, Alt+Right),	vertical text, shaped block of text (kinda hacky, but working).		
+- Didn't crash on me ;) While some of us take it for granted, some projects[4] don't consider stability a	priority...
+[5]
 
-So as you can see, in many areas I've been very pleasantly surprised. Youcan see Inkscape developers did listen to their artists, err users. There'ssome inconsistencies with the GIMP that I personally find confusing:	Path tool. I mean come on guys, the GIMP path tool rocks. The modifiers	rock, you can work with both nodes and segments and it's just unnice	to have something out of this planet when users like me, that are used to	GIMP could be making paths in Inkscape in a nano. /me makes a sad, sad	face.
-	I'm used to tracing objects by creating a polygon first and then	converting the particular nodes to curvy. I just found the trick is not to	try to convert a node, but a segment to a curve. Maybe if I try hard enough,	I can live with this. Also I'd love the handles to be controllable with a	keyboard, not only the nodes alone.		Redo is Ctrl+Shift+Z while GIMP's is Ctrl+Y.	Ctrl locks aspect while Shift centers the pivot point. GIMP's exactly the	other way around.	I miss the thumbnail navigator that GIMP has in the lower right	corner. Also zoom-on-resize locking that's in GIMP 2.2 (upper right corner)	would be useful here too. Update: I've been pointed out that I'm just	blind, it's right there! ;)	The gradient editor is even worse than GIMP's. When I'm bitching about	it, I guess I should provide a spec. But more annoying than defining the	gradient is not being able to specify direction and length on canvas.[6]
+So as you can see, in many areas I've been very pleasantly surprised. Youcan see Inkscape developers did listen to their artists, err users. There'ssome inconsistencies with the GIMP that I personally find confusing:
+	
+- Path tool. I mean come on guys, the GIMP path tool rocks. The modifiers	rock, you can work with both nodes *and* segments and it's just unnice	to have something out of this planet when users like me, that are used to	GIMP could be making paths in Inkscape in a nano. /me makes a sad, sad	face.
+	I'm used to tracing objects by creating a polygon first and then	converting the particular nodes to curvy. I just found the trick is not to	try to convert a node, but a segment to a curve. Maybe if I try hard enough,	I can live with this. Also I'd love the handles to be controllable with a	keyboard, not only the nodes alone.		
+- Redo is Ctrl+Shift+Z while GIMP's is Ctrl+Y.	
+- Ctrl locks aspect while Shift centers the pivot point. GIMP's exactly the	other way around.	
+- I miss the thumbnail navigator that GIMP has in the lower right	corner. Also zoom-on-resize locking that's in GIMP 2.2 (upper right corner)	would be useful here too. *Update: I've been pointed out that I'm just	blind, it's right there! ;)*	
+- The gradient editor is even worse than GIMP's. When I'm bitching about	it, I guess I should provide a spec. But more annoying than defining the	gradient is not being able to specify direction and length on canvas.
+[6]
 
-Some minor nitpicks and suggestions.	Layer support is fairly primitive and unfinished. Apart from the spartan	XML editor, I found no way to get a graphical representation of the layer	stack. Moving objects across layers also seems only possible in XML editor	which is very hard, since the stack is reversed and the layers aren't easily	identifiable (UI shows comments, while XML edito shows ids). Also I'm not	sure about the behaviour of the root node.	While it may sound like a good idea to use vector icons in a vector	editor, it doesn't work in my opinion. The small resolution icons need detail	and crispness the vectors cannot give. Having a nice gnomish icon set would	surely help.	I miss tootips for the toobar icons.	Tool options are implemented as global preferences. While there is a	shortcut to get to these by double-clicking on the toolbar, you're presented	with a horror of two rows of tabs. Yikes!	Some sort of library is required. Just like GIMP stores brushes and	gradients, Inkscape should have some global repository of gradients and	patterns.	There's XY properties floating window depending on what type	of object is selected. These should go into the object properties float. If	the number of widgets would grow, solve either by using tabs or disclosure	triangles.	Something completely subjective — I prefer the rubberband selection	to work objects even partially selected, not only the ones completely	enclosed in the selection rectangle.	Ctrl+A actually select all object	within a layer not on the document as the tutorial suggests. Not	saying it makes less sense, just that the docs are out of sync.	One cannot group objects from different layers. Especially painful when	moving objects around layers manually is tough.	I coulnd't figure out how to scale a pattern. In fact it should be	possible to not scale pattern along with object. Similarly, it should be	possible to scale an object but not scale the stroke width along.	Deleting objects with Backspace. While	Del works, my powerbook doesn't have the del	key ;).	Cloning is cool, but it would be super cool to be able to create such	object clones (links) within an external file. You could create mime type	icons by linking the document template from an external file and have a quick	way to alter the whole set.[7]
+Some minor nitpicks and suggestions.
+	
+- Layer support is fairly primitive and unfinished. Apart from the spartan	XML editor, I found no way to get a graphical representation of the layer	stack. Moving objects across layers also seems only possible in XML editor	which is very hard, since the stack is reversed and the layers aren't easily	identifiable (UI shows comments, while XML edito shows ids). Also I'm not	sure about the behaviour of the root node.	
+- While it may sound like a good idea to use vector icons in a vector	editor, it doesn't work in my opinion. The small resolution icons need detail	and crispness the vectors cannot give. Having a nice gnomish icon set would	surely help.	
+- I miss tootips for the toobar icons.	
+- Tool options are implemented as global preferences. While there is a	shortcut to get to these by double-clicking on the toolbar, you're presented	with a horror of two rows of tabs. Yikes!	
+- Some sort of library is required. Just like GIMP stores brushes and	gradients, Inkscape should have some global repository of gradients and	patterns.	
+- There's *XY properties* floating window depending on what type	of object is selected. These should go into the object properties float. If	the number of widgets would grow, solve either by using tabs or disclosure	triangles.	
+- Something completely subjective — I prefer the rubberband selection	to work objects even partially selected, not only the ones completely	enclosed in the selection rectangle.	
+- Ctrl+A actually select all object	*within a layer* not on the document as the tutorial suggests. Not	saying it makes less sense, just that the docs are out of sync.	
+- One cannot group objects from different layers. Especially painful when	moving objects around layers manually is tough.	
+- I coulnd't figure out how to scale a pattern. In fact it should be	possible to not scale pattern along with object. Similarly, it should be	possible to scale an object but not scale the stroke width along.	
+- Deleting objects with Backspace. While	Del works, my powerbook doesn't have the del	key ;).	
+- Cloning is cool, but it would be super cool to be able to create such	object clones (links) within an external file. You could create mime type	icons by linking the document template from an external file and have a quick	way to alter the whole set.
+[7]
 
-And I few features I'm still missing an alternative for: 		Object blending. Select two objects and pick how many inbetween states	you want or optionally a path along which to do the morph. Essential time	saviour when duplicating objects. Inkscape does have a mean that's a bit less	straight forward (subjective again). You can either use stamping and then	distribute objects using the align dock or do the same with clones or	duplicates (just need to pick one from the duplicated stack and reposition to	the other extreme).	Converting stroke into objects. Sometimes you want to have more control	about the dotted outline.	I may have just missed it, but there's no outline draw mode. Sometimes	it's easier to find an object like that. Also perhaps when tweaking shapes	with the node tool, the fill could go away to speed things up. The more	complex the artwork is, the slower the thing gets. And sometimes way way	slower than bearable.	Pixel preview. If we had the same renderer in GNOME & Inkscape, it would	help tweaking the shapes pixel-precise, so it's sharp (aligns to the render	grid) at the 1:1 size.	Node edit only works within selected object. I like to rubber-band select	nodes from a number of objects and move them to "stretch" an drawing in that	particular area. Doing one by one is close to impossible and stretching the	whole object is not what I want either.
+And I few features I'm still missing an alternative for:
+		
+- Object blending. Select two objects and pick how many inbetween states	you want or optionally a path along which to do the morph. Essential time	saviour when duplicating objects. Inkscape does have a mean that's a bit less	straight forward (subjective again). You can either use stamping and then	distribute objects using the align dock or do the same with clones or	duplicates (just need to pick one from the duplicated stack and reposition to	the other extreme).	
+- Converting stroke into objects. Sometimes you want to have more control	about the dotted outline.	
+- I may have just missed it, but there's no outline draw mode. Sometimes	it's easier to find an object like that. Also perhaps when tweaking shapes	with the node tool, the fill could go away to speed things up. The more	complex the artwork is, the slower the thing gets. And sometimes way way	slower than bearable.	
+- Pixel preview. If we had the same renderer in GNOME & Inkscape, it would	help tweaking the shapes pixel-precise, so it's sharp (aligns to the render	grid) at the 1:1 size.	
+- Node edit only works within selected object. I like to rubber-band select	nodes from a number of objects and move them to "stretch" an drawing in that	particular area. Doing one by one is close to impossible and stretching the	whole object is not what I want either.
 
 [1] http://www.ubuntulinux.org
 [2] http://inkscape.org
@@ -401,7 +452,9 @@ Item: Jakub Steiner: Inkscape Gradients <http://jimmac.musichall.cz/weblog.php/I
 
 Date: Mon Feb 21 01:36:00 UTC 2005
 
-Inkscape superstar, Bulia Byak, committed the beginning of his work on better gradients[1] in Inkscape. Addresses a lot of the issues I've had with the old interface. Kudos!Demo[2]
+Inkscape superstar, Bulia Byak, committed the beginning of his work on better gradients[1] in Inkscape. Addresses a lot of the issues I've had with the old interface. Kudos!
+
+- Demo[2]
 
 Eek! I seem to have spammed planet gnome by moving things around even though the timestamps remained. Sorry.
 
@@ -440,7 +493,9 @@ Date: Sun Feb 20 23:27:00 UTC 2005
 
 Yet another blast from the past. While writing the aboutpage on my website I found the Kosmic Archive[1] is online with mp3 versions of the old killer tracks.
 
-I recall playing this on my 1bit squeeker ripped out of the PC case so I could hear it better. Cubic Player[2] with the fancy visualisations. Memories.Drift[3] – Lovely minimalistic techno.
+I recall playing this on my 1bit squeeker ripped out of the PC case so I could hear it better. Cubic Player[2] with the fancy visualisations. Memories.
+
+- *Drift*[3] – Lovely minimalistic techno.
 
 I hope to find more jewels like this. I should have all the XMs, S3Ms, ITs and MODs somewhere??? Beagle[4], buddy! Help!
 
@@ -456,7 +511,11 @@ Date: Sun Feb 20 20:26:48 UTC 2005
 
 I like this meme[1]:
 
-Grab the nearest book.Open the book to page 123.Find the fifth sentence.Post the text of the sentence in your journal along with these instructions.Don't search around and look for the "coolest" book you can find. Do what’s actually next to you.
+- Grab the nearest book.
+- Open the book to page 123.
+- Find the fifth sentence.
+- Post the text of the sentence in your journal along with these instructions.
+- Don't search around and look for the "coolest" book you can find. Do what’s actually next to you.
 
 The book (really, I closed my eyes and reached left to the nearest shelf) is the IPCC's "Climate Change 1995." Page 123 is in the chapter on "Radiative Forcing of Climate Change":
 
@@ -552,7 +611,9 @@ Item: Michael Meeks: 2005-02-20: Sunday <http://www.gnome.org/~michael/activity.
 
 Date: Sun Feb 20 12:00:00 UTC 2005
 
-Hacked on the train at a command-line OO.ogallery creation tool: rather badly needed for theopenclipart.org stuff.	Got home, lovely to see my beautiful wifeagain, not to mention the girls. Slept for a good while,ate, slept again.	Up in the night, dealing with H. - nasty cold,can't breath - keeps saying 'nose' or 'mummy', slept inher bed for some hours.
+- Hacked on the train at a command-line OO.ogallery creation tool: rather badly needed for theopenclipart.org stuff.	
+- Got home, lovely to see my beautiful wifeagain, not to mention the girls. Slept for a good while,ate, slept again.	
+- Up in the night, dealing with H. - nasty cold,can't breath - keeps saying 'nose' or 'mummy', slept inher bed for some hours.
 ****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Davyd Madeley: Planet UCC Lives <http://www.livejournal.com/users/davyd/135461.html>
@@ -571,7 +632,7 @@ Item: Hubert Figuiere: Picture of the day, February 19th, 2005 <http://www.figui
 
 Date: Sun Feb 20 03:31:40 UTC 2005
 
-Some eye candy for this evening. We still haven't finished our tour of Périgord, so I return to my slide archives. Back to the Cadouin Cloister[1] (fr), facing the inside yard and tower:
+Some eye candy for this evening. We still haven't finished our tour of Périgord, so I return to my slide archives. Back to the Cadouin Cloister[1] *(fr)*, facing the inside yard and tower:
 
 [2]
 
@@ -586,13 +647,13 @@ Item: Damien Sandras: Busy week-end <http://www.seconix.com/wordpress/index.php?
 
 Date: Sat Feb 19 23:06:11 UTC 2005
 
-OPAL
+*OPAL*
 I have committed my last work on OPAL. It fixes SIP Outbound Proxy support and CANCEL requests management. It also permits to register to several SIP registrars at the same time, and do authenticated calls using each one of them. I have also added support for SUBSCRIBE and NOTIFY requests, mainly to permit Message Waiting Indications. That will permit users to be notified when they got a Voicemail and to listen to it.	
 
-GnomeMeeting
+*GnomeMeeting*
 I have of course added support for the above code in GnomeMeeting. I have also reworked the preferences window so that the various VoIP capabilities appears as accounts that you can enable or disable. That permits to minimize the number of options possible while keeping an easy access to all required features. GnomeMeeting 2.00 should have some inovative features that other Linux SIP softphones do not support yet.	
 
-FOSDEM
+*FOSDEM*
 FOSDEM[1] will happen in one week. That means much work but also many worries. Having feedback from invited speakers is not always easy and you often have to mail some of them several times. Hopefully now everything is booked. The pre-event part is nearly over and most of the work will have to be done during the event. We expect a record in terms of visitors this year. All big projects have “developer’s rooms” with a separate schedule and talks.
 
 [1] http://www.fosdem.org
@@ -641,7 +702,7 @@ Item: Hubert Figuiere: Fighting DRM in court... Episode I <http://www.figuiere.n
 
 Date: Sat Feb 19 20:26:15 UTC 2005
 
-Apple and Sony are being sued[1] in France by UFC-Que Choisir, the major French consumer association, for breaking the law against bundle sales. The lack of interroperability beetween their DRM system and requirment to use their device is the reason.
+Apple and Sony are being sued[1] in France by *UFC-Que Choisir*, the major French consumer association, for breaking the law against bundle sales. The lack of interroperability beetween their DRM system and requirment to use their device is the reason.
 
 Looks like Microsoft DRM system could benefit as they sell it to anyone who wants it, but nobody use it :-)
 
@@ -656,7 +717,9 @@ Item: Federico Mena-Quintero: Sat 2005/Feb/19 <http://primates.ximian.com/~feder
 
 Date: Sat Feb 19 19:16:00 UTC 2005
 
-Daniel[1]	      writes about the	      pressure to have software patents in Europe[2].	      "Pressure" and "verbal violence" reminded me of last year[3], when I was at	      the amazing HP	      research building[4].  The first thing that greets you	      after you step out of the elevator is a wall covered	      with gold-plated patent grants.  Man, I should have	      taken a picture.  They were hung like trophies on a	      huntsman's wall.  I looked at them during conference	      breaks; some were for exotic things, other for	      ridiculously obvious ones.  The one I remember the most	      was about how to promote pixel values for low bit depths	      into values with higher bit depths.  You know, like when	      going from RGB at 8 bits per channel to 16 bits per	      channel, so you have to map the	      range [0, 0xff] into a wider	      range [0, 0xffff].  You can't just shift by 8	      bits to the left; you have to copy the value into the	      lower bits.  So, 0xab becomes 0xabab; the typical	      symptom of not doing this is where 100% white	      becomes almost-white.  The abstract of the patent and a	      cute diagram, gold leaf, fancy frame and everything,	      described exactly that; the only particular	      thing is that it seemed to describe a hardware	      implementation.	    	  	
+- 	
+
+	      Daniel[1]	      writes about the	      pressure to have software patents in Europe[2].	      "Pressure" and "verbal violence" reminded me of last year[3], when I was at	      the amazing HP	      research building[4].  The first thing that greets you	      after you step out of the elevator is a wall covered	      with gold-plated patent grants.  Man, I should have	      taken a picture.  They were hung like trophies on a	      huntsman's wall.  I looked at them during conference	      breaks; some were for exotic things, other for	      ridiculously obvious ones.  The one I remember the most	      was about how to promote pixel values for low bit depths	      into values with higher bit depths.  You know, like when	      going from RGB at 8 bits per channel to 16 bits per	      channel, so you have to map the	      range [0, 0xff] into a wider	      range [0, 0xffff].  You can't just shift by 8	      bits to the left; you have to copy the value into the	      lower bits.  So, 0xab becomes 0xabab; the typical	      symptom of not doing this is where 100% white	      becomes almost-white.  The abstract of the patent and a	      cute diagram, gold leaf, fancy frame and everything,	      described *exactly that*; the only particular	      thing is that it seemed to describe a hardware	      implementation.	    	  	
 
 [1] http://www.advogato.org/person/DV/
 [2] http://www.advogato.org/person/DV/diary.html?start=184
@@ -730,7 +793,11 @@ Item: Hubert Figuiere: New Canon gear <http://www.figuiere.net/hub/blog/?2005/02
 
 Date: Sat Feb 19 14:20:57 UTC 2005
 
-New Canon gear announced this week:EF-S 60mm f2.8 Macro USM. Announcement[1]. The EF-S part upsets me because I don't really see the interests, but since it is compatible with extension tubes, it may be able to be used on a film body with those extensions. Needs to be tried.Digital Rebel XT / EOS 350D. Announcement[2], Preview[3] at dpreview.EOS 20Da, to be used for IR photography. Announcement[4] at dpreview. Apparently Japan only.
+New Canon gear announced this week:
+
+- EF-S 60mm f2.8 Macro USM. Announcement[1]. The EF-S part upsets me because I don't really see the interests, but since it is compatible with extension tubes, it *may* be able to be used on a film body with those extensions. Needs to be tried.
+- Digital Rebel XT / EOS 350D. Announcement[2], Preview[3] at dpreview.
+- EOS 20Da, to be used for IR photography. Announcement[4] at dpreview. Apparently Japan only.
 
 [1] http://www.dpreview.com/news/0502/05021703canon_efs60mmmacro.asp
 [2] http://www.dpreview.com/news/0502/05021704canon_eos350d.asp
@@ -759,7 +826,12 @@ We finally released Mono 1.1.4 and Mono 1.0.6.	With this release we are recommen
 
 The runtime is faster, smaller, leaner and we have fixed	many bugs and architectural problems that were hard to	backport to 1.0.6.	
 
-Programmers that have only been using Mono, and have not	tested their code on .NET should keep an eye open for a few	problems that might be exposed with the stricter 1.1.4	runtime:			C# compiler is stricter when it comes to namespace		and typename resolution.  Tomboy is known to not build		with it.		Marshalling: A few incorrect uses of marshalling		are now reported (Pointers can not reference marshaled		structures, you must use byref in your P/Invokes, this		affected F-Spot, but only marginally, F-Spot fallsback		into a slower operation mode).		If you create delegates and pass those to		unmanaged code as way to callback into managed land,		you must keep a reference to the delegate, or the		delegate will be garbage collected.  This affected		some old Gtk# applications.  You will receive a		warning message with the details to fix this problem. 		
+Programmers that have only been using Mono, and have not	tested their code on .NET should keep an eye open for a few	problems that might be exposed with the stricter 1.1.4	runtime:	
+		
+- C# compiler is stricter when it comes to namespace		and typename resolution.  Tomboy is known to not build		with it.		
+- Marshalling: A few incorrect uses of marshalling		are now reported (Pointers can not reference marshaled		structures, you must use byref in your P/Invokes, this		affected F-Spot, but only marginally, F-Spot fallsback		into a slower operation mode).		
+- If you create delegates and pass those to		unmanaged code as way to callback into managed land,		you must keep a reference to the delegate, or the		delegate will be garbage collected.  This affected		some old Gtk# applications.  You will receive a		warning message with the details to fix this problem. 	
+	
 
 The full release notes are available here[1]	
 
@@ -801,7 +873,8 @@ Item: Michael Meeks: 2005-02-19: Saturday <http://www.gnome.org/~michael/activit
 
 Date: Sat Feb 19 12:00:00 UTC 2005
 
-Interesting phone-call in the morning. Lovelypatch for libbonobo on Win32 from Tor - apparently all thetests now pass.	Out to SS for breakfast with Miguel &Nat, on to bowling nearby, good to see all the guys, andJacob again. Off to catch the plane - the very last personto check in, a dash to the plane, offered money to getoff etc. Slept a little on the plane, lost a lot of a nightsomewhere here.
+- Interesting phone-call in the morning. Lovelypatch for libbonobo on Win32 from Tor - apparently all thetests now pass.	
+- Out to SS for breakfast with Miguel &Nat, on to bowling nearby, good to see all the guys, andJacob again. Off to catch the plane - the very last personto check in, a dash to the plane, offered money to getoff etc. Slept a little on the plane, lost a lot of a nightsomewhere here.
 ****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Todd Berman: Work. Life. Insanity. <http://off.net/~tberman/diary/archives/003159.html>
@@ -822,7 +895,10 @@ Item: Havoc Pennington: Simplifying <http://log.ometer.com/2005-02.html#19>
 
 Date: Sat Feb 19 05:41:25 UTC 2005
 
-Two simpler approaches to the theme thing:Like OS X, just scrap the idea of themes and hardcode anapplication-specific design into each app.Limit the problem to layout. So have a layout widget that looks upthe layout of an entire window from resource files, and allow themes to intercept the lookup to modify the layout.
+Two simpler approaches to the theme thing:
+
+- Like OS X, just scrap the idea of themes and hardcode anapplication-specific design into each app.
+- Limit the problem to layout. So have a layout widget that looks upthe layout of an entire window from resource files, and allow themes to intercept the lookup to modify the layout.
 ****************************************
 Feed: Planet GNOME <http://planet.gnome.org/>
 Item: Havoc Pennington: Conferences Finally Over <http://log.ometer.com/2005-02.html#18>
@@ -1018,10 +1094,23 @@ Date: Fri Feb 18 16:22:42 UTC 2005
 From wednesday on, most GStreamer core developers and following (Andy, Benjamin, Christian, Dave, Julien, me, Thomas, Wim) got together to discuss future development and direction for the 0.9 branch . This will then become the final design for GStreamer 1.0; 1.0 would, in the end, be proposed for inclusion in both KDE and GNOME developer platforms. Big words, time for action.
 
 /Problems:/
-Current GStreamer-0.8 design has various generally agreed-on problems that cannot be fixed easily without breaking ABI/API. Worse, for a long time we did not know how to fix it and did not agree on a common direction towards fixing it.thread-safety issues (refcount-, signal-, state-change- related stuff and a lot more)clocking/synchronization issuesstate handling on eos/error is wrongnegotiation protocol issuesa lot moreWim was leading the discussion to identify and agree on the mistakes in our current 0.8 tree, particularly the ones that we cannot fix in the 0.8 timeframe. This is mostly stuff that we agree on and know how to fix. It´s just something we need on paper for later.
+Current GStreamer-0.8 design has various generally agreed-on problems that cannot be fixed easily without breaking ABI/API. Worse, for a long time we did not know how to fix it and did not agree on a common direction towards fixing it.
+
+- thread-safety issues (refcount-, signal-, state-change- related stuff and a lot more)
+- clocking/synchronization issues
+- state handling on eos/error is wrong
+- negotiation protocol issues
+- a lot more
+Wim was leading the discussion to identify and agree on the mistakes in our current 0.8 tree, particularly the ones that we cannot fix in the 0.8 timeframe. This is mostly stuff that we agree on and know how to fix. It´s just something we need on paper for later.
 
 /Generally agreed-on solutions:/
-Here is what came out of this discussion:eos/error should not change state. More generally, state and actual processing ("scheduling") should be separated from each other.refcounting should be threadsafe (glib)signals should be marshalled to the correct thread, either through a message bus or through cross-thread signal marshalling.Clocking should be improved to be implicitely synchronization (which we don´t have right now; *shame*) across streams.Most of thursday was spent on discussing and agreeing on the above. We mostly agree on all this. Friday was spent talking about scheduling of pipelines ("processing of the media").
+Here is what came out of this discussion:
+
+- eos/error should not change state. More generally, state and actual processing ("scheduling") should be separated from each other.
+- refcounting should be threadsafe (glib)
+- signals should be marshalled to the correct thread, either through a message bus or through cross-thread signal marshalling.
+- Clocking should be improved to be implicitely synchronization (which we don´t have right now; *shame*) across streams.
+Most of thursday was spent on discussing and agreeing on the above. We mostly agree on all this. Friday was spent talking about scheduling of pipelines ("processing of the media").
 
 /Solution #1: -threaded:/
 -threaded is an experimental branch that aims to add locking in the right places, adds protocols on locking and variable usage and make it all just work. It also adds some nice extra features such as media processing on events (e.g. "preroll", which means that the media is preloaded while a user executes an action).

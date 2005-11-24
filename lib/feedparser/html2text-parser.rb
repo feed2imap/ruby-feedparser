@@ -27,7 +27,15 @@ module FeedParser
         @savedata << "\n\n"
       when 'br'
         @savedata << "\n"
+      when 'ul'
+        @savedata << "\n"
+      when 'li'
+        @savedata << "\n - "
       when 'b'
+        @savedata << '*'
+      when 'strong'
+        @savedata << '*'
+      when 'em'
         @savedata << '*'
       when 'u'
         @savedata << '_'
@@ -47,6 +55,8 @@ module FeedParser
         if @href
           @links << @href.gsub(/^("|'|)(.*)("|')$/,'\2')
         end
+      else
+#        puts "unknown tag: #{tag}"
       end
     end
 
@@ -62,7 +72,13 @@ module FeedParser
 
     def unknown_endtag(tag)
       case tag
+      when 'ul'
+        @savedata << "\n"
       when 'b'
+        @savedata << '*'
+      when 'strong'
+        @savedata << '*'
+      when 'em'
         @savedata << '*'
       when 'u'
         @savedata << '_'

@@ -44,7 +44,9 @@ Date: Tue Jul 27 18:38:36 CEST 2004
 
 What's happening with Fedora lately:
 
-FC3test1 came out a little while ago.The devel tree is totally unfrozen again, so broken deps should be fixable if not fixed.CVS should be rolled out "soon"
+- FC3test1 came out a little while ago.
+- The devel tree is totally unfrozen again, so broken deps should be fixable if not fixed.
+- CVS should be rolled out "soon"
 ****************************************
 Feed: Advogato diary for sopwith <http://www.advogato.org/person/sopwith/>
 Item: 23 Apr 2004 <http://www.advogato.org/person/sopwith/diary.html?start=7>

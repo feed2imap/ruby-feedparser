@@ -11,7 +11,7 @@ module FeedParser
       s += "<p>Type: #{@type}<br>\n"
       s += "Encoding: #{@encoding}<br>\n"
       s += "Title: #{@title}<br>\n"
-      s += "Link: #{@link}<br>\n"
+      s += "Link: #{@link}<br>\n" 
       s += "Description: #{@description}<br>\n"
       s += "Creator: #{@creator}</p>\n"
       s += "\n"

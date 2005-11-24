@@ -20,7 +20,7 @@ Rake::RDocTask.new do |rd|
     end
   end
   f.delete('lib/feedparser.rb')
-  # hack to document the Jabber module properly
+  # hack to document the Feedparser module properly
   f.unshift('lib/feedparser.rb')
   rd.rdoc_files.include(f)
   rd.options << '--all'

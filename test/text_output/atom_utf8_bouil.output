@@ -2,7 +2,7 @@ Type: atom
 Encoding: UTF-8
 Title: Le Joueb de Bouil (La reta ĵournalo de Buj)
 Link: http://www.bouil.org/joueb/blog.html
-Description: 
+Description:
 Creator: 
 
 
@@ -27,11 +27,11 @@ Item: Europe et Afrique <http://www.bouil.org/joueb/entree.html?id=9>
 Date: Tue Feb 08 12:57:03 UTC 2005
 Author: Bouil
 
-Dans le dernier numéro du Monde Diplomatique, un article titré Ces accords que Bruxelles impose à l'Afrique a attiré mon attention (février 2005, page 10).
+Dans le dernier numéro du *Monde Diplomatique*, un article titré Ces accords que Bruxelles impose à l'Afrique a attiré mon attention (février 2005, page 10).
 
 En effet, depuis une quizaine d'années l'Union Européenne conclue des accords commerciaux avec les pays d'Afrique, nommés APER. Au delà du contenu de ces accords, sur lequel l'article insiste, il est important de souligner le cas de la langue utilisé pour les accords. En effet, la Commission, négociateur unique au nom des États membres, en a imposé la langue ...[1]. Les documents sont rédigés en anglais, et les discussion ont lieu dans cette langue. Or, la majorité de ces pays a le français comme langue véhiculaire , sinon comme langue officielle (20 pays sur 48 États africains). Ces négociations en anglais entrainent des diffultés pour les diplomates francophones, qui mettent du temps à avoir les traduction des documents dans les délais afin d'en avoir connaissance avant le début des négociations�! Pourtant, le francais est une langue officielle de l'Union Européenne.
 
-Heureusement, l'Europe est unie dans sa diversité (devise de l'UE) et respecte la diversité culturelle, religieuse et linguistique (article 22 de la Charte des droits fondamentaux, qui fait également partie de projet de traité établissant une Constitution pour l'Europe)...
+Heureusement, l'Europe est unie dans sa diversité (devise de l'UE) et respecte la diversité culturelle, religieuse et *linguistique* (article 22 de la Charte des droits fondamentaux, qui fait également partie de projet de traité établissant une Constitution pour l'Europe)...
 
 [1] ...
 ****************************************
@@ -43,7 +43,7 @@ Author: Bouil
 
 Ce matin, sur France Inter toujours, Hervé Gaymard, ministre des Finances, a annoncé[1]  qu'il allait défendre une initiative européenne pour financer la lutte contre le sida en Afrique.
 
-Il a déclaré�: [...] nous devons mettre en place des taxations internationales, par exemple un dollar par billet d'avion [...]. Ce n'est pas le fond qui me préoccupe ici, dont le but est tout à fait louable, mais la forme. En effet, il est étrange de voir un ministre français, défendant une initiative européenne, proposer une taxe libellée en Dollars (américains)...
+Il a déclaré�: [...] nous devons mettre en place des taxations internationales, par exemple un dollar par billet d'avion [...]. Ce n'est pas le fond qui me préoccupe ici, dont le but est tout à fait louable, mais la forme. En effet, il est étrange de voir un ministre *français*, défendant une initiative *européenne*, proposer une taxe libellée en *Dollars (américains)*...
 
 [1] http://www.reuters.fr/locales/c_newsArticle.jsp?type=topNews&amp;localeKey=fr_FR&amp;storyID=7536796
 ****************************************
@@ -81,7 +81,7 @@ Item: Script de sauvegarde <http://www.bouil.org/joueb/entree.html?id=5>
 Date: Sat Oct 02 20:46:06 UTC 2004
 Author: Bouil
 
-Voici un lien vers un petit script[1] que j'utilise pour faire mes sauvegardes. Pour une fois, la loi de Murphy m'a épargnée car j'ai mis en place ce script avant que ça plante.. ou que je fasse une connerie.
+Voici un lien vers un petit script[1] que j'utilise pour faire mes sauvegardes. Pour une fois, la loi de Murphy m'a épargnée car j'ai mis en place ce script *avant* que ça plante.. ou que je fasse une connerie.
 
 Ce script est assez pratique, à mettre dans un cron hebdomadaire. Grâce à rsync, il va faire des copies incrémentales des répertoires à sauver.
 

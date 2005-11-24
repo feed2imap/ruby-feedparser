@@ -13,7 +13,7 @@ Creator:
 Subject: 
 Category: 
 Content:
-<p>Ceci est test&eacute;&#xc3a9;&#141651;. Je parle d'&lt;html&gt;.</p>
+<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>
 --------------------------------
 Title: HTML direct
 Link: 
@@ -22,7 +22,7 @@ Creator:
 Subject: 
 Category: 
 Content:
-<p>Ceci est test&eacute;&#xc3a9;&#141651;. Je parle d'&lt;html&gt;.</p>
+<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>
 --------------------------------
 Title: Escaped
 Link: 
@@ -31,4 +31,4 @@ Creator:
 Subject: 
 Category: 
 Content:
-<p>Ceci est test&eacute;&#xc3a9;&#141651;. Je parle d'&lt;html&gt;.</p>
+<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>

@@ -59,8 +59,8 @@ La validation XHTML1.1 est passé sans problème (il y avait 2-3 GROS bug de deb
 
 Amusez-vous bien, et n'hésitez pas à me remonter des RSS interessant :)
 
-NB: Il semble qu'il y ai un pb de parse pour linuxfr.org ... il semblerait qu'il manque <![CDATA[ pour encadrer la 'description', afin que les balises HTML passent correctement, au lieu d'arreter le parsing.
-NB2: Ca ne passe plus la validation XHTML1.1, car j'ai du ajouter un attribut target au lien pour que ceux-ci s'ouvre bien dans la partie principal du browser et non dans la sidebar (Vu sur Mozilla 1.6 et 1.7B, mais fonctionnait 'normalement' sur FireBird0.8... a moins que ce ne soit FireFird le mauvais élève ;) )
+*NB*: Il semble qu'il y ai un pb de parse pour linuxfr.org ... il semblerait qu'il manque <![CDATA[ pour encadrer la 'description', afin que les balises HTML passent correctement, au lieu d'arreter le parsing.
+*NB2*: Ca ne passe plus la validation XHTML1.1, car j'ai du ajouter un attribut target au lien pour que ceux-ci s'ouvre bien dans la partie principal du browser et non dans la sidebar (Vu sur Mozilla 1.6 et 1.7B, mais fonctionnait 'normalement' sur FireBird0.8... a moins que ce ne soit FireFird le mauvais élève ;) )
 ****************************************
 Feed: Alexx'Blog <http://alexx.ikse.org/blog>
 Item: IE respecte les normes W3C les plus récentes <http://alexx.ikse.org/blog?2004/03/24/4-ie-respecte-les-normes-w3c-les-plus-recentes>
@@ -95,7 +95,7 @@ Marre des paranoïaques ...
 Cf. le Journal de manchot sur LinuxFR[1] : http://linuxfr.org/~manchot/10802.html[2]
 et mes commentaires: http://linuxfr.org/comments/377316.html[3] et http://linuxfr.org/comments/377319.html[4]
 
-A bon entendeur ...
+*A bon entendeur ...*
 
 [1] http://linuxfr.org
 [2] http://linuxfr.org/~manchot/10802.html

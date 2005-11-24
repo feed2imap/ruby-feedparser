@@ -30,7 +30,11 @@ module FeedParser
       s += "Encoding: #{@encoding}\n"
       s += "Title: #{@title}\n"
       s += "Link: #{@link}\n"
-      s += "Description: #{@description}\n"
+      if @description
+        s += "Description: #{@description.html2text}\n"
+      else
+        s += "Description:\n"
+      end
       s += "Creator: #{@creator}\n"
       s += "\n"
       @items.each do |i|
