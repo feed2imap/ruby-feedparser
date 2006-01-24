@@ -13,6 +13,9 @@ module FeedParser
   class Feed
     attr_reader :type, :title, :link, :description, :creator, :encoding, :items
 
+    # REXML::Element for this feed.
+    attr_reader :xml
+
     # parse str to build a Feed
     def initialize(str = nil)
       parse(str) if str
@@ -24,6 +27,7 @@ module FeedParser
       # Dirty hack: some feeds contain the & char. It must be changed to &amp;
       str.gsub!(/&(\s+)/, '&amp;\1')
       doc = REXML::Document.new(str)
+      @xml = doc.root
       # get feed info
       @encoding = doc.encoding
       @title,@link,@description,@creator = nil
@@ -110,12 +114,18 @@ module FeedParser
     end
   end
 
-# an Item from a feed
+  # an Item from a feed
   class FeedItem
     attr_accessor :title, :link, :content, :date, :creator, :subject,
                   :category, :cacheditem
+
     attr_reader :feed
+
+    # REXML::Element for this item
+    attr_reader :xml
+
     def initialize(item = nil, feed = nil)
+      @xml = item
       @feed = feed
       @title, @link, @content, @date, @creator, @subject, @category = nil
       parse(item) if item
@@ -126,14 +136,26 @@ module FeedParser
     end
 
     def to_s
-      "--------------------------------\n" +
+      s = "--------------------------------\n" +
         "Title: #{@title}\nLink: #{@link}\n" +
         "Date: #{@date.to_s}\nCreator: #{@creator}\n" +
         "Subject: #{@subject}\nCategory: #{@category}\nContent:\n#{content}\n"
+      if defined?(@enclosures) and @enclosures.length > 0
+        s2 = "Enclosures:\n"
+        @enclosures.each do |e|
+          s2 += e.join(' ') + "\n"
+        end
+        s += s2
+      end
+      return s
     end
   end
 
   class RSSItem < FeedItem
+
+    # The item's enclosures childs. An array of (url, length, type) triplets.
+    attr_accessor :enclosures
+
     def parse(item)
       # Title. If no title, use the pubDate as fallback.
       if ((e = item.elements['title'] || item.elements['rss:title']) &&
@@ -185,6 +207,14 @@ module FeedParser
       if (e = item.elements['dc:category'] || item.elements['category'] ||
           item.elements['rss:category']) && e.text
         @category = e.text.toUTF8(@feed.encoding).rmWhiteSpace!
+      end
+      # Enclosures
+      @enclosures = []
+      item.each_element('enclosure') do |e|
+        url = e.attribute('url').value if e.attribute('url')
+        length = e.attribute('length').value if e.attribute('length')
+        type = e.attribute('type').value if e.attribute('type')
+        @enclosures << [ url, length, type ]
       end
     end
   end

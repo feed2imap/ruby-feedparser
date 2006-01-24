@@ -1,3 +1,9 @@
+Ruby-Feedparser 0.2 (24/01/2006)
+================================
+* FeedParser::Feed and FeedParser::FeedItem now have an xml attribute to
+  get the related REXML::Element.
+* <enclosure/> support in RSS.
+
 Ruby-Feedparser 0.1 (24/11/2005)
-=======================
+================================
 * first public release.

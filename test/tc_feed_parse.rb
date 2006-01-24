@@ -95,4 +95,22 @@ class FeedParserTest < Test::Unit::TestCase
     assert_equal("<p>aa bb cc\n  dd ee ff</p>", ch.items[1].content)
     assert_equal('second item\'s title', ch.items[1].title)
   end
+
+  def test_enclosures
+    ch = FeedParser::Feed::new <<-EOF
+<?xml version="1.0"?>
+<!DOCTYPE rss SYSTEM "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+<channel>
+<item>
+  <enclosure url="url1" length="1" type="type1"/> 
+  <enclosure url="url2" type="type2"/> 
+  <enclosure length="3" type="type3"/> 
+  <enclosure url="url1" length="1"/> 
+</item>
+</channel>
+</rss>
+    EOF
+    assert_equal([["url1", "1", "type1"], ["url2", nil, "type2"], [nil, "3", "type3"], ["url1", "1", nil]], ch.items[0].enclosures)
+  end
 end
