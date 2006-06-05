@@ -227,9 +227,10 @@ module FeedParser
       end
       # Link
       item.each_element('link') do |e|
-        if e.attribute('type').value == 'text/html' or
-          e.attribute('type').value == 'application/xhtml' or
-          e.attribute('type').value == 'application/xhtml+xml'
+        if e.attribute('type') and (
+            e.attribute('type').value == 'text/html' or
+            e.attribute('type').value == 'application/xhtml' or
+            e.attribute('type').value == 'application/xhtml+xml')
           if (h = e.attribute('href')) && h.value
             @link = h.value
           end

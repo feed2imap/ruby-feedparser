@@ -6,10 +6,10 @@ require 'find'
 
 # Globals
 PKG_NAME = 'ruby-feedparser'
-PKG_VERSION = '0.1'
+PKG_VERSION = '0.2'
 
 PKG_FILES = [ 'ChangeLog', 'README', 'COPYING', 'LICENSE', 'setup.rb', 'Rakefile']
-Find.find('lib/', 'data/', 'test/', 'tools/') do |f|
+Find.find('lib/', 'test/', 'tools/') do |f|
 	if FileTest.directory?(f) and f =~ /\.svn/
 		Find.prune
 	else
@@ -77,4 +77,5 @@ begin
 		pkg.need_tar = true
 	end
 rescue LoadError
+  puts "Will not generate gem."
 end
