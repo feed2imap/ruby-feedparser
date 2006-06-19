@@ -38,7 +38,7 @@ module FeedParser
         # Title
         if (e = doc.root.elements['channel/title'] ||
           doc.root.elements['rss:channel/rss:title']) && e.text
-          @title = e.text.toUTF8(@encoding).rmWhiteSpace!
+          @title = e.text.unescape_html.toUTF8(@encoding).rmWhiteSpace!
         end
         # Link
         if (e = doc.root.elements['channel/link'] ||
@@ -54,7 +54,7 @@ module FeedParser
         if ((e = doc.root.elements['channel/dc:creator']) && e.text) ||
             ((e = doc.root.elements['channel/author'] ||
             doc.root.elements['rss:channel/rss:author']) && e.text)
-          @creator = e.text.toUTF8(@encoding).rmWhiteSpace!
+          @creator = e.text.unescape_html.toUTF8(@encoding).rmWhiteSpace!
         end
         # Items
         if doc.root.elements['channel/item']
@@ -73,7 +73,7 @@ module FeedParser
         @type = "atom"
         # Title
         if (e = doc.root.elements['/feed/title']) && e.text
-          @title = e.text.toUTF8(@encoding).rmWhiteSpace!
+          @title = e.text.unescape_html.toUTF8(@encoding).rmWhiteSpace!
         end
         # Link
         doc.root.each_element('/feed/link') do |e|
@@ -162,7 +162,7 @@ module FeedParser
           e.text)  ||
           ((e = item.elements['pubDate'] || item.elements['rss:pubDate']) &&
            e.text)
-        @title = e.text.toUTF8(@feed.encoding).rmWhiteSpace!
+        @title = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
       end
       # Link
       if ((e = item.elements['link'] || item.elements['rss:link']) && e.text)||
@@ -197,16 +197,16 @@ module FeedParser
       @creator = @feed.creator
       if (e = item.elements['dc:creator'] || item.elements['author'] ||
           item.elements['rss:author']) && e.text
-        @creator = e.text.toUTF8(@feed.encoding).rmWhiteSpace!
+        @creator = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
       end
       # Subject
       if (e = item.elements['dc:subject']) && e.text
-        @subject = e.text.toUTF8(@feed.encoding).rmWhiteSpace!
+        @subject = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
       end
       # Category
       if (e = item.elements['dc:category'] || item.elements['category'] ||
           item.elements['rss:category']) && e.text
-        @category = e.text.toUTF8(@feed.encoding).rmWhiteSpace!
+        @category = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
       end
       # Enclosures
       @enclosures = []
@@ -223,7 +223,7 @@ module FeedParser
     def parse(item)
       # Title
       if (e = item.elements['title']) && e.text
-        @title = e.text.toUTF8(@feed.encoding).rmWhiteSpace!
+        @title = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
       end
       # Link
       item.each_element('link') do |e|
@@ -264,7 +264,7 @@ module FeedParser
       # Creator
       @creator = @feed.creator
       if (e = item.elements['author/name']) && e.text
-        @creator = e.text.toUTF8(@feed.encoding).rmWhiteSpace!
+        @creator = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
       end
     end
   end

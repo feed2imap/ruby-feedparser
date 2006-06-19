@@ -1,3 +1,9 @@
+Ruby-Feedparser 0.3 (XX/06/2006)
+================================
+* Now escape title, creator, subject and category and now unescaped
+  internally. This minor fix avoids &amp; stuff in the titles, for
+  example.
+
 Ruby-Feedparser 0.2 (05/06/2006)
 ================================
 * Fixed a problem when parsing some ATOM feeds with <link> without type

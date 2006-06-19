@@ -14,21 +14,26 @@ class String
     return (self =~ /&lt;img src=/) || (self =~ /&lt;a href=/) || (self =~ /&lt;br(\/| \/|)&gt;/) || (self =~ /&lt;p&gt;/)
   end
 
+  def escape_html
+    gsub('&', '&amp;')
+  end
+
   # un-escape HTML in the text. used by String#text2html
   def unescape_html
+    r = self
     {
-      '<' => '&lt;',
-      '>' => '&gt;',
-      "'" => '&apos;',
-      '"' => '&quot;',
-      '&' => '&amp;',
-      "\047" => '&#39;',
-      "\046" => '&#038;',
-      "\046" => '&#38;'
+      '&lt;' => '<',
+      '&gt;' => '>',
+      '&apos;' => "'",
+      '&quot;' => '"',
+      '&amp;' => '&',
+      '&#39;' => "\047",
+      '&#038;' => "\046",
+      '&#38;' => "\046"
     }.each do |k, v|
-      gsub!(v, k)
+      r = r.gsub(k, v)
     end
-    self
+    r
   end
 
   # convert text to HTML
