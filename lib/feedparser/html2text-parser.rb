@@ -98,6 +98,11 @@ module FeedParser
     def unknown_charref(ref)
       handle_data([ref.to_i].pack('U*'))
     end
+
+    def HTML2TextParser.entities
+      return HTML_ENTITIES
+    end
+
     HTML_ENTITIES = {
       "quot" => 34,
       "amp" => 38,

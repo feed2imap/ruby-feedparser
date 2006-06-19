@@ -15,22 +15,21 @@ class String
   end
 
   def escape_html
-    gsub('&', '&amp;')
+    r = self.gsub('&', '&amp;')
+    r = r.gsub('<', '&lt;')
+    r = r.gsub('>', '&gt;')
+    r
   end
+
+MY_ENTITIES = {}
+FeedParser::HTML2TextParser::entities.each do |k, v|
+  MY_ENTITIES["&#{k};"] = [v].pack('U*')
+end
 
   # un-escape HTML in the text. used by String#text2html
   def unescape_html
     r = self
-    {
-      '&lt;' => '<',
-      '&gt;' => '>',
-      '&apos;' => "'",
-      '&quot;' => '"',
-      '&amp;' => '&',
-      '&#39;' => "\047",
-      '&#038;' => "\046",
-      '&#38;' => "\046"
-    }.each do |k, v|
+    MY_ENTITIES.each do |k, v|
       r = r.gsub(k, v)
     end
     r
