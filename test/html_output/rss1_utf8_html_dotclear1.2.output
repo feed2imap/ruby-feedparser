@@ -37,7 +37,7 @@ On peut reprocher le coté sectaire de la chose, mais il se trouve que cela appo
 <p>Pour ceux qui sont déjà sur <a href="http://orkut.com" hreflang="en">Orkut</a>, on peut dire que .node apporte la comformité aux standards du Web (XHTML), un développement basé sur du libre (<a href="http://httpd.apache.org" hreflang="en">Apache</a>, <a href="http://linux.org" hreflang="en">Linux</a>, <a href="http://mysql.com" hreflang="en">MySQL</a> et <a href="http://php.net" hreflang="en">PHP</a>, ...)... et 2-3 features (les blogs, la génération de <a href="http://alexx.dotnode.com" hreflang="fr">page perso</a> ...)</p>
 
 <p>Une version 1.1 apportera réélement de grosses nouveautés par rapport à ce qui existe.
-Pour rejoindre le réseau, guettez vos messageries ... peut-être qu'un amis va vous inviter :)</p></body></html>
+Pour rejoindre le réseau, guettez vos messageries ... peut-être qu'un amis va vous inviter :)</p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://alexx.ikse.org/blog">
 Alexx'Blog
@@ -57,14 +57,14 @@ De plus, un cache permet de decharger le serveur du RSS distant en le stockant p
 Enfin, l'UTF8 est correctement supporté.</p> <p>En plus d'afficher les titres du RSS (avec un style different si le lien a deja été cliqué ou non), ces meme titre peuvent se "déplier" pour faire apparaitre la descripion associé (l'article entier, ou un extrait suivant les flux RSS).<br />
 Si le RSS ne contient pas de champs description (généralement le cas avec les RDF), le titre est directement cliquable.<br />
 Si le RSS contient un champs description, il faudra cliquer sur le titre, puis sur la description pour aller sur le site.<br />
-<img src="/dotclear/images/blog1.png" alt="ScreenShot" width="305" height="271" /></p>
+<img src="http://alexx.ikse.org/dotclear/images/blog1.png" alt="ScreenShot" width="305" height="271" /></p>
 
 <p>La validation XHTML1.1 est passé sans problème (il y avait 2-3 GROS bug de debutant dans la premiere version :/)</p>
 
 <p>Amusez-vous bien, et n'hésitez pas à me remonter des RSS interessant :)</p>
 
 <p><strong>NB</strong>: Il semble qu'il y ai un pb de parse pour linuxfr.org ... il semblerait qu'il manque <code>&lt;![CDATA[</code> pour encadrer la 'description', afin que les balises HTML passent correctement, au lieu d'arreter le parsing.<br />
-<strong>NB2</strong>: Ca ne passe plus la validation XHTML1.1, car j'ai du ajouter un attribut target au lien pour que ceux-ci s'ouvre bien dans la partie principal du browser et non dans la sidebar (Vu sur Mozilla 1.6 et 1.7B, mais fonctionnait 'normalement' sur FireBird0.8... a moins que ce ne soit FireFird le mauvais élève ;) )</p></body></html>
+<strong>NB2</strong>: Ca ne passe plus la validation XHTML1.1, car j'ai du ajouter un attribut target au lien pour que ceux-ci s'ouvre bien dans la partie principal du browser et non dans la sidebar (Vu sur Mozilla 1.6 et 1.7B, mais fonctionnait 'normalement' sur FireBird0.8... a moins que ce ne soit FireFird le mauvais élève ;) )</p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://alexx.ikse.org/blog">
 Alexx'Blog
@@ -86,7 +86,7 @@ A force de tailler dans le CSS à a hache, la page passe a present (sur le vrai 
 
 <p>Mais je n'ai pas reussi a isoler le pb :/</p>
 
-<p>Si vous avez des pistes ....</p></body></html>
+<p>Si vous avez des pistes ....</p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://alexx.ikse.org/blog">
 Alexx'Blog
@@ -103,7 +103,7 @@ Re: Google censuré par la république bananière Française !
 <p>Marre des paranoïaques ...</p> <p>Cf. le Journal de manchot sur <a href="http://linuxfr.org" hreflang="fr">LinuxFR</a> : <a href="http://linuxfr.org/~manchot/10802.html">http://linuxfr.org/~manchot/10802.html</a><br />
 et mes commentaires: <a href="http://linuxfr.org/comments/377316.html">http://linuxfr.org/comments/377316.html</a> et <a href="http://linuxfr.org/comments/377319.html">http://linuxfr.org/comments/377319.html</a></p>
 
-<p><em>A bon entendeur ...</em></p></body></html>
+<p><em>A bon entendeur ...</em></p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://alexx.ikse.org/blog">
 Alexx'Blog
@@ -130,7 +130,7 @@ Créer ses propres Panels/SideBars à partir de RSS/RDF
 
 <p>Tout les commentaires seront les bienvenu ....<br />
 Il y a sans doute des bugs (c'est obligatoire pour un truc programmer en 15 minutes à l'arrache ;) ), merci de me les rapporter si vous en croisez un.<br />
-Si vous avez des RSS/RDF interessant, ca peut-etre sympa de mettre ca en commentaire :)</p></body></html>
+Si vous avez des RSS/RDF interessant, ca peut-etre sympa de mettre ca en commentaire :)</p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://alexx.ikse.org/blog">
 Alexx'Blog
@@ -150,4 +150,5 @@ ainsi :<br />
 "MyDoom virus alert - Under Microsoft(r) Windows(c)(tm) All version : Be caution about opening emails with attachments."</p> <p>Hé oui, le bel ordinateur portable de l'illustration est un superbe ... Mac ! :)<br />
 Qui, aux dernières nouvelles, n'est en rien affecté par les problemes purement windowsiens de virus/vers email...</p>
 
-<p>Enfin bref ... on ne pourra plus se moquer pendant une petite 15aine de jour bientot ;)</p></body></html>
+<p>Enfin bref ... on ne pourra plus se moquer pendant une petite 15aine de jour bientot ;)</p>
+</body></html>

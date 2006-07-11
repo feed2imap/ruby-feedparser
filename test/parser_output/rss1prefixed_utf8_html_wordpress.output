@@ -110,7 +110,7 @@ inspired me to finish a project I started <a shape="rect" href="http://dbaron.or
 ago</a>—making an RSS feed for this weblog.  After reading the one
 example XSLT file, I did the rest using only the <a shape="rect" href="http://www.w3.org/TR/1999/REC-xslt-19991116">XSLT spec</a> and the
 <a shape="rect" href="http://www.w3.org/TR/1999/REC-xpath-19991116">XPath spec</a>.
-So I now have an <a shape="rect" href="rss1">RSS feed</a> produced by an <a shape="rect" href="make-rss-transform">XSLT transformation sheet</a> (I don't like
+So I now have an <a shape="rect" href="http://dbaron.org/log/rss1">RSS feed</a> produced by an <a shape="rect" href="http://dbaron.org/log/make-rss-transform">XSLT transformation sheet</a> (I don't like
 the use of the word “stylesheet” for XSLT).  And it's
 apparently even <a shape="rect" href="http://feedvalidator.org/check.cgi?url=http%3A%2F%2Fdbaron.org%2Flog%2Frss1">valid</a>.</p>
 

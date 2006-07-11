@@ -1,4 +1,5 @@
 require 'feedparser'
+require 'feedparser/filesizes'
 
 module FeedParser
   class Feed
@@ -19,6 +20,7 @@ module FeedParser
         s += "\n<hr/><!-- *********************************** -->\n"
         s += i.to_html
       end
+      s += "\n</body></html>\n"
       s
     end
   end
@@ -40,7 +42,13 @@ module FeedParser
       s += "<br/>Category: #{@category.escape_html}\n" if @category
       s += "</p>\n"
       s += "#{@content}" if @content
-      s += '</body></html>'
+      if @enclosures and @enclosures.length > 0
+        s += "\n<p>Files:</p>\n<ul>\n"
+        @enclosures.each do |e|
+          s += "<li><a href=\"#{e[0]}\">#{e[0].split('/')[-1]}</a> (#{e[1].to_i.to_human_readable}, #{e[2]})</li>\n"
+        end
+        s += "</ul>\n"
+      end
       s
     end
   end

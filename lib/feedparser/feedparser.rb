@@ -276,17 +276,19 @@ module FeedParser
     end
     if children.length > 1
       s = ''
-      children.each { |c| s += c.to_s }
-      return s.toUTF8(encoding).rmWhiteSpace!.text2html
+      children.each do |c|
+        s += c.to_s if c.class != REXML::Comment
+      end
+      return s.toUTF8(encoding).rmWhiteSpace!.text2html(feed)
     elsif children.length == 1
       c = children[0]
       if c.class == REXML::Text
-        return e.text.toUTF8(encoding).rmWhiteSpace!.text2html
+        return e.text.toUTF8(encoding).rmWhiteSpace!.text2html(feed)
       else
         if c.class == REXML::CData
-          return c.to_s.toUTF8(encoding).rmWhiteSpace!.text2html
+          return c.to_s.toUTF8(encoding).rmWhiteSpace!.text2html(feed)
         elsif c.text
-          return c.text.toUTF8(encoding).text2html
+          return c.text.toUTF8(encoding).text2html(feed)
         end
       end
     end

@@ -5,7 +5,6 @@ Link: http://dbaron.org/log/
 Description: David Baron's weblog
 Creator: 
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: Political spectra <http://dbaron.org/log/2004-10#e20041002a>
@@ -65,8 +64,8 @@ Writing it wasn't nearly as bad as I expected, although I am somewhatdisappointe
 [3] http://dbaron.org/log/2003-09#e20030909a
 [4] http://www.w3.org/TR/1999/REC-xslt-19991116
 [5] http://www.w3.org/TR/1999/REC-xpath-19991116
-[6] rss1
-[7] make-rss-transform
+[6] http://dbaron.org/log/rss1
+[7] http://dbaron.org/log/make-rss-transform
 [8] http://feedvalidator.org/check.cgi?url=http%3A%2F%2Fdbaron.org%2Flog%2Frss1
 [9] http://www.w3.org/TR/1999/REC-xslt-19991116#section-Result-Tree-Fragments
 [10] http://www.w3.org/TR/1999/REC-xslt-19991116#section-Result-Tree-Fragments
@@ -89,14 +88,12 @@ Item: The W3C <http://dbaron.org/log/2004-06#e20040609a>
 Date: Thu Jun 10 00:06:00 UTC 2004
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: More about the workshop <http://dbaron.org/log/2004-06#e20040607a>
 
 Date: Mon Jun 07 19:01:00 UTC 2004
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -105,14 +102,12 @@ Item: Travel & Meetings <http://dbaron.org/log/2004-06#e20040604a>
 Date: Fri Jun 04 22:47:00 UTC 2004
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: No exit? <http://dbaron.org/log/2004-05#e20040527a>
 
 Date: Thu May 27 22:51:00 UTC 2004
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -121,14 +116,12 @@ Item: Fragmentation of document formats on the Web <http://dbaron.org/log/2004-0
 Date: Thu May 13 18:30:00 UTC 2004
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: Monterey County Coast <http://dbaron.org/log/2004-04#e20040419a>
 
 Date: Tue Apr 20 05:54:00 UTC 2004
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -137,14 +130,12 @@ Item: Snow in Mandelieu <http://dbaron.org/log/2004-03#e20040301a>
 Date: Mon Mar 01 17:37:00 UTC 2004
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: States I've visited <http://dbaron.org/log/2004-02#e20040203a>
 
 Date: Tue Feb 03 08:13:00 UTC 2004
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -153,14 +144,12 @@ Item: The man to beat bush? <http://dbaron.org/log/2004-01#e20040129a>
 Date: Thu Jan 29 20:01:00 UTC 2004
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: Don't run away from tables <http://dbaron.org/log/2003-11#e20031126a>
 
 Date: Thu Nov 27 01:17:00 UTC 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -169,14 +158,12 @@ Item: The good news <http://dbaron.org/log/2003-10#e20031007a>
 Date: Wed Oct 08 06:24:00 UTC 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: Mozilla Firebird, part 2 <http://dbaron.org/log/2003-09#e20030914a>
 
 Date: Sun Sep 14 19:29:00 UTC 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -185,14 +172,12 @@ Item: Election 2004: The Albuquerque debate <http://dbaron.org/log/2003-09#e2003
 Date: Wed Sep 10 05:15:00 UTC 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: Mozilla Firebird <http://dbaron.org/log/2003-09#e20030909c>
 
 Date: Wed Sep 10 04:39:00 UTC 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -201,14 +186,12 @@ Item: Israel and Palestine <http://dbaron.org/log/2003-09#e20030909b>
 Date: Wed Sep 10 04:02:00 UTC 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: My blog <http://dbaron.org/log/2003-09#e20030909a>
 
 Date: Wed Sep 10 03:41:00 UTC 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -218,7 +201,6 @@ Times ... <http://dbaron.org/log/2003-08#l20030831>
 Date: Sun Aug 31 00:00:00 CEST 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: The CSS3
@@ -226,7 +208,6 @@ syntax module draft was publis... <http://dbaron.org/log/2003-08#l20030813>
 
 Date: Wed Aug 13 00:00:00 CEST 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -236,7 +217,6 @@ think I... <http://dbaron.org/log/2003-08#l20030806>
 Date: Wed Aug 06 00:00:00 CEST 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: Fun with sendmail!  More later on my
@@ -245,14 +225,12 @@ ne... <http://dbaron.org/log/2003-07#l20030731>
 Date: Thu Jul 31 00:00:00 CEST 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: I'm amused that when the President of t... <http://dbaron.org/log/2003-07#l20030716>
 
 Date: Wed Jul 16 00:00:00 CEST 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -261,14 +239,12 @@ Item: It's rally annoying whn th E ky on my k... <http://dbaron.org/log/2003-06#
 Date: Mon Jun 09 00:00:00 CEST 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: My reading lately has consisted of read... <http://dbaron.org/log/2003-06#l20030604>
 
 Date: Wed Jun 04 00:00:00 CEST 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -277,14 +253,12 @@ Item: So I've been in California for over a m... <http://dbaron.org/log/2003-05#
 Date: Fri May 23 00:00:00 CEST 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: I lost a day's worth of dbaron.org emai... <http://dbaron.org/log/2003-04#l20030426>
 
 Date: Sat Apr 26 00:00:00 CEST 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -293,14 +267,12 @@ Item: I'm moving to California on Wednesday a... <http://dbaron.org/log/2003-04#
 Date: Mon Apr 14 00:00:00 CEST 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: The lack of UI for strict focus-follows... <http://dbaron.org/log/2003-03#l20030329>
 
 Date: Sat Mar 29 00:00:00 CET 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -309,14 +281,12 @@ Item: I'm one of those tcsh users who's alway... <http://dbaron.org/log/2003-03#
 Date: Fri Mar 14 00:00:00 CET 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: It's March now, and we're beginning to ... <http://dbaron.org/log/2003-03#l20030308>
 
 Date: Sat Mar 08 00:00:00 CET 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -325,14 +295,12 @@ Item: For those of you who don't have the fun... <http://dbaron.org/log/2003-02#
 Date: Thu Feb 13 00:00:00 CET 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: I've seen a bunch of good movies recent... <http://dbaron.org/log/2003-02#l20030210>
 
 Date: Mon Feb 10 00:00:00 CET 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -341,7 +309,6 @@ Item: I've done a few neat hacks with X-Remot... <http://dbaron.org/log/2003-02#
 Date: Sun Feb 02 00:00:00 CET 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: In the fun with old hardware category..... <http://dbaron.org/log/2003-01#l20030129>
@@ -349,14 +316,12 @@ Item: In the fun with old hardware category..... <http://dbaron.org/log/2003-01#
 Date: Wed Jan 29 00:00:00 CET 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: Just for the record, I was exaggerating... <http://dbaron.org/log/2003-01#l20030112>
 
 Date: Sun Jan 12 00:00:00 CET 2003
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -366,14 +331,12 @@ shaver, jwz... <http://dbaron.org/log/2003-01#l20030109>
 Date: Thu Jan 09 00:00:00 CET 2003
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: I obeyed his instructions ten minutes ... <http://dbaron.org/log/2002-12#l20021221>
 
 Date: Sat Dec 21 00:00:00 CET 2002
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -383,7 +346,6 @@ need to remember more often... <http://dbaron.org/log/2002-12#l20021215>
 Date: Sun Dec 15 00:00:00 CET 2002
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: Judging from his December 12
@@ -392,7 +354,6 @@ entry, Hix... <http://dbaron.org/log/2002-12#l20021214>
 Date: Sat Dec 14 00:00:00 CET 2002
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: If you thought discrimination was a thi... <http://dbaron.org/log/2002-12#l20021211>
@@ -400,14 +361,12 @@ Item: If you thought discrimination was a thi... <http://dbaron.org/log/2002-12#
 Date: Wed Dec 11 00:00:00 CET 2002
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: It's too cold outside.  To be exact, it... <http://dbaron.org/log/2002-12#l20021203>
 
 Date: Tue Dec 03 00:00:00 CET 2002
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -417,7 +376,6 @@ Item: [18:53:10] <Bandit> Hi all
 Date: Thu Nov 28 00:00:00 CET 2002
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: The concert on
@@ -426,14 +384,12 @@ Friday night went well, ... <http://dbaron.org/log/2002-11#l20021124>
 Date: Sun Nov 24 00:00:00 CET 2002
 Author: David Baron
 
-
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
 Item: It's nice to wake up in the morning and... <http://dbaron.org/log/2002-11#l20021121>
 
 Date: Thu Nov 21 00:00:00 CET 2002
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>
@@ -443,7 +399,6 @@ Item: The New York Times is
 
 Date: Fri Nov 15 00:00:00 CET 2002
 Author: David Baron
-
 
 ****************************************
 Feed: David Baron's Weblog <http://dbaron.org/log/>

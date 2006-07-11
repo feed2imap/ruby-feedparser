@@ -43,7 +43,7 @@ De plus, un cache permet de decharger le serveur du RSS distant en le stockant p
 Enfin, l'UTF8 est correctement supporté.</p> <p>En plus d'afficher les titres du RSS (avec un style different si le lien a deja été cliqué ou non), ces meme titre peuvent se "déplier" pour faire apparaitre la descripion associé (l'article entier, ou un extrait suivant les flux RSS).<br />
 Si le RSS ne contient pas de champs description (généralement le cas avec les RDF), le titre est directement cliquable.<br />
 Si le RSS contient un champs description, il faudra cliquer sur le titre, puis sur la description pour aller sur le site.<br />
-<img src="/dotclear/images/blog1.png" alt="ScreenShot" width="305" height="271" /></p>
+<img src="http://alexx.ikse.org/dotclear/images/blog1.png" alt="ScreenShot" width="305" height="271" /></p>
 
 <p>La validation XHTML1.1 est passé sans problème (il y avait 2-3 GROS bug de debutant dans la premiere version :/)</p>
 

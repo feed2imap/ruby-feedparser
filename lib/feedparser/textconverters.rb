@@ -36,18 +36,46 @@ end
   end
 
   # convert text to HTML
-  def text2html
+  def text2html(feed)
     text = self.clone
-    return text if text.html?
-    if text.escaped_html?
-      return text.unescape_html
+    if text.html?
+      # do nothing
+    elsif text.escaped_html?
+      text = text.unescape_html
+    else
+      # paragraphs
+      text.gsub!(/\A\s*(.*)\Z/m, '<p>\1</p>')
+      text.gsub!(/\s*\n(\s*\n)+\s*/, "</p>\n<p>")
+      # uris
+      text.gsub!(/(#{URI::regexp(['http','ftp','https'])})/,
+          '<a href="\1">\1</a>')
     end
-    # paragraphs
-    text.gsub!(/\A\s*(.*)\Z/m, '<p>\1</p>')
-    text.gsub!(/\s*\n(\s*\n)+\s*/, "</p>\n<p>")
-    # uris
-    text.gsub!(/(#{URI::regexp(['http','ftp','https'])})/,
-        '<a href="\1">\1</a>')
+    # Handle broken hrefs in <a> and <img>
+    if feed and feed.link
+      text.gsub!(/(\s(src|href)=['"])([^'"]*)(['"])/) do |m|
+        begin
+          first, url, last = $1, $3, $4
+          if (url =~ /^\s*\w+:\/\//) or (url =~ /^\s*\w+:\w/)
+            m
+          elsif url =~ /^\//
+            (first + feed.link.split(/\//)[0..2].join('/') + url + last)
+          else
+            t = feed.link.split(/\//)
+            if t.length == 3 # http://toto with no trailing /
+              (first + feed.link + '/' + url + last)
+            else
+              if feed.link =~ /\/$/
+                (first + feed.link + url + last)
+              else
+                (first + t[0...-1].join('/') + '/' + url + last)
+              end
+            end
+          end
+        rescue
+          m
+        end
+      end
+    end
     text
   end
 

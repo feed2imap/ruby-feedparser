@@ -17,7 +17,7 @@ Normalization
 Item: content:encoded
 
 </p>
-<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p></body></html>
+<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://alexx.ikse.org/blog">
 Normalization
@@ -26,7 +26,7 @@ Normalization
 Item: HTML direct
 
 </p>
-<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p></body></html>
+<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://alexx.ikse.org/blog">
 Normalization
@@ -35,4 +35,5 @@ Normalization
 Item: Escaped
 
 </p>
-<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p></body></html>
+<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>
+</body></html>

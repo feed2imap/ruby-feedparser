@@ -21,7 +21,7 @@ Work In Progress
 <br/>Date: Wed Sep 21 01:16:39 UTC 2005
 <br/>Author: Bastien Nocera
 </p>
-Yay! Got <a href="http://pilot-link.org/">pilot-link</a> to sync over Bluetooth, without the crappy 'Set up a PPP server' bit. Now to download <a href="http://palmsource.palmgear.com/index.cfm?fuseaction=software.showsoftware&prodID=52957">BtSync</a>.</body></html>
+Yay! Got <a href="http://pilot-link.org/">pilot-link</a> to sync over Bluetooth, without the crappy 'Set up a PPP server' bit. Now to download <a href="http://palmsource.palmgear.com/index.cfm?fuseaction=software.showsoftware&prodID=52957">BtSync</a>.
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://hadess.net">
 Bastien's Blog
@@ -35,9 +35,9 @@ Student again
 <br/>Author: Bastien Nocera
 </p>
 First day at <a href="http://www.surrey.ac.uk/">Uni</a>, registration, seeing the faces of my new classmates. Definitely the eldest one, the Frenchest one (not the foreignest one, there are 2 Russian girls in the class), and the only one doing it part-time. So I started skipping this afternoon (<i>Welcome to the bestest Uni in England</i> and <i>Where do I do sports</i> that's mostly interesting to 18-year olds who've never left home, like, hmm, most of them). Only the fresher's drinks to go to tomorrow, so I can try and get over the flu I picked up this week-end.<p>
-Done a bit of work on Bluetooth, mainly research, and general updating. <a href="http://noring.nocrew.org/">Fredrik Noring</a> has joined in to help with the ever-distant <a href="/?start=566">gnome-bluetooth-manager</a>. Busy adding new features to libbtctl for now, the fun work will come a bit later.<p>
+Done a bit of work on Bluetooth, mainly research, and general updating. <a href="http://noring.nocrew.org/">Fredrik Noring</a> has joined in to help with the ever-distant <a href="http://hadess.net/?start=566">gnome-bluetooth-manager</a>. Busy adding new features to libbtctl for now, the fun work will come a bit later.<p>
 Watched <a href="http://us.imdb.com/title/tt0372588/">Team America</a>. Would
-be a funny film if it didn't feel so true.<p></body></html>
+be a funny film if it didn't feel so true.<p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://hadess.net">
 Bastien's Blog
@@ -51,7 +51,7 @@ Item: <a href="http://hadess.net/?start=575">
 <br/>Author: Bastien Nocera
 </p>
 Lazy Web, oh Lazy Web, can you tell me a good Obex FTP client for Palm OS?<p>
-PS: <a href="http://www.imdb.com/title/tt0072271/">Texas Chainsaw Massacre</a> sucks. And <a href="http://blogs.gnome.org/view/calum?reverse=1">Calum</a> will be happy we only managed <a href="http://news.bbc.co.uk/sport1/hi/football/europe/4234188.stm">a draw</a>. Glory hunter, my arse.<p></body></html>
+PS: <a href="http://www.imdb.com/title/tt0072271/">Texas Chainsaw Massacre</a> sucks. And <a href="http://blogs.gnome.org/view/calum?reverse=1">Calum</a> will be happy we only managed <a href="http://news.bbc.co.uk/sport1/hi/football/europe/4234188.stm">a draw</a>. Glory hunter, my arse.<p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://hadess.net">
 Bastien's Blog
@@ -66,7 +66,7 @@ Won it!
 </p>
 You'd think that Brits would get behind the England and Wales team <a href="http://news.bbc.co.uk/sport1/hi/cricket/england/4237610.stm">winning the Ashes</a>, but <a href="http://blogs.gnome.org/view/calum/2005/09/12/0">no</a>. Calum, you're cheap. I hope Motherwell loses (again)[1].<p>
 All hail to McGratthie!<p>
-[1]: it's low, but you deserved it.</body></html>
+[1]: it's low, but you deserved it.
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://hadess.net">
 Bastien's Blog
@@ -92,7 +92,7 @@ I also took some time to get DAAP sharing working with Rhythmbox, thanks <a href
 src="http://www.bbc.co.uk/weather/images/symbols/fiveday_sym/3.gif" align="center" border=0><br>
 <p align="center"><i>Can England fail to play in that nice weather?</i></p>
 </td></tr>
-</table><p></body></html>
+</table><p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://hadess.net">
 Bastien's Blog
@@ -109,7 +109,7 @@ He got the 10 wickets out yesterday already! (Cricket lovers, don't despair, it'
 
 <table align="center"><tr><td align=center>
 <img
-src="/blog/images/30-08-05_2210.jpg" align="center" border=0><br>
+src="http://hadess.net/blog/images/30-08-05_2210.jpg" align="center" border=0><br>
 <p align="center"><i>Since <a href="http://www.fluendo.com">Fluendo</a>'s inception, xine lovers have gone underground</i></p>
 </td></tr>
 </table><p>
@@ -118,10 +118,10 @@ Breakthrough in <a href="http://usefulinc.com/software/phonemgr/">gnome-phone-ma
 
 <table align="center"><tr><td>
 <img
-src="/blog/images/07-09-05_1930.jpg" align="middle" border=0><br>
+src="http://hadess.net/blog/images/07-09-05_1930.jpg" align="middle" border=0><br>
 <p align="center"><i>No, Alan Cox isn't the Creeper, he just plays in it</i></p>
 </td></tr>
-</table><p></body></html>
+</table><p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://hadess.net">
 Bastien's Blog
@@ -134,11 +134,11 @@ It's all about timing
 <br/>Date: Tue Sep 06 20:06:18 UTC 2005
 <br/>Author: Bastien Nocera
 </p>
-And time! It's about time that I finish blogging about my <a href="">trip to Barcelona</a>. Day 4, nice, got to visit the <a href="/files/photos/Barcelona_2005_day_4/">Sagrada Familia</a>. Very nice, convoluted, interweaved, and really overdone. After that, it all goes downhill.<p>
+And time! It's about time that I finish blogging about my <a href="http://hadess.net/">trip to Barcelona</a>. Day 4, nice, got to visit the <a href="http://hadess.net/files/photos/Barcelona_2005_day_4/">Sagrada Familia</a>. Very nice, convoluted, interweaved, and really overdone. After that, it all goes downhill.<p>
 
 <table align="center"><tr><td>
 <img
-src="/files/photos/Barcelona_2005_day_4/lq/img-2.jpg" align="center" border=0>
+src="http://hadess.net/files/photos/Barcelona_2005_day_4/lq/img-2.jpg" align="center" border=0>
 </td></tr>
 <tr><td>
 <p align="center"><i>Over-engineered</i></p>
@@ -151,7 +151,7 @@ I wouldn't live in Barcelona, but it's certainly a good place to have friends in
 <b>Back to the routine</b><p>
 Or not quite. I've received my welcome pack for <a href="http://www.surrey.ac.uk/">UniS</a>, starts Monday 19th. And I'll be going to Boston for the <a href="http://live.gnome.org/Boston2005">Summit</a> (thanks Havoc for sorting it out), and after that to Raleigh to meet my new boss.<p>
 <b>Random bits</b><p>
-Watched <a href="http://us.imdb.com/title/tt0094012/">Spaceballs</a> (full of one-liners, but was certainly more entertaining to watch in the '80s) and <a href="http://www.imdb.com/title/tt0386588/">Hitch</a> (got no excuses, again). And Christian, in addition to having a <a href="http://blogs.gnome.org/view/uraeus/2005/08/27/0">Crazy Frog Background</a>, also has the <a href="http://www.linuxrising.org/screenshots/rootbert.png">Crazy Frog music in his collection</a>.</body></html>
+Watched <a href="http://us.imdb.com/title/tt0094012/">Spaceballs</a> (full of one-liners, but was certainly more entertaining to watch in the '80s) and <a href="http://www.imdb.com/title/tt0386588/">Hitch</a> (got no excuses, again). And Christian, in addition to having a <a href="http://blogs.gnome.org/view/uraeus/2005/08/27/0">Crazy Frog Background</a>, also has the <a href="http://www.linuxrising.org/screenshots/rootbert.png">Crazy Frog music in his collection</a>.
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://hadess.net">
 Bastien's Blog
@@ -164,7 +164,7 @@ Ouch
 <br/>Date: Wed Aug 31 03:50:00 UTC 2005
 <br/>Author: Bastien Nocera
 </p>
-<p>So the evening was a tiny bit more eventful than prepared. First, Andrew Patrick (the good guy Wingo's mom name) got us down to a very nice tapas bar. Then, it got more furious. We ended up in Moog, and on the way I got offered unaldurated sex (for a fee), hachish, my balls grabbed (gratis), and 20 euros nicked out of my backpocket (gratis, again). The club was good, easy 80's upstairs, and hardcore noughts downstairs. The skinny really white guy standing next to me near the end was, well, Scottish. Would you believe. It's close to 6, and the second part of the night didn't go through. Shame, time to sleep now. Tada.</p></body></html>
+<p>So the evening was a tiny bit more eventful than prepared. First, Andrew Patrick (the good guy Wingo's mom name) got us down to a very nice tapas bar. Then, it got more furious. We ended up in Moog, and on the way I got offered unaldurated sex (for a fee), hachish, my balls grabbed (gratis), and 20 euros nicked out of my backpocket (gratis, again). The club was good, easy 80's upstairs, and hardcore noughts downstairs. The skinny really white guy standing next to me near the end was, well, Scottish. Would you believe. It's close to 6, and the second part of the night didn't go through. Shame, time to sleep now. Tada.</p>
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://hadess.net">
 Bastien's Blog
@@ -181,7 +181,7 @@ After my problems with plane tickets, I still managed to make it to sunny Bacelo
 I started my integration on Sunday, when after a few sips at a beach bar, we headed to an Irish pub, to watch <a href="http://news.bbc.co.uk/sport1/hi/football/eng_prem/4168930.stm">Newcastle v. ManU</a>. My home studies (read: the FIFA tournament on Friday evenings) came to use when I called Luque a <i>Tronco</i>, and the barkeep laughed. Headed towards a Thai restaurant (the original plan having failed, see below).<p>
 <table align="center"><tr><td>
 <img
-src="/files/photos/Barcelona_2005_day_3/lq/img-5.jpg" align="center" border=0>
+src="http://hadess.net/files/photos/Barcelona_2005_day_3/lq/img-5.jpg" align="center" border=0>
 </td></tr>
 <tr><td>
 <p align="center"><i>Totum, not Totem, and it was closed. So close Andy...</i></p>
@@ -189,7 +189,7 @@ src="/files/photos/Barcelona_2005_day_3/lq/img-5.jpg" align="center" border=0>
 Next day, woke up late, tried to go to the Picasso museum. Closed on Mondays. My debit card to buy a <i>Metro</i> travelcard, nearly eaten by the machine (saved by the keys, McGyver-style). Instead, I hung out at the <a href="http://fluendo.com">Fluendo</a> offices, and made a trip to the aquarium. I couldn't find how to disable the flash on my damn camera, so ended up taking only one picture. The other picture I got was from me standing next to a guy in a shark suit. It's like Disneyland in Catalan.<p>
 <table align="center"><tr><td>
 <img
-src="/files/photos/Barcelona_2005_day_3/lq/img-21.jpg" align="center" border=0>
+src="http://hadess.net/files/photos/Barcelona_2005_day_3/lq/img-21.jpg" align="center" border=0>
 </td></tr>
 <tr><td>
 <p align="center"><i>Not a nudie booth</i></p>
@@ -197,13 +197,13 @@ src="/files/photos/Barcelona_2005_day_3/lq/img-21.jpg" align="center" border=0>
 Yesterday evening, we went to a Mexican (apparently a bad one, it wasn't actually so bad), and then to see <a href="http://imdb.com/title/tt0399201/">La Isla</a>. I found the film really bad, and Thomas not so much. I guess Thomas has the culinary taste, and I have the film one.<p>
 <table align="center"><tr><td>
 <img
-src="/files/photos/Barcelona_2005_day_3/lq/img-24.jpg" align="center" border=0>
+src="http://hadess.net/files/photos/Barcelona_2005_day_3/lq/img-24.jpg" align="center" border=0>
 </td></tr>
 <tr><td>
 <p align="center"><i>Well high</i></p>
 </tr></td></table><p>
 Today was a late one again, and I strolled to <i>Monjuic</i> via the <i>Teleferic</i> after lunch at the Italian restaurant.<p>
-Another couple of days still, so it's going to be fun. Much thanks to Christian for the hosting, and the Fluendo guys (even the Aussies!) for company.</body></html>
+Another couple of days still, so it's going to be fun. Much thanks to Christian for the hosting, and the Fluendo guys (even the Aussies!) for company.
 <hr/><!-- *********************************** -->
 <p>Feed: <a href="http://hadess.net">
 Bastien's Blog
@@ -216,4 +216,5 @@ I hate booking plane tickets
 <br/>Date: Sat Aug 27 10:39:30 UTC 2005
 <br/>Author: Bastien Nocera
 </p>
-It's happened to me twice that I bought my tickets for the wrong week. One week off on the booking, and you end up paying more because you're not careful. I manage to top it this time, by booking my trip to Barcelona in the wrong direction. 160 quid later, I'm going in the right direction...<p></body></html>
+It's happened to me twice that I bought my tickets for the wrong week. One week off on the booking, and you end up paying more because you're not careful. I manage to top it this time, by booking my trip to Barcelona in the wrong direction. 160 quid later, I'm going in the right direction...<p>
+</body></html>

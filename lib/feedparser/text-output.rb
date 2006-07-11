@@ -1,5 +1,6 @@
 require 'feedparser'
 require 'feedparser/html2text-parser'
+require 'feedparser/filesizes'
 
 class String
   # Convert an HTML text to plain text
@@ -38,7 +39,7 @@ module FeedParser
       s += "Creator: #{@creator}\n"
       s += "\n"
       @items.each do |i|
-        s += "\n" + '*' * 40 + "\n"
+        s += '*' * 40 + "\n"
         s += i.to_text
       end
       s
@@ -62,8 +63,14 @@ module FeedParser
       s += "\nSubject: #{@subject}" if @subject
       s += "\nCategory: #{@category}" if @category
       s += "\n\n"
-      s += "#{@content.html2text}" if @content
-      s
+      s += "#{@content.html2text}\n" if @content
+      if @enclosures and @enclosures.length > 0
+        s += "Files:\n"
+        @enclosures.each do |e|
+          s += " #{e[0]} (#{e[1].to_i.to_human_readable}, #{e[2]})\n"
+        end
+      end
+      s 
     end
   end
 end
