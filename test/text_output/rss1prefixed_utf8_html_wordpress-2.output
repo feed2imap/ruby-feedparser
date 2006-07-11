@@ -1,0 +1,409 @@
+Type: rss
+Encoding: UTF-8
+Title: David Baron's Weblog
+Link: http://dbaron.org/log/index.php
+Description: David Baron's weblog
+Creator: 
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Political spectra <http://dbaron.org/log/2004-10#e20041002a>
+
+Date: Sat Oct 02 07:42:00 UTC 2004
+Author: David Baron
+
+Since politics is (are?) on my mind lately, I want to point outan interesting site, PoliticalSurvey[1], which I first discovered when EricMeyer pointed it out[2] back in February.
+
+It's interesting because it uses principalcomponent analysis[3] to derive the axes from the data, rather thantrying to pick axes in advance.  It's also interesting because the mostsignificant axis it finds is the traditional left/right axis, but thesecond axis isn't the libertarian/authoritarian axis that some assertshould be the second axis–rather, it's a pragmatic/idealisticaxis.
+
+I've taken the survey twice, once in February and once today.  Myresults were similar:  I was in the left/pragmatic quadrant[4] bothtimes.  (In February, I was -4.08 on right/left and +5.17 onpragmatic/idealistic.  Today I was -3.63 on right/left and +4.65 onpragmatic/idealistic.)
+
+[1] http://politics.beasts.org/
+[2] http://www.meyerweb.com/eric/thoughts/2004/02/02/mapping-things-out/
+[3] http://politics.beasts.org/rationale.shtml
+[4] http://politics.beasts.org/scripts/eigenvectors
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: A few (technical) thoughts <http://dbaron.org/log/2004-09#e20040922a>
+
+Date: Wed Sep 22 07:48:00 UTC 2004
+Author: David Baron
+
+- My 1GB DIMM arrived Monday, and it works fine.  With memory pricesthese days, getting that is much easier than worrying about fixing a badmemory slot.
+- CSS error reporting is now enabled in trunk Mozilla builds.  Checkout the “Javascript Console”.
+- I compiled a custom Linux kernel Tuesday to try to get suspend andresume working on my laptop, but it didn't help.  My display stilldoesn't wake up on resume.  And perhaps other things don't either.  It'sa little hard to tell.  (The patches were the first patch and the secondvariant of the second patch on a page about Linux on theDell D600[1].  I have a Dell Inspiron 5150, but the video card is thesame).  I'll probably continue trying to get it working another time.
+- I wish GNU ld's --gc-sections option worked for sharedlibraries.  (Even working when shared libraries are visible within fivemiles would be nice!)  The main thing this would help Mozilla with isgetting rid of unneeded copies of constructors and destructors that gcc[2]'s C++ compiler emits.  And probablyalso some unneeded vtables.  And maybe a good bit of other stuff.(gcc could probably be a little better, but it's really a job for thelinker.)
+
+[1] http://www.loria.fr/~thome/d600/#update
+[2] http://gcc.gnu.org/
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Bad memory <http://dbaron.org/log/2004-09#e20040911a>
+
+Date: Sat Sep 11 19:14:00 UTC 2004
+Author: David Baron
+
+So this morning I was getting annoyed at the small amount of RAM inmy laptop.  Since I recently (after having the laptop for over a year)got Linux to use my CPU at full speed instead of half speed (by addingDEVICE="acpi" to /etc/cpuspeed.conf), memoryhas really seemed to be the limiting factor.  (Well, it has a slow disktoo.)  I've also been doing some things that use a lot of memory lately.I wondered why I only got 256 MiB of RAM in the first place—thatdidn't seem like something I'd do.  So, with the thought of buying moreRAM in mind, I pulled out the folder that had the receipt for my laptopto see whether I had an empty memory slot or 2 128 MiB DIMMs.
+
+And the receipt said I had ordered 512 MiB of memory.  Butfree says I have 256 MiB, and the BIOS agrees.  And I don'treally ever remember this machine having 512 MiB.  So I opened up thelaptop, and, lo and behold, there were 2 256 MiB DIMMs in there.  A fewexperiments showed that one of the two memory slots was bad.  And themachine is already out of warranty (since I got a short warranty, whichfor me is usually a better deal, especially since I'm never sure whetherDell will honor the warranty after I've installed Linux).
+
+I really need a better memory of what I ordered.  Or better memory.Or something.  But maybe I'll at least remember not to order laptopsfrom Dell again.
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Weblog feed <http://dbaron.org/log/2004-08#e20040830a>
+
+Date: Tue Aug 31 05:48:00 UTC 2004
+Author: David Baron
+
+Reading the XSLTused[1] for the newsfeed on the new mozilla.org webpage[2]inspired me to finish a project I started quite a whileago[3]—making an RSS feed for this weblog.  After reading the oneexample XSLT file, I did the rest using only the XSLT spec[4] and theXPath spec[5].So I now have an RSS feed[6] produced by an XSLT transformation sheet[7] (I don't likethe use of the word “stylesheet” for XSLT).  And it'sapparently even valid[8].
+
+Writing it wasn't nearly as bad as I expected, although I am somewhatdisappointed by the inability of XSLT to re-transform trees (i.e., usean already transformed tree, in the form of a resulttree fragment[9] bound to a variable, as the source tree for anadditional transformation).  I worked around the problem using a namedtemplate and xsl:call-template[10].At least I think it's something XSLT can't do—at least I couldn'tsee how in the spec.
+
+[1] http://www.mozilla.org/webtools/bonsai/cvsblame.cgi?file=mozilla-org/tools/feed2html.xsl&amp;rev=1.1.2.2&amp;cvsroot=/cvsroot
+[2] http://website-beta.mozilla.org/
+[3] http://dbaron.org/log/2003-09#e20030909a
+[4] http://www.w3.org/TR/1999/REC-xslt-19991116
+[5] http://www.w3.org/TR/1999/REC-xpath-19991116
+[6] http://dbaron.org/log/rss1
+[7] http://dbaron.org/log/make-rss-transform
+[8] http://feedvalidator.org/check.cgi?url=http%3A%2F%2Fdbaron.org%2Flog%2Frss1
+[9] http://www.w3.org/TR/1999/REC-xslt-19991116#section-Result-Tree-Fragments
+[10] http://www.w3.org/TR/1999/REC-xslt-19991116#section-Result-Tree-Fragments
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Intranet mode? <http://dbaron.org/log/2004-06#e20040621a>
+
+Date: Mon Jun 21 21:41:00 UTC 2004
+Author: David Baron
+
+If Microsoft isgoingto develop IE again[1], I challenge them to move most oftheir non-standard behavior out of quirks mode and into an “Intranetmode”.
+
+Most of the quirky behavior of IE for Windows isn't actually neededto display Web sites correctly.  It'sneeded for “Intranet” sites that have been designed to work withonly one browser.  Backwards-compatibility for corporate, academic, andgovernment “Intranets” is a perfectly good reason to want toproduce software that continues to display such sites, but it's noreason to inflict such software on the Web.  This would make IE'shandling of most web pages much more standard and lessen one of the mainways IE's near-monopoly discourages competition.
+
+[1] http://blogs.msdn.com/dmassy/archive/2004/06/16/157263.aspx
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: The W3C <http://dbaron.org/log/2004-06#e20040609a>
+
+Date: Thu Jun 10 00:06:00 UTC 2004
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: More about the workshop <http://dbaron.org/log/2004-06#e20040607a>
+
+Date: Mon Jun 07 19:01:00 UTC 2004
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Travel & Meetings <http://dbaron.org/log/2004-06#e20040604a>
+
+Date: Fri Jun 04 22:47:00 UTC 2004
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: No exit? <http://dbaron.org/log/2004-05#e20040527a>
+
+Date: Thu May 27 22:51:00 UTC 2004
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Fragmentation of document formats on the Web <http://dbaron.org/log/2004-05#e20040513a>
+
+Date: Thu May 13 18:30:00 UTC 2004
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Monterey County Coast <http://dbaron.org/log/2004-04#e20040419a>
+
+Date: Tue Apr 20 05:54:00 UTC 2004
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Snow in Mandelieu <http://dbaron.org/log/2004-03#e20040301a>
+
+Date: Mon Mar 01 17:37:00 UTC 2004
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: States I've visited <http://dbaron.org/log/2004-02#e20040203a>
+
+Date: Tue Feb 03 08:13:00 UTC 2004
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: The man to beat bush? <http://dbaron.org/log/2004-01#e20040129a>
+
+Date: Thu Jan 29 20:01:00 UTC 2004
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Don't run away from tables <http://dbaron.org/log/2003-11#e20031126a>
+
+Date: Thu Nov 27 01:17:00 UTC 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: The good news <http://dbaron.org/log/2003-10#e20031007a>
+
+Date: Wed Oct 08 06:24:00 UTC 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Mozilla Firebird, part 2 <http://dbaron.org/log/2003-09#e20030914a>
+
+Date: Sun Sep 14 19:29:00 UTC 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Election 2004: The Albuquerque debate <http://dbaron.org/log/2003-09#e20030909d>
+
+Date: Wed Sep 10 05:15:00 UTC 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Mozilla Firebird <http://dbaron.org/log/2003-09#e20030909c>
+
+Date: Wed Sep 10 04:39:00 UTC 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Israel and Palestine <http://dbaron.org/log/2003-09#e20030909b>
+
+Date: Wed Sep 10 04:02:00 UTC 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: My blog <http://dbaron.org/log/2003-09#e20030909a>
+
+Date: Wed Sep 10 03:41:00 UTC 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: I wrote a letter to the New York
+Times ... <http://dbaron.org/log/2003-08#l20030831>
+
+Date: Sun Aug 31 00:00:00 CEST 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: The CSS3
+syntax module draft was publis... <http://dbaron.org/log/2003-08#l20030813>
+
+Date: Wed Aug 13 00:00:00 CEST 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: More on my new laptop.  I don't
+think I... <http://dbaron.org/log/2003-08#l20030806>
+
+Date: Wed Aug 06 00:00:00 CEST 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Fun with sendmail!  More later on my
+ne... <http://dbaron.org/log/2003-07#l20030731>
+
+Date: Thu Jul 31 00:00:00 CEST 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: I'm amused that when the President of t... <http://dbaron.org/log/2003-07#l20030716>
+
+Date: Wed Jul 16 00:00:00 CEST 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: It's rally annoying whn th E ky on my k... <http://dbaron.org/log/2003-06#l20030609>
+
+Date: Mon Jun 09 00:00:00 CEST 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: My reading lately has consisted of read... <http://dbaron.org/log/2003-06#l20030604>
+
+Date: Wed Jun 04 00:00:00 CEST 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: So I've been in California for over a m... <http://dbaron.org/log/2003-05#l20030523>
+
+Date: Fri May 23 00:00:00 CEST 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: I lost a day's worth of dbaron.org emai... <http://dbaron.org/log/2003-04#l20030426>
+
+Date: Sat Apr 26 00:00:00 CEST 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: I'm moving to California on Wednesday a... <http://dbaron.org/log/2003-04#l20030414>
+
+Date: Mon Apr 14 00:00:00 CEST 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: The lack of UI for strict focus-follows... <http://dbaron.org/log/2003-03#l20030329>
+
+Date: Sat Mar 29 00:00:00 CET 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: I'm one of those tcsh users who's alway... <http://dbaron.org/log/2003-03#l20030314>
+
+Date: Fri Mar 14 00:00:00 CET 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: It's March now, and we're beginning to ... <http://dbaron.org/log/2003-03#l20030308>
+
+Date: Sat Mar 08 00:00:00 CET 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: For those of you who don't have the fun... <http://dbaron.org/log/2003-02#l20030213>
+
+Date: Thu Feb 13 00:00:00 CET 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: I've seen a bunch of good movies recent... <http://dbaron.org/log/2003-02#l20030210>
+
+Date: Mon Feb 10 00:00:00 CET 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: I've done a few neat hacks with X-Remot... <http://dbaron.org/log/2003-02#l20030202>
+
+Date: Sun Feb 02 00:00:00 CET 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: In the fun with old hardware category..... <http://dbaron.org/log/2003-01#l20030129>
+
+Date: Wed Jan 29 00:00:00 CET 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Just for the record, I was exaggerating... <http://dbaron.org/log/2003-01#l20030112>
+
+Date: Sun Jan 12 00:00:00 CET 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Since everyone else (hyatt,
+shaver, jwz... <http://dbaron.org/log/2003-01#l20030109>
+
+Date: Thu Jan 09 00:00:00 CET 2003
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: I obeyed his instructions ten minutes ... <http://dbaron.org/log/2002-12#l20021221>
+
+Date: Sat Dec 21 00:00:00 CET 2002
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: something I
+need to remember more often... <http://dbaron.org/log/2002-12#l20021215>
+
+Date: Sun Dec 15 00:00:00 CET 2002
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: Judging from his December 12
+entry, Hix... <http://dbaron.org/log/2002-12#l20021214>
+
+Date: Sat Dec 14 00:00:00 CET 2002
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: If you thought discrimination was a thi... <http://dbaron.org/log/2002-12#l20021211>
+
+Date: Wed Dec 11 00:00:00 CET 2002
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: It's too cold outside.  To be exact, it... <http://dbaron.org/log/2002-12#l20021203>
+
+Date: Tue Dec 03 00:00:00 CET 2002
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: [18:53:10] <Bandit> Hi all
+[18:55:05] ... <http://dbaron.org/log/2002-11#l20021128>
+
+Date: Thu Nov 28 00:00:00 CET 2002
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: The concert on
+Friday night went well, ... <http://dbaron.org/log/2002-11#l20021124>
+
+Date: Sun Nov 24 00:00:00 CET 2002
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: It's nice to wake up in the morning and... <http://dbaron.org/log/2002-11#l20021121>
+
+Date: Thu Nov 21 00:00:00 CET 2002
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: The New York Times is
+	reporting
+	tha... <http://dbaron.org/log/2002-11#l20021115>
+
+Date: Fri Nov 15 00:00:00 CET 2002
+Author: David Baron
+
+****************************************
+Feed: David Baron's Weblog <http://dbaron.org/log/index.php>
+Item: So some people think I should have a we... <http://dbaron.org/log/2002-09#l20020914>
+
+Date: Sat Sep 14 00:00:00 CEST 2002
+Author: David Baron
+
