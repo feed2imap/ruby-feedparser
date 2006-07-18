@@ -39,6 +39,16 @@ table.itemhead {
   border: 1px solid black;
   clear:both;
 }
+
+td.headleft {
+        padding:2px 2px;
+        text-align:right;
+        white-space:nowrap;     /* workaround to prevent buggy gtkhtml2 word wrappings */
+}
+
+td.headright {
+        padding:2px 5px;
+}
 -->
 </style>
 </head>
@@ -50,13 +60,13 @@ table.itemhead {
     end
 
     def to_html
-      s = "<table cellspacing=\"0\" style=\"margin-bottom: 10px; width: 100%; background-color: #DDD; border: 1px solid black; clear: both;\">\n"
+      s = "<table cellspacing=\"0\" style=\"margin-bottom: 10px; width: 100%; background-color: #DDD; clear: both;\" border=\"1px\">\n"
       r = "<span class=\"feedlink\">"
       r += "<a href=\"#{@feed.link}\">\n" if @feed.link
       if @feed.title
-        r += "#{@feed.title.escape_html}\n"
+        r += "<b>#{@feed.title.escape_html}</b>\n"
       elsif @feed.link
-        r += "#{@feed.link.escape_html}\n"
+        r += "<b>#{@feed.link.escape_html}</b>\n"
       end
       r += "</a>\n" if @feed.link
       r += "</span>\n"
