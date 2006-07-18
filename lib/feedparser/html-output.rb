@@ -50,7 +50,7 @@ table.itemhead {
     end
 
     def to_html
-      s = "<table cellspacing=\"0\" class=\"itemhead\">\n"
+      s = "<table cellspacing=\"0\" style=\"margin-bottom: 10px; width: 100%; background-color: #DDD; border: 1px solid black; clear: both;\">\n"
       r = "<span class=\"feedlink\">"
       r += "<a href=\"#{@feed.link}\">\n" if @feed.link
       if @feed.title
