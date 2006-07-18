@@ -26,8 +26,9 @@ module FeedParser
   end
 
   class FeedItem
-    def to_html
+    def to_html_with_headers
       s = <<-EOF
+<html><head>
 <style type=\"text/css\">
 <!--
 table.itemhead {
@@ -39,9 +40,16 @@ table.itemhead {
 }
 -->
 </style>
-      EOF
-      
-      s += "<table cellspacing=\"0\" class=\"itemhead\">\n"
+</head>
+<body>
+  EOF
+      s += to_html
+      s += "\n</body>\n</html>"
+      s
+    end
+
+    def to_html
+      s = "<table cellspacing=\"0\" class=\"itemhead\">\n"
       r = "<span class=\"feedlink\">"
       r += "<a href=\"#{@feed.link}\">\n" if @feed.link
       if @feed.title
