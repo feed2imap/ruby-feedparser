@@ -28,6 +28,7 @@ module FeedParser
   class FeedItem
     def to_html_with_headers
       s = <<-EOF
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html><head>
 <style type=\"text/css\">
 <!--
