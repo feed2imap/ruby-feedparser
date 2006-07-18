@@ -27,14 +27,44 @@ module FeedParser
 
   class FeedItem
     def to_html
-      s = "<p>Feed: "
-      s += "<a href=\"#{@feed.link}\">\n" if @feed.link
-      s += "#{@feed.title.escape_html}\n" if @feed.title
-      s += "</a>\n" if @feed.link
-      s += "<br/>\nItem: "
-      s += "<a href=\"#{@link}\">\n" if @link
-      s += "#{@title.escape_html}\n" if @title
-      s += "</a>\n" if @link
+      s = <<-EOF
+<style type=\"text/css\">
+<!--
+table.itemhead {
+  margin-bottom:10px;
+  width:100%;
+  background-color:#DDD;
+  border: 1px solid black;
+  clear:both;
+}
+-->
+</style>
+      EOF
+      
+      s += "<table cellspacing=\"0\" class=\"itemhead\">\n"
+      r = "<span class=\"feedlink\">"
+      r += "<a href=\"#{@feed.link}\">\n" if @feed.link
+      if @feed.title
+        r += "#{@feed.title.escape_html}\n"
+      elsif @feed.link
+        r += "#{@feed.link.escape_html}\n"
+      end
+      r += "</a>\n" if @feed.link
+      r += "</span>\n"
+      headline = "<tr><td class=\"headleft\"><b>%s</b></td>\n<td class=\"headright\" width=\"100%%\">%s</td></tr>"
+      s += (headline % ["Feed:", r])
+
+      r = "<span class=\"itemtitle\">\n"
+      r += "<a href=\"#{@link}\">" if @link
+      if @title
+        r += "#{@title.escape_html}\n"
+      elsif @link
+        r += "#{@link.escape_html}\n"
+      end
+      r += "</a>\n" if @link
+      r += "</span>\n"
+      s += (headline % ["Item:", r])
+      s += "</table>\n"
       s += "\n"
       s += "<br/>Date: #{@date.to_s}\n" if @date # TODO improve date rendering ?
       s += "<br/>Author: #{@creator.escape_html}\n" if @creator

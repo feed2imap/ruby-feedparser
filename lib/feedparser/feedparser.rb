@@ -117,7 +117,7 @@ module FeedParser
   # an Item from a feed
   class FeedItem
     attr_accessor :title, :link, :content, :date, :creator, :subject,
-                  :category, :cacheditem
+                  :category, :cacheditem, :enclosures
 
     attr_reader :feed
 
@@ -128,6 +128,7 @@ module FeedParser
       @xml = item
       @feed = feed
       @title, @link, @content, @date, @creator, @subject, @category = nil
+      @enclosures = []
       parse(item) if item
     end
 
