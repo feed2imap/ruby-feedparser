@@ -10,33 +10,39 @@ Creator: </p>
 
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://planete.gnomefr.org/">
-Planète GNOME-FR
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://planete.gnomefr.org/">
+<b>Planète GNOME-FR</b>
 </a>
-<br/>
-Item: <a href="http://members.cox.net/vnoel/weblog/2005/09/i-might-need-some-supplies.html">
-Vincent Noel: I might need some supplies
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://members.cox.net/vnoel/weblog/2005/09/i-might-need-some-supplies.html"><b>Vincent Noel: I might need some supplies</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Wed Sep 14 22:21:47 CEST 2005
-</p>
 <div>How are you supposed to trust these guys ?<img src="http://members.cox.net/vnoel/weblog/uploaded_images/Screenshot-Flight%20Details-798819.png" />
-</div>
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://planete.gnomefr.org/">
-Planète GNOME-FR
-</a>
-<br/>
-Item: <a href="http://members.cox.net/vnoel/weblog/2005/09/nautilus-and-gworkspace.html">
-Vincent Noel: nautilus and gworkspace
-</a>
+</div><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Sep 14 22:21:47 CEST 2005</font></td></tr>
+</table>
 
-<br/>Date: Wed Sep 14 21:15:01 CEST 2005
-</p>
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://planete.gnomefr.org/">
+<b>Planète GNOME-FR</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://members.cox.net/vnoel/weblog/2005/09/nautilus-and-gworkspace.html"><b>Vincent Noel: nautilus and gworkspace</b>
+</a>
+</td></tr></table></td></tr></table>
+
 <div>Is it my imagination or is nautilus, with every release, getting closer to the interface of <a href="http://www.gnustep.it/enrico/gworkspace/">GWorkspace</a> ?<blockquote>
 <a href="http://www.gnome.org/~vnoel/screenshots/nautilus_gworkspace.png">
 <img src="http://www.gnome.org/~vnoel/screenshots/nautilus_gworkspace_small.png" />
 </a>
 </blockquote>
-<br />Everything is there : the "places" (vertical in nautilus and horizontal in GWorkspace), the path bar (thankfully scaled down, but the idea is the same), the icon/list views... Of course, I guess inspiration mostly comes from the MacOS X rework of GWorkspace, but it's weird to think that this UI has been there for years, just waiting for somebody to pimp it up.<br />Now there is just the <a href="http://actsofvolition.com/images/screenshots/next-column-view.png">column view</a> left to implement, and we'll be at 1:1 features ratio (although with good drag-n-drop management the current path bar could replace that view in most of the cases).</div>
+<br />Everything is there : the "places" (vertical in nautilus and horizontal in GWorkspace), the path bar (thankfully scaled down, but the idea is the same), the icon/list views... Of course, I guess inspiration mostly comes from the MacOS X rework of GWorkspace, but it's weird to think that this UI has been there for years, just waiting for somebody to pimp it up.<br />Now there is just the <a href="http://actsofvolition.com/images/screenshots/next-column-view.png">column view</a> left to implement, and we'll be at 1:1 features ratio (although with good drag-n-drop management the current path bar could replace that view in most of the cases).</div><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Sep 14 21:15:01 CEST 2005</font></td></tr>
+</table>
+
 </body></html>

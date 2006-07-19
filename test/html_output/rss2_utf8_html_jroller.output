@@ -10,32 +10,34 @@ Creator: </p>
 
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://jroller.com/page/akarasulu">
-Alex Karasulu's Weblog
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu">
+<b>Alex Karasulu's Weblog</b>
 </a>
-<br/>
-Item: <a href="http://jroller.com/page/akarasulu/20040330#another_victory_for_svn">
-Another victory for svn
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu/20040330#another_victory_for_svn"><b>Another victory for svn</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Tue Mar 30 18:39:55 CEST 2004
-<br/>Author: Alex Karasulu
-<br/>Category: General
-</p>
-<p>Today I resusitated a file in subversion.  I thought it was cool although its not a big deal.  However what was cool was getting help from the original authors on it.  I think people should rething the support issue for svn its definately growing strong from what I can see.</p>
+<p>Today I resusitated a file in subversion.  I thought it was cool although its not a big deal.  However what was cool was getting help from the original authors on it.  I think people should rething the support issue for svn its definately growing strong from what I can see.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Mar 30 18:39:55 CEST 2004</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+</table>
+
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://jroller.com/page/akarasulu">
-Alex Karasulu's Weblog
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu">
+<b>Alex Karasulu's Weblog</b>
 </a>
-<br/>
-Item: <a href="http://jroller.com/page/akarasulu/20040217#notification_pattern_has_interesting_effect">
-Notification pattern has interesting effect on IoC
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu/20040217#notification_pattern_has_interesting_effect"><b>Notification pattern has interesting effect on IoC</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Wed Feb 18 05:40:44 CET 2004
-<br/>Author: Alex Karasulu
-<br/>Category: Java
-</p>
 <p>
 While looking at the frontend of the Eve server I began to realize a trend emerging after I introduced a central publish and subscribe facility. The pattern decouples components by enabling communication using events and the notifier pattern.  This also lead to the disappearence of methods on service interfaces.
 </p>
@@ -47,20 +49,23 @@ So the dependency graph turns into a star with all components depending on the e
 <p>
 What does this mean for service interfaces?  Well they start looking bleak because the Subscriber interface replaces them.  Basically methods are called internally by the Subscriber handling code 
 on the component itself rather than exposing them on the service interface for direct calls by what are now publishers.  This is crazy my service interfaces are all empty now!
-</p>
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://jroller.com/page/akarasulu">
-Alex Karasulu's Weblog
-</a>
-<br/>
-Item: <a href="http://jroller.com/page/akarasulu/20040212#groovy_dude_is_on_a">
-Groovy dude is on a roll
-</a>
+</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Feb 18 05:40:44 CET 2004</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Java</font></td></tr>
+</table>
 
-<br/>Date: Thu Feb 12 17:26:28 CET 2004
-<br/>Author: Alex Karasulu
-<br/>Category: Java
-</p>
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu">
+<b>Alex Karasulu's Weblog</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu/20040212#groovy_dude_is_on_a"><b>Groovy dude is on a roll</b>
+</a>
+</td></tr></table></td></tr></table>
+
 <p>
 You know I just started to get good at groking the Jelly.  Just
 as I start digesting one Strachan production the guy comes out
@@ -88,62 +93,75 @@ server side JNDI provider a walk in the park.
 <p>
 Perhaps if someone does not implement the GroovyJndi package it
 might be a way I can add my $0.02 to it and be Groovy too :-).
-</p>
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://jroller.com/page/akarasulu">
-Alex Karasulu's Weblog
-</a>
-<br/>
-Item: <a href="http://jroller.com/page/akarasulu/20031030#eve_formerly_know_as_ldapd">
-Eve formerly know as LDAPd has been accepted to Apache Incubator
-</a>
+</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Feb 12 17:26:28 CET 2004</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Java</font></td></tr>
+</table>
 
-<br/>Date: Fri Oct 31 05:00:53 CET 2003
-<br/>Author: Alex Karasulu
-<br/>Category: General
-</p>
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu">
+<b>Alex Karasulu's Weblog</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu/20031030#eve_formerly_know_as_ldapd"><b>Eve formerly know as LDAPd has been accepted to Apache Incubator</b>
+</a>
+</td></tr></table></td></tr></table>
+
 <p>
 Eve the LDAP server formerly known as LDAPd has just been accepted last week into the incubator under the Apache Directory top level project.  Eve will be the flagship server for that Apache Directory TLP upon matriculation from the incubator.
 </p><p>
 Thanks to all those that made it happen!
-</p>
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://jroller.com/page/akarasulu">
-Alex Karasulu's Weblog
-</a>
-<br/>
-Item: <a href="http://jroller.com/page/akarasulu/20031030#got_committer_status_on_avalon">
-Got committer status on Avalon
-</a>
+</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Oct 31 05:00:53 CET 2003</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+</table>
 
-<br/>Date: Fri Oct 31 02:48:00 CET 2003
-<br/>Author: Alex Karasulu
-<br/>Category: General
-</p>
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu">
+<b>Alex Karasulu's Weblog</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu/20031030#got_committer_status_on_avalon"><b>Got committer status on Avalon</b>
+</a>
+</td></tr></table></td></tr></table>
+
 <p>
 Yesterday I got voted practically unanimously to join the Avalon team as a committer. I was very excited to get the warm welcome from those guys.  I hope to do my best to further the cause there.
 </p>
 <p>
 I am especially excited to be working on getting Merlin to a generally embeddible state.  That is the subject of my first set of changes.  I'm very excited and happy to see things comming along.
-</p>
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://jroller.com/page/akarasulu">
-Alex Karasulu's Weblog
-</a>
-<br/>
-Item: <a href="http://jroller.com/page/akarasulu/20031015#ldapd_project_started_oct_16th">
-LDAPd Project Started Oct 16th 2002
-</a>
+</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Oct 31 02:48:00 CET 2003</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+</table>
 
-<br/>Date: Wed Oct 15 15:00:40 CEST 2003
-<br/>Author: Alex Karasulu
-<br/>Category: General
-</p>
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu">
+<b>Alex Karasulu's Weblog</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://jroller.com/page/akarasulu/20031015#ldapd_project_started_oct_16th"><b>LDAPd Project Started Oct 16th 2002</b>
+</a>
+</td></tr></table></td></tr></table>
+
 <p>
 Almost a year ago I founded the LDAPd Group which over the course of the past year has grown into a healthy community to build a pure java LDAPv3 server implementation.  In April 2003 the first alpha release occurred on source forge with other minor releases there after.  More on the server is available <a href="http://ldapd.sourceforge.net">here</a>.
 </p>
 
 <p>
 LDAPd currently is in the process of joining the Apache Incubator.  Unofficial comments regarding its probable acceptance were made by Nicola Ken Barozzi <a href="http://nagoya.apache.org/eyebrowse/ReadMsg?listName=general@incubator.apache.org&msgNo=2207">here</a> on Sept. 30th and support was given by Ken Coar <a href="http://nagoya.apache.org/eyebrowse/ReadMsg?listName=general@incubator.apache.org&msgNo=2201">here</a>.  Both Ken and Nicola are members of Apache and are heavily involved with the incubator.  The vote to incubate began officially in October and has probably completed by now.  No official announcement of the result has been made as of yet.  I'm hoping for an announcement on LDAPd's first birthday ;-).
-</p>
+</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Oct 15 15:00:40 CEST 2003</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+</table>
+
 </body></html>

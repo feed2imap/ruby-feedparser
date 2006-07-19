@@ -10,269 +10,311 @@ Creator: </p>
 
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
 </a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Robert Spier on the Perl NOC
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Robert Spier on the Perl NOC</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Mon Jun 19 07:00:00 CEST 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>Perlcast interview with Robert Spier about the Perl Network Operations Center</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_030.mp3">Perlcast_Interview_030.mp3</a> (10.4 MB, audio/mpeg)</li>
-</ul>
-
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
-</a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with brian d foy on The Perl Review 2.3- 06.08.2006
-</a>
-
-<br/>Date: Fri Jun 09 05:40:00 CEST 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>Perlcast interview with brian d foy about The Perl Review version 2.3.</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_029.mp3">Perlcast_Interview_029.mp3</a> (4.9 MB, audio/mpeg)</li>
-</ul>
+<p>Perlcast interview with Robert Spier about the Perl Network Operations Center</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_030.mp3">Perlcast_Interview_030.mp3</a> (10.4 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jun 19 07:00:00 CEST 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
 </a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with JT Smith on WebGUI - 05.25.2006
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with brian d foy on The Perl Review 2.3- 06.08.2006</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Thu May 25 15:40:00 CEST 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>Perlcast interview with JT Smith about WebGUI, a hybrid CMS, intranet suite, and web application frameworkd.</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_028_JTSmith.mp3">Perlcast_Interview_028_JTSmith.mp3</a> (22.5 MB, audio/mpeg)</li>
-</ul>
-
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
-</a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with Jesse Vincent on Jifty - 05.01.2006
-</a>
-
-<br/>Date: Tue May 02 07:50:00 CEST 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>Perlcast interview with Jesse Vincent about his new web application framework, Jifty.</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_027_Jifty.mp3">Perlcast_Interview_027_Jifty.mp3</a> (31.3 MB, audio/mpeg)</li>
-</ul>
+<p>Perlcast interview with brian d foy about The Perl Review version 2.3.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_029.mp3">Perlcast_Interview_029.mp3</a> (4.9 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Jun 09 05:40:00 CEST 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
 </a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with Steve Oualline - 04.17.2006
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with JT Smith on WebGUI - 05.25.2006</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Tue Apr 18 07:00:00 CEST 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>Perlcast interview with Steve Oualline, the author of "Wicked Cool Perl Scripts".</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_026_Oualline.mp3">Perlcast_Interview_026_Oualline.mp3</a> (12.9 MB, audio/mpeg)</li>
-</ul>
-
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
-</a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with Bob Walsh - 04.11.2006
-</a>
-
-<br/>Date: Tue Apr 11 08:45:00 CEST 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>This Perlcast interview is with Bob Walsh, the owner of Safari Software, moderator for the Joel on Software: The Business of Software website, and author of "Micro ISV: From Vision to Reality" published by Apress.  In the interview we talk about the book and about some of the issues that Micro ISVs face today.</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_025_walsh.mp3">Perlcast_Interview_025_walsh.mp3</a> (24.5 MB, audio/mpeg)</li>
-</ul>
+<p>Perlcast interview with JT Smith about WebGUI, a hybrid CMS, intranet suite, and web application frameworkd.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_028_JTSmith.mp3">Perlcast_Interview_028_JTSmith.mp3</a> (22.5 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu May 25 15:40:00 CEST 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
 </a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with Audrey Tang - 03.28.2006
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with Jesse Vincent on Jifty - 05.01.2006</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Wed Mar 29 07:55:00 CEST 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>The Perlcast interview this week is with Audrey Tang.  Audrey is the creator of the Pugs project, maintainter of numerous CPAN modules and general open source contributor</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_024_tang.mp3">Perlcast_Interview_024_tang.mp3</a> (8.5 MB, audio/mpeg)</li>
-</ul>
-
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
-</a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with Chia-liang Kao - 03.06.2006
-</a>
-
-<br/>Date: Tue Mar 07 06:30:00 CET 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>The Perlcast interview for this week is with Chia-liang, the creator of svk.  The interview is conducted by guest interviewers Jose Castro and BooK.</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_023_svk.mp3">Perlcast_Interview_023_svk.mp3</a> (11.5 MB, audio/mpeg)</li>
-</ul>
+<p>Perlcast interview with Jesse Vincent about his new web application framework, Jifty.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_027_Jifty.mp3">Perlcast_Interview_027_Jifty.mp3</a> (31.3 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue May 02 07:50:00 CEST 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
 </a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with brian d foy - 02.15.2006
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with Steve Oualline - 04.17.2006</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Thu Feb 16 06:30:00 CET 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>This week, Perlcast is featuring another podcast interview with brian d foy.  In this interview we talk about the newly renamed book, "Intermediate Perl".  We also discuss a new project that brian is working on, "Mastering Perl".  Listen to find out how you can help be a part of this developing book.</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_022_foy.mp3">Perlcast_Interview_022_foy.mp3</a> (17.0 MB, audio/mpeg)</li>
-</ul>
-
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
-</a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with Tom Limoncelli - 02.07.2006
-</a>
-
-<br/>Date: Wed Feb 08 05:00:00 CET 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>Perlcast interviewed Tom Limoncelli about his book, "Time Management for System Administrators".</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_021_Limoncelli.mp3">Perlcast_Interview_021_Limoncelli.mp3</a> (40.1 MB, audio/mpeg)</li>
-</ul>
+<p>Perlcast interview with Steve Oualline, the author of "Wicked Cool Perl Scripts".</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_026_Oualline.mp3">Perlcast_Interview_026_Oualline.mp3</a> (12.9 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Apr 18 07:00:00 CEST 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
 </a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with Chris Pine - 02.01.2006
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with Bob Walsh - 04.11.2006</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Thu Feb 02 05:00:00 CET 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>Perlcast interviewed Chris Pine about his book, "Learn to Program", an introduction to programming using Ruby.</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_020_Pine.mp3">Perlcast_Interview_020_Pine.mp3</a> (20.9 MB, audio/mpeg)</li>
-</ul>
-
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
-</a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with Chad Fowler - 01.26.2006
-</a>
-
-<br/>Date: Thu Jan 26 07:05:00 CET 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>Perlcast interviewed Chad Fowler about his book, "My Job Went to India: 52 Ways to Save Your Job"</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_019_Fowler.mp3">Perlcast_Interview_019_Fowler.mp3</a> (24.1 MB, audio/mpeg)</li>
-</ul>
+<p>This Perlcast interview is with Bob Walsh, the owner of Safari Software, moderator for the Joel on Software: The Business of Software website, and author of "Micro ISV: From Vision to Reality" published by Apress.  In the interview we talk about the book and about some of the issues that Micro ISVs face today.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_025_walsh.mp3">Perlcast_Interview_025_walsh.mp3</a> (24.5 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Apr 11 08:45:00 CEST 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
 </a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with brian d foy - 01.17.2006
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with Audrey Tang - 03.28.2006</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Tue Jan 17 07:05:00 CET 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>Perlcast interviewed brian d foy on the Winter 2005 issue of The Perl Review.</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_018_foy.mp3">Perlcast_Interview_018_foy.mp3</a> (11.0 MB, audio/mpeg)</li>
-</ul>
+<p>The Perlcast interview this week is with Audrey Tang.  Audrey is the creator of the Pugs project, maintainter of numerous CPAN modules and general open source contributor</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_024_tang.mp3">Perlcast_Interview_024_tang.mp3</a> (8.5 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Mar 29 07:55:00 CEST 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.perlcast.com">
-Perlcast
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
 </a>
-<br/>
-Item: <a href="http://www.perlcast.com">
-Perlcast Interview with Chris Nandor - 01.05.2006
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with Chia-liang Kao - 03.06.2006</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Fri Jan 06 05:25:00 CET 2006
-<br/>Author: perlcast@gmail.com
-<br/>Category: Perl
-</p>
-<p>Perlcast interviewed Chris Nandor about his involvement with Slashdot, Use Perl, MacPerl, and more.</p>
-<p>Files:</p>
-<ul>
-<li><a href="http://www.perlcast.com/audio/Perlcast_Interview_017_Nandor.mp3">Perlcast_Interview_017_Nandor.mp3</a> (13.9 MB, audio/mpeg)</li>
-</ul>
+<p>The Perlcast interview for this week is with Chia-liang, the creator of svk.  The interview is conducted by guest interviewers Jose Castro and BooK.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_023_svk.mp3">Perlcast_Interview_023_svk.mp3</a> (11.5 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Mar 07 06:30:00 CET 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
+
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with brian d foy - 02.15.2006</b>
+</a>
+</td></tr></table></td></tr></table>
+
+<p>This week, Perlcast is featuring another podcast interview with brian d foy.  In this interview we talk about the newly renamed book, "Intermediate Perl".  We also discuss a new project that brian is working on, "Mastering Perl".  Listen to find out how you can help be a part of this developing book.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_022_foy.mp3">Perlcast_Interview_022_foy.mp3</a> (17.0 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Feb 16 06:30:00 CET 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
+
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with Tom Limoncelli - 02.07.2006</b>
+</a>
+</td></tr></table></td></tr></table>
+
+<p>Perlcast interviewed Tom Limoncelli about his book, "Time Management for System Administrators".</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_021_Limoncelli.mp3">Perlcast_Interview_021_Limoncelli.mp3</a> (40.1 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Feb 08 05:00:00 CET 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
+
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with Chris Pine - 02.01.2006</b>
+</a>
+</td></tr></table></td></tr></table>
+
+<p>Perlcast interviewed Chris Pine about his book, "Learn to Program", an introduction to programming using Ruby.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_020_Pine.mp3">Perlcast_Interview_020_Pine.mp3</a> (20.9 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Feb 02 05:00:00 CET 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
+
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with Chad Fowler - 01.26.2006</b>
+</a>
+</td></tr></table></td></tr></table>
+
+<p>Perlcast interviewed Chad Fowler about his book, "My Job Went to India: 52 Ways to Save Your Job"</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_019_Fowler.mp3">Perlcast_Interview_019_Fowler.mp3</a> (24.1 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Jan 26 07:05:00 CET 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
+
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with brian d foy - 01.17.2006</b>
+</a>
+</td></tr></table></td></tr></table>
+
+<p>Perlcast interviewed brian d foy on the Winter 2005 issue of The Perl Review.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_018_foy.mp3">Perlcast_Interview_018_foy.mp3</a> (11.0 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Jan 17 07:05:00 CET 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
+
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.perlcast.com">
+<b>Perlcast</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.perlcast.com"><b>Perlcast Interview with Chris Nandor - 01.05.2006</b>
+</a>
+</td></tr></table></td></tr></table>
+
+<p>Perlcast interviewed Chris Nandor about his involvement with Slashdot, Use Perl, MacPerl, and more.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<tr><td width="100%"><b>Files:</b></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.perlcast.com/audio/Perlcast_Interview_017_Nandor.mp3">Perlcast_Interview_017_Nandor.mp3</a> (13.9 MB, audio/mpeg)</td></tr>
+</table></td></tr></table>
+<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Jan 06 05:25:00 CET 2006</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">perlcast@gmail.com</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Perl</font></td></tr>
+</table>
 
 </body></html>

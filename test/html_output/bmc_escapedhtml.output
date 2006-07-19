@@ -10,18 +10,17 @@ Creator: </p>
 
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://blogs.sun.com/roller/page/bmc">
-The Observation Deck
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://blogs.sun.com/roller/page/bmc">
+<b>The Observation Deck</b>
 </a>
-<br/>
-Item: <a href="http://blogs.sun.com/roller/page/bmc?entry=tr35">
-TR35
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://blogs.sun.com/roller/page/bmc?entry=tr35"><b>TR35</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Fri Sep 09 19:50:11 CEST 2005
-<br/>Author: Bryan Cantrill
-<br/>Category: Solaris
-</p>
 So MIT's 
 <a href="http://www.techreview.com/">Technology Review</a> has named me as one of their
 <a href="http://www.technologyreview.com/articles/05/10/issue/feature_tr35.asp">TR35</a> -- the top 35 innovators under the age of thirty-five.  It's a great honor, especially because the other
@@ -34,5 +33,9 @@ Should you like to hear me make a jackass out of myself on the subject, you migh
 want to check out
 <a href="http://blogs.sun.com/roller/page/rgiles">Richard Giles</a>'s
 <a href="http://blogs.sun.com/roller/page/rgiles?entry=i_o_podcast_0003_bryan">latest I/O podcast</a>,
-in which he interviewed me about the award.
+in which he interviewed me about the award.<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Sep 09 19:50:11 CEST 2005</font></td></tr>
+<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Bryan Cantrill</font></td></tr>
+<tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Solaris</font></td></tr>
+</table>
+
 </body></html>

@@ -117,7 +117,10 @@ module FeedParser
   # an Item from a feed
   class FeedItem
     attr_accessor :title, :link, :content, :date, :creator, :subject,
-                  :category, :cacheditem, :enclosures
+                  :category, :cacheditem
+
+    # The item's enclosures childs. An array of (url, length, type) triplets.
+    attr_accessor :enclosures
 
     attr_reader :feed
 
@@ -154,8 +157,6 @@ module FeedParser
 
   class RSSItem < FeedItem
 
-    # The item's enclosures childs. An array of (url, length, type) triplets.
-    attr_accessor :enclosures
 
     def parse(item)
       # Title. If no title, use the pubDate as fallback.
@@ -210,12 +211,11 @@ module FeedParser
         @category = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
       end
       # Enclosures
-      @enclosures = []
       item.each_element('enclosure') do |e|
         url = e.attribute('url').value if e.attribute('url')
         length = e.attribute('length').value if e.attribute('length')
         type = e.attribute('type').value if e.attribute('type')
-        @enclosures << [ url, length, type ]
+        @enclosures << [ url, length, type ] if url
       end
     end
   end

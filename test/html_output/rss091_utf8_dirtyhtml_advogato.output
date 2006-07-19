@@ -10,16 +10,17 @@ Creator: </p>
 
 
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
-Advogato diary for sopwith
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
+<b>Advogato diary for sopwith</b>
 </a>
-<br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=10">
-21 Sep 2004
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=10"><b>21 Sep 2004</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Tue Sep 21 23:20:46 CEST 2004
-</p>
 On the Fedora front:
 
 <p> FC3test2 is out (give it a try) and it's not too shabby.
@@ -30,134 +31,161 @@ On the Fedora front:
 
 <p> On the everything-else front:
 
-<p> <a href="http://cakeru.image.pbase.com/image/33879157/large.jpg" >a funny picture</a>.
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
-Advogato diary for sopwith
-</a>
-<br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=9">
-24 Aug 2004
-</a>
+<p> <a href="http://cakeru.image.pbase.com/image/33879157/large.jpg" >a funny picture</a>.<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Sep 21 23:20:46 CEST 2004</font></td></tr>
+</table>
 
-<br/>Date: Wed Aug 25 01:07:13 CEST 2004
-</p>
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
+<b>Advogato diary for sopwith</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=9"><b>24 Aug 2004</b>
+</a>
+</td></tr></table></td></tr></table>
+
 The Fedora community can really use people who are willing to go through bugzilla and tame things down there. There are just a ton of bugs that the package maintainers will have no time to get to.
 <p>
 It's not the most exciting task, but it's something that almost anyone can help with in as small or large quantities as desired.
 <p>
-Also needed are community leaders for each of the architectures. E.g. Justin Forbes is The Man for AMD64, but we can always use peeps for ia64 and s390* :)
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
-Advogato diary for sopwith
-</a>
-<br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=8">
-27 Jul 2004
-</a>
+Also needed are community leaders for each of the architectures. E.g. Justin Forbes is The Man for AMD64, but we can always use peeps for ia64 and s390* :)<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Aug 25 01:07:13 CEST 2004</font></td></tr>
+</table>
 
-<br/>Date: Tue Jul 27 18:38:36 CEST 2004
-</p>
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
+<b>Advogato diary for sopwith</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=8"><b>27 Jul 2004</b>
+</a>
+</td></tr></table></td></tr></table>
+
 What's happening with Fedora lately:
 
 <p> <ul><li>FC3test1 came out a little while ago.
 <li>The devel tree is totally unfrozen again, so broken deps should be fixable if not fixed.
 <li>CVS should be rolled out "soon"
-</ul>
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
-Advogato diary for sopwith
-</a>
-<br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=7">
-23 Apr 2004
-</a>
+</ul><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Jul 27 18:38:36 CEST 2004</font></td></tr>
+</table>
 
-<br/>Date: Fri Apr 23 17:09:39 CEST 2004
-</p>
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
+<b>Advogato diary for sopwith</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=7"><b>23 Apr 2004</b>
+</a>
+</td></tr></table></td></tr></table>
+
 Cool link of the day is <a href="http://www.tradingbrain.com/" >TradingBrain</a>.
 
 <p> If you added a user-login feature, you could use a neural network to combine individual responses into something meaningful. Neat experiment in distributed decision-making, in any case.
 
-<p> FC2test3 is being pushed out and is on track for Monday release.
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
-Advogato diary for sopwith
-</a>
-<br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=6">
-22 Apr 2004
-</a>
+<p> FC2test3 is being pushed out and is on track for Monday release.<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Apr 23 17:09:39 CEST 2004</font></td></tr>
+</table>
 
-<br/>Date: Thu Apr 22 21:35:13 CEST 2004
-</p>
-<a href="http://www.benandjerrys.com/" >Ben &amp; Jerry's</a> annual Free Cone Day. Tuesday, April 27 12pm-8pm. Follow the link to find out where.
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
-Advogato diary for sopwith
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
+<b>Advogato diary for sopwith</b>
 </a>
-<br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=5">
-21 Apr 2004
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=6"><b>22 Apr 2004</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Wed Apr 21 17:49:59 CEST 2004
-</p>
+<a href="http://www.benandjerrys.com/" >Ben &amp; Jerry's</a> annual Free Cone Day. Tuesday, April 27 12pm-8pm. Follow the link to find out where.<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Apr 22 21:35:13 CEST 2004</font></td></tr>
+</table>
+
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
+<b>Advogato diary for sopwith</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=5"><b>21 Apr 2004</b>
+</a>
+</td></tr></table></td></tr></table>
+
 Plots orkut people on a map: <a href="http://www.datawhorehouse.com/orkut/" >http://www.datawhorehouse.com/orkut/</a>.
 
-<p> PS. If you still haven't gotten an orkut invite, send me an e-mail of introduction, already. :)
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
-Advogato diary for sopwith
-</a>
-<br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=4">
-20 Apr 2004
-</a>
+<p> PS. If you still haven't gotten an orkut invite, send me an e-mail of introduction, already. :)<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Apr 21 17:49:59 CEST 2004</font></td></tr>
+</table>
 
-<br/>Date: Wed Apr 21 05:00:51 CEST 2004
-</p>
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
+<b>Advogato diary for sopwith</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=4"><b>20 Apr 2004</b>
+</a>
+</td></tr></table></td></tr></table>
+
 Only a few diary entries ago, I was complaining about the last company meeting. Now a new one is coming up, and I'm really looking forward to meeting all the great people that work at Red Hat.
 <p>
 Dropping by to say hello to the advogato crowd,<p>
--- Elliot
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
-Advogato diary for sopwith
-</a>
-<br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=3">
-16 Sep 2003
-</a>
+-- Elliot<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Apr 21 05:00:51 CEST 2004</font></td></tr>
+</table>
 
-<br/>Date: Tue Sep 16 22:41:24 CEST 2003
-</p>
-<a href="http://people.redhat.com/sopwith/" >My home page</a>
 <hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
-Advogato diary for sopwith
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
+<b>Advogato diary for sopwith</b>
 </a>
-<br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=2">
-12 Apr 2001
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=3"><b>16 Sep 2003</b>
 </a>
+</td></tr></table></td></tr></table>
 
-<br/>Date: Thu Apr 12 17:53:44 CEST 2001
-</p>
+<a href="http://people.redhat.com/sopwith/" >My home page</a><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Sep 16 22:41:24 CEST 2003</font></td></tr>
+</table>
+
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
+<b>Advogato diary for sopwith</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=2"><b>12 Apr 2001</b>
+</a>
+</td></tr></table></td></tr></table>
+
 I hate this open source game - it just proves my in(s)anity.
 
-<p> &lt;/rant&gt;
-<hr/><!-- *********************************** -->
-<p>Feed: <a href="http://www.advogato.org/person/sopwith/">
-Advogato diary for sopwith
-</a>
-<br/>
-Item: <a href="http://www.advogato.org/person/sopwith/diary.html?start=1">
-19 Sep 2000
-</a>
+<p> &lt;/rant&gt;<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Apr 12 17:53:44 CEST 2001</font></td></tr>
+</table>
 
-<br/>Date: Wed Sep 20 08:45:03 CEST 2000
-</p>
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
+<b>Advogato diary for sopwith</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=1"><b>19 Sep 2000</b>
+</a>
+</td></tr></table></td></tr></table>
+
 It's 02:01, I can't sleep, and there's a bunch of company 
 meetings today at 08:30 that appear increasingly boring as 
 the time approaches. It sort of rains on my parade of TODO 
@@ -203,5 +231,7 @@ embedded systems builders in the process.
 I'm done with the unprovoked insults and needless griping, 
 so LART me and get back to your regularly scheduled world.
  I'm sure by lunchtime I'll have gotten enough sleep to 
-regret this all.
+regret this all.<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Sep 20 08:45:03 CEST 2000</font></td></tr>
+</table>
+
 </body></html>

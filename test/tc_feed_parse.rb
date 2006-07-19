@@ -111,6 +111,7 @@ class FeedParserTest < Test::Unit::TestCase
 </channel>
 </rss>
     EOF
-    assert_equal([["url1", "1", "type1"], ["url2", nil, "type2"], [nil, "3", "type3"], ["url1", "1", nil]], ch.items[0].enclosures)
+    # the third one should be removed because an enclosure should have an url, or it's useless.
+    assert_equal([["url1", "1", "type1"], ["url2", nil, "type2"], ["url1", "1", nil]], ch.items[0].enclosures)
   end
 end

@@ -1,5 +1,7 @@
 Ruby-Feedparser 0.3 (XX/07/2006)
 ================================
+* Much nicer HTML output
+* Fixed a problem with some feeds with broken enclosures (without url)
 * Now automatically fixes non-absolute <a href> or <img src>
 * Fixed small parser bugs
 * Now displays enclosures in the text and html outputs. Ready for
