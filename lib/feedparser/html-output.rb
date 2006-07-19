@@ -29,29 +29,7 @@ module FeedParser
     def to_html_with_headers
       s = <<-EOF
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html><head>
-<style type=\"text/css\">
-<!--
-table.itemhead {
-  margin-bottom:10px;
-  width:100%;
-  background-color:#DDD;
-  border: 1px solid black;
-  clear:both;
-}
-
-td.headleft {
-        padding:2px 2px;
-        text-align:right;
-        white-space:nowrap;     /* workaround to prevent buggy gtkhtml2 word wrappings */
-}
-
-td.headright {
-        padding:2px 5px;
-}
--->
-</style>
-</head>
+<html>
 <body>
   EOF
       s += to_html
@@ -60,8 +38,11 @@ td.headright {
     end
 
     def to_html
-      s = "<table cellspacing=\"0\" style=\"margin-bottom: 10px; width: 100%; background-color: #DDD; clear: both;\" border=\"1px\">\n"
-      r = "<span class=\"feedlink\">"
+      s = <<-EOF
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+      EOF
+      r = ""
       r += "<a href=\"#{@feed.link}\">\n" if @feed.link
       if @feed.title
         r += "<b>#{@feed.title.escape_html}</b>\n"
@@ -69,35 +50,41 @@ td.headright {
         r += "<b>#{@feed.link.escape_html}</b>\n"
       end
       r += "</a>\n" if @feed.link
-      r += "</span>\n"
-      headline = "<tr><td class=\"headleft\"><b>%s</b></td>\n<td class=\"headright\" width=\"100%%\">%s</td></tr>"
+      headline = "<tr><td align=\"right\"><b>%s</b></td>\n<td width=\"100%%\">%s</td></tr>"
       s += (headline % ["Feed:", r])
 
-      r = "<span class=\"itemtitle\">\n"
+      r = ""
       r += "<a href=\"#{@link}\">" if @link
       if @title
-        r += "#{@title.escape_html}\n"
+        r += "<b>#{@title.escape_html}</b>\n"
       elsif @link
-        r += "#{@link.escape_html}\n"
+        r += "<b>#{@link.escape_html}</b>\n"
       end
       r += "</a>\n" if @link
-      r += "</span>\n"
       s += (headline % ["Item:", r])
-      s += "</table>\n"
+      s += "</table></td></tr></table>\n"
       s += "\n"
-      s += "<br/>Date: #{@date.to_s}\n" if @date # TODO improve date rendering ?
-      s += "<br/>Author: #{@creator.escape_html}\n" if @creator
-      s += "<br/>Subject: #{@subject.escape_html}\n" if @subject
-      s += "<br/>Category: #{@category.escape_html}\n" if @category
-      s += "</p>\n"
       s += "#{@content}" if @content
       if @enclosures and @enclosures.length > 0
-        s += "\n<p>Files:</p>\n<ul>\n"
+        s += <<-EOF
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+        EOF
+        s += '<tr><td width="100%"><b>Files:</b></td></tr>'
+        s += "\n"
         @enclosures.each do |e|
-          s += "<li><a href=\"#{e[0]}\">#{e[0].split('/')[-1]}</a> (#{e[1].to_i.to_human_readable}, #{e[2]})</li>\n"
+          s += "<tr><td>&nbsp;&nbsp;&nbsp;<a href=\"#{e[0]}\">#{e[0].split('/')[-1]}</a> (#{e[1].to_i.to_human_readable}, #{e[2]})</td></tr>\n"
         end
-        s += "</ul>\n"
+        s += "</table></td></tr></table>\n"
       end
+      s += "<hr width=\"100%\"/>"
+      s += '<table width="100%" cellpadding="0" cellspacing="0">'
+      l = '<tr><td align="right"><font color="#ababab">%s</font>&nbsp;&nbsp;</td><td><font color="#ababab">%s</font></td></tr>' + "\n"
+      s += l % [ 'Date:', @date.to_s ] if @date # TODO improve date rendering ?
+      s += l % [ 'Author:', @creator.escape_html ] if @creator
+      s += l % [ 'Subject:', @subject.escape_html ] if @subject
+      s += l % [ 'Category:', @category.escape_html ] if @category
+      s += "</table>\n"
       s
     end
   end
