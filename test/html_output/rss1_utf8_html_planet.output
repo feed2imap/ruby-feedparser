@@ -1177,6 +1177,7 @@ flat</a>", we were assured it's him.</p><hr width="100%"/><table width="100%" ce
 </a>
 </td></tr></table></td></tr></table>
 
+<br/>
 Finally I have decided to help in developing <a href="http://rt2x00.serialmonkey.com/">a driver for the wireless USB 54 Mbps rt2570</a>, very similar to the ralink 2500 chipset. I have two USB networks card using this chipset: they are very cheap, around 30. In my student days, I developed an ethernet driver so maybe, this knowledge will be useful. I am learning about USB stuff, using howto develop USB drivers for Linux, the USB Nutshell and finally, with the USB standard. I am not sure how far I will go in the project, but for now, I am trying to understand the USB traffic until we get the data sheets: <a href="http://benoit.papillault.free.fr/usbsnoop/">USB sniff</a> is the right tool to log the USB traffic and analyze it later (grep, cat, awk, uniq, sort ...)
 
 <p> A dude working with me in LambdaUX is developing in C# and Mono a program to update Debian systems. It is getting very nice. A pit I don't have yet screenshots about it.

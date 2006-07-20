@@ -64,6 +64,11 @@ module FeedParser
       s += (headline % ["Item:", r])
       s += "</table></td></tr></table>\n"
       s += "\n"
+      #if @content and @content !~ /^\s*(<body[^>]*>\s*)?<(p|div.*)>/
+      #p @content
+      if @content and @content !~ /\A\s*</m
+        s += "<br/>\n"
+      end
       s += "#{@content}" if @content
       if @enclosures and @enclosures.length > 0
         s += <<-EOF
