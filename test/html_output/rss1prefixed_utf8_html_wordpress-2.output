@@ -1,14 +1,21 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
+<head>
+<title>David Baron's Weblog</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+</head>
 <body>
-<p>Type: rss<br>
-Encoding: UTF-8<br>
-Title: David Baron's Weblog<br>
-Link: http://dbaron.org/log/index.php<br>
-Description: David Baron's weblog<br>
-Creator: </p>
-
-
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed title:</b></td>
+<td width="100%"><a href="http://dbaron.org/log/index.php">
+<b>David Baron's Weblog</b>
+</a>
+</td></tr><tr><td align="right"><b>Type:</b></td>
+<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
+<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<br/>
+David Baron's weblog
 <hr/><!-- *********************************** -->
 <table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
 <table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">

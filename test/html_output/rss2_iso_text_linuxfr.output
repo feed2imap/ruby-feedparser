@@ -1,14 +1,21 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
+<head>
+<title>DLFP - Journaux</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+</head>
 <body>
-<p>Type: rss<br>
-Encoding: ISO-8859-15<br>
-Title: DLFP - Journaux<br>
-Link: http://linuxfr.org/journal/<br>
-Description: LinuxFr<br>
-Creator: </p>
-
-
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed title:</b></td>
+<td width="100%"><a href="http://linuxfr.org/journal/">
+<b>DLFP - Journaux</b>
+</a>
+</td></tr><tr><td align="right"><b>Type:</b></td>
+<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
+<td width="100%">ISO-8859-15</td></tr></table></td></tr></table>
+<br/>
+LinuxFr
 <hr/><!-- *********************************** -->
 <table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
 <table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">

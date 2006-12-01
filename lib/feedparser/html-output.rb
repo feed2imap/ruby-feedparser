@@ -8,14 +8,38 @@ module FeedParser
       s += '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">'
       s += "\n"
       s += "<html>\n"
+      s += "<head>\n"
+      s += "<title>#{@title.escape_html}</title>\n"
+      s += "<meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\">\n"
+      s += "</head>\n"
       s += "<body>\n"
-      s += "<p>Type: #{@type}<br>\n"
-      s += "Encoding: #{@encoding}<br>\n"
-      s += "Title: #{@title.escape_html}<br>\n"
-      s += "Link: #{@link}<br>\n" 
-      s += "Description: #{@description}<br>\n"
-      s += "Creator: #{@creator ? @creator.escape_html : ''}</p>\n"
-      s += "\n"
+
+      s += <<-EOF
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+      EOF
+      r = ""
+      r += "<a href=\"#{@link}\">\n" if @link
+      if @title
+        r += "<b>#{@title.escape_html}</b>\n"
+      elsif @link
+        r += "<b>#{@link.escape_html}</b>\n"
+      else
+        r += "<b>Unnamed feed</b>\n"
+      end
+      r += "</a>\n" if @link
+      headline = "<tr><td align=\"right\"><b>%s</b></td>\n<td width=\"100%%\">%s</td></tr>"
+      s += (headline % ["Feed title:", r])
+      s += (headline % ["Type:", @type])
+      s += (headline % ["Encoding:", @encoding])
+      s += (headline % ["Creator:", @creator.escape_html]) if @creator
+      s += "</table></td></tr></table>\n"
+
+      if @description and @description !~ /\A\s*</m
+        s += "<br/>\n"
+      end
+      s += "#{@description}" if @description
+
       @items.each do |i|
         s += "\n<hr/><!-- *********************************** -->\n"
         s += i.to_html
@@ -48,6 +72,8 @@ module FeedParser
         r += "<b>#{@feed.title.escape_html}</b>\n"
       elsif @feed.link
         r += "<b>#{@feed.link.escape_html}</b>\n"
+      else
+        r += "<b>Unnamed feed</b>\n"
       end
       r += "</a>\n" if @feed.link
       headline = "<tr><td align=\"right\"><b>%s</b></td>\n<td width=\"100%%\">%s</td></tr>"
@@ -64,8 +90,6 @@ module FeedParser
       s += (headline % ["Item:", r])
       s += "</table></td></tr></table>\n"
       s += "\n"
-      #if @content and @content !~ /^\s*(<body[^>]*>\s*)?<(p|div.*)>/
-      #p @content
       if @content and @content !~ /\A\s*</m
         s += "<br/>\n"
       end
