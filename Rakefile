@@ -6,7 +6,7 @@ require 'find'
 
 # Globals
 PKG_NAME = 'ruby-feedparser'
-PKG_VERSION = '0.2'
+PKG_VERSION = '0.3'
 
 PKG_FILES = [ 'ChangeLog', 'README', 'COPYING', 'LICENSE', 'setup.rb', 'Rakefile']
 Find.find('lib/', 'test/', 'tools/') do |f|
@@ -53,6 +53,7 @@ end
 
 Rake::PackageTask.new(PKG_NAME, PKG_VERSION) do |p|
 	p.need_tar = true
+  p.need_zip = true
 	p.package_files = PKG_FILES
 end
 

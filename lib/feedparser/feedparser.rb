@@ -6,6 +6,8 @@ require 'base64'
 
 module FeedParser
 
+  VERSION = "0.3"
+
   class UnknownFeedTypeException < RuntimeError
   end
 

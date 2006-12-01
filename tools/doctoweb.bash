@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ -z $CVSDIR ]; then
-	CVSDIR=$HOME/dev/ruby-feedparser-web
+	CVSDIR=$HOME/dev/ruby-feedparser/website
 fi
 
 TARGET=$CVSDIR/rdoc
@@ -17,14 +17,14 @@ rsync -a rdoc/ $TARGET/
 echo "###########################################################"
 echo "CVS status :"
 cd $TARGET
-cvs -q up
+svn st
 echo "CVS Adding files."
-while [ $(cvs -q up | grep "^? " | wc -l) -gt 0 ]; do
-	cvs add $(cvs -q up | grep "^? " | awk '{print $2}')
+while [ $(svn st | grep "^? " | wc -l) -gt 0 ]; do
+	svn add $(svn st | grep "^? " | awk '{print $2}')
 done
 echo "###########################################################"
 echo "CVS status after adding missing files:"
-cvs -q up
+svn st
 echo "Commit changes now with"
-echo "# (cd $TARGET && cvs commit -m \"rdoc update\")"
+echo "# (cd $TARGET && svn commit -m \"rdoc update\")"
 exit 0

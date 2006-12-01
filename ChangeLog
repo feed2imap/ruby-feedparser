@@ -1,4 +1,4 @@
-Ruby-Feedparser 0.3 (XX/07/2006)
+Ruby-Feedparser 0.3 (01/12/2006)
 ================================
 * Much nicer HTML output
 * Fixed a problem with some feeds with broken enclosures (without url)
