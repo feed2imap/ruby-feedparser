@@ -1,3 +1,8 @@
+Ruby-Feedparser 0.4 (XX/XX/XXXX)
+================================
+* Tests are now timezone-friendly. (closes GNA bug #8145).
+* Nicer text output.
+
 Ruby-Feedparser 0.3 (01/12/2006)
 ================================
 * Much nicer HTML output

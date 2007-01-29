@@ -40,7 +40,7 @@ Item: Dollar <http://www.bouil.org/joueb/entree.html?id=8>
 Date: Fri Feb 04 09:17:03 UTC 2005
 Author: Bouil
 
-Ce matin, sur France Inter toujours, Hervé Gaymard, ministre des Finances, a annoncé[1]  qu'il allait défendre une initiative européenne pour financer la lutte contre le sida en Afrique.
+Ce matin, sur France Inter toujours, Hervé Gaymard, ministre des Finances, a annoncé[1] qu'il allait défendre une initiative européenne pour financer la lutte contre le sida en Afrique.
 
 Il a déclaré�: [...] nous devons mettre en place des taxations internationales, par exemple un dollar par billet d'avion [...]. Ce n'est pas le fond qui me préoccupe ici, dont le but est tout à fait louable, mais la forme. En effet, il est étrange de voir un ministre *français*, défendant une initiative *européenne*, proposer une taxe libellée en *Dollars (américains)*...
 
@@ -122,7 +122,7 @@ Item: Quelques raccourcis <http://www.bouil.org/joueb/entree.html?id=2>
 Date: Wed Mar 31 17:43:49 UTC 2004
 Author: Bouil
 
-Quelques raccourcis sympatiques, que j'oublie sans arrêt�:	  	    	      C-M-\	    	    	      Intente la région selectionnée du buffer courant.	    	    	      M-/	    	    	      Complète le mot courant à partir des mots déjà écrits dans les buffers ouverts.
+Quelques raccourcis sympatiques, que j'oublie sans arrêt�: 	  	  	 C-M-\ 	  	  	 Intente la région selectionnée du buffer courant. 	  	  	 M-/ 	  	  	 Complète le mot courant à partir des mots déjà écrits dans les buffers ouverts.
 ****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Détacher un processus d'un terminal <http://www.bouil.org/joueb/entree.html?id=1>
@@ -130,7 +130,7 @@ Item: Détacher un processus d'un terminal <http://www.bouil.org/joueb/entree.ht
 Date: Wed Mar 31 17:42:50 UTC 2004
 Author: Bouil
 
-Pour détacher un processus d'un terminal, c'est à dire que la commande ne se termine pas lorsque le terminal est fermé�:	
+Pour détacher un processus d'un terminal, c'est à dire que la commande ne se termine pas lorsque le terminal est fermé�: 	
 
-	    	      $ commande &
-	      $ disown
+	  	 $ commande &
+	 $ disown

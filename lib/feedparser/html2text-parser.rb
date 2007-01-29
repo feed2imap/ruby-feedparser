@@ -16,15 +16,23 @@ module FeedParser
 
     def handle_data(data)
       # let's remove all CR
-      data.gsub!(/\n/, '') if not @pre
-   
+      if not @pre
+        data.gsub!(/\n/, ' ') 
+        data.gsub!(/( )+/, ' ')
+      end
       @savedata << data
     end
 
     def unknown_starttag(tag, attrs)
       case tag
-      when 'p'
+      when 'p', 'h4'
         @savedata << "\n\n"
+      when 'h1'
+        @savedata << "\n\n      "
+      when 'h2'
+        @savedata << "\n\n    "
+      when 'h3'
+        @savedata << "\n\n  "
       when 'br'
         @savedata << "\n"
       when 'ul'

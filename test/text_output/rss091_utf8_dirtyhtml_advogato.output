@@ -17,7 +17,7 @@ FC3test2 is out (give it a try) and it's not too shabby.
 
 There's a bugweek possibly coming up next week - everyone who's anyone in Fedora working to sort through the bugs. More to come later.
 
-No, external CVS for Fedora has not been forgotten. Work is underway (and on Red Hat's side, we just underwent a  sizeable internal change that is necessary to support it).
+No, external CVS for Fedora has not been forgotten. Work is underway (and on Red Hat's side, we just underwent a sizeable internal change that is necessary to support it).
 
 On the everything-else front:
 
@@ -116,9 +116,9 @@ Date: Wed Sep 20 06:45:03 UTC 2000
 
 It's 02:01, I can't sleep, and there's a bunch of company meetings today at 08:30 that appear increasingly boring as the time approaches. It sort of rains on my parade of TODO items - I could have finished libGIOP this week. Instead, the game seems to be snoozing through discussions of kernel hacking and attending suffocatingly purposeless cocktail parties. I need to get a potion distilled from the Smurf theme song and inject myself with it.
 
-So I am bothering to write this at all because aaronl is being a total moron and I'm bored enough to respond:"My biggest gripe about component architecture is that I just don't understand when it would ever be needed." -aaronlSo this essentially means that he has no clue why components are good, but everyone else must be wrong because he hasn't figured out how to use them. A classic example of his Bigger Problem - not understanding use cases beside his own exist.
+So I am bothering to write this at all because aaronl is being a total moron and I'm bored enough to respond: "My biggest gripe about component architecture is that I just don't understand when it would ever be needed." -aaronl So this essentially means that he has no clue why components are good, but everyone else must be wrong because he hasn't figured out how to use them. A classic example of his Bigger Problem - not understanding use cases beside his own exist.
 
-"Sure, you can write code that will let you browse the web in Emacs (and such code has been writen), but this actually has to be implemented inside Emacs." -aaronlSo this essentially means that he hasn't looked at how w3-mode is actually implemented - it's a set of elisp files, aka... a component.
+"Sure, you can write code that will let you browse the web in Emacs (and such code has been writen), but this actually has to be implemented inside Emacs." - aaronl So this essentially means that he hasn't looked at how w3- mode is actually implemented - it's a set of elisp files, aka... a component.
 
 I must admit, however, that Aaron's perspective is refreshingly free from the burden of experience. In other words, dudes, I want some of that crack that he's smoking, because I seem to be having issues getting this dandelion to produce the pink elephants he's seeing.
 

@@ -18,7 +18,7 @@ Item: Vincent Noel: nautilus and gworkspace <http://members.cox.net/vnoel/weblog
 
 Date: Wed Sep 14 19:15:01 UTC 2005
 
-Is it my imagination or is nautilus, with every release, getting closer to the interface of GWorkspace[1] ?[2]
+Is it my imagination or is nautilus, with every release, getting closer to the interface of GWorkspace[1] ?   [2]
 Everything is there : the "places" (vertical in nautilus and horizontal in GWorkspace), the path bar (thankfully scaled down, but the idea is the same), the icon/list views... Of course, I guess inspiration mostly comes from the MacOS X rework of GWorkspace, but it's weird to think that this UI has been there for years, just waiting for somebody to pimp it up.
 Now there is just the column view[3] left to implement, and we'll be at 1:1 features ratio (although with good drag-n-drop management the current path bar could replace that view in most of the cases).
 
