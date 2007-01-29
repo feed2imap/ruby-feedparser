@@ -29,7 +29,7 @@ Planète GNOME-FR - http://planete.gnomefr.org/
 </td></tr></table></td></tr></table>
 
 <div>How are you supposed to trust these guys ?<img src="http://members.cox.net/vnoel/weblog/uploaded_images/Screenshot-Flight%20Details-798819.png" />
-</div><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Sep 14 22:21:47 CEST 2005</font></td></tr>
+</div><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Sep 14 20:21:47 UTC 2005</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -49,7 +49,7 @@ Planète GNOME-FR - http://planete.gnomefr.org/
 <img src="http://www.gnome.org/~vnoel/screenshots/nautilus_gworkspace_small.png" />
 </a>
 </blockquote>
-<br />Everything is there : the "places" (vertical in nautilus and horizontal in GWorkspace), the path bar (thankfully scaled down, but the idea is the same), the icon/list views... Of course, I guess inspiration mostly comes from the MacOS X rework of GWorkspace, but it's weird to think that this UI has been there for years, just waiting for somebody to pimp it up.<br />Now there is just the <a href="http://actsofvolition.com/images/screenshots/next-column-view.png">column view</a> left to implement, and we'll be at 1:1 features ratio (although with good drag-n-drop management the current path bar could replace that view in most of the cases).</div><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Sep 14 21:15:01 CEST 2005</font></td></tr>
+<br />Everything is there : the "places" (vertical in nautilus and horizontal in GWorkspace), the path bar (thankfully scaled down, but the idea is the same), the icon/list views... Of course, I guess inspiration mostly comes from the MacOS X rework of GWorkspace, but it's weird to think that this UI has been there for years, just waiting for somebody to pimp it up.<br />Now there is just the <a href="http://actsofvolition.com/images/screenshots/next-column-view.png">column view</a> left to implement, and we'll be at 1:1 features ratio (although with good drag-n-drop management the current path bar could replace that view in most of the cases).</div><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Sep 14 19:15:01 UTC 2005</font></td></tr>
 </table>
 
 </body></html>

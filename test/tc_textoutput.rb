@@ -23,7 +23,7 @@ class TextOutputTest < Test::Unit::TestCase
       puts "Checking #{f}"
       str = File::read(SRCDIR + '/' + f)
       chan = FeedParser::Feed::new(str)
-      chanstr = chan.to_text
+      chanstr = chan.to_text(false) # localtime set to false
       if File::exist?(DSTDIR + '/' + f.gsub(/.xml$/, '.output'))
         output = File::read(DSTDIR + '/' + f.gsub(/.xml$/, '.output'))
         if output != chanstr

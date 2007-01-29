@@ -3,7 +3,7 @@ require 'feedparser/filesizes'
 
 module FeedParser
   class Feed
-    def to_html
+    def to_html(localtime = true)
       s = ''
       s += '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">'
       s += "\n"
@@ -42,7 +42,7 @@ module FeedParser
 
       @items.each do |i|
         s += "\n<hr/><!-- *********************************** -->\n"
-        s += i.to_html
+        s += i.to_html(localtime)
       end
       s += "\n</body></html>\n"
       s
@@ -50,18 +50,18 @@ module FeedParser
   end
 
   class FeedItem
-    def to_html_with_headers
+    def to_html_with_headers(localtime = true)
       s = <<-EOF
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <body>
   EOF
-      s += to_html
+      s += to_html(localtime)
       s += "\n</body>\n</html>"
       s
     end
 
-    def to_html
+    def to_html(localtime = true)
       s = <<-EOF
 <table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
 <table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
@@ -109,7 +109,13 @@ module FeedParser
       s += "<hr width=\"100%\"/>"
       s += '<table width="100%" cellpadding="0" cellspacing="0">'
       l = '<tr><td align="right"><font color="#ababab">%s</font>&nbsp;&nbsp;</td><td><font color="#ababab">%s</font></td></tr>' + "\n"
-      s += l % [ 'Date:', @date.to_s ] if @date # TODO improve date rendering ?
+      if @date
+        if localtime
+          s += l % [ 'Date:', @date.to_s ]
+        else
+          s += l % [ 'Date:', @date.getutc.to_s ]
+        end
+      end
       s += l % [ 'Author:', @creator.escape_html ] if @creator
       s += l % [ 'Subject:', @subject.escape_html ] if @subject
       s += l % [ 'Category:', @category.escape_html ] if @category

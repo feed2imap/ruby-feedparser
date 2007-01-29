@@ -25,7 +25,7 @@ end
 
 module FeedParser
   class Feed
-    def to_text
+    def to_text(localtime = true)
       s = ''
       s += "Type: #{@type}\n"
       s += "Encoding: #{@encoding}\n"
@@ -40,14 +40,14 @@ module FeedParser
       s += "\n"
       @items.each do |i|
         s += '*' * 40 + "\n"
-        s += i.to_text
+        s += i.to_text(localtime)
       end
       s
     end
   end
 
   class FeedItem
-    def to_text
+    def to_text(localtime = true)
       s = ""
       s += "Feed: "
       s += @feed.title + ' ' if @feed.title
@@ -57,8 +57,13 @@ module FeedParser
       s += @title + ' ' if @title
       s += "<#{@link}>" if @link
       s += "\n"
-      # TODO improve date rendering ?
-      s += "\nDate: #{@date.to_s}" if @date 
+      if @date
+        if localtime
+          s += "\nDate: #{@date.to_s}"
+        else
+          s += "\nDate: #{@date.getutc.to_s}"
+        end
+      end
       s += "\nAuthor: #{@creator}" if @creator
       s += "\nSubject: #{@subject}" if @subject
       s += "\nCategory: #{@category}" if @category

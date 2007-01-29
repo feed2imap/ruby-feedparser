@@ -102,7 +102,7 @@ module FeedParser
       end
     end
 
-    def to_s
+    def to_s(localtime = true)
       s  = ''
       s += "Type: #{@type}\n"
       s += "Encoding: #{@encoding}\n"
@@ -111,7 +111,7 @@ module FeedParser
       s += "Description: #{@description}\n"
       s += "Creator: #{@creator}\n"
       s += "\n"
-      @items.each { |i| s += i.to_s }
+      @items.each { |i| s += i.to_s(localtime) }
       s
     end
   end
@@ -141,10 +141,15 @@ module FeedParser
       raise "parse() should be implemented by subclasses!"
     end
 
-    def to_s
+    def to_s(localtime = true)
       s = "--------------------------------\n" +
-        "Title: #{@title}\nLink: #{@link}\n" +
-        "Date: #{@date.to_s}\nCreator: #{@creator}\n" +
+        "Title: #{@title}\nLink: #{@link}\n"
+      if localtime or @date.nil?
+        s += "Date: #{@date.to_s}\n"
+      else
+        s += "Date: #{@date.getutc.to_s}\n"
+      end
+      s += "Creator: #{@creator}\n" +
         "Subject: #{@subject}\nCategory: #{@category}\nContent:\n#{content}\n"
       if defined?(@enclosures) and @enclosures.length > 0
         s2 = "Enclosures:\n"

@@ -9,7 +9,7 @@ Creator:
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: Another victory for svn <http://jroller.com/page/akarasulu/20040330#another_victory_for_svn>
 
-Date: Tue Mar 30 18:39:55 CEST 2004
+Date: Tue Mar 30 16:39:55 UTC 2004
 Author: Alex Karasulu
 Category: General
 
@@ -18,7 +18,7 @@ Today I resusitated a file in subversion.  I thought it was cool although its no
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: Notification pattern has interesting effect on IoC <http://jroller.com/page/akarasulu/20040217#notification_pattern_has_interesting_effect>
 
-Date: Wed Feb 18 05:40:44 CET 2004
+Date: Wed Feb 18 04:40:44 UTC 2004
 Author: Alex Karasulu
 Category: Java
 
@@ -31,7 +31,7 @@ What does this mean for service interfaces?  Well they start looking bleak becau
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: Groovy dude is on a roll <http://jroller.com/page/akarasulu/20040212#groovy_dude_is_on_a>
 
-Date: Thu Feb 12 17:26:28 CET 2004
+Date: Thu Feb 12 16:26:28 UTC 2004
 Author: Alex Karasulu
 Category: Java
 
@@ -48,7 +48,7 @@ Perhaps if someone does not implement the GroovyJndi package itmight be a way I 
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: Eve formerly know as LDAPd has been accepted to Apache Incubator <http://jroller.com/page/akarasulu/20031030#eve_formerly_know_as_ldapd>
 
-Date: Fri Oct 31 05:00:53 CET 2003
+Date: Fri Oct 31 04:00:53 UTC 2003
 Author: Alex Karasulu
 Category: General
 
@@ -59,7 +59,7 @@ Thanks to all those that made it happen!
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: Got committer status on Avalon <http://jroller.com/page/akarasulu/20031030#got_committer_status_on_avalon>
 
-Date: Fri Oct 31 02:48:00 CET 2003
+Date: Fri Oct 31 01:48:00 UTC 2003
 Author: Alex Karasulu
 Category: General
 
@@ -70,7 +70,7 @@ I am especially excited to be working on getting Merlin to a generally embeddibl
 Feed: Alex Karasulu's Weblog <http://jroller.com/page/akarasulu>
 Item: LDAPd Project Started Oct 16th 2002 <http://jroller.com/page/akarasulu/20031015#ldapd_project_started_oct_16th>
 
-Date: Wed Oct 15 15:00:40 CEST 2003
+Date: Wed Oct 15 13:00:40 UTC 2003
 Author: Alex Karasulu
 Category: General
 

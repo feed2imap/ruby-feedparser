@@ -26,7 +26,7 @@ class HTMLOutputTest < Test::Unit::TestCase
       puts "Checking #{f}"
       str = File::read(SRCDIR + '/' + f)
       chan = FeedParser::Feed::new(str)
-      chanstr = chan.to_html
+      chanstr = chan.to_html(false)
       if File::exist?(DSTDIR + '/' + f.gsub(/.xml$/, '.output'))
         output = File::read(DSTDIR + '/' + f.gsub(/.xml$/, '.output'))
         if output != chanstr
