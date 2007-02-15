@@ -56,21 +56,21 @@ Category: En vrac
 - Interview de Joe Kraus[7], fondateur de JotSpot, qu'il a vendu à Google. "La prochaine vague (de la bureautique) ne va pas consister à provoquer à rendre les individus plus productifs, mais en rendant les groups plus productifs" (spéciale dédicace à Louis Naugès, qui aborde régulièrement ces sujets) ;
 - On parle de Metisse sur Digg ![8]. Les vidéos (un[9] et deux[10]) sont impressionnantes ;
 - *Le Monde Informatique* : OpenOffice veut faciliter l'utilisation d'ODF[11] ;
-- Les prix OEM de Vista sont publiés aux USA[12]. Ca commence à devenir intéressant de payer 149$ plutôt que que 425 EUR[13] pour équiper un nouveau MacBook Pro. J'imagine que c'est illégal, non ? Et j'imagine que Microsoft va consciencieusement fermer les yeux sur le problème... L'intérêt de la chose, c'est que ça permet à Microsoft de toucher des gens qui ne sont pas prêts à payer si cher un système d'exploitation. Pour ceux qui s'interrogent sur ce sujet, l'excellentissime article de Joel Spolsky, Camels and Rubber duckies[14], qui explique à la perfection la difficulté de coller une étiquette de prix sur du logiciel. Ah, et Joel est justement un ancien de Microsoft
-- Dans l'Adieu de Jean d'Ormesson[15] à Jean-François Deniau[16], une phrase résonne : "Il se faisait une idée si haute de sa tâche dans le monde qu'il était toujours insatisfait de ce qu'il avait accompli et qui aurait suffi à combler n'importe qui d'autre." J'ai beau ne pas avoir fait Sciences-Po et l'ENA, ni rédigé de traités internationaux, et encore moins été Ministre ou ambassadeur, mais le fait est que l*'insatisfaction* dont parle Jean d'Ormesson, j'ai l'impression de la vivre au quotidien... (mais je me soigne
+- Les prix OEM de Vista sont publiés aux USA[12]. Ca commence à devenir intéressant de payer 149$ plutôt que que 425 EUR[13] pour équiper un nouveau MacBook Pro. J'imagine que c'est illégal, non ? Et j'imagine que Microsoft va consciencieusement fermer les yeux sur le problème... L'intérêt de la chose, c'est que ça permet à Microsoft de toucher des gens qui ne sont pas prêts à payer si cher un système d'exploitation. Pour ceux qui s'interrogent sur ce sujet, l'excellentissime article de Joel Spolsky, Camels and Rubber duckies[14], qui explique à la perfection la difficulté de coller une étiquette de prix sur du logiciel. Ah, et Joel est justement un ancien de Microsoft [A]
+- Dans l'Adieu de Jean d'Ormesson[15] à Jean-François Deniau[16], une phrase résonne : "Il se faisait une idée si haute de sa tâche dans le monde qu'il était toujours insatisfait de ce qu'il avait accompli et qui aurait suffi à combler n'importe qui d'autre." J'ai beau ne pas avoir fait Sciences-Po et l'ENA, ni rédigé de traités internationaux, et encore moins été Ministre ou ambassadeur, mais le fait est que l*'insatisfaction* dont parle Jean d'Ormesson, j'ai l'impression de la vivre au quotidien... (mais je me soigne [B]
 - HP se veut le bon élève du recyclage[17], et c'est bien ;
 - Tutoriel anitspam de Thunderbird[18], par Micro Hebdo. On a tendance à l'oublier, mais un tel article, il y a encore 2 ans, relevait de la science fiction (ou de l'anomalie pure et simple !) ;
 - Thème Super Mario Bros pour Firefox[19] !
 - Débat contradictoire sur le site Framasoft : Il est mauvais pour le logiciel Libre de porter des applications libres (Firefox & co) sur Windows[20] dit l'un. La réponse ne se fait pas attendre : c'est une façon de pousser au logiciel Libre sur le poste client[21]. Bien sûr, je suis de cet avis. D'abord, je vois Firefox (et Thunderbird) comme un outil pour rétablir le choix et l'innovation sur Internet. *Internet*, et plus particulièrement le Web et le mail. Comme je l'ai déjà expliqué à moulte reprises, ça n'est possible que s'il y a beaucoup d'utilisateurs qui se servent de Firefox. Un effet de bord particulièrement intéressant à mes yeux, c'est que Firefox est disponible sur plusieurs plates-formes, comme OpenOffice.org, The Gimp, VLC et Thunderbird (et bien d'autres). IL permet donc de préparer un changement de système d'exploitation, ce qui est d'autant plus important qu'on constate à quel point Vista va priver les utilisateurs de libertés essentielles[22] ;
 - Tiens, justement, à propos de migration, écoutons le député UMP Richard Cazenave[23] : "Les logiciels les plus demandés par les utilisateurs (c’est-à-dire le navigateur, le client de messagerie et la suite bureautique) ont déjà des alternatives très satisfaisantes. OpenOffice.org et les logiciels de Mozilla ont de surcroît l’avantage de tourner aussi bien sur GNU/Linux que sur Windows ou Mac OS, ce qui facilite leur diffusion ainsi que les migrations."
 - Sortie de Copilot 2.0[24] . Deux phrases intéressantes de Joel (oui, encore lui) : "One of the reasons they were able to accomplish so much in one summer is that they used open source software as a starting point." et "(...) the PERFECT application for installing Firefox on all your relatives' computers" ;
-- Je suis très fier de la dernière publicité virale de ma banque[25] (via Francesco)  (ne pas rater le dernier quart, même si ça n'est pas très *work safe*) ;
+- Je suis très fier de la dernière publicité virale de ma banque[25] (via Francesco) [C] (ne pas rater le dernier quart, même si ça n'est pas très *work safe*) ;
 - Rétrospective 2006 sur le Libre[26], par l'APRIL. Long, mais intéressant. Très intéressant.
 - Envie de voir le projet d'agenda Mozilla (Sunbird et Lightning) avancer plus vite ? Vous pouvez aider[27] !
 - Botnets : un quart des PC connectés à Internet serait des zombies[28] d'après Vint Cerf[29], co-inventeur de TCP/IP (le protocole réseau d'Internet). Voir aussi l'article de la BBC[30] ;
 - La stratégie *Live* de Microsoft tarde à décoller[31]. Pour l'instant. Ils y arriveront, malgré cette marque faible et le petit nombre d'annonceurs.
-- Spécial *Web geeks* : Hacking Digg with Firebug and jQuery[32], par John Resig (mainteneur de jQuery et employé Mozilla). En vidéo ! Ca change complètement la façon de percevoir une page Web (un peu comme GreaseMonkey, mais de façon interactive avec la console JS de Firebug). J'ai du mal à m'en remettre
-- Microsoft démontre brillamment à quel point les brevets logiciels sont aberrants[33] en copiant une innovation, en l'admettant, et en la faisant breveter ensuite. Superbement pédagogique ! Merci Microsoft ! (Ah, attendez, on me souffle dans l'oreillette que ça n'était pas forcément fait dans cette optique  )
+- Spécial *Web geeks* : Hacking Digg with Firebug and jQuery[32], par John Resig (mainteneur de jQuery et employé Mozilla). En vidéo ! Ca change complètement la façon de percevoir une page Web (un peu comme GreaseMonkey, mais de façon interactive avec la console JS de Firebug). J'ai du mal à m'en remettre [D]
+- Microsoft démontre brillamment à quel point les brevets logiciels sont aberrants[33] en copiant une innovation, en l'admettant, et en la faisant breveter ensuite. Superbement pédagogique ! Merci Microsoft ! (Ah, attendez, on me souffle dans l'oreillette que ça n'était pas forcément fait dans cette optique [E] )
 
 [1] http://www.solutionslinux.fr/fr/
 [2] http://akosh.pcinpact.com/actu/news/34289-OLPC-100-dollars-red-hat.htm
@@ -105,6 +105,12 @@ Category: En vrac
 [31] http://news.com.com/2100-1038_3-6153879.html
 [32] http://ejohn.org/blog/hacking-digg-with-firebug-and-jquery/
 [33] http://yro.slashdot.org/yro/07/01/27/147243.shtml
+
+[A] http://standblog.org/dc-blog/themes/default/smilies/laugh.png
+[B] http://standblog.org/dc-blog/themes/default/smilies/wink.png
+[C] http://standblog.org/dc-blog/themes/default/smilies/wink.png
+[D] http://standblog.org/dc-blog/themes/default/smilies/laugh.png
+[E] http://standblog.org/dc-blog/themes/default/smilies/wink.png
 ****************************************
 Feed: Standblog <http://standblog.org/blog/>
 Item: Ce qu'on ne vous a pas dit à propos de Windows Vista <http://standblog.org/blog/post/2007/01/25/Ce-quon-ne-vous-a-pas-dit-a-propos-de-Windows-Vista>
@@ -159,7 +165,7 @@ En substance, on est en train de voir l'utilisateur, et donc le marché, choisir
 
 Notes
 
-[1[14]] *Conflit potentiel d'intérêts :* j'écris ce billet en tant qu'observateur de Microsoft et utilisateur de ses produits depuis plus de 20 ans. Il se trouve que l'organisation pour laquelle je travaille, Mozilla, est concurrente de Microsoft dans le domaine des navigateurs Web et des clients de messagerie, qui ne sont quasiment pas abordés ici. J'ai tenté d'être aussi neutre que possible, mais quoi qu'il en soit, je tiens à préciser que ce qu'on lit ici sont mes propos et n'engagent le projet Mozilla d'aucune façon. Profitons de cette note de bas de page que personne ne lira pour remercier mes gentils relecteurs/relectrices !
+[1[14]] *Conflit potentiel d'intérêts :* j'écris ce billet en tant qu'observateur de Microsoft et utilisateur de ses produits depuis plus de 20 ans. Il se trouve que l'organisation pour laquelle je travaille, Mozilla, est concurrente de Microsoft dans le domaine des navigateurs Web et des clients de messagerie, qui ne sont quasiment pas abordés ici. J'ai tenté d'être aussi neutre que possible, mais quoi qu'il en soit, je tiens à préciser que ce qu'on lit ici sont mes propos et n'engagent le projet Mozilla d'aucune façon. Profitons de cette note de bas de page que personne ne lira pour remercier mes gentils relecteurs/relectrices ! [A]
 
 [2[15]] Tout cela est déjà présent dans OS X depuis longtemps sous les noms de *Dashboard*, *Spotlight*, *Exposé* et autres noms exotiques, mais je parle bien ici des utilisateurs sous Windows XP, qui date quand même de ... 2001 ! (Non, ça ne nous rajeunit pas !). Les utilisateurs de Linux pourront toujours rétorquer que XGL, Metisse et Beagle font aussi bien, voire mieux, et je me garderai bien d'entrer dans ce débat...
 
@@ -167,7 +173,7 @@ Notes
 
 [4[17]] Pour ceux qui ne comprennent pas ce que cela représente, un petit rappel : avec Vista, comme sous Linux et Mac OS X, l'utilisateur a l'essentiel du temps des droits réduits sur sa machine. Ainsi, en cas de contamination par un virus, ou en cas de mauvaise manipulation, les dégâts sont limités. A la demande et quand c'est nécessaire, l'utilisateur peut redevenir temporairement administrateur de sa machine, par exemple le temps d'installer une nouvelle application. Cette séparation entre tâches d'administrations (rares) et utilisation ordinaire est un des principes de base de la sécurité, en place dans Unix et Linux depuis toujours.
 
-[5[18]] Si j'en crois les promesses faites par l'équipe. L'opacité du processus de Redmond ne permet pas de se faire une idée juste de la chose, mais on peut raisonnablement parier qu'IE7 est plus sécurisé qu'IE6[19] !
+[5[18]] Si j'en crois les promesses faites par l'équipe. L'opacité du processus de Redmond ne permet pas de se faire une idée juste de la chose, mais on peut raisonnablement parier qu'IE7 est plus sécurisé qu'IE6[19] ! [B]
 
 [6[20]] Les spammeurs et autres pirates savent bien qu'ils vont se faire repérer s'ils utilisent leurs propres machines pour leurs activités. Pour éviter cela, ils se débrouillent pour prendre le contrôle à distance de millions de machines sous Windows qui sont mal protégées (mises à jour de sécurité non appliquées, absence de pare-feu et d'anti-virus...). Ces machines sont appelées des *zombies*. A la demande, il est possible de réveiller ces zombies et de leur faire faire ce qu'on veut d'illégal (envoyer des courriers indésirables, attaquer tous ensemble un serveur dont le contenu est gênant, héberger du contenu pédophile ou des vidéos piratées, etc.). Il existe un marché maffieux en ligne où la prise de contrôle des PC zombifiés est vendue par certains pirates à qui veut, moyennant espèces sonnantes et trébuchantes. Si Windows était mieux sécurisé, si les utilisateurs étaient mieux éduqués et s'ils prenaient les précautions qui s'imposent pour éviter la zombification de leur machine, alors Internet serait bien plus sécurisé, plus rapide, et moins dangereux. On notera les efforts, certes tardifs, de Microsoft dans ce domaine, avec une éducation des utilisateurs et la mise en place de fonctionnalités de sécurité dans le Service Pack 2 de Windows XP (centre de sécurité, meilleur pare-feu, intégration des anti-virus tiers, etc.).
 
@@ -205,6 +211,9 @@ Notes
 [24] http://standblog.org/blog/post/2007/01/25/#rev-pnote-3087-9
 [25] http://standblog.org/blog/post/2005/10/22/93114455-faut-il-etre-pour-ou-contre-microsoft
 [26] http://standblog.org/blog/post/2007/01/25/#rev-pnote-3087-10
+
+[A] http://standblog.org/dc-blog/themes/default/smilies/wink.png
+[B] http://standblog.org/dc-blog/themes/default/smilies/wink.png
 ****************************************
 Feed: Standblog <http://standblog.org/blog/>
 Item: Le nouveautés de Thunderbird 2 <http://standblog.org/blog/post/2007/01/25/Le-nouveautes-de-Thunderbird-2>
@@ -305,7 +314,7 @@ Category: En vrac
 - La Jabber Software Foundation devient la XMPP Standards Foundation[4] ;
 - 2 postes sont ouverts au W3C[5] (à condition de travailler chez une organisation membre du W3C) ;
 - Votre serviteur interviewé par Thierry Bézier (partie 3 sur 4)[6], en vidéo et en MP3 ;
-- Chez eBay UK, on se frotte les mains[7]
+- Chez eBay UK, on se frotte les mains[7] [A]
 
 [1] http://ticnews.fr/spip.php?article77
 [2] http://www.ob2l.com/
@@ -314,6 +323,8 @@ Category: En vrac
 [5] http://www.w3.org/Consortium/Recruitment/Fellows#openings
 [6] http://www.leblogdebezier.com/?p=87
 [7] http://www.lemonde.fr/web/article/0,1-0@2-3228,36-858553@51-856676,0.html
+
+[A] http://standblog.org/dc-blog/themes/default/smilies/wink.png
 ****************************************
 Feed: Standblog <http://standblog.org/blog/>
 Item: Quote of the day, by Richard Cazenave <http://standblog.org/blog/post/2007/01/24/Quote-of-the-day-by-Richard-Cazenave>
@@ -380,7 +391,7 @@ Category: Mozilla-Europe
 
 Comme chaque année, Mozilla Europe sera au salon Solutions Linux[1], dans le village des associations. Nous seront présents sur le stand avec nos amis de Geckozone[2], XULfr[3] et FrenchMozilla[4] et les membres de la communauté.
 
-Pour ma part, je participerai à la conférence sur Mozilla et XUL[5] le mardi à partir de 14h30, (dont l'entrée est gratuite !) avec plein de beau monde, dont ceux qui participent en France à l'écosystème Mozillien. Mon petit doigt me dit qu'on devrait voir des nouveautés
+Pour ma part, je participerai à la conférence sur Mozilla et XUL[5] le mardi à partir de 14h30, (dont l'entrée est gratuite !) avec plein de beau monde, dont ceux qui participent en France à l'écosystème Mozillien. Mon petit doigt me dit qu'on devrait voir des nouveautés [A]
 
 Je donnerai aussi une conférence le lendemain après midi, dans le cadre du village associatif. Ca sera pour moi l'occasion de faire le point sur le projet Mozilla, Firefox et Mozilla Europe.
 
@@ -392,6 +403,8 @@ Il n'est pas trop tard pour vous pré-inscrire[6] !
 [4] http://frenchmozilla.sourceforge.net/
 [5] http://www.solutionslinux.fr/fr/conferences_detail.php?id_conference=88
 [6] http://www.solutionslinux.fr/fr/visiter_preinscription_fr.php
+
+[A] http://standblog.org/dc-blog/themes/default/smilies/wink.png
 ****************************************
 Feed: Standblog <http://standblog.org/blog/>
 Item: En vrac <http://standblog.org/blog/post/2007/01/22/En-vrac>
@@ -401,14 +414,14 @@ Author: Tristan
 Category: En vrac
 
 - Quand la loi hollandaise sur l'accessibilité favorise le respect des standards[1], via WaSP[2] ;
-- Pas facile de tomber sur un journaliste qui pose les questions qui fâchent à la place de s'empiffrer de petits-fours[3] (quoique, dans le cas présent, je suis à peu certain que les petits fours ont payé pour l'absence de réponse de Jean-François Coppé
+- Pas facile de tomber sur un journaliste qui pose les questions qui fâchent à la place de s'empiffrer de petits-fours[3] (quoique, dans le cas présent, je suis à peu certain que les petits fours ont payé pour l'absence de réponse de Jean-François Coppé [A]
 - 10 ans d'évolution des interfaces web au service de l'expérience utilisateur[4], pour comprendre la différence entre RIA et RDA ;
 - SeaMonkey[5], la version communautaire de la défunte suite Mozilla, vient de sortir en version 1.1[6]. LinuxFR a la liste des nouveautés[7] ;
 - Longue interview de Window Snyder[8] (Chief Security Officer, Mozilla). Elle est bien sûr interrogée sur la différence de processus entre Microsoft (où elle a longuement travaillé) et Mozilla.
 - Je reçois fréquemment des demandes de reprendre la mise en page d'OpenWeb[9], demandes émises par des webmestres en herbe découvrant les standards. J'en profite ici pour faire un lien vers Kits-gratuits[10], un site qui référence des mises en page utilisant les standards du Web, et dont l'utilisation est libre. Si vous avez des travaux à leur soumettre, des *layouts* inutilisés qui traînent au fond de vos tiroirs disques durs, c'est l'occasion de les partager ! (Il y en a 56 actuellement, pour près de 17.000 téléchargements !)
 - L'industrie du disque en plein jeu de pistes[11], un bon papier de Libé où il apparaît que beaucoup de producteurs de disques commencent à réaliser à quel point les DRM sont pénibles. Un représentant de l'industrie électronique se risque à dire la vérité : "Il serait normal que les gens puissent utiliser comme ils le souhaitent les contenus qu'ils ont légalement acquis". Seul le patron de la RIAA (équivalent américain de la SACEM) rame à contre-courant (mais bon, il est payé pour). "Si les majors n'ont jamais semblé aussi proches de se convertir au format ouvert MP3, elles craignent de voir la filière passer sous le contrôle des groupes comme Microsoft ou Apple, détenteurs des technologies de distribution en ligne", écrit Christophe Alix. Tiens, j'ai déjà lu ça quelque part[12] ! ;-) ;
-- Et si l'iPhone tournait sous Linux ?[13]
-- Humour : l'industrie du porno hésite à passer à la haute définition[14], vu que ça révèle les défauts des acteurs et actrices. Solution : maquillage et chirurgie esthétique ! (Merci au *New York Times* pour cet article de fond  )
+- Et si l'iPhone tournait sous Linux ?[13] [B]
+- Humour : l'industrie du porno hésite à passer à la haute définition[14], vu que ça révèle les défauts des acteurs et actrices. Solution : maquillage et chirurgie esthétique ! (Merci au *New York Times* pour cet article de fond [C] )
 - Création de la [Linux Foundation[15], fusion d*'OSDL* et du *Free Standards Group*. Voici le communiqué de presse[16]. Groklaw appuie là où ça fait mal[17] (et fournit un serveur qui tient la route, lui !) ;
 - Très bon billet de Christophe Bardy à propos L'ouverture du PC : le cauchemar de Microsoft et de Vista...[18]. La conclusion fait peur ! Faut-il remettre le PC à plat ?
 
@@ -430,6 +443,10 @@ Category: En vrac
 [16] http://www.linux-foundation.org/wordpress/?p=286
 [17] http://www.groklaw.net/article.php?story=20070122053519523
 [18] http://idg3.typepad.com/infrastructure/2007/01/louverture_du_p.html
+
+[A] http://standblog.org/dc-blog/themes/default/smilies/wink.png
+[B] http://standblog.org/dc-blog/themes/default/smilies/wink.png
+[C] http://standblog.org/dc-blog/themes/default/smilies/wink.png
 ****************************************
 Feed: Standblog <http://standblog.org/blog/>
 Item: DRM de merde ! <http://standblog.org/blog/post/2007/01/22/DRM-de-merde>
@@ -461,7 +478,7 @@ Category: en
 
 Joost is another XULrunner App[1], and many people have already heard about it already, at least in its former name, *The Venice Project*. I'd love to share with my 2 readers a great piece of software I've been told about: MoulinWiki[2]. Moulin[3] is a great tool to spread encyclopedia knowledge to people without Internet connectivity. Very basically, it's an off-line version of Wikipedia with a specific interface, actually based on XULRunner, all running on a CD-ROM.
 
-For now, this public preview (released yesterday) is only available in French, but other versions are in the works, including English, Spanish, Portuguese, Chinese and German. I already have submitted my first RFEs to the team, as I plan to give this CD-ROM to my son Robin (10 years today[1[4]]) so he can read Wikipedia on his old, not connected PC. However, Moulin[5] is meant to be deployed in African schools were there are a few PCs with CD-ROM drives, but without Internet access. There are already places in Mali where Moulin has been deployed[6] ! I love the fact that Mozilla technology is used with Wikipedia content in order to share culture and knowledge in remote places (including my son's desk  )
+For now, this public preview (released yesterday) is only available in French, but other versions are in the works, including English, Spanish, Portuguese, Chinese and German. I already have submitted my first RFEs to the team, as I plan to give this CD-ROM to my son Robin (10 years today[1[4]]) so he can read Wikipedia on his old, not connected PC. However, Moulin[5] is meant to be deployed in African schools were there are a few PCs with CD-ROM drives, but without Internet access. There are already places in Mali where Moulin has been deployed[6] ! I love the fact that Mozilla technology is used with Wikipedia content in order to share culture and knowledge in remote places (including my son's desk [A] )
 
 Notes
 
@@ -474,6 +491,8 @@ Notes
 [5] http://www.moulinwiki.org/
 [6] http://www.moulinwiki.org/moulinwiki-sites/
 [7] http://standblog.org/blog/post/2007/01/22/#rev-pnote-3077-1
+
+[A] http://standblog.org/dc-blog/themes/default/smilies/wink.png
 ****************************************
 Feed: Standblog <http://standblog.org/blog/>
 Item: Actu Microsoft <http://standblog.org/blog/post/2007/01/22/Actu-Microsoft>
@@ -524,10 +543,12 @@ Date: Mon Jan 22 07:41:00 UTC 2007
 Author: Tristan
 Category: Dangers des DRM
 
-On vient de m'envoyer un lien vers un bon papier de Libé, L'industrie du disque en plein jeu de pistes[1]. Il y apparaît que beaucoup de producteurs de disques commencent à réaliser à quel point les DRM sont pénibles. Un représentant de l'industrie électronique se risque à dire la vérité : "Il serait normal que les gens puissent utiliser comme ils le souhaitent les contenus qu'ils ont légalement acquis". Seul le patron de la RIAA (équivalent américain de la SACEM) rame à contre-courant (mais bon, il est payé pour). "Si les majors n'ont jamais semblé aussi proches de se convertir au format ouvert MP3, elles craignent de voir la filière passer sous le contrôle des groupes comme Microsoft ou Apple, détenteurs des technologies de distribution en ligne", écrit Christophe Alix. Tiens, j'ai déjà lu ça quelque part[2] !
+On vient de m'envoyer un lien vers un bon papier de Libé, L'industrie du disque en plein jeu de pistes[1]. Il y apparaît que beaucoup de producteurs de disques commencent à réaliser à quel point les DRM sont pénibles. Un représentant de l'industrie électronique se risque à dire la vérité : "Il serait normal que les gens puissent utiliser comme ils le souhaitent les contenus qu'ils ont légalement acquis". Seul le patron de la RIAA (équivalent américain de la SACEM) rame à contre-courant (mais bon, il est payé pour). "Si les majors n'ont jamais semblé aussi proches de se convertir au format ouvert MP3, elles craignent de voir la filière passer sous le contrôle des groupes comme Microsoft ou Apple, détenteurs des technologies de distribution en ligne", écrit Christophe Alix. Tiens, j'ai déjà lu ça quelque part[2] ! [A]
 
 [1] http://www.liberation.fr/actualite/economie/230039.FR.php
 [2] http://standblog.org/blog/post/2007/01/17/Letonnant-parallele-entre-Frankenstein-et-les-DRM
+
+[A] http://standblog.org/dc-blog/themes/default/smilies/wink.png
 ****************************************
 Feed: Standblog <http://standblog.org/blog/>
 Item: Actu des navigateurs <http://standblog.org/blog/post/2007/01/20/Actu-des-navigateurs>
@@ -585,7 +606,7 @@ Author: Tristan
 Category: En vrac
 
 - Voilà à quoi ressemble parfois la blogosphère dans ce qu'elle a de plus vaniteux...[1] (le dessin, pas le texte). J'ai trouvé ce dessin de Hugh Macleod[2] particulièrement bien vu. Même le texte est bien vu : "21. Il se passe rarement une semaine sans que j'envisage de fermer les commentaires de façon permanente". (via Sam Sethi[3]) ;
-- Chez Netscape, on croit que l'hébergement des DTD est temporaire[4], et ça fait peur
+- Chez Netscape, on croit que l'hébergement des DTD est temporaire[4], et ça fait peur [A]
 - Apparition de nouvelles îles... en Arctique[5], suite au réchauffement climatique. Ces îles étaient auparavant couvertes de glaces. Elles sont maintenant à plusieurs kilomètres au large des cotes du Groenland à cause de la fonte des glaces. L'une de ces îles s'appelle maintenant *Uunartoq Qeqertoq*, ce qui signifie en inuit l'île du réchauffement[6] ;
 - A propos de l'éventuelle collaboration entre la NSA et Microsoft pour Vista[7]. Voilà qui n'est pas sans rappeler la fameuse histoire de la _NSAKEY[8] qui touchait Windows NT 4 SP5. Voilà un problème qui fait que de nombreux gouvernements préfèrent le logiciel Libre...
 - Tiens, pendant qu'on est dans la théorie de la conspiration, 'Live Recherche Actualités' donne des résultats bizarre sur le mot-clé 'Firefox'[9] ;
@@ -608,6 +629,8 @@ Category: En vrac
 [12] http://www.01net.com/article/338948.html
 [13] http://www.zdnet.fr/actualites/internet/0,39020774,39366310,00.htm
 [14] http://tf1.lci.fr/infos/high-tech/0,,3382414,00-mp3-sans-drm-nous-negocions-majors-.html
+
+[A] http://standblog.org/dc-blog/themes/default/smilies/smile.png
 ****************************************
 Feed: Standblog <http://standblog.org/blog/>
 Item: Meilleurs voeux pour 2007 <http://standblog.org/blog/post/2007/01/17/Meilleurs-voeux-pour-2007>
@@ -640,7 +663,7 @@ La politique, en 2007, on ne risque pas d'en manquer, c'est certain. Alors je vo
 
 Humour
 
-Ah, c'est à se demander si ça n'est pas ce qu'il y a de plus important, l'humour. Alors pensez à rire au moins une fois par jour. Moi aussi, je peux y arriver, même si ça prend du temps. D'abord, je vais essayer de rire 10 fois par jour, puis 9 fois par jour. Je finirai par y arriver
+Ah, c'est à se demander si ça n'est pas ce qu'il y a de plus important, l'humour. Alors pensez à rire au moins une fois par jour. Moi aussi, je peux y arriver, même si ça prend du temps. D'abord, je vais essayer de rire 10 fois par jour, puis 9 fois par jour. Je finirai par y arriver [A]
 
 Technologie
 
@@ -662,9 +685,12 @@ Conclusion
 
 Voilà, chers lecteurs, mes voeux pour 2007. Et histoire de faire dans la nouveauté, j'ouvre les commentaires sur ce billet (on verra si l'expérience est concluante). Et vous, que souhaitez vous aux lecteurs du Standblog ?
 
-*Mise à jour : * j'ai du mal à me retenir de pouffer, et vous n'allez pas me croire : j'ai un souci avec DotClear 2 Beta, et je n'arrive pas à ouvrir les commentaires  C'est corrigé. Merci Olivier et Mat !
+*Mise à jour : * j'ai du mal à me retenir de pouffer, et vous n'allez pas me croire : j'ai un souci avec DotClear 2 Beta, et je n'arrive pas à ouvrir les commentaires [B] C'est corrigé. Merci Olivier et Mat !
 
 [1] http://www.lespieds-surterre.com/gestes.htm
+
+[A] http://standblog.org/dc-blog/themes/default/smilies/wink.png
+[B] http://standblog.org/dc-blog/themes/default/smilies/laugh.png
 ****************************************
 Feed: Standblog <http://standblog.org/blog/>
 Item: L'étonnant parallèle entre Frankenstein et les DRM <http://standblog.org/blog/post/2007/01/17/Letonnant-parallele-entre-Frankenstein-et-les-DRM>

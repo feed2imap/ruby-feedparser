@@ -11,17 +11,21 @@ Item: Vincent Noel: I might need some supplies <http://members.cox.net/vnoel/web
 
 Date: Wed Sep 14 20:21:47 UTC 2005
 
-How are you supposed to trust these guys ?
+How are you supposed to trust these guys ?[A]
+
+[A] http://members.cox.net/vnoel/weblog/uploaded_images/Screenshot-Flight%20Details-798819.png
 ****************************************
 Feed: Planète GNOME-FR <http://planete.gnomefr.org/>
 Item: Vincent Noel: nautilus and gworkspace <http://members.cox.net/vnoel/weblog/2005/09/nautilus-and-gworkspace.html>
 
 Date: Wed Sep 14 19:15:01 UTC 2005
 
-Is it my imagination or is nautilus, with every release, getting closer to the interface of GWorkspace[1] ?   [2]
+Is it my imagination or is nautilus, with every release, getting closer to the interface of GWorkspace[1] ? [A] [2]
 Everything is there : the "places" (vertical in nautilus and horizontal in GWorkspace), the path bar (thankfully scaled down, but the idea is the same), the icon/list views... Of course, I guess inspiration mostly comes from the MacOS X rework of GWorkspace, but it's weird to think that this UI has been there for years, just waiting for somebody to pimp it up.
 Now there is just the column view[3] left to implement, and we'll be at 1:1 features ratio (although with good drag-n-drop management the current path bar could replace that view in most of the cases).
 
 [1] http://www.gnustep.it/enrico/gworkspace/
 [2] http://www.gnome.org/~vnoel/screenshots/nautilus_gworkspace.png
 [3] http://actsofvolition.com/images/screenshots/next-column-view.png
+
+[A] http://www.gnome.org/~vnoel/screenshots/nautilus_gworkspace_small.png

@@ -11,7 +11,16 @@ module FeedParser
       @pre = false
       @href = nil
       @links = []
+      @imgs = []
+      @img_index = '@'
       super(verbose)
+    end
+
+    def next_img_index
+      n = @img_index[0] + 1
+      @img_index = " "
+      @img_index[0] = n
+      return @img_index
     end
 
     def handle_data(data)
@@ -63,6 +72,19 @@ module FeedParser
         if @href
           @links << @href.gsub(/^("|'|)(.*)("|')$/,'\2')
         end
+      when 'img'
+        # find src in args
+        src = nil
+        attrs.each do |a|
+          if a[0] == 'src'
+            src = a[1]
+          end
+        end
+        if src
+          idx = next_img_index
+          @imgs << [ idx, src.gsub(/^("|'|)(.*)("|')$/,'\2') ]
+          @savedata << "[#{idx}]"
+        end
       else
 #        puts "unknown tag: #{tag}"
       end
@@ -74,6 +96,12 @@ module FeedParser
         @savedata << "\n\n"
         @links.each_index do |i|
           @savedata << "[#{i+1}] #{@links[i]}\n"
+        end
+      end
+      if @imgs.length > 0
+        @savedata << "\n\n"
+        @imgs.each do |i|
+          @savedata << "[#{i[0]}] #{i[1]}\n"
         end
       end
     end

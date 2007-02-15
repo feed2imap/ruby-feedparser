@@ -122,7 +122,7 @@ Item: Quelques raccourcis <http://www.bouil.org/joueb/entree.html?id=2>
 Date: Wed Mar 31 17:43:49 UTC 2004
 Author: Bouil
 
-Quelques raccourcis sympatiques, que j'oublie sans arrêt�: 	  	  	 C-M-\ 	  	  	 Intente la région selectionnée du buffer courant. 	  	  	 M-/ 	  	  	 Complète le mot courant à partir des mots déjà écrits dans les buffers ouverts.
+Quelques raccourcis sympatiques, que j'oublie sans arrêt�: C-M-\ Intente la région selectionnée du buffer courant. M-/ Complète le mot courant à partir des mots déjà écrits dans les buffers ouverts.
 ****************************************
 Feed: Le Joueb de Bouil (La reta ĵournalo de Buj) <http://www.bouil.org/joueb/blog.html>
 Item: Détacher un processus d'un terminal <http://www.bouil.org/joueb/entree.html?id=1>
@@ -130,7 +130,7 @@ Item: Détacher un processus d'un terminal <http://www.bouil.org/joueb/entree.ht
 Date: Wed Mar 31 17:42:50 UTC 2004
 Author: Bouil
 
-Pour détacher un processus d'un terminal, c'est à dire que la commande ne se termine pas lorsque le terminal est fermé�: 	
+Pour détacher un processus d'un terminal, c'est à dire que la commande ne se termine pas lorsque le terminal est fermé�: 
 
-	  	 $ commande &
-	 $ disown
+ $ commande &
+ $ disown

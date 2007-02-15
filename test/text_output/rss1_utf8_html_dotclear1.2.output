@@ -53,6 +53,7 @@ A présent, le générateur de panel gère le champs 'description' du RSS ... De
 En plus d'afficher les titres du RSS (avec un style different si le lien a deja été cliqué ou non), ces meme titre peuvent se "déplier" pour faire apparaitre la descripion associé (l'article entier, ou un extrait suivant les flux RSS).
 Si le RSS ne contient pas de champs description (généralement le cas avec les RDF), le titre est directement cliquable.
 Si le RSS contient un champs description, il faudra cliquer sur le titre, puis sur la description pour aller sur le site.
+[A]
 
 La validation XHTML1.1 est passé sans problème (il y avait 2-3 GROS bug de debutant dans la premiere version :/)
 
@@ -60,6 +61,8 @@ Amusez-vous bien, et n'hésitez pas à me remonter des RSS interessant :)
 
 *NB*: Il semble qu'il y ai un pb de parse pour linuxfr.org ... il semblerait qu'il manque <![CDATA[ pour encadrer la 'description', afin que les balises HTML passent correctement, au lieu d'arreter le parsing.
 *NB2*: Ca ne passe plus la validation XHTML1.1, car j'ai du ajouter un attribut target au lien pour que ceux-ci s'ouvre bien dans la partie principal du browser et non dans la sidebar (Vu sur Mozilla 1.6 et 1.7B, mais fonctionnait 'normalement' sur FireBird0.8... a moins que ce ne soit FireFird le mauvais élève ;) )
+
+[A] http://alexx.ikse.org/dotclear/images/blog1.png
 ****************************************
 Feed: Alexx'Blog <http://alexx.ikse.org/blog>
 Item: IE respecte les normes W3C les plus récentes <http://alexx.ikse.org/blog?2004/03/24/4-ie-respecte-les-normes-w3c-les-plus-recentes>

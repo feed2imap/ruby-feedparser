@@ -19,6 +19,8 @@ class String
     text.gsub!(/\n */m, "\n")
     # and duplicates \n
     text.gsub!(/\n\n+/m, "\n\n")
+    # and remove duplicated whitespace
+    text.gsub!(/[ \t]+/, ' ')
     text
   end
 end

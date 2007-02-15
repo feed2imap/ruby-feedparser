@@ -78,6 +78,8 @@ Angela's Ashes[9], very much an inspiration for later films like Billy Elliot[10
 
 I also took some time to get DAAP sharing working with Rhythmbox, thanks ish[12] for the work, I can now stream good music over the waves. Some more g-p-m[13] love, and we might be ready for another release soon.
 
+[A]
+
 /Can England fail to play in that nice weather?/
 
 [1] http://www.imdb.com/title/tt0364569/
@@ -93,6 +95,8 @@ I also took some time to get DAAP sharing working with Rhythmbox, thanks ish[12]
 [11] http://www.imdb.com/title/tt0298845/
 [12] http://ishamael.tunkeymicket.com/
 [13] http://usefulinc.com/software/phonemgr
+
+[A] http://www.bbc.co.uk/weather/images/symbols/fiveday_sym/3.gif
 ****************************************
 Feed: Bastien's Blog <http://hadess.net>
 Item: McGratthie's on a roll <http://hadess.net/?start=572>
@@ -102,14 +106,21 @@ Author: Bastien Nocera
 
 He got the 10 wickets out yesterday already! (Cricket lovers, don't despair, it's a private joke).
 
+[A]
+
 /Since Fluendo[1]'s inception, xine lovers have gone underground/
 
 Breakthrough in gnome-phone-manager[2] hacking. No need for a phone, I can have a dummy one! Implemented the dummy backend, which allowed me to fix one bug, and reproduce another one. Now to bug Ross about the contact-lookup-applet's widget disabling itself when there's no completion in Evolution, and waiting for a restart to enable itself.
+
+[B]
 
 /No, Alan Cox isn't the Creeper, he just plays in it/
 
 [1] http://www.fluendo.com
 [2] http://usefulinc.com/software/phonemgr/
+
+[A] http://hadess.net/blog/images/30-08-05_2210.jpg
+[B] http://hadess.net/blog/images/07-09-05_1930.jpg
 ****************************************
 Feed: Bastien's Blog <http://hadess.net>
 Item: It's all about timing <http://hadess.net/?start=571>
@@ -118,6 +129,8 @@ Date: Tue Sep 06 20:06:18 UTC 2005
 Author: Bastien Nocera
 
 And time! It's about time that I finish blogging about my trip to Barcelona[1]. Day 4, nice, got to visit the Sagrada Familia[2]. Very nice, convoluted, interweaved, and really overdone. After that, it all goes downhill.
+
+[A]
 
 /Over-engineered/
 
@@ -148,6 +161,8 @@ Watched Spaceballs[8] (full of one-liners, but was certainly more entertaining t
 [9] http://www.imdb.com/title/tt0386588/
 [10] http://blogs.gnome.org/view/uraeus/2005/08/27/0
 [11] http://www.linuxrising.org/screenshots/rootbert.png
+
+[A] http://hadess.net/files/photos/Barcelona_2005_day_4/lq/img-2.jpg
 ****************************************
 Feed: Bastien's Blog <http://hadess.net>
 Item: Ouch <http://hadess.net/?start=570>
@@ -167,13 +182,19 @@ After my problems with plane tickets, I still managed to make it to sunny Bacelo
 
 I started my integration on Sunday, when after a few sips at a beach bar, we headed to an Irish pub, to watch Newcastle v. ManU[2]. My home studies (read: the FIFA tournament on Friday evenings) came to use when I called Luque a /Tronco/, and the barkeep laughed. Headed towards a Thai restaurant (the original plan having failed, see below).
 
+[A]
+
 /Totum, not Totem, and it was closed. So close Andy.../
 
 Next day, woke up late, tried to go to the Picasso museum. Closed on Mondays. My debit card to buy a /Metro/ travelcard, nearly eaten by the machine (saved by the keys, McGyver-style). Instead, I hung out at the Fluendo[3] offices, and made a trip to the aquarium. I couldn't find how to disable the flash on my damn camera, so ended up taking only one picture. The other picture I got was from me standing next to a guy in a shark suit. It's like Disneyland in Catalan.
 
+[B]
+
 /Not a nudie booth/
 
 Yesterday evening, we went to a Mexican (apparently a bad one, it wasn't actually so bad), and then to see La Isla[4]. I found the film really bad, and Thomas not so much. I guess Thomas has the culinary taste, and I have the film one.
+
+[C]
 
 /Well high/
 
@@ -185,6 +206,10 @@ Another couple of days still, so it's going to be fun. Much thanks to Christian 
 [2] http://news.bbc.co.uk/sport1/hi/football/eng_prem/4168930.stm
 [3] http://fluendo.com
 [4] http://imdb.com/title/tt0399201/
+
+[A] http://hadess.net/files/photos/Barcelona_2005_day_3/lq/img-5.jpg
+[B] http://hadess.net/files/photos/Barcelona_2005_day_3/lq/img-21.jpg
+[C] http://hadess.net/files/photos/Barcelona_2005_day_3/lq/img-24.jpg
 ****************************************
 Feed: Bastien's Blog <http://hadess.net>
 Item: I hate booking plane tickets <http://hadess.net/?start=568>
