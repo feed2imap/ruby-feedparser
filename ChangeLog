@@ -1,7 +1,9 @@
 Ruby-Feedparser 0.4 (XX/XX/XXXX)
 ================================
+* Date was not fetched for blogspot's atom feeds.
+  Patch from Jason Ling <jason.ling@jeyel.com>.
 * Tests are now timezone-friendly. (closes GNA bug #8145).
-* Nicer text output.
+* Much nicer text output.
 
 Ruby-Feedparser 0.3 (01/12/2006)
 ================================
