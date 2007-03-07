@@ -171,7 +171,7 @@ module FeedParser
           e.text)  ||
           ((e = item.elements['pubDate'] || item.elements['rss:pubDate']) &&
            e.text)
-        @title = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
+        @title = e.text.unescape_html.toUTF8(@feed.encoding).html2text.rmWhiteSpace!
       end
       # Link
       if ((e = item.elements['link'] || item.elements['rss:link']) && e.text)||
@@ -231,7 +231,7 @@ module FeedParser
     def parse(item)
       # Title
       if (e = item.elements['title']) && e.text
-        @title = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
+        @title = e.text.unescape_html.toUTF8(@feed.encoding).html2text.rmWhiteSpace!
       end
       # Link
       item.each_element('link') do |e|
