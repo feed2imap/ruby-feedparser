@@ -1,5 +1,6 @@
-Ruby-Feedparser 0.4 (XX/XX/XXXX)
+Ruby-Feedparser 0.4 (01/05/2007)
 ================================
+* Fixed a problem with html entities in the items' titles.
 * Date was not fetched for blogspot's atom feeds.
   Patch from Jason Ling <jason.ling@jeyel.com>.
 * Tests are now timezone-friendly. (closes GNA bug #8145).
