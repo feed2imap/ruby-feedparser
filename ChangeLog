@@ -1,4 +1,4 @@
-Ruby-Feedparser 0.5 (01/05/2007)
+Ruby-Feedparser 0.5 (XX/XX/2007)
 ================================
 * Fixed a bug with items with both non-escaped and escaped HTML. Reported,
   then patch provided by Gregory Hartman <gghartma@cs.cmu.edu>.
