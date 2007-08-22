@@ -1,0 +1,1370 @@
+Type: rss
+Encoding: UTF-8
+Title: Planet Debian
+Link: http://planet.debian.org/
+Description: Planet Debian - http://planet.debian.org/
+Creator: 
+
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Peter Makholm: On handling email <http://peter.makholm.net/2007/08/21/on-handling-email/>
+
+Date: Tue Aug 21 17:47:54 UTC 2007
+
+Watching the popular Inbox Zero[1] video would probally improve my email handling skills better. But this took less time and I wanted to play around with Net::XMPP;
+
+#!/usr/bin/perl -l
+
+use warnings;
+use strict;
+
+use Config::Simple;
+use Linux::Inotify2;
+use Email::Abstract;
+use Net::XMPP; # aka Jabber and Gtalk
+use POSIX;
+
+my $DEBUG = 0;
+
+our %config;
+Config::Simple->import_from("$ENV{HOME}/.mailnotifyrc", %config);
+
+deamonize() unless $DEBUG;
+
+my $inotify = new Linux::Inotify2
+or die "Unable to create new inotify object: $!";
+
+# Different Maildir implementations triggers different events"
+# IN_MOVED_TO: rename("tmp/file","new/file")
+# IN_CREATE: link("tmp/file", "new/file") && unlink("tmp/file")
+#
+# At this point the file should be written and closed.
+$inotify->watch("$config{Maildir}/new", IN_MOVED_TO|IN_CREATE, sub {
+my $e = shift;
+my ($fh, $xmpp, $email, $message);
+
+debug('Got event for ' . $e->fullname);
+
+open $fh, "<", $e->fullname;
+$email = new Email::Abstract join("", <$fh>);
+close $fh;
+
+$message = 'Mail from ' . $email->get_header('From') .
+' concerning "' . $email->get_header('Subject') .'"';
+
+debug("Getting ready to send [$message]");
+
+my $sender = new Net::XMPP::JID ($config{Sender});
+my $receiver = new Net::XMPP::JID ($config{Receiver});
+$xmpp = new Net::XMPP::Client();
+$xmpp->Connect( hostname => $sender->GetServer,
+port => $config{port} || 5222,
+tls => $config{usetls} || 0,
+);
+$xmpp->AuthSend( username => $sender->GetUserID,
+password => $config{password},
+resource => $sender->GetResource || 'mailnotify',
+);
+
+$xmpp->MessageSend( to => $receiver,
+type => $config{MessageType} || 'chat',
+body => $message,
+);
+
+$xmpp->Process(1);
+$xmpp->Disconnect;
+
+debug("Event done");
+});
+
+1 while $inotify->poll;
+
+sub deamonize {
+my $pid = fork();
+
+if ($pid) {
+exit 0;
+}
+
+### close all input/output and separate
+### from the parent process group
+open STDIN, '</dev/null' or die "Can't open STDIN from /dev/null: [$!]n";
+open STDOUT, '>/dev/null' or die "Can't open STDOUT to /dev/null: [$!]n";
+open STDERR, '>&STDOUT' or die "Can't open STDERR to STDOUT: [$!]n";
+
+### Change to root dir to avoid locking a mounted file system
+### does this mean to be chroot ?
+chdir '/' or die "Can't chdir to \"/\": [$!]";
+
+### Turn process into session leader, and ensure no controlling terminal
+POSIX::setsid();
+}
+
+sub debug { return unless $DEBUG; print STDERR for @_; }
+
+__END__
+
+[1] http://video.google.com/videoplay?docid=973149761529535925
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Miriam Ruiz: PiX Frogger: help the frog cross the street <http://www.miriamruiz.es/weblog/?p=99>
+
+Date: Tue Aug 21 17:25:22 UTC 2007
+
+Does the name “Frogger[1]” ring a bell? Introduced in 1981[2], developed by Konami[3] and distributed by Sega[4]/Gremlin[5], it’s one of the most classic from the earliest ages of computer videogames.
+
+PiX Frogger[6] is a clone of the classic game Frogger, in which you must help a frog cross the street to avoid becoming roadkill by cars and trucks. The frog starts at the bottom of the screen and the only control the player has is navigating the direction for the frog to hop. The game allows 4 players playing simultaneously with the keyboard.
+
+PIX Frogger is on the way[7]. Implemented in Fénix[8], an interpreted script programming language, specially[9] designed to developing and running 2D games and added to Debian repositories[10] some weeks ago, it has really cute graphics and the visual layout has been nicely taken care of. The game in itself is quite simple, so it shouldn’t be hard for smaller kids to play, especially when they can compete against each other 4 at a time.
+
+For more grown-ups, I guess it’s so cool to have a version in Debian from this historical game. I’m sure many people missed it. I hope it enters the repositories soon, but meanwhile you can get it from here[11]. Thake care while crossing the street, though.
+
+[1] http://en.wikipedia.org/wiki/Frogger
+[2] http://en.wikipedia.org/wiki/1981
+[3] http://en.wikipedia.org/wiki/Konami
+[4] http://en.wikipedia.org/wiki/Sega
+[5] http://en.wikipedia.org/wiki/Gremlin_Industries
+[6] http://www.pixjuegos.com/?q=node/30
+[7] http://ftp-master.debian.org/new.html
+[8] http://fenix.divsite.net/
+[9] http://englishplus.com/grammar/00000287.htm
+[10] http://packages.debian.org/fenix
+[11] http://users.alioth.debian.org/~baby-guest/fenix/
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Martin F. Krafft: If you procmail, read this <http://blog.madduck.net/geek/2007.08.21_if-you-procmail-read-this.xhtml>
+
+Date: Tue Aug 21 16:43:00 UTC 2007
+
+I just had a hard time finding this excellent procmail resource[1] on the web. I am thus blogging it for posterity, in case anyone is looking for procmail documentation, tips, tricks, a how-to, or anything else related to procmail.
+
+And if you procmail and have not read the document, I suggest you do. It's truly outstanding.
+
+NP: A Silver Mt. Zion[2]: *He Has Left us Alone, but Shafts of Light Sometimes Grace the Corner of our Rooms*
+
+[1] http://pm-doc.sourceforge.net/pm-tips.html
+[2] http://www.allmusic.com/cg/amg.dll?SQL=A%20Silver%20Mt.%20Zion&amp;P=amg&amp;OPT1=1
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Raphaël Hertzog: Deprecating cvs.debian.org in favor of Alioth <http://www.ouaza.com/wp/2007/08/21/deprecating-cvsdebianorg-in-favor-of-alioth/>
+
+Date: Tue Aug 21 14:00:37 UTC 2007
+
+It’s very difficult to discuss with DSA and make things evolve if none of the DSA member express an interest in something related to your goal: here comes an example of a story like another in my desperate quest to try to help the DSA team. [A]
+
+Last time gluck ran out of space, a few non-DSA people (me, taggart, Ganneff, and others I might have forgotten) contacted people to ask them to clean their home directories. Following that discussion we discussed a bit about the opportunity to move some services from gluck on another host. Among the services on gluck, there’s cvs.debian.org. As an Alioth administrator, it struck me that cvs.debian.org is the only VCS service that’s handled by the DSA team. It seems logical to not duplicate the administrative work and have all the VCS repositories handled by the same team.
+
+The logical conclusion is that cvs.debian.org should be deprecated in favor of Alioth. So I made the suggestion in RT ticket #146[1] (login with guest/readonly). I got exactly zero response from DSA. No support and no opposition. So I went ahead and contacted the last users of cvs.debian.org:
+
+- webwml: the website team[2]
+- debian-doc: the Debian documentation project[3]
+- debian-admin: the DSA team (this was already suggested in April this year in ticket #44[4], no response of course… except elmo saying me that he’s in favor. On IRC I also discovered that neuro doesn’t like bzr and is thus not in favor of such a move. Furthermore he visibly wants to keep control on userdir-ldap, thus he probably has not much interest in moving to a distributed system.)
+- buildd: the Packages-arch-specific[5] file is maintained in the dak cvs…
+
+All in all, the debian-doc and debian-www folks are rather supportive of the move, but it requires adjustment to the build infrastructure, in particular to keep track of the status of translations. I have no answer from DSA and the buildd guys however.
+
+The web team started a wiki page[6] to evaluate the VCS that they would switch to. Volunteers would be welcome to organize the conversion of the repositories and to fix the build infrastructure accordingly. This a nice little project for new contributors that want to learn. [B]
+
+[1] https://rt.debian.org/Ticket/Display.html?id=146
+[2] http://lists.debian.org/debian-www/2007/08/msg00077.html
+[3] http://lists.debian.org/debian-doc/2007/08/msg00122.html
+[4] https://rt.debian.org/Ticket/Display.html?id=44
+[5] http://cvs.debian.org/srcdep/?root=dak
+[6] http://wiki.debian.org/WebsiteVCSEvaluation
+
+[A] http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif
+[B] http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Joey Schulze: PowerPC PReP Machines <http://www.infodrom.org/~joey/log/?200708211534>
+
+Date: Tue Aug 21 13:34:00 UTC 2007
+
+What to do with nice PowerPC PReP machines? The PReP sub-architecture is not supported by the Linux kernel anymore and thus not in Debian either. Therefore, such machines can not exactly be used anymore, until somebody speaks up and revives the port.
+
+Unfortunately, Debian's PowerPC developer machine is a nice Motorola Powerstack II Pro4000 machine. This means that we currently don't have a working sid (and lenny) development environment. Looks like maybe it's time to check out alternatives.
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Theodore Ts'o: Thoughts about the Palm Foleo <http://tytso.livejournal.com/30229.html>
+
+Date: Tue Aug 21 11:09:16 UTC 2007
+
+I looked at the Foleo and played with one while I was at Linux World a few weeks ago, but it is so restrictive in what it can do that I was completely unimpressed.
+
+First of all, according to one of the people at the booth, it will only work with a select set of Treo's; mostly the newer ones. A colleague I was with had just gotten a Treo 650, and the person at the booth said that it wouldn't work with that model of Treo. (WTF?) Furthermore, it will only do e-mail (POP or IMAP) by linking with the Treo over bluetooth connection and letting the Treo pull down the e-mail and store it on the Treo. Given that it only has 128 megs of RAM and 256 megs of Flash, it just doesn't have enough storage apparently to run a stand-alone e-mail application, which is a little bit scary. The limited amount of memory is probably why it is using Opera as a web browser, which previous experience on the N800 has largely unimpressed me in terms of compatibility with Web 2.0 sites that aggressively use AJAX or flash.
+
+So OK, it's not supposed to be a laptop. But the problem is, for 0.2 pounds more, I can /get/ a laptop. Let's review the critical statistics, shall we? The Foleo costs $499, weighs 2.5 pounds, and has a size of 10.5" by 6.7" by 0.9". As stated before it has 128 megs of RAM and 256 megs of flash, with a SD slot for expansion purposes, and it has a claimed 5-6 hours of battery life. But let's compare that with my IBM X41 which I recently purchased off of eBay for $800. It has 1.5 gigs of memory, and 60 gigs of hard disk. It has two batteries; with the 4 cell battery it weighs 2.7 pounds and delivers 2 hours of battery life, and with the 8 cell battery it weighs 3.2 pounds and delivers 4 hours of battery life. So true, even with the 8 cell battery the X41 is 1.7 pounds heavier and still has slightly less battery life. But you can do a lot more with the X41! Furthermore, the Foleo's weight advantage is somewhat nullified by the fact that you have to bring the Treo around to do certain activities, and the Treo has to be powered on since the Foleo is mostly designed around being a remote large screen for the Treo.
+
+At the end of the day it's all about tradeoffs. Perhaps if enough companies created enough killer apps that could fit in 128 meg of ram for the Foleo, it might be useful enough to justifying buying it. I hear for example, that even though the Foleo doesn't have any kind of PIM functionality, a 3rd party ISV is planning on making a product available that will provide calendar and contact functionality that can sync Palm PDA's. No word on how much it will cost or how usable it will be, but with enough applications, maybe Foleo could be useful enough to justify its size/weight. I imagine that these apps will probably be commercial ones, since open source apps like Evolution will probably have difficulty fitting in the Foleo's constrained environment. :-)
+
+And, of course, it's a lot cheaper than my used X41 laptop, never mind a brand-new Lenovo X61s, which could run 2 or 3 kilobucks fully outfitted with the 4 gigs of memory and 160 gig/7200 rpm drive. However, as a road warrior, my priorities are not just weight, but functionality. A 2.5 pound solid-state laptop with only 128 megs of memory which massively restricts what I can do is not a good use of the space in my laptop bag. What I'm waiting for is the next generation of the Thinkpad X series which has a solid state disk --- which shouldn't be that far off --- and the elimination of the spinning magnetic media would mean that we should have something with Foleo's battery life without the Foleo's limited usefulness. Sure, maybe I will need to wait another year or two for my perfect laptop (12", 1024x768 LED display, at least 60 gigs solid state disk, at least 2-4 gigs memory, Intel core 2 or follow-on processor, < 3 pounds, > 5 hours useful lifetime) to become available, but the technology to do this exists today; it's just a matter of making it affordable. But given that kind of long-term future, I'm willing to settle for now with either 2 or 4 hour battery life, and a slightly heavier laptop, than to use something today with a desperately slow ARM processor and only 128 megs of memory. The weight/size savings and the increased battery life of the Foleo isn't a fair tradeoff given its very limited capabilities.
+
+This is all really too bad, because if Palm is counting on the Foleo to allow it to succeed, I think the concept has some massive shortcomings, much like their claimed LifeDrive product, which didn't last very long. And I really like the Palm company; I *still* haven't found better PDA functionality on a decade-old Palm design compared to what is available on all of the Nokia phones I've looked at, the WinCE phones/PDA's, the N800, etc. So I want Palm as a company to stick around. But with Treo getting eclipsed by newer smart phones, and the Foleo not getting particularly good buzz by folks reviewing it --- and after I played with it, I have to agree with the majority of the reviewers that this is not the Next Big Thing --- I'm not sure how much longer Palm is going to be around.
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Jordi Mallach: Inbox Zero <http://oskuro.net/blog/stuff/inbox-zero-2007-08-21-12-26>
+
+Date: Tue Aug 21 10:26:00 UTC 2007
+
+jordi@nubol:~$ countmail
+SIX THOUSAND ONE HUNDRED EIGHTY-FOUR!
+
+SIX THOUSAND ONE HUNDRED EIGHTY-FOUR MAIL MESSAGES!
+
+HAHAHAHAHA!
+
+I'll watch the talk[1] this evening.
+
+[1] http://video.google.com/videoplay?docid=973149761529535925
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Joey Schulze: Interview <http://www.infodrom.org/~joey/log/?200708211222>
+
+Date: Tue Aug 21 10:22:00 UTC 2007
+
+Last week I gave an interview for Antennetux[1], a non-commercial radio station targeting regional and Internet users. We spoke about the Debian project and the Debian GNU/Linux distribution with special attention to the current etch[2] release. The broadcast intends to provide listeners with some insight into Free Software and Debian in particular.
+
+The final broadcast will be available in September on the station's website. There are also plans to broadcast it via radio as well. There will also be an installation party in October during which the radio people and Münster user group will install GNU/Linux on visitors machines.
+
+[1] http://www.antennetux.de/
+[2] http://www.debian.org/releases/etch/
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Ross Burton: OpenMoko <http://www.burtonini.com/blog/computers/openmoko-2007-08-21-10-30>
+
+Date: Tue Aug 21 09:30:00 UTC 2007
+
+Sean Moss-Pultz from OpenMoko announces the new interface[1]: We went back to the drawing board with OpenedHand -- lead by their vast experience with GTK+, Matchbox, and mobile user interfaces -- and redesigned an incredibly promising new interface.
+
+I finally got my hands on a GTA01 last week, which was promptly flashed with the latest software. The new interface is pretty damn cool, with smooth colours, clear icons and subtle gradients. I'm sure Thomas will blog with more details and screenshots at some point.
+
+[1] http://lists.openmoko.org/pipermail/announce/2007-August/000018.html
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Ross Burton: Postr 0.8 <http://www.burtonini.com/blog/computers/postr/postr-2007-08-21-10-10>
+
+Date: Tue Aug 21 09:10:00 UTC 2007
+
+Finally, a new Postr release. Nothing amazing here, just some internal refactoring and better error handling. If an error occurs when talking to Flickr a dialog box will popup, which will help a great deal.
+
+The tarball is here[1], and packages for Debian/Ubuntu are building now.
+
+NP: Sleep, DJ Olive
+
+[1] http://burtonini.com/computing/postr-0.8.tar.gz
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Russell Coker: When to Use SE Linux <http://etbe.coker.com.au/2007/08/21/when-to-use-se-linux/>
+
+Date: Tue Aug 21 09:00:07 UTC 2007
+
+Recently someone asked on IRC whether they should use SE Linux on a web server machine (that is being used for no other purpose) and then went on to add “*since the webserver is installed as root anyway*“.
+
+If a machine is used to run a single non-root application then the potential benefits of using SE Linux are significantly reduced, the issue will be whether the application could exploit a setuid program to gain root access if SE Linux was not there to prevent it.
+
+The interesting point in this case is that the user notes that the webserver runs as root. It was not made clear whether the entire service ran as root or whether the parent ran as root while child processes ran as a different UID (a typical Apache configuration). In the case where the child processes run as non-root it is still potentially possible for a bug in Apache to be used to exploit the parent process and assume it’s privileges. So it’s reasonable to consider that SE Linux will protect the integrity of the base OS from a web server running as root - even for the most basic configuration (without cgi-bin scripts). If a root owned process that is confined by SE Linux is compromised then as long as there is no kernel vulnerability the base OS should keep it’s integrity and the sys-admin should be able to login and discover what happened.
+
+If the web server is more complex and runs cgi-bin scripts then there is a further benefit for system integrity in that a cgi-bin script could be compromised but the main Apache process (which runs in a different domain) would run without interruption.
+
+When a daemon that runs as non-root is cracked on a non-SE system it will have the ability to execute setuid programs - some of which may have exploitable bugs. Also on a non-SE system every daemon has unrestricted network access in a typical configuration (there is a Net Filter module to control access by UID and GID, but it is very rarely used and won’t work in the case of multiple programs running with the same UID/GID). With SE Linux a non-root daemon will usually have no access to run setuid programs (and if it can run them it will be without a domain transition so they gain no extra privileges). Also SE Linux permits controls over which network ports an application may talk to. So the ability of a compromised server process to attack other programs is significantly reduced on a SE Linux system.
+
+In summary the more complex your installation is and the more privileges that are required by various server processes the more potential there is to increase the security of your system by using SE Linux. But even on a simple server running only a single daemon as non-root there is potential for SE Linux to provide real benefits to system security.
+
+Share This[1]
+
+[1] http://etbe.coker.com.au/?p=361&amp;akst_action=share-this
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: David Welton: Hecl interview <http://journal.dedasys.com/articles/2007/08/21/hecl-interview>
+
+Date: Tue Aug 21 08:52:00 UTC 2007
+
+Roger Binkley, leader of Sun's Mobile and Embedded[1] community, interviewed me after my talk at OSCON. It went ok, given how tired I was:
+
+http://today.java.net/pub/a/today/2007/08/20/javamobility-podcast16.html[2]
+
+[1] http://community.java.net/mobileandembedded/
+[2] http://today.java.net/pub/a/today/2007/08/20/javamobility-podcast16.html
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Matt Brubeck: 21 Aug 2007 <http://www.advogato.org/person/mbrubeck/diary.html?start=102>
+
+Date: Tue Aug 21 05:57:59 UTC 2007
+
+*Problems for shared desktop computers.*
+
+I share a home desktop computer with my wife. Our computer use is probably pretty typical of a home computer shared between a small number of users, where only one user is logged in at a time, and users have some shared files and some private files.
+
+I've found many things that don't work as well as they could in this situation. We use Gnome on Debian GNU/Linux, but most other desktops have similar problems. I know fixes or workarounds for most of the problems below, but novice users would probably have a hard time finding them.
+
+Some of the problems below are relatively easy to fix. Most already have bugs filed in the appropriate places, and some already have patches available. A few problems may require hard work or fundamental design changes to solve. Here is the complete list of problems:
+
+User Switching:
+
+- If I select my name from FUSA while I'm not already logged in, GDM appears and I have to type my username. (The username should be filled in automatically.)
+- When GDM is started by FUSA, the X server has slightly settings, causing the fonts on the login screen to be a different size than my normal settings.
+- When I log out, I am taken either to a login screen or to another user's session, depending on the order in which users originally logged in. This is arbitrary and unpredictable.
+- If I switch to another user, my screen is locked. Later, if the computer is displaying a login screen and I type my username and password, I need to type my password a second time to unlock the screen.
+- When I shut down the computer, it does not warn me if other users are still logged in.
+
+Filesystem:
+
+- By default, users can read all of each other's files, and write to none of each other's files (umask 0002). This is a reasonably sensible default, but most users on shared systems will want to change this to some degree.
+- It's very difficult for a user to change which other users can read which of her files. (Some strategies include making some or all files world writeable; adding the other users to her primary group; creating a new shared group and a share setgid directory owned by that group; changing her umask; and/or manually changing permissions of individual files.)
+- There is no good location by default for shared files. Various programs complain (correctly) about insecurity if my home directory is group-writeable, so I must create a world- or group-writeable (and setgid) directory elsewhere.
+- Copying from other locations, or using programs that do not respect umask, can cause users to inadvertently put non-group-writeable files in shared setgid directories. Other users of the shared directory have no easy way to fix this.
+- Some programs modify permissions or groups of files when overwriting them. (Usually this happens if the program moves the original file to a backup location, then writes a new version using the default settings instead of the original file's settings.)
+
+Application data:
+
+- Applications that maintain a database of files (e.g. photo managers, music players) must be updated for each user when one user adds new files to a shared directory. For example, when I rip a CD to our shared music directory, my wife can't see the songs in her music player until she adds the new files to her database.
+- Applications that store their data in hard-coded locations in user home directories (e.g. Tomboy, Miro) can't share files between users. There is no setting or permission that will let my wife open Tomboy and view my Tomboy notes, for example.
+
+Installing software:
+
+- When I install software using the system admin tools, it changes the application menu for all other users too.
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Manoj Srivastava: Arch Hook <http://www.golden-gryphon.com/blog/manoj//blog/2007/08/21/Arch_Hook.html>
+
+Date: Tue Aug 21 05:19:11 UTC 2007
+
+All the version control systems I am familiar with run scripts on checkout and commit to take additional site specific actions, and arch is no different. Well, actually, arch is perhaps different in the sense that arch runs a script on almost *all* actions, namely, ~/.arch-params/hook script. Enough information is passed in to make this mechanism one of the most flexible I have had the pleasure to work with.
+
+In my hook[1] script, I do the following things:
+
+- On a commit, or an initial import
+
+- For my publicly replicated repositories (and only for my public repositories), the script creates a full source tree in the repository for every 20th commit. This can speed up subsequent calls to get for that and subsequent revisions, since users do not have to get the base version and all patches.
+- For the public repositories, the script removes older cached versions, keeping two cached versions in place. I assume there is not much demand for versions more than 40 patches out of date; and so having to download a few extra patches in that uncommon case is not a big issue.
+- If it is an ikiwiki commit, the script makes sure that it updates the checked out sources of the wiki on the webserver, and rebuilds the wiki.
+- If this is a commit to an archive for which I have a corresponding -MIRROR defined, the script updates the mirror now, and logs an informational message to the screen.
+- There is special handling for my Debian packages.
+
+- If the category matches one of my packages, the script looks to see if any bugs have been closed in this commit, and, if so, sends the log to the bug, and tags it fixed.
+- If the category being checked in is one that corresponds to one of my Debian packages, or to the ./debian directory that belongs to one of my packages, then the script sends a cleaned up change log by mail to the *packages.qa.debian.org*. People can subscribe to the mailing list setup for each package to get commit logs, if they so desire.
+- Arch has the concept of a grab file, and people can get all the components of a software package by just feeding arch either the grab file (either locally, or via a http URL). The script makes sure that a arch config file is created , as well as a grab file (using the script arch_create_config[2]), and uploads the grab file to to a public location (using the script arch_upload_grab[3]) mentioned in ./debian/control for all my packages.
+- For commits to the Debian policy package, the script also sends mail to the policy list with full commit logs. This is a group maintained package, so changes to this are disseminated slightly more volubly.
+- Whenever a new category, branch, or version is added to the repository corresponding to the Debian policy package, the script sends mail to the policy list. Again, changes to the Policy repository are fairly visible.
+
+- The scripts send myself mail, for archival purposes, whenever a new category or branch is created in any of my repositories (but not for every revision).
+- Additional action is taken to ensure that versions are cached in the local revision library. I am no longer sure if this is strictly needed.
+
+I’d be happy to hear about what other people add to their commit scripts, to see if I have missed out on anything.
+
+[1] http://www.golden-gryphon.com/blog/manoj///software/misc/hook.html
+[2] http://www.golden-gryphon.com/blog/manoj///software/misc/arch_create_config.html
+[3] http://www.golden-gryphon.com/blog/manoj///software/misc/arch_upload_grab.html
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Ian Wienand: On incorrectly utilising "utilising" <http://www.technovelty.org/code/badcode/utilising.html>
+
+Date: Tue Aug 21 00:19:00 UTC 2007
+
+My supervisor pointed out a very annoying habit I had formed when writing technical documents, best summed up below:
+
+"It would be difficult to find a page of governmental, military, or academic writing that doesn't have on it the word utilize. It must be one of the most over-utilized words in the world. It seems as though people out to impress people with the significance of what they're doing use utilize when they should use use.
+
+Utilize is not an elegant variation of the word use; it has its own distinct meaning. When you utilize something, you make do with something not normally used for the purpose, e.g., you utilize a dime when the bloody screwdriver is nowhere to be found. If the screwdriver were there, you'd use it, not utilize a stupid dime for the purpose. Use use when you mean use, and utilize only when it's properly used to mean--to use something not normally used. The computer went off-line, so they utilized Mr. Wang's abacus, the one he liked to use. Despite the temporary breakdown, the computer's use-rate was up (not its utilization-rate)."
+
+/Cheney, "Getting the words right" (1983)/
+
+You will now probably notice this subtle verbiage in most everything you read!
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: David Watson: It's about time <http://planetwatson.co.uk/blog/2007/08/20/its-about-time>
+
+Date: Mon Aug 20 21:58:13 UTC 2007
+
+I decided that I really needed to start making proper backups of the data on my server this week. I did have a tape drive in the server at one point but I never remembered to change the tape, or indeed ever test the backups.
+
+Now that I have a Linksys NSLU2 (a slug), which I bought to use as a local Debian mirror. "Why not use it for backing up my important data?" I thought, so I leapt into action. The first job was to replace the drive in the USB caddy with a 250Gb drive. 250Gb should be plenty for both the mirror and the backups, which is mostly source code, mail and photos. After that installing and setting up rsnapshot was a snap.
+
+It sure beats the "keep some stuff on my laptop" backup method I was using, which did save me from a major brain fade moment involving my Maildir folder.
+
+I shall now wallow in the warm glow that only a backup provides.
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Russell Coker: Suggestions and Thanks <http://etbe.coker.com.au/2007/08/21/suggestions-and-thanks/>
+
+Date: Mon Aug 20 21:00:16 UTC 2007
+
+One problem with the blog space is that there is a lot of negativity. Many people seem to think that if they don’t like a blog post then the thing to do is to write a post complaining about it - or even worse a complaint that lacks specific details to such an extent that the subject of the complaint would be unable to change their writing in response. The absolute worst thing to do is to post a complaint in a forum that the blog author is unlikely to read - which would be a pointless whinge that benefits no-one.
+
+Of course an alternate way for the recipient to takeg such complaints as suggested by Paul Graham[1] is “*you’re on the right track when people complain that you’re unqualified, or that you’ve done something inappropriate*” and “*if they’re driven to such empty forms of complaint, that means you’ve probably done something good*” (Paul was talking about writing essays not blogs, but I’m pretty sure that he intended it to apply to blogs too). If you want to actually get a blog author (or probably any author) to make a change in their material in response to your comments then trying to avoid empty complaints is a good idea. Another useful point Paul makes in the same essay is “*“Inappropriate” is the null criticism. It’s merely the adjective form of “I don’t like it.”*” - something that’s worth considering given the common criticism of particular blog content as being “inappropriate” for an aggregation feed that is syndicating it. Before criticising blog posts you should consider that badly written criticism may result in more of whatever it is that you object to.
+
+If you find some specific objective problem in the content or presentation of a blog the first thing to do is to determine the correct way of notifying the author. I believe that it’s a good idea for the author to have an *about* page which either has a mailto URL or a web form for sending feedback, I have a mailto on my about page - (here’s the link)[2]. Another possible method of contact is a comment on a blog post, if it’s an issue for multiple posts on the blog then writing a comment on the most recent post will do (unless of course it’s a comment about the comment system being broken). For those who are new to blogging, the blog author has full control over what happens to comments. If they decide that your comment about the blog color scheme doesn’t belong on a post about C programming then they can respond to the comment in the way that they think best (making a change or not and maybe sending you an email about it) and then delete the comment if they wish.
+
+If there is an issue that occurs on multiple blogs then a good option is to write a post about the general concept as I did in the case of column width in blogs[3] where I wrote about one blog as an example of a problem that affects many blogs. I also described how I fixed my own blog in this regard (in sufficient detail to allow others to do the same). Note that most blogs have some degree of support for Linkback[4] so any time you link to someone else’s blog post they will usually get notified in some way.
+
+On my blog I have a page for future posts[5] where I invite comments from readers as to what I plan to write about next. Someone who prefers that I not write about topic A could write a comment requesting that I write about topic B instead. Wordpress supports pages as a separate type of item to posts. A post is a dated entry while pages are not sorted in date order and in most themes are displayed prominently on the front page (mine are displayed at the top). I suggest that other bloggers consider doing something comparable.
+
+One thing I considered is running a wiki page for the future posts. One of the problems with a wiki page is that I would need to maintain my own private list which is separate, while a page with comments allows only me to edit the page in response to comments and then use the page as my own to-do list. I may experiment with such a wiki page at some future time. One possibility that might be worth considering is a wiki for post requests for any blog that is syndicated by a Planet. For example a wiki related to Planet Debian[6] might request a post about running Debian on the latest SPARC systems, the first blogger to write a post on this topic could then remove the entry from the wish-list (maybe adding the URL to a list of satisfied requests). If the person who made the original request wanted a more detailed post covering some specific area they could then add such a request to the wish-list page. If I get positive feedback on this idea I’ll create the wiki pages and add a few requests for articles that would interest me to start it up.
+
+Finally to encourage the production of content that you enjoy reading I suggest publicly thanking people who write posts that you consider to be particularly good. One way of thanking people is to cite their posts in articles on your own blog (taking care to include a link to at least one page to increase their Technorati[7] rank) or web site. Another is to include a periodic (I suggest monthly at most) links post that contains URLs of blog posts you like along with brief descriptions of the content. If you really like a post then thank the author by not only giving a links with a description (to encourage other people to read it) but also describe why you think it’s a great post. Also if recommending a blog make sure you give a feed URL so that anyone who wants to subscribe can do it as easily as possible (particularly for the blogs with a bad HTML layout).
+
+Here are some recent blog posts that I particularly liked:
+
+- Security Anti-Pattern: Path based access control[8] from Joshua Brindle (feed)[9]. A fairly strong criticism of path based access control (as used in AppArmor). I’d have written something about this myself but Joshua did it so well that there’s no need. His post about Status Quo Encapsulation[10] is also a good read. It’s a pity that Joshua doesn’t write more than two posts a month.
+
+- Federico’s post about concrete for housing. Some technical data and some good pictures.[11] (feed)[12]
+
+- Tim Connor’s blog posts about Australian politics[13] (feed)[14], particularly this post about interest rates[15] (especially his latest comment). It’s a pity that Livejournal seems to offer no good options for searching and the comment in question has broken links. I would be happy to offer advice if Tim wanted to switch to a self-hosted Wordpress installation (as would some other bloggers who are members of our local LUG).
+
+Here are some blogs that I read regularly:
+
+- Problogger[16] (feed)[17], I don’t think that I’ll be a full-time blogger in the forseeable future, but his posts have lots of good ideas for anyone who wants to blog effectively. I particulaly appreciate the short posts with simple suggestions.
+
+- Mega Tokyo[18] (feed)[19] - A manga comic on the web. The amusing portrayal of computer gaming fanatics will probably remind most people in the computer industry of some of their friends.
+
+- Defence and the National Interest[20] (feed)[21]. The most interesting part of this (and the only reason I regularly read it) is the blog of William S. Lind[22] (titled *On War*. William writes some very insightful posts about military strategy and tactics but some things about politics will offend most people who aren’t white Christian conservatives.
+
+It’s a pity that there is not a more traditional blog feed for the data, the individual archives contain all posts and there seems to be no possibility of viewing the posts for the last month (for people who read it regularly in a browser and don’t use an RSS feed) and no search functionality built in.
+
+- WorseThanFailure.com (was TheDailyWTF.com)[23] (feed)[24] subtitled Curious Perversions in Information Technology. Many amusing anecdotes that illustrate how IT projects can go wrong. This is useful for education, amusement, and as a threat (if you do THAT then we could submit to WorseThanFailure.com).
+
+- XKCD - a stick-figure web comic[25], often criticised for the drawing quality by people who just don’t get it, some people read comics for amusement and insightful commentry not drawings. It’s yet another example of content beating presentation when there’s a level playing field.
+
+Finally I don’t read it myself, but CuteOverload.com[26] is a good site to refer people to when they claim that the Internet is too nasty for children - the Internet has lots of pictures of cute animals!
+
+Share This[27]
+
+[1] http://www.paulgraham.com/marginal.html
+[2] http://etbe.coker.com.au/about/
+[3] http://etbe.coker.com.au/2007/07/22/column-width-in-blogs/
+[4] http://en.wikipedia.org/wiki/Linkback
+[5] http://etbe.coker.com.au/future-posts/
+[6] http://planet.debian.org/
+[7] http://www.technorati.com/
+[8] http://securityblog.org/brindle/2006/04/19/security-anti-pattern-path-based-access-control/
+[9] http://securityblog.org/brindle/feed/
+[10] http://securityblog.org/brindle/2006/03/25/security-anti-pattern-status-quo-encapsulation/
+[11] http://primates.ximian.com/~federico/news-2007-08.html#11
+[12] http://primates.ximian.com/~federico/rss.xml
+[13] http://tau-iota-mu-c.livejournal.com/tag/politics
+[14] http://tau-iota-mu-c.livejournal.com/data/rss
+[15] http://tau-iota-mu-c.livejournal.com/84694.html
+[16] http://www.problogger.net
+[17] http://feeds.feedburner.com/ProbloggerHelpingBloggersEarnMoney
+[18] http://www.megatokyo.com
+[19] http://www.megatokyo.com/rss/megatokyo.xml
+[20] http://www.d-n-i.net/
+[21] http://www.d-n-i.net/new_at_DNI.xml
+[22] http://en.wikipedia.org/wiki/William_S._Lind
+[23] http://worsethanfailure.com/
+[24] http://syndication.thedailywtf.com/TheDailyWtf
+[25] http://www.xkcd.com/
+[26] http://www.cuteoverload.com/
+[27] http://etbe.coker.com.au/?p=359&amp;akst_action=share-this
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Joey Hess: inbox zero <http://kitenet.net/~joey/blog/entry/inbox_zero/>
+
+Date: Mon Aug 20 20:17:28 UTC 2007
+
+My inbox is empty. Holger[1] posted a link to this talk[2] which makes some really simple suggestions about how to handle new mail, to avoid letting it rot in the inbox.
+
+It turns out that I was already doing most of them pretty well. For example, offlineimap only downloads new mail every 30 minutes, so I don't constantly waste time checking my inbox for new mail. And I'm pretty good at deleting mail I don't want, quickly sending quick replies to easy mails, and adding calendar entries for time-sensative mails. So my inbox was only 90 messages long..
+
+The main thing I need to improve seems to be getting out of the habit of leaving deferred things to sit in my inbox. I went through and about 80% were mails sent from the Debian BTS. All that stuff is in the BTS, so there's no need to keep it in my inbox. Another 10% should have been in a BTS, but was sent directly to me -- so I put it in the BTS, and removed it from my inbox. I know I'm not the only one with this problem, BTW.
+
+I recommend watching the talk. Thinking about mail in the inbox as only having one of 5 actions you can perform on it (delete, defer, delegate, respond, do) really helps process it quickly.
+
+[1] http://layer-acht.org/blog/debian/#1-120
+[2] http://video.google.com/videoplay?docid=973149761529535925
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Simon Richter: Non-standard compiler extensions <http://www.hogyros.de/?q=node/305>
+
+Date: Mon Aug 20 19:49:45 UTC 2007
+
+Normally I don't like them, because the people using them write non-portable code.
+
+In some cases however (mostly when writing stuff other people would write in perl), I'd like things like __attribute__((mode(QI))) to work, and not claim that while the compiler perfectly well understood what I was trying to do, it can nonetheless not help me around writing my own support for 128 bit types. At least MSVC is no better, __int128 has the exact same behaviour.
+
+Bleh.
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Bastian Venthur: Deserializing SOAP replies with ZSI? <http://blog.venthur.de/2007/08/20/deserializing-soap-replies-with-zsi/>
+
+Date: Mon Aug 20 17:29:20 UTC 2007
+
+Dear Lazyweb,
+
+what is the most elegant way to read a SOAP reply containing a complex type into an object using ZSI[1]? I’ve read the documentation[2] several times and I guess there is an elegant way to solve this, but I still don’t get it.
+
+I *guess* it should work like this:
+
+- Define a class Bugreport
+- Define Bugreport’s typecode[3]
+- Parse (how?) the SOAP reply containing bugreport-data into a Bugreport object
+
+What I’m currently doing with soappy in rng[4] is rather crude: I take the SOAP response which is a dictionary holding many interesting facts about a bug report, take those elements I’m interested in and copy them into a bug report object. Not very elegant, but it works.
+
+While I’m moving away from soappy to ZSI I’d like to implement the deserializion the ZSI way. Unfortunately I don’t understand their examples. So please Lazyweb, is there any ZSI expert out there who can provide a minimalistic example?
+
+[1] http://pywebsvcs.sourceforge.net/
+[2] http://pywebsvcs.sourceforge.net/zsi_v2_0_0.html
+[3] http://pywebsvcs.sourceforge.net/zsi.html#SECTION007000000000000000000
+[4] http://reportbug-ng.alioth.debian.org/
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Romain Francoise: Cornflakes Heroes: "Lifeline" video <http://blog.orebokech.com/2007/08/cornflakes-heroes-lifeline-video.html>
+
+Date: Mon Aug 20 17:40:03 UTC 2007
+
+Cornflakes Heroes[1] (my sister's band) have released the video for their new single Lifeline, check it out:
+
+(click here[2] if the embedded player doesn't work)
+
+[1] http://www.cornflakesheroes.com/
+[2] http://www.youtube.com/watch?v=XENxzz_goo0
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Kartik Mistry: TODOs <http://kartikmistry.org/blog/?p=352>
+
+Date: Mon Aug 20 14:33:36 UTC 2007
+
+* Debian:
+
+- Create pkg-festival at alioth, New ‘long pending’ upstream release for Festival/Speech-tools
+
+- Xosview[1] 1.8.3, Ayttm 0.5.0-6[2] (Yeah, its GTK2 Port[3] is out!!)
+
+- Bugs[4]
+
+- Debian@Foss.in/2007[5]
+
+- T&S II
+
+* “Real life”:
+
+- Kavin@home
+
+- As above
+
+- As above
+
+[A]
+
+[1] http://sourceforge.net/projects/xosview/
+[2] http://ayttm.sourceforge.net/files.shtml
+[3] http://ayttm.cvs.sourceforge.net/ayttm/ayttm/ChangeLog?revision=1.695&amp;view=markup&amp;pathrev=AYTTM_0_5_0
+[4] http://bugs.debian.org/cgi-bin/pkgreport.cgi?which=maint&amp;data=kartik.mistry%40gmail.com&amp;archive=no&amp;raw=yes&amp;bug-rev=yes&amp;pend-exc=fixed&amp;pend-exc=done
+[5] http://foss.in/2007
+
+[A] http://kartikmistry.org/blog/wp-includes/images/smilies/icon_wink.gif
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Michal Čihař: Gammu stable version 1.13.0 <http://blog.cihar.com/archives/2007/08/20/gammu_stable_version_1_13_0/>
+
+Date: Mon Aug 20 13:06:44 UTC 2007
+
+I just released new version of Gammu[1]. There are no big changes since last testing release:
+
+- Fixed several crashes of 6510 driver.
+
+For stable users there are tons of changes, most noticable is initial support for Sharp and Motorola phones, notes support for OBEX driver and various fixes to make compilation in Visual Studio possible.
+
+[1] http://cihar.com/gammu/
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Jeff Bailey: Next stop: Buffalo <http://jbailey.livejournal.com/37143.html>
+
+Date: Mon Aug 20 12:21:48 UTC 2007
+
+Hey'all! We're still in transit on our great trans-continental adventure! Sorry if you've emailed us and we've not gotten back, Internet access is spotty at best on this trip, and who wants to spend their vacation reading email anyway? =)
+
+We just finished a good time in the kitchens of Opus and ConCentric. Angie, Sera, Chris and I all worked well together in a cohesive team, with a minimum of drama. It was really nice to work with such a solid group of people that we could say things like "Dude, I need a nap, can you cover for me?" and there was no problem with the rest of the team trading off.
+
+Leif was an absolute hit at the con. We were able to participate in a couple worships where him singing along wasn't a distraction at all, and he totally loved being passed between people. It does mean that he caught his first cold, but he's doing alright.
+
+There are always the people that I'll miss when I'm gone from there. Alexis was in the kitchen on a regular basis saying hi, Liz was always nearby, Karina with her star maps, lizzie the brit with her piles of energy, the frying-tofu master Geoff seemed to be in the kitchen often. In the kitchen, though, we got to see pretty much everyone so it was a nice chance to connect with people.
+
+The staff was also a very neat set of people. I don't think there was anyone in the Opus staff that I couldn't see actively working hard to pull of great programming. There's always the curmudgeonly part of me that sits in the back corner and can nit pick things to death, but in doing so I wouldn't want to hide that by almost every measure this was a successful Opus. In particular, I was impressed that the staff faced head-on how to handle walk-ins at the staff meeting just before the con started. It was interesting to watch a consensus process work with a group of people who came in from wildly different personal perspectives and to watch people change from varying viewpoints to agree on the compromise that best suited the group.
+
+So what's next? We've spent the night with Andrew from Koolu[1] and will be heading down to Buffalo next to get an van and start on the adventure. We don't know where we're going yet, or how we'll get there, but the idea is to head down to the Creation Museum[2] and then west towards Vegas and the Grand Canyon. On the way, we might see if we can visit Stephanie in Ohio, Sera in Albuquerque, and Karina in Flagstaff.
+
+Peace, Love, Faith and Blessings to all.
+
+[1] http://www.koolu.com/
+[2] http://www.creationmuseum.org/
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: David Welton: Hecl, DedaWiki updates <http://journal.dedasys.com/articles/2007/08/20/hecl-dedawiki-updates>
+
+Date: Mon Aug 20 12:03:00 UTC 2007
+
+I had a pretty good week last week in terms of doing some open source work. I had the opportunity to do some consulting regarding Hecl[1], which was pretty cool. Some of the work was fed back into Hecl itself, including the beginnings of a "media" API (video streams, taking pictures with the camera), and some other fixes and updates. I've also been working on it a bit on my own time, adding a Canvas demo to the MIDP2.0 demo application (works in the emulator, haven't tried it on a phone yet), and today I'm going to look at updating some of the documentation that's been lagging the code. In the course of my work, I also happened on a cool idea to speed up the launch of Hecl applications: by creating the widgets as regular widgets in Java, right away, in the startApp MIDlet method, it's possible to get them on the screen quickly. At that point, you can start loading Hecl, and create some Hecl objects to hold the already created Java widgets. It goes something like this:
+
+Form mainform = new Form("Initial Form");
+TextField search = new TextField("search:", "", 30, 0);
+... load script ...
+interp.setVar("mainform", ObjectThing.create(mainform));
+interp.setVar("searchwidget", ObjectThing.create(search));
+... evaluate script ...
+
+This is a good tradeoff, because it gets something in front of the user right away, and it's not a throwaway like a splash screen.
+
+On another front, I've updated some of the code in DedaWiki[2], to enable email notifications in the comment system, which has percolated into the Linux Incompatibility List[3], and, with a bit of tweaking, into Squeezed Books[4]. I don't think the code is quite ready for a real release, but by running the incompatibility list on it, it's a great way to give it a thorough shakedown, and I'll attempt to release it sooner or later. Of course, in the meantime, interested parties can get the code out of subversion on rubyforge.
+
+[1] http://www.hecl.org
+[2] http://dedawiki.dedasys.com
+[3] http://www.leenooks.com
+[4] http://www.squeezedbooks.com
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Russell Coker: Feedburner Item Link Clicks <http://etbe.coker.com.au/2007/08/20/feedburner-item-link-clicks/>
+
+Date: Mon Aug 20 09:00:12 UTC 2007
+
+For a while I used the Item Link Clicks feature in Feedburner[1]. For those who aren’t aware Feedburner is a service that proxies access to an RSS feed (you need to either publish the Feedburner URL as the syndication link or use a HTTP redirect to send the requests there - I use a HTTP redirect). Then when people download the feed they get it from Feedburner which is fast and reliable (unlike my blog on a bad day) and which also tracks some statistics which can be interesting.
+
+The Item Link Clicks feature rewrites the *guid* URLs to point to a Feedburner URL that will redirect back to the original post (and track clicks along the way). The down-side of doing this is that some people who read blogs via Planet[2] installations and just copy the link from the Planet page when citing a blog post instead of actually visiting the blog in question. This causes a potential problem for the person citing the post in that they won’t know whether the URL is valid unless they visit it. So when (not if) people have misconfigured blogs that are widely syndicated the people who cite them without verifying the links could end up linking to invalid URLs. The problem for the person who is cited is that such Feedburner redirects don’t seem to be counted as part of the Technorati[3] ranking (which is a count of the number of links to a blog in the last 6 months which give some rough approximation of how important the blog is). The Technorati rating can sometimes be used in negotiations with an advertiser and is often used when boasting about how popular a blog is.
+
+To increase my Technorati ranking I have stopped using the Feedburner URL rewriting feature. For people who view my blog directly or through a Planet installation this will not give any difference that you would notice. The problem is for people who use a service that syndicates RSS feeds and then forwards them on by email, such people received two copies of the last 10 items as the URL (GUID) change means that the posts are seen as new (Planet solves this by deleting the posts which are seen as unavailable and then creating new posts with the new URLs and no change is visible to the user).
+
+Based on this experience I suggest not using URL rewriting services. They will hurt your technorati ranking, give little benefit (IMHO) and annoy the small number of RSS to email readers. Particularly don’t change your mind about whether to use such a feature or not. Changing the setting regularly would be really annoying. Also this means that if you use such a service you should take care not to have you Feedburner redirection ever get disabled. A minor Apache configuration error corrected a day later could end up in sending all the posts in the current feed an extra two times.
+
+Share This[4]
+
+[1] http://www.feedburner.com/
+[2] http://www.planetplanet.org/
+[3] http://www.technorati.com/
+[4] http://etbe.coker.com.au/?p=358&amp;akst_action=share-this
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Martin F. Krafft: Pay three times as much and get zero brain power <http://blog.madduck.net/travel/2007.08.20_pay-three-times-as-much-and-get-zero-brain-power.xhtml>
+
+Date: Mon Aug 20 08:43:00 UTC 2007
+
+If you walk up to the Swiss railways customer service desk and tell them that you're a group of six looking to travel from Zurich to Munich and would thus like to make a reservation, they'll charge you 15 CHF (~ 9.50€) for a little piece of paper which documents that the guy behind the desk put his brain to use and reserved six contiguous seats to keep the group together. Well, he actually asked me whether that's what I wanted.
+
+If you walk up to the German railways customer service desk and tell them that you're a group of (now) eight looking to travel from Munich to Zurich and would thus like to make a reservation, they'll charge you 28€ for a little piece of paper which documents that the guy behind the desk does not have a brain or didn't bother to switch it on: instead of two adjacent groups of four seats, we got four pairs of aisle seats.
+
+Given that we mainly reserved to minimise the annoyance for the other travellers while we kept up a conversation for the five hours of the journey, it did piss me off quite a bit to have paid three times as much in Germany as the reservation cost in Switzerland and not be able to talk among each other without annoying the others.
+
+This reservation was made two days in advance. You may, of course, think that the train was already full and no space to sit eight was left; however, I did not have to go further than two wagons to find copious amounts of unreserved spaces for eight, which were then, unfortunately, already occupied (of course).
+
+It shames me to expose my peers (I made the travel arrangements) to the crap and blather one has to put up in German railways: the quality of the speaker system is crap, everything is repeated in English by non-English-speaking conductors, and after every stop, we're yet again alerted to the fact that we could be relaxing to high-quality cuisine in the board restaurant, or should watch out for the little trolley passing by and happy to collect our money. Oh, and of course the brainless and often unfriendly service employees.
+
+And all that for a price more than it would have cost the lot of us to rent a van and drive back and forth.
+
+Going by train is my most preferable means of transport, not only, but in large part due to environmental issues. I don't understand why the German government puts this important bit of infrastructure in the hands of imbeciles and lets them overcharge for their low-quality service and their delays.
+
+NP: Mono[1]: *Under the Pipal Tree*
+
+*Update*: A guy from Berlin wrote: The seats you found in the other wagons may as well have been reserved, too. The electronic reservation signs will extinguish about 15 minutes after the train departs from the station. Or, there was too little time between reservation and departure, so you could only get one of the few express-reservation seats.
+
+I am aware of this. However, the train between Zurich and Munich is ancient (part of the way it still has to run on Diesel) and the reservation signs were paper slips. The seats of eight I found were definitely unreserved, especially because I checked immediately after departure.
+
+[1] http://www.allmusic.com/cg/amg.dll?SQL=Mono&amp;P=amg&amp;OPT1=1
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Holger Levsen: Red Cross sued for using the red cross <http://layer-acht.org/blog/debian/#1-121>
+
+Date: Mon Aug 20 06:59:07 UTC 2007
+
+Various newspapers report that the health product giant Johnson & Johnson is suing the Red Cross for using the red cross as a logo. Johnson & Johnson registered the trademark in 1887, six years after the us-american Red Cross started to use it. Needless to say, that a red cross has been in use for much longer and that european Red Cross associations also exist for quite some more years.
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Manoj Srivastava: Mail Filtering with CRM114: Part 4 <http://www.golden-gryphon.com/blog/manoj//blog/2007/08/20/Mail_Filtering_with_CRM114__58___Part_4.html>
+
+Date: Mon Aug 20 05:28:53 UTC 2007
+
+Training the Discriminators
+
+It has been a while since I posted on this category — actually, it has been a long while since my last blog. When I last[1] left you, I had mail (mbox format) folders called *ham* and/or *junk*, which were ready to be used for training either *CRM114* or *Spamassassin* or both.
+
+Setting up Spamassassin
+
+This post lays the groundwork for the training, and details how things are set up. The first part is setting up *Spamassassin*. One of the things that bothered me about the default settings for *Spamassassin* was how swiftly Bayes information was expired; indeed, it seems really eager to dumb the Bayes information (don’t they trust their engine?). I have spent some effort building a large corpus, and keeping ti clean, but *Spamassassin* would discard most of the information from the DB after training over my corpus, and the decrease in accuracy was palpable. To prevent this information from leeching away, I firstly increased the size of the database, and turned off automatic expiration, by putting the following lines into *~/.spamassassin/user_prefs*:
+
+bayes_expiry_max_db_size 4000000
+bayes_auto_expire 0
+
+I also have regularly updated spam rules from the spamassassin rules emporium[2] to improve the efficiency of the rules; my current user_prefs[3] is available as an example.
+
+Initial training
+
+I keep my *Spam/Ham* corpus under the directory /backup/classify/Done, in the subdirectories Ham and Spam. At the time of writing, I have approximately 20,000 mails in each of these subdirectories, for a total of 41,000+ emails.
+
+I have created a couple of scripts to train the discriminators from scratch using the extant Spam corpus; and these scripts are also used for re-learning, for instance, when I moved from a 32-bit machine to a 64-bit one, or when I change *CRM114* discrimators. I generally run them from ~/.spamassassin/ and ~/var/lib/crm114 (which contains my *CRM114* setup) directories.
+
+I have found that training *Spamassassin* works best if you alternate Spam and Ham message chunks; and this Spamassassin learning script[4] delivers chunks of 50 messages for learning.
+
+With *CRM114*, I have discovered that it is not a good idea to stop learning based on the number of times the corpus has been gone over; since stopping before all messages i the Corpus are correctly handled is also disastrous. So I set the repeat count to a ridiculously high number, and tell mailtrainer to continue training until a streak larger than the sum of Spam and Ham messages has occurred. This CRM114 trainer script[5] does the hob nicely; running it under screen is highly recommend.
+
+Routine updates
+
+Coming back to where we left off, we had mail (mbox format) folders called *ham* and/or *junk* sitting in the local mail delivery directory, which were ready to be used for training either *CRM114* or *Spamassassin* or both.
+
+There are two scripts that help me automate the training. The first script, called mail-process[6], does most of the heavy listing. This processes a bunch of mail folders, which are supposed to contain mail which is either all ham or all spam, indicated by the command line arguments. We go looking though every mail, and any mail where either the *CRM114* or the *Spamassassin* judgement was not what we expected, we strip out mail gathering headers, and then we save the mail, one to a file, and we train the approprite filter. This ensures that we only train on error, and it does not matter if we accidentally try to train on correctly classified mail, since that would be a no-op (apart from increasing the size of the corpus).
+
+The second script, called mproc[7] is a convenience front-end; it just calls mail-process with the proper command line arguments, and feeds them the *ham* and *junk* in sequence; and takes no arguments. So, after human classification, just calling mproc does the classification.
+
+This pretty much finishes the series of posts I had in mind about spam filtering, I hope it has been useful.
+
+[1] http://www.golden-gryphon.com/blog/manoj//blog/2007/01/14/Mail_Filtering_with_CRM114_Part_3.html
+[2] http://www.rulesemporium.com/
+[3] http://www.golden-gryphon.com/blog/manoj///software/misc/user_prefs.html
+[4] http://www.golden-gryphon.com/blog/manoj///software/misc/re-learn-sa.html
+[5] http://www.golden-gryphon.com/blog/manoj///software/misc/re-learn-crm114.html
+[6] http://www.golden-gryphon.com/blog/manoj///software/misc/mail-process.html
+[7] http://www.golden-gryphon.com/blog/manoj///software/misc/mproc.html
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Michael Janssen: Things That I Wish Remember The Milk Had <http://base0.net/archives/322-Things-That-I-Wish-Remember-The-Milk-Had.html>
+
+Date: Mon Aug 20 04:48:53 UTC 2007
+Author: nospam@example.com (Jamuraa)
+
+A little bit ago I blogged[1] about how I was using Remember The Milk[2] in order to get some things done around the house and to remind me about stuff that I want to do. Things have been going pretty well on that account, I have been using it to great effect for basically everything that I need to do outside of things that I need to get done at Honeywell (I keep a separate todo list for there). However, when using it these past weeks, I have noticed a few things that I wish it would have or things that could be improved upon, I think in a big way.
+
+I think the twitter interface should have some enhancements. For example, it is impossible currently to mark off an item that repeats through twitter, because you always have more than one of them on your list. I would love to do this with daily tasks so that I can mark them off as soon as I finish them with a few button presses on my cell phone. Also it would be nice to be able to add things to lists and not just the INBOX through twitter. Possibly another command starting with '!' that takes a keyword.
+
+Remember the milk has as a major component the map of locations that items in a list can be placed at. There are a couple improvements that I would like in this area. The first is to have multiple locations that are all just as valid in order to complete the task. Remembering the Milk (the actual task) is a great example. There are literally hundreds of places that I could get milk, and two or three of them that I use regularly, depending on which one I am driving by at the moment. If you could place these three markets in a group of some sort, then they could all be associated with the item and you could see it on your mobile or however you're viewing the map.
+
+The other map improvement is fairly simple - offer to give me directions from one place to another. I don't know how to drive to a random location I've just put in because it is where I need to drop my car or pick someone up or whatever, and a small link to a google maps directions would be nice. Even just a link to google maps (where I could then click on the "directions from..." link) would be a big improvement.
+
+The last improvement that would be nice is to be able to click on the URL or visit the site in the URL field for tasks in some way. Currently the URL field is pretty useless as a URL, because there is no way to click it and actually visit the site. If I click on it, the editing field pops up and I have to do all the hard work myself of cutting and pasting the URL into the location field. It's also a mis-cue because the URL looks like a link before I click it, just like I could click on it as I want to. A keyboard shortcut for visiting the site would be nice as well since I do use the keyboard interface quite a bit.
+
+These improvements I think would make a big difference to RTM users. The map improvements alone would be a big upgrade in my opinion. As for now, I will continue to use RTM whether these are implemented or not - it's a good way to keep an online list in any case. It's kept me writing blog posts at the rate of about once every two days. Not sure if that's a good thing or not yet..
+
+[1] http://base0.net/archives/319-Dont-you-dun-dun-dun-da-dun-dun-forget-about-me.html
+[2] http://rmilk.com
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Chris Lamb: “Eww” <http://www.chris-lamb.co.uk/2007/08/20/fred-ewww/>
+
+Date: Mon Aug 20 01:19:24 UTC 2007
+
+This[1] is not how to do HABTM (ie. “*many-many*“) database joins.
+
+[1] http://bakery.cakephp.org/articles/view/obvious-trick-to-reduce-amount-of-habtm-relationship-tables-1
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Cameron Dale: DebTorrent Release 0.1.4 (and apt-transport-debtorrent 0.1.0) <http://www.cs.sfu.ca/~camerond/personal/blog/posts/Aug-19-2007.html>
+
+Date: Mon Aug 20 00:56:46 UTC 2007
+
+The next release[1] of DebTorrent[2] is now available. This release includes new functionality for communicating with APT using a new transport method specifically designed for debtorrent, and many bug fixes.
+
+The major changes in this release are all in the communication between APT and DebTorrent. The HTTP server in DebTorrent that listens for APT requests has been upgraded to support HTTP/1.1 persistent connections and pipelining, which allows APT to have multiple outstanding requests for files. This is useful as DebTorrent suffers from the typical bittorrent slow start, so requesting multiple files at a time helps to speed up the download considerably.
+
+Though better, HTTP/1.1 is not ideal for DebTorrent however, as a maximum of 10 outstanding requests is maintained by APT's http method, and files must still be returned in the order they were requested (which is not ideal for bittorrent-type downloading since downloads occur randomly).
+
+To further improve the APT communication I have modified APT's http method to create a debtorrent method. This new debtorrent transport for APT is packaged separately as apt-transport-debtorrent, and once installed APT can be told to use it by replacing "http://" with "debtorrent://" in your sources.list file. This method sends all requests it receives immediately to DebTorrent, and will receive responses from DebTorrent in any order. You can find this new method on the Alioth project[3], or in my personal repository[4] (only amd64 and i386 versions are currently available).
+
+Unfortunately, the story doesn't end here. The APT code responsible for sending requests to the method also limits the maximum number of outstanding requests that it will send to the method to 10, which is not really necessary since all existing methods limit the requests they send out themselves. I have therefore patched the current APT code to increase this limit to 1000 (a one line change), and released this patched version as 0.7.6-0.1. You can find this patched version in my personal repository[5] (again, only for i386 and amd64). I have tested it with the other methods available and it causes no problems, and I hope to get the change included in the regular APT code soon.
+
+To sum up:
+
+- new DebTorrent over HTTP = fast
+- new DebTorrent with new apt-transport-debtorrent = faster
+- new DebTorrent with new apt-transport-debtorrent and a patched APT = fastest
+
+The last DebTorrent version (0.1.3.1) is currently in the NEW queue[6], and judging by the length of it, will be there for about another week. After DebTorrent is added to the archive, I will be upgrading it to this new version. I also hope to get the new apt-transport-debtorrent package into the NEW queue soon.
+
+This brings to an end the Google Summer of Code[7] (which this project was created as a part of[8]), but development of DebTorrent will of course continue (probably a little slower). The next major change will be the addition of unique piece numbers[9], which is almost complete but needs to be extensively tested. I'd like to thank Anthony Towns, Steve McIntyre, and Michael Vogt for their help over the last 4 months, and also the many others who sent me encouraging emails or engaged in interesting discussions about this project. It's the people who make a project like this a fun and memorable thing to do.
+
+Here's the changelog for the new DebTorrent release:
+
+- APT communication supports HTTP/1.1 connections, including persistent connections and pipelining
+- Add support for the new debtorrent APT transport method (see the new apt-transport-debtorrent package)
+- Make the Packages decompression and torrent creation threaded
+- Improve the startup initialization of files
+- Add init and configuration files for the tracker
+- bug fixes:
+
+- restarts would fail when downloaded files have been modified
+- deleting old cached data would fail
+- small tracker bug causing exceptions
+- prevent enabling files before the initialization is complete
+- only connect to unique peers from the tracker that are not already connected
+- tracker would return all torrents' peers for every request
+
+[1] https://alioth.debian.org/frs/?group_id=31109
+[2] http://debtorrent.alioth.debian.org/
+[3] https://alioth.debian.org/frs/?group_id=31109
+[4] http://debian.camrdale.org/
+[5] http://debian.camrdale.org/
+[6] http://ftp-master.debian.org/new.html
+[7] http://code.google.com/soc/2007/
+[8] http://code.google.com/soc/2007/debian/appinfo.html?csaid=46454031B77ABCBA
+[9] http://wiki.debian.org/DebTorrent/UniquePieces
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Russell Coker: Controlling a STONITH and Upgrading a Cluster <http://etbe.coker.com.au/2007/08/20/controlling-a-stonith-and-upgrading-a-cluster/>
+
+Date: Sun Aug 19 21:00:45 UTC 2007
+
+One situation that you will occasionally encounter when running a Heartbeat cluster[1] is a need to prevent a STONITH of a node. As documented in my previous post about testing STONITH[2] the ability to STONITH nodes is very important in an operating cluster. However when the sys-admin is performing maintenance on the system or programmers are working on a development or test system it can be rather annoying.
+
+One example of where STONITH is undesired is when upgrading packages of software related to the cluster services. If during a package upgrade the data files and programs related to the OCF script[3] are not synchronised (EG you have two programs that interact and upgrading one requires upgrading the other) at the moment that the *status* operation is run then an error may occur which may trigger a STONITH. Another possibility is that if using small systems for testing or development (EG running a cluster under Xen with minimal RAM assigned to each node) then a package upgrade may cause the system to thrash which might then cause a timeout of the status scripts (a problem I encounter when upgrading my Xen test instances that have 64M of RAM).
+
+If a STONITH occurs during the process of a package upgrade then you are likely to have consistency problems with the OS due to RPM and DPKG not correctly calling fsync()[4], this can cause the OCF scripts to always fail to run the *status* command which can cause an infinite loop of the cluster nodes in question being STONITHed. Incidentally the best way to test for this (given the problems of a STONITH sometimes losing log data) is to boot the node in question without Heartbeat running and then run the OCF status commands manually (I previously documented three ways of doing this[5]).
+
+Of course the ideal (and recommended) way of solving this problem is to migrate all services from a node using the *crm_resource* program. But in a test or development situation you may forget to migrate all services or simply forget to run the migration before the package upgrade starts. In that case the best thing to do is to be able to remove the ability to call STONITH . For my testing I use Xen and have the nodes ssh to the Dom0 to call STONITH[6], so all I have to do to remove the STONITH ability is to stop the ssh daemon on the Dom0. For a more serious test network (EG using IPMI or an equivalent technology to perform a hardware STONITH as well as ssh for OS level STONITH on a private network) a viable option might be to shut down the switch port used for such operations - shutting down switch ports is not a nice thing to do, but to allow you to continue work on a development environment without hassle it’s a reasonable hack.
+
+When choosing your method of STONITH it’s probably worth considering what the possibilities are for temporarily disabling it - preferably without having to walk to the server room.
+
+Share This[7]
+
+[1] http://www.linux-ha.org/
+[2] http://etbe.coker.com.au/2007/07/17/testing-stonith/
+[3] http://etbe.coker.com.au/2007/06/08/heartbeat-service-scripts/
+[4] http://etbe.coker.com.au/2007/07/02/committing-data-to-disk/
+[5] http://etbe.coker.com.au/2007/08/03/starting-a-heartbeat-resource-without-heartbeat/
+[6] http://etbe.coker.com.au/2007/06/24/xen-and-heartbeat/
+[7] http://etbe.coker.com.au/?p=356&amp;akst_action=share-this
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Mike Hommey: New WebKit snapshot (almost) in unstable <http://web.glandium.org/blog/?p=158>
+
+Date: Sun Aug 19 18:33:06 UTC 2007
+
+Along with a new epiphany release[1] using it as backend, I prepared a new WebKit snapshot[2], which is now waiting in NEW for some ftp-master attention. Unfortunately, while webkit now has the necessary symbols for back and forward buttons, it seems not to work properly. Scrollbars are also not yet displayed. I’ll have to take a look at these some day, if upstream doesn’t do it before me.
+
+I also set up a git repository to hold the debian branch[3], following the already existing git repository tracking upstream[4]. Note the *filtered* branch, which avoids the debian branch to contain what we don’t ship, and reduce the download size from 100MB+ to roughly 16MB. I’ll write more about this filtering in a few days.
+
+Also, if you’re interested in webkit and/or want to give a hand, you can subscribe to the pkg-webkit-maintainers mailing list[5]. Everything is ready for team maintenance, so, don’t hesitate ;).
+
+If you want to track changes on the debian repo, there is also a pkg-webkit-commits mailing list[6] where the post-receive hook sends the commit messages.
+
+[1] http://people.debian.org/~glandium/epiphany-browser_2.19.90-0.1_i386.changes
+[2] http://people.debian.org/~glandium/webkit_0~svn25144-1_i386.changes
+[3] http://git.debian.org/?p=pkg-webkit/webkit.git;a=summary
+[4] http://git.debian.org/?p=pkg-webkit/upstream.git;a=summary
+[5] http://web.glandium.org/blog/ http://lists.alioth.debian.org/mailman/listinfo/pkg-webkit-maintainers
+[6] http://lists.alioth.debian.org/mailman/listinfo/pkg-webkit-commits
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Romain Francoise: bzip2 compression in debs <http://blog.orebokech.com/2007/08/bzip2-compression-in-debs.html>
+
+Date: Sun Aug 19 18:28:19 UTC 2007
+
+During my previous adventures[1] with the Debian archive, I found that two packages in the archive use bzip2 compression inside the .deb instead of the traditional gzip compression, so I decided to try it out on emacs-snapshot (one of my larger packages). The combined size of the deb files goes from 36764KB to 33880KB, a 2884KB (7.8%) difference. It also makes both lintian and linda unhappy, the former gives me the following error:
+
+E: emacs-snapshot-nox: deb-data-member-wrongly-compressed
+N:
+N: The binary package contains a data member not compressed with gzip.
+N: From dpkg-dev 1.11 on, you can configure the way the data tarball is
+N: compressed. Though this is possible, you are not allowed to use it
+N: before dpkg 1.11 (or later) enters stable.
+
+and linda just bombs:
+
+E: emacs-snapshot-common; Package uses a newer feature of dpkg.
+This package uses a data.tar, or data.tar.bz2 member of the .deb. This
+was introduced in dpkg 1.11, but is not allowed to be used until dpkg
+1.11 or later hits stable.
+File ...3_all.deb failed to process: Level 2 unpacking failed:
+Could not unpack data tarball
+
+Etch was released with dpkg 1.13.25, so bzip2 compression is probably allowed now. But is a 7.8% saving worth the incompatibility price? I'm not sure.
+
+[1] http://blog.orebokech.com/2007/08/debian-packages-without-md5sums.html
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Adam Rosi-Kessel: Solid State Kitchen Linux Box <http://adam.rosi-kessel.org/weblog/2007/08/19/solid-state-kitchen-linux-box/>
+
+Date: Sun Aug 19 13:38:00 UTC 2007
+
+Dear LazyWeb:
+
+Our kitchen laptop is on its last legs. I’d like to replace it with a standalone LCD and a cheap, quiet, low-power CPU with just one or two gigabytes of storage for the operating system (music and other data are stored on a server in the basement). Can someone point me in the right direction? This is an instance where Google doesn’t provide an obvious leading/consensus solution. Most searches for solid state computers point to laptops, which isn’t what I want. The closest thing I’ve found is the Zonbox[1], but I’m not interested in their network/subscription storage model. Ideal specs:
+
+- Total cost less than $300 (preferably less than $200)
+- High-end Pentium III or lower-end Pentium IV, or equivalent. Should be able to play ogg files and browse today’s overactive websites at the same time without user latency. No need to support graphics-intensive applications like gaming or video editing.
+- Built-in wireless networking. Support for a PCMCIA wireless card would also be acceptable. Most data will be accessed via an NFS share on the WAN.
+- 1GB or 2GB of Flash memory for storage.
+- Standard VGA out, preferably at least 1280�1024 (although 1024�768 would be okay).
+- USB ports for keyboard, mouse, possibly external hard drive storage when needed.
+- Painless Debian/Ubuntu installation, including out-of-the-box suspend/resume functionality.
+
+Suggestions?
+
+Share This[2]
+
+[1] http://zonbu.com/device/
+[2] http://adam.rosi-kessel.org/weblog/?p=564&amp;akst_action=share-this
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Kai Hendry: Sharing multimedia <http://natalian.org/archives/2007/08/19/sharing-multimedia/>
+
+Date: Sun Aug 19 13:08:16 UTC 2007
+
+[A][1] 
+
+Ok, I have the slug[2]. It’s great because it allows me to easily & reliably share my multimedia collection. 
+
+So I’ve moved my multimedia collection to a massive hard drive attached to the slug and now that hard drive is full. I could buy an even bigger NAS, though wait a minute… 
+
+I have GIGs of (wasted) free space across my (flat mate’s) machines. 
+
+Wtf happened to P2P? I need something like what Google has. 
+ 
+- A distributed file system. 
+- With search. 
+- It doesn’t have to work across on the Internet, though listening to some remote friend’s music would be nice. 
+- Any level of data redundancy would be awesome. (I despise RAID) 
+- I want direct access from the FS. No odd interfaces. (something with fuse?) 
+ 
+
+I distantly recall mounting NFS shares of each of my (friend’s) machines and then mounting them on the central slug and trying to re-share them. I don’t think that works. 
+
+I remember in University dorms (I’m not telling where!), students had a massive multimedia share with Windows file sharing. It actually worked quite well, including search. 
+
+Any tips lazyweb? Or are centralised services really the future?
+
+[1] http://www.flickr.com/photos/hendry/1172361934/
+[2] http://natalian.org/archives/2007/07/03/slug/
+
+[A] http://farm2.static.flickr.com/1055/1172361934_fe1a77dc72_m.jpg
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Wouter Verhelst: "empty" LDAP addressbooks <http://www.grep.be/blog/en/computer/play/ldap_addressbooks>
+
+Date: Sun Aug 19 13:04:00 UTC 2007
+
+Bernhard R. Link blogs[1] about LDAP addressbooks in Thunderb^WIcedove, and mentions: Also don't be confused by no records shown in the new addressbook. I guess that is some measure against always loading a possibly large remote addressbook. To test just enter anything in the search field, and the matching records should show up nicely. (I'm not sure if all versions allow searching for substrings. If they do, try searching for the at sign, to get a full list.)
+
+Actually, the reason is that an LDAP server is not a database, and it is not required to return the full list of matching items of a search, if that list is sufficiently large (I believe the RFC suggests a minimum of 100 items to be returned); this is to avoid people DoSsing the LDAP server by accident. It also means that the suggestion to search for the at sign to get all items in the directory may not work.
+
+[1] http://pcpool00.mathematik.uni-freiburg.de/~brl/blog/index.html#22
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Holger Levsen: again <http://layer-acht.org/blog/debian/#1-120>
+
+Date: Sun Aug 19 12:45:08 UTC 2007
+
+Again I have 99 unread mails in my mailbox ;-)
+
+More than two weeks ago I watched Inbox zero[1], which I recommend you to watch if you have problems coping with your inbox, even if it mostly boils down to "getting things done".
+
+/me smiles and continues to update tuxmath :-)
+
+[1] http://video.google.com/videoplay?docid=973149761529535925
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Biella Coleman: The Lingering Memories of War <http://healthhacker.org/satoroams/?p=814>
+
+Date: Sun Aug 19 12:22:09 UTC 2007
+
+As many readers of this blog know, I tend not to shy away from writing about my mother’s struggle with Alzheimers. But in the last 6 months and especially since I paid my last visit to my mother, I have found it much harder to sit and write about her current state of affairs. If we think of Alzheimers as a journey to a new place, she is almost at the point of reaching that place of great loneliness and inhospitality, which is not only new and different—both for her and those around her—but is a virtual prison, for it rarely allows you to leave and visit the places of your past.
+
+More than ever, her memory and understanding of her life as she (as I and many others), once knew it, is fading fast; Of course, this was to be expected but it is quite difficult to imagine what it will be like until the actual experience unmistakably knocks on the door of present time and unfortunately, when it knocks, you can’t do anything but open the door and let it in.
+
+Unsurprisingly, it is incredibly difficult to witness and interact with a person who is losing most all recollections, the stuff of which, you come to realize, is what defines a person and allows you to more or less have the opportunity to seamlessly interact with him or her.
+
+In the last number of months, I have perhaps been more silent than usual because there is only so much I can and want to think about when it comes to my mother’s decline. I talk to her nearly every day and I have decided for now, that is enough.
+
+But I am retreating out of my silence after reading a refreshingly honest, though still somewhat timid piece on Alzheimer in the NYTimes, entitled Zen and the Art of Coping With Alzheimer’s
+[1]
+
+The piece is striking because it offers a more realistic portrayal of the disease than most mainstream media accounts and it provides some really sound advice about the importance of just letting go and going with the flow when interacting with those with Alzheimers.
+
+At the same time, it lacks a certain window into just how disheartening and hard it can be to witness the decline, and how hard it can be to manage those conversations and interactions.
+
+On the whole, I try to go with the flow. For example, I recently returned from a visit and soon after I left, my mother forgot I was even there. She started to ask me over and over again when I was coming home for a visit and when I told her I was just there, her semi-humorous reaction was “well, why didn’t anyone tell me?” (and then proceeded to castigate her caretaker for not telling her!!).
+
+Perhaps I did not stay long enough, or perhaps her lack of recall would happen no matter what. To hear she forgot shook me hard and deeply. The first time I realized she could not remember I had just visited, I was able to jog her memory by listing off all that we did together. Finally, when I mentioned that I bought a new refrigerator while in PR, something clicked. She is still worried about money, so buying a refrigerator was enough to remind her I had spent a lot of money.
+
+But after it was clear that she felt quite bad about not remembering, I knew that was the first and last time I would try to “jog” her memory. Instead, I will merge and mold my reality to her reality, as much as I can and assure her that I will soon visit.
+(more…)[2]
+
+[1] http://www.nytimes.com/2007/08/14/health/14seco.html?ei=5087%0A&#038;em=&#038;en=d0e729d8196a22f5&#038;ex=1187323200&#038;adxnnl=1&#038;adxnnlx=1187185170-Ko4yCS2ohzKBDSRKCdNbfQ
+[2] http://healthhacker.org/satoroams/?p=814#more-814
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Alexis Sukrieh: The road to libdevel-repl-perl, part 2 <http://www.sukria.net/en/archives/2007/08/19/the-road-to-libdevel-repl-perl-part-2/>
+
+Date: Sun Aug 19 11:48:12 UTC 2007
+
+Thanks to Florian Ragwitz, who packaged libpadwalker-perl 1.5-1[1], there is no blocker anymore that prevents libdevel-repl-perl from entering sid:
+
+[A]
+
+By the way, the author of Devel::REPL, Matt S Trout, looks pretty happy to see his module entering Debian[2].
+
+I’ve just uploaded libdevel-repl-perl, this upload closes the exciting work session we did during all the weekend with Damyan Ivanov, in order to get the module into debian. All its dependencies are now in the Perl group’s hands. That was fun.
+
+Team maintenance rocks!
+
+[1] http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=438569
+[2] http://chainsawblues.vox.com/library/post/devel-repl-going-into-debian-apparently.html
+
+[A] http://www.sukria.net/images/libdevel-repl-perl-deps-2.png
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Ross Burton: Mini PC Loveliness <http://www.burtonini.com/blog/computers/minipc-2007-08-19-12-00>
+
+Date: Sun Aug 19 11:00:00 UTC 2007
+
+I've just discovered the AOpen MP965-DR mini PC[1], and blimey it's lovely. Does anyone out there run have one? If I got one it would be under the television and always on, so heat and noise are important factors to me.
+
+[1] http://minipc.aopen.com/Global/spec.htm
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: MJ Ray: Hamburg Classic <http://mjr.towers.org.uk/blog/2007/cycling#hhracing>
+
+Date: Sun Aug 19 10:47:00 UTC 2007
+
+NDR[1] are broadcasting the Hamburg Classic[2] in DVB (digital) and PAL (analogue) at 19 east[3] at 11-14 GMT today, while ARD[4] at 19 east and 13 east[5] overlaps at 12.30-15.00 GMT, presumably including the closing stages. Notably, this race has excluded Tour de France winner Contador, apparently as well as everyone else even *mentioned* in connection with the Fuentes affair.
+
+Yesterday's last stages of the Burgos and the Deutschland-Tour seemed surprisingly unsurprising, with Juan Mauricio Soler and Jens Voigt kept their respective leads.
+
+[1] http://www.ndr.de/tv/
+[2] http://www.vattenfall-cyclassics.de/elite/
+[3] http://en.kingofsat.net/find.php?question=ndr&amp;standard=All
+[4] http://tour.ard.de/
+[5] http://en.kingofsat.net/detail-ard.php
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Joerg Jaspert: UMTS? <http://blog.ganneff.de/blog/2007/08/19#umts>
+
+Date: Sun Aug 19 09:22:52 UTC 2007
+
+Im currently looking if a UMTS data connection (flatrate) is something for me. Looking around it seems Vodafone has the best network for UMTS with that HSDPA technology (3.6MBit/s max. instead of only 384kbit/s). Especially the area I am most interested in - my way to work, is only available with HSDPA from Vodafone, all other telcos dont seem to be able to get UMTS there. Some days ago I sat besides someone in a train back home who was using UMTS connection. And didnt seem to have any problems. When I asked he told me that its fairly stable, on the whole way he only knows two points where the card seems to switch to the slower GPRS way. And looking at his screen he was using some weird webchat thingie, so nothing that likes too huge lags. (Ah, btw - how can anyone seriously chat in such a weird way? I mean - we have IRC, WTF are people dumb enough to use their webbrowser to chat? Thats so silly)
+
+My main usage would be to be online on the way to work / back home, which is about 1.5h each, so 3hours on days where I go to work (using ICEs, so at least there are repeaters for the mobile stuff in the trains). Most of my online usage is ssh based, usually via (Open)VPNs, then some mail sync runs and various small things. Moobicent[1] does offer a flatrate (a real one, not such a “customers are dumb and dont see it is trafficlimited just because we named it flat”one) using the Vodafone network. The hardware I need for it costs 99EUR when I order there. Its some PC Express Card[2] that comes with a PCMCIA Adapter.
+
+Now, has anyone out there reading this blog experiences to share? Using google there is Marcs blog[3] which suggests it shouldn’t be too hard to get it all running, but maybe there is something I missed to take into account?
+
+Comments? Suggestions? Anything? Email me[4] or catch me on IRC, (no, my blog doesnt have comments), and I summarize the results later. *Update:*UMTS == 3G; 2 People already told me that the Vodafone net is the right selection in Germany, one said the same for UK.
+
+[1] http://www.moobicent.de/
+[2] http://www.moobicent.de/mobiledsl-flat/hardware/pc-express-card/
+[3] http://blog.zugschlus.de/archives/114-UMTS-unter-Linux-funktioniert.html
+[4] http://planet.debian.org//mailto:&#106;&#111;&#101;&#114;&#103;&#64;&#103;&#97;&#110;&#110;&#101;&#102;&#102;&#46;&#100;&#101;
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Bernhard R. Link: Using slapd as thunderbird/icedove addressbook <http://pcpool00.mathematik.uni-freiburg.de/~brl/blog/index.html#22>
+
+Date: Sun Aug 19 09:05:59 UTC 2007
+
+It&aposs been some time since I got this working, but I decided to now also blog about it here now, as I was just asked it.
+
+The main magic to get thunderbird/icedove use your ldap server as addressbook, is to include the proper schema. Search the web for mozillaAbPersonObsolete and you should find it. You do not have to use any of it&aposs new fields, not even the object class in it is needed. Your slap only have to know about the field names, then thunderbird will be able to show the normal inetorgperson&aposs mail attribute.
+
+Some caveats, though:
+
+You might think you might test your settings in thunderbirds by using that button to download everything and store it locally. In my experience that never works but strangly asks for a password, while the addressbook is already nicely working and needs no password at all.
+
+Also don&apost be confused by no records shown in the new addressbook. I guess that is some measure against always loading a possibly large remote addressbook. To test just enter anything in the search field, and the matching records should show up nicely. (I&aposm not sure if all versions allow searching for substrings. If they do, try searching for the at sign, to get a full list.)
+
+The shown fields seem also a bit strange, and differ with the different mozilla messenger/thunderbird/icedove versions. In some versions the field the primary name is extracted from can be changed, but directive to set that seems to change even more often.
+
+Finaly, some snippet for your /etc/icedove/global-config.js, which causes all newly created users to have an addressbook as default. I forgot if all are needed or why I added them, but those that are unnecessary at least do not seem to harm. (Last tested version is the one in etch, though. Newer version might again have something changed).
+
+/* ldap-Server for FOOBAR */
+pref("ldap_2.autoComplete.useDirectory", true);
+pref("ldap_2.prefs_migrated", true);
+pref("ldap_2.servers.mathematik.attrmap.DisplayName", "displayName");
+pref("ldap_2.servers.default.attrmap.DisplayName", "displayName");
+pref("ldap_2.servers.mathematik.auth.savePassword", true);
+pref("ldap_2.servers.mathematik.description", "FOOBAR");
+pref("ldap_2.servers.mathematik.filename", "foobar.mab");
+pref("ldap_2.servers.mathematik.maxHits", 500);
+pref("ldap_2.servers.mathematik.uri", "ldap://HOSTNAME:389/ou=People,dc=FOOBAR,dc=TLD??sub?(mail=*)");
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Andreas Metzler: those were the times <http://www.bebt.de/blog/debian/archives/2007/08/19/T09_03_50/index.html>
+
+Date: Sun Aug 19 09:03:50 UTC 2007
+
+Found at the exhibition /Play with Technology/ in Technisches Museum Wien[1]:
+
+[A] [2]
+a small working x-ray machine toy. See description[3].
+
+[1] http://www.tmw.at/
+[2] http://www.bebt.de/images/blog/x-ray.jpeg
+[3] http://www.bebt.de/images/blog/x-ray-text.jpeg
+
+[A] http://www.bebt.de/images/blog/x-ray-small.jpeg
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Russell Coker: Colorado Software Summit 2007 <http://etbe.coker.com.au/2007/08/19/colorado-software-summit-2007/>
+
+Date: Sun Aug 19 09:00:14 UTC 2007
+
+On about 5 years I attended the conference The Colorado Software Summit[1]. The first one was the last conference under the old name (ColoradOS/2) but then as OS/2 was rapidly losing market share and the conference delegates changed their programming interests it changed to become a Java conference.
+
+The Colorado Software Summit rapidly became known as THE event to really learn about Java, other conferences are larger and have a higher profile but the organisers of CSS decided to keep the numbers smaller (600 is usually the maximum number of delegates) to provide better opportunities for the delegates to meet and confer. One of the attractions of CSS is the large number of skilled and experienced people who attend, there are many delegates who can teach you lots of interesting things even though they aren’t on the speaking list. I ended up never doing any serious Java programming, but I still found that I learned enough and had enough fun to justify the expense.
+
+Currently there is an early registration open which saves $200 off the full price ($1,795 instead of $1,995), this lasts until the 31st of August. In addition to this the organisers have offered a further $100 discount to the first five readers of my blog who register personally (IE an individual not a corporation is paying for the ticket). To take advantage of the extra $100 discount you must include the code *CSS509907* in your registration.
+
+PS I have no financial interest in this matter. I like the conference organisers, but that largely stems from the fact that they run great conferences that I have enjoyed. I recommend the conference because it’s really good.
+
+Share This[2]
+
+[1] http://www.softwaresummit.com/
+[2] http://etbe.coker.com.au/?p=357&amp;akst_action=share-this
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Simon Richter: Hacking <http://www.hogyros.de/?q=node/304>
+
+Date: Sun Aug 19 08:23:25 UTC 2007
+
+Some more hacking and the xcontrol aware "checkbuilddeps" command is nearly done. I have no idea whether using apt to access the package database was a good idea -- those bits that deal with it are hardly readable. On the other hand, directly reading the status database is frowned upon.
+
+Hooray for more abstraction layers.
+
+In other news, there is now a wiki page for xcontrol[1].
+
+[1] http://wiki.debian.org/Xcontrol
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Peter Makholm: libcbtsysinfo_0 <http://peter.makholm.net/2007/08/18/libcbtsysinfo_0/>
+
+Date: Sat Aug 18 19:04:09 UTC 2007
+
+While testing Debian Live[1] I suddenly discovered that something had installed a library in my home directory: ~/cbt/lib/libcbtsysinfo_0.so.
+
+Google gives two hints: Some discussion on the danish usenet group dk.edb.mac[2] and some discussion on debian-user[3].
+
+It looks like it get installed when I log into my internet bank. By lookin at the symbols extracted by objdump (a couple of symbols stating with Java_com_ibm_cbt_slight_CbtSysInfo) it seems to be IBM’s Crypto-base Transaction[4] system.
+
+Evil to install such thing without asking. (Well, it’s a Linux/x86 library even though I’m using Linux/PPC)
+
+[1] http://debian-live.alioth.debian.org
+[2] http://groups.google.com/group/dk.edb.mac/browse_thread/thread/c8acbc3fa46116ec/9bf9dff1b6cf03bf
+[3] http://lists.debian.org/debian-user/2007/07/msg02432.html
+[4] http://www-03.ibm.com/security/products/cbt.shtml
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Michael Janssen: Got a camera rolling on your back <http://base0.net/archives/321-Got-a-camera-rolling-on-your-back.html>
+
+Date: Sat Aug 18 18:35:51 UTC 2007
+Author: nospam@example.com (Jamuraa)
+
+For the last few weeks, I've been trying to participate in Project 365[1]. For those that don't know about it, it is the idea of taking one picture a day in order to accomplish.. something. I'm mainly just doing it for fun, and in order to improve my picture-taking skills with my camera phone. I have it walking around everywhere basically, so when I see something interesting, I try to have my phone at the ready. Some times I just take pictures of random stuff[3], but others are more[4] interesting[5].
+
+I've found that it's pretty useful for me. If you see the set, you can almost notice a perceptible increase in quality of the photos. It may just be because I'm taking 2-3 photos per day and choosing the best one, or I may be actually improving in my photo-taking abilities. Hopefully by the end of the year, the set of mine[6] will actually have more than 300 photos in it.
+
+The idea of taking a picture a day is quite interesting to me, if only because if you asked me what I was doing last year this time, I would probably give you a general idea because my life is basically boring - I work in an office, even when I'm at school. This way I might have some idea or get reminded.
+
+I do have a couple of kinks that I would like to work out when I'm doing it though - when I download my photos through Bluetooth using my phone, it sets all of the creation dates to the time that I transfer the photos instead of the time that I took the photos. This means that I need to fiddle with the "taken on" date when I finish uploading the pictures - there's no way to use the Flickr Uploadr[7] to set the date. This, and the horrible VGA camera that I have in the phone make it tempting for me to buy a new phone with a better camera and tools for transferring. Also, some days I just stay in, and don't do anything interesting, so I don't have anything interesting or different to take a picture of. I'm thinking of just taking a self-portrait[8] on those days, but I'm not sure that it would be interesting enough.
+
+[1] http://photojojo.com/content/tutorials/project-365-take-a-photo-a-day/
+[2] http://flickr.com/photos/jamuraa/1161207399/in/set-72157601532004533/
+[3] http://flickr.com/photos/jamuraa/1162062936/in/set-72157601532004533/
+[4] http://flickr.com/photos/jamuraa/1012736321/in/set-72157601532004533/
+[5] http://flickr.com/photos/jamuraa/1088783453/in/set-72157601532004533/
+[6] http://flickr.com/photos/jamuraa/sets/72157601532004533/
+[7] http://flickr.com/tools/
+[8] http://flickr.com/photos/jamuraa/1012736547/in/set-72157601532004533/
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: David Welton: Business Friendly <http://journal.dedasys.com/articles/2007/08/18/business-friendly>
+
+Date: Sat Aug 18 16:54:00 UTC 2007
+
+Growing up in Eugene, Oregon, which like Berkeley or Boulder could have the label "People's Republic of" applied to it, I always thought of "business friendly", as something along the lines of helping huge corporations avoid laws against pollution, or other antisocial behavior. Only after moving to Europe did I begin to get an idea of what the very positive side of "business friendly" is in the US.
+
+Truth be told, all countries tend to protect their 'big players' to some degree, be it the US propping up creaking airlines after September 11th, Italy finding various clever ways to get around rules about funding Fiat and Alitalia, or France finding it in their 'national interests' to discourage a potential bid for Danone (yogurt!) by PepsiCo. Some are better or worse (the UK has been pretty good about not interfering), but there is a tendency to want to intervene.
+
+Leaving be the discussion over whether those sorts of policies are good, bad, or ugly, the biggest difference between continental Europe and the US is the ease with which new companies - 'startups' can be created and enter a market.
+
+As a first hand example, I decided this summer to create DedaSys as a real company in order to better separate my business and personal financial dealings. Were I to do that in Italy or Austria, we would be talking about fees upwards of 3000 Euros (about 4000 dollars at market rates), which is a great deal of money for something that is not making a lot of it at this point in time.
+
+Contrast this with what it took to create a Limited Liability Company (LLC) in Oregon, my home state. To have things done up professionally, it's certainly possible to lay down a bit of cash there too, but by trading my time for money, and with the assistance of some nolo.com books about the creation and maintenance of an LLC, I was able to register DedaSys with the state of Oregon for the grand total of 55 dollars, and was actually able to complete the process remotely from Austria prior to going home on vacation, where I did the only thing I needed to do in person: open a bank account.
+
+So it costs 1% of what it costs in Italy or Austria to open a company that provides limited liability... a very impressive difference, especially to a small, new company that does not have the connections a Ford or a Fiat will likely have to enable it to deal with all the other paperwork, rules, and regulations to deal with.
+
+Add to that a culture of greater risk taking (meaning also more acceptance of failure), better funding opportunities, and... one comes to the conclusion that Paul Graham is right[1]. It's a pity, because the people in Europe are top notch. In Italy alone, I know a bunch of really bright hackers. Granted, some of them aren't interested, and are probably better off not starting a company or otherwise dealing with the business side of the equation, but it's always nice to have that opportunity.
+
+In closing, here is another example of bureaucracy in action, from my personal on line journal about life in Italy, and now Austria, which I recently revamped by moving it to the Typo platform:
+
+Confronting the bureaucratic beast - registering an Italian domain[2]
+
+Two months to accomplish what can be done in ten minutes with a .com!
+
+[1] http://www.paulgraham.com/america.html
+[2] http://padovachronicles.welton.it/articles/2007/08/18/confronting-the-bureaucratic-beast-registering-an-italian-domain
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Gustavo R. Montesino: Final SoC releases <http://grmontesino.blogspot.com/2007/08/final-soc-releases.html>
+
+Date: Sat Aug 18 16:48:19 UTC 2007
+
+I've just finished releasing new versions of all modules related to my Summer of Code project, the Bug Triage and Forward Tool. If my mentor doesn't find any serious bug, these will be the last releases under the SoC flag. Thanks again, Google, for this great program and the progress it brings to Free Software.
+
+The releases:
+
+bzutils 0.2:
+
+- Announcement[1]
+- Source .tar.gz[2]
+btsutils 0.3:
+
+- Announcement[3]
+- Source .tar.gz[4]
+bug-triage 0.2.2:
+
+- Announcement[5]
+- Source .tar.gz[6]
+Debian packages should hit the archive as soon as they get evaluated and sponsored. Of course, a full status report will also be posted during the evaluation time.
+
+[1] http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000006.html
+[2] http://alioth.debian.org/frs/download.php/2112/bzutils-0.2.tar.gz
+[3] http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000005.html
+[4] http://alioth.debian.org/frs/download.php/2111/btsutils-0.3.tar.gz
+[5] http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000007.html
+[6] http://alioth.debian.org/frs/download.php/2116/bug-triage-0.2.2.tar.gz
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Daniel Stone: a fit of narcissism <http://www.fooishbar.org/blog/life/stonesCorollory-2007-08-18-17-12.html>
+
+Date: Sat Aug 18 14:21:46 UTC 2007
+
+Courtesy of an article in today's Guardian, I present Stone's Corollary to Burton's Low[1]:
+As a discussion about the contribution of vehicles to climate change grows longer, the probability of stating that China is putting 1,000 new cars on the road every week[2] approaches one.
+When used as a defence for driving an SUV, I'd also like to invoke the sudden death variant, where the discussion is finished immediately.
+
+[1] http://www.burtonini.com/blog/life/burtons-low-2007-08-13-19-26
+[2] http://www.guardian.co.uk/environment/2007/aug/17/china.pollution
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Erich Schubert: More (ranting) on Skype <http://blog.drinsama.de/erich/en/2007081701-skype.html>
+
+Date: Sat Aug 18 12:14:00 UTC 2007
+
+A couple of people have pointed me to the "Skype DoS exploit code" that has been published. I had seen that, but I'm not convinced it works as simple as that. Some of the information around it doesn't make completely sense (such as using the term 'server', when they're referring to super nodes I guess, and since supernodes are just regular user machines annexed by the Skype network, they supposedly run the same software, don't they? So why doesn't it take down the client the exploit is run on?
+
+Also I'd bet that someone has tried feeding the Skype client long URIs before; that is one of the most popular ways of seeing if some software can break. You know, Buffer Overflow [wikipedia][1] is probably the most common class of security issues (maybe second only to PHP programming errors or SQL injection by now, though, with so many people with too little expertise writing webapps in PHP)
+
+Others probably are wondering why I'm writing so much "against" Skype.
+
+There are numerous reasons:
+
+- The whole P2P thing isn't necessary, they could use real servers
+- Skype is a pain for every network admin (and thus a users nightmare, since the admin might decide to just block any traffic that could be Skype, and enforce the use of HTTP proxies etc. and thus limiting other applications as well)
+- Skype uses all kinds of shady coding techniques in their client to obfuscate what their application is actually doing
+- Skype is a security risk
+- Skype is a memory hog (it uses 10 times as much memory as my other IM client, who does ICQ, MSN, Yahoo, Google Talk and tons of others!)
+- It's a resource hog (it wakes up 200 times as second for nothing, thus preventing my CPU from using power saving states efficiently)
+- It's a closed protocol and network, while there are open industry standards such as SIP [wikipedia][2] and H.323 [wikipedia][3] that can do much more than Skype
+- It's UI is crap (especially Linux version 1.4 is a serious degradation vs. version 1.3), contrary to any usability best practises
+- Their API is crap. I'd call that "raping" the DBus API what they're doing (basically they're offering a DBus interface that is just a transport wrapper for a text-based 'telnet-like' API. You know, DBus interfaces are meant to have meaningful functionality (like 'make a phone call') and not meant to be just "send data to the skype application")
+- They don't tell the truth. Like e.g. what has really been happening these days. Or what their software really does (see 'obfuscation' above and search for "Silver Needle In The Skype")
+
+And, honest, there is nothing in Skype that other apps wouldn't offer, or had been offering before *except* being really *aggressive* at getting through firewalls without any user intervention.
+
+[1] http://en.wikipedia.org/wiki/Buffer_overflow
+[2] http://en.wikipedia.org/wiki/Session_Initiation_Protocol
+[3] http://en.wikipedia.org/wiki/H.323
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Bdale Garbee: Conservation: It's in the Bag <http://www.gag.com/cgi-bin/blosxom/2007/08/18#2007.08.18>
+
+Date: Sat Aug 18 08:52:00 UTC 2007
+
+I was just reading the latest issue of Home Power[1] magazine, which is celebrating 20 years of publication with this issue. One of the articles, by Kathleen Jarschke-Schultze, talks about the value of reusable cotton bags for shopping instead of accepting the usual "paper or plastic". It caught my eye because my wife Karen is an avid cotton-bag user. Kathleen ends the article with an idea that I think is worth repeating:
+
+So how about this new etiquette: Conservation in everything except courtesy and generosity. Seems like that would be a refreshing change. We all need to just put one foot in front of the other to keep moving forward on conserving global resources. Even if it is slow or small, take that first step.
+
+I like that. Conservation, courtesy, and generosity should never go out of style...
+
+[1] http://www.homepower.com/
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Pete Nuttall: Firefox blocking <http://www.lupin.org.uk/blog/computing/blocking-firefox.html>
+
+Date: Sat Aug 18 04:59:42 UTC 2007
+
+The great thing about the internet is that people can use it to make a fool of themselves in front of the whole world. Since this provides everyone with entertainment, I try and do something silly every once in a while. However, I'm easily topped by other people... Today's morons are these guys[1] who have decided that ad blocking is evil, bad and wrong. Their argument is simple - that not looking at the ads would be stealing. They point out they can't block people who are using the Ad Blocker, so they have to block every firefox user. This is the MPAAs thinking - the user is the enemy. For me, all it means is that I can't visit these websites - I'll have to go spend money somewhere else...
+
+[1] http://whyfirefoxisblocked.com/
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Eddy Petrișor: how did the Debian Games Team got rid of spam <http://ramblingfoo.blogspot.com/2007/08/how-did-debian-games-team-got-rid-of.html>
+
+Date: Sat Aug 18 03:33:11 UTC 2007
+
+How to get rid of most spam on Alioth mailing lists.
+
+Until some Debian developer implements this idea[1] in the BTS, the mailing list and in PTS, the quantities of spam that people get on the mail addresses they expose in the Debian world, the spam will keep on coming in huge quantities. I don't care that there will always be spam, I care that the amount of spam would be lower or probably nonexistent for one time sending (I sent just one mail to the BTS from two different mail addresses and it was enough to get huge amounts of spam on them).
+
+The Debian Games Team's ML has suffered for a while, back in 2006, from spam bombing.
+We thought that the easiest method to get rid of spam is to requires registration in order to be able to send mails to the list.
+
+That was a big mistake because, as some people suspect, mails from the BTS needed to be allowed in and the reporters got an automated reply saying that the mail is waiting for approval, etc, etc - plain rude, people send you bug reports and you say "You are not listed, bla, bla bla". We changed the setting not to send any automatic reply and people were more content.
+
+But still, we had to hand approve or white list valid mails/addresses. That worked for a while, but once the mail ended up on spammer lists, the thing blew out of proportions. We were desperate. We tweaked the settings of the lists in different ways, but in the end we ended up in having such a broken setup that we had to approve white listed addresses.
+
+That did for me. I had to do something. So I started working on the ML setup and basically I did the following things[2] to get rid of spam:
+
+- anything coming from white listed mail addresses was approved
+- black listed mails (bellsouth is one of those) is rejected (or should be)
+- anything that came from the BTS (there are some nice headers that the BTS puts) and was evaluated as ham with a score of 0 (there is a field for that, too - some field has Spam=No, Score=...) was allowed
+- anything that came from the BTS that was Spam=No with a score above 0 was held for moderation
+- anything else is held for moderation
+
+This solution allowed us to lighten the burden of manually white listing every email address that ever sent valid mails to the BTS and to focus only on real spam.
+
+Try it your self on your lists, you'll be pleasantly surprised.
+
+[1] http://wiki.debian.org/UsefulImprovements#head-e0eab470284b59976fc9c112a979ecf674879d27
+[2] http://lists.debian.org/debian-devel-games/2007/04/msg00035.html
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Gunnar Wolf: Aggressive bug reports leading to a good answer (or so I hope) <http://www.gwolf.org/index.php/blog/show/Aggressive-bug-reports-leading-to-a-good-answer-or-so-I-hope.html>
+
+Date: Fri Aug 17 21:47:40 UTC 2007
+Author: gwolf@gwolf.org (Gunnar Wolf)
+
+Joey complains about users filing aggressive or otherwise inappropriate bug reports[1]. Well, in this case I must say I bit the bullet.
+Yesterday, somebody complained about the maintenance statuse[2] of libapache2-mod-perl2[3]. Usually, I would have sadly nodded and said that, yes, since the API change between mod_perl for Apache 1.x and mod_perl2 for Apache 2.x (which was a *long* time ago - with perfect timing *not* to be accepted in the last weeks of Sarge's hard-freeze period, causing many of us to have to maintain two or even three versions of our code depending on the API used - But that's a different story I won't go into details now). But this time, the bug report was sent with Severity: critical.
+I replied to this report, intending just to lower its priority and get the attention of the maintainers by sending it to a couple of Debian lists[4] - But soon afterwards, it became obvious that I was probably the person most interested in this package in Debian - At least, me and some other pkg-perl fellows[5] who -as foolishly as myself- volunteered to step forward when needed.
+Well, in short: I am now the proud owner of one of the packages most vital for many of the systems I've written for my work. It's also more complex than most of the other packages I maintain. From an undermaintained and quite full of warnings build process and resulting package set, I managed to make it linda- and lintian- clean, and... Well, now we have to dig through its open bugs[6]. Its build system is far from orthodox from a Perl point of view, and that took me most of the day, but hey - TIMTOWTDI, right? :)
+
+[1] http://kitenet.net/~joey/blog/entry/a_little_politeness__44___please/
+[2] http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=438168
+[3] http://packages.debian.org/cgi-bin/search_packages.pl?searchon=names&#038;version=all&#038;exact=1&#038;keywords=libapache2-mod-perl2
+[4] http://lists.debian.org/debian-devel/2007/08/msg00681.html
+[5] http://alioth.debian.org/projects/pkg-perl
+[6] http://bugs.debian.org/cgi-bin/pkgreport.cgi?pkg=libapache2-mod-perl2;dist=unstable
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Erich Schubert: Skype problems aren't solved, but just worked around? <http://blog.drinsama.de/erich/en/2007081701-skype-problems-not-solved-just-worked-around.html>
+
+Date: Fri Aug 17 20:55:00 UTC 2007
+
+Skype seems slowly to recover from yesterdays blackout.
+
+However, it doesn't look to me as if they've actually solved the problem. I assume they've just added a workaround (e.g. maybe using DNS to locate good servers?) that help recovering. At least when enough people download the new version.
+
+If you look at the graphs at Njanjan.to[1] and 85qm.de[2], then they still look far from healthy.
+
+I'm not talking about the mere numbers - Skype reports about 3 Million users connected, which would mean 1 out of 3 regular users is back. But I'm talking about the *shape* of the curve. During regular operations, the curve used to be smooth. Which is easy to explain: by some million users going online and offline *indepentenly*, it all smoothens out. The curve goes up when people start working in a densely populated area and goes down when they go to bed. But if you look at the graphs for the past few hours *parts of the Skype P2P network still appear to get disconnected and reconnected*. They cerainly didn't flip a switch and people could connect again. The service still appears to be going up and down.
+
+To me, that indicates that they actually *didn't solve the problem, but just found a way to make the problems not take down the whole network*, while parts still drop off now and then.
+
+Just my guesses, though. And Skype will not tell the truth either, you bet. (You might want to skim over the presentation "Silver Needle In The Skype" [PDF][3], about the inner workings of Skype, their obfuscation technologies and how far they go at hiding what their software is actually doing)
+
+P.S. I've read in a blog that Skype might right now only allow one connection per IP. That would even more support the rumors that they're actually trying to defend against an attack on their network (and using the IP limit to slow down the attacks?)
+
+P.P.S. Another interesting note: the Skype stats on the Skype website report 5.5 Million connected users - my Skype client reports 3.7 Million. Which number is correct?
+
+[1] http://nyanyan.to/skype/40hr_chart.php
+[2] http://www.85qm.de/archives/567-Skype-Netzwerk-hat-sich-immer-noch-nicht-erholt.html
+[3] http://www.blackhat.com/presentations/bh-europe-06/bh-eu-06-biondi/bh-eu-06-biondi-up.pdf
+****************************************
+Feed: Planet Debian <http://planet.debian.org/>
+Item: Alexis Sukrieh: The road to libdevel-repl-perl, part 1 <http://www.sukria.net/en/archives/2007/08/17/the-road-to-libdevel-repl-perl-part-1/>
+
+Date: Fri Aug 17 20:42:51 UTC 2007
+
+I decided to play with Devel::REPL which looks to be exactly what I need to enhance my Perl Console. That module is not packaged in Debian, then I started packaging it with the help of the Debian Perl Group (big thanks go to Damyan Ivanov for his help).
+
+The day was pretty productive and we’re almost done now, as you can see in this tomboy note:
+
+[A]
+
+* PS MadCoder: I’m sorry dude, I’m still speaking about Perl [B] *
+
+[A] http://www.sukria.net/images/libdevel-repl-perl-deps.png
+[B] http://www.sukria.net/en/wp-includes/images/smilies/icon_razz.gif

@@ -33,7 +33,9 @@ class HTMLOutputTest < Test::Unit::TestCase
           File::open(DSTDIR + '/' + f.gsub(/.xml$/, '.output.new'), "w") do |fd|
             fd.print(chanstr)
           end
-          puts "Test failed for #{f}. Try diff -u #{DSTDIR + '/' + f.gsub(/.xml$/, '.output')}{,.new}"
+          puts "Test failed for #{f}."
+          puts "  Check: diff -u #{DSTDIR + '/' + f.gsub(/.xml$/, '.output')}{,.new}"
+          puts "  Commit: mv -f #{DSTDIR + '/' + f.gsub(/.xml$/, '.output')}{.new,}"
           allok = false
         end
       else

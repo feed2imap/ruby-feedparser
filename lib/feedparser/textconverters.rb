@@ -24,6 +24,7 @@ class String
 MY_ENTITIES = {}
 FeedParser::HTML2TextParser::entities.each do |k, v|
   MY_ENTITIES["&#{k};"] = [v].pack('U*')
+  MY_ENTITIES["&##{v};"] = [v].pack('U*')
 end
 
   # un-escape HTML in the text. used by String#text2html
@@ -38,9 +39,20 @@ end
   # convert text to HTML
   def text2html(feed)
     text = self.clone
-    if text.html?
+    realhtml = text.html?
+    eschtml = text.escaped_html?
+    # fix for RSS feeds with both real and escaped html (crazy!):
+    # we take the first one
+    if (realhtml && eschtml)
+      if (realhtml < eschtml)
+        eschtml = nil
+      else
+        realhtml = nil
+      end
+    end
+    if realhtml
       # do nothing
-    elsif text.escaped_html?
+    elsif eschtml
       text = text.unescape_html
     else
       # paragraphs
