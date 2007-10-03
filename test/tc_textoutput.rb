@@ -4,7 +4,6 @@ $:.unshift File.join(File.dirname(__FILE__), '..', 'lib')
 
 require 'test/unit'
 require 'feedparser'
-require 'feedparser/text-output'
 
 class TextOutputTest < Test::Unit::TestCase
   if File::directory?('test/source')

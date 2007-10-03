@@ -2,6 +2,7 @@ require 'rexml/document'
 require 'time'
 require 'feedparser/textconverters'
 require 'feedparser/rexml_patch'
+require 'feedparser/text-output'
 require 'base64'
 
 module FeedParser

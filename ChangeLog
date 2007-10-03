@@ -5,6 +5,8 @@ Ruby-Feedparser 0.5 (XX/XX/2007)
 * In Atom feeds, use the date provided in <updated>, and use it in
   preference to the one in <published> if both are available.
   Closes gna bug #8987.
+* "require 'feedparser'" now requires 'feedparser/text-output'. Fixes a bug
+  reported by Sebastian Probst Eide.
 
 Ruby-Feedparser 0.4 (01/05/2007)
 ================================
