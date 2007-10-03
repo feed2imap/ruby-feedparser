@@ -120,7 +120,10 @@ sub deamonize {
 sub debug { return unless $DEBUG; print STDERR for @_; }
 
 __END__
-</code></pre><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 17:47:54 UTC 2007</font></td></tr>
+</code></pre>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 17:47:54 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -139,7 +142,10 @@ __END__
 <p><a title="PiX Frogger Homepage" href="http://www.pixjuegos.com/?q=node/30">PiX Frogger</a> is a clone of the classic game Frogger, in which you must help a frog cross the street to avoid becoming roadkill by cars and trucks. The frog starts at the bottom of the screen and the only control the player has is navigating the direction for the frog to hop. The game allows 4 players playing simultaneously with the keyboard.</p>
 <p>PIX Frogger is <a title="Debian NEW and BYHAND Packages" href="http://ftp-master.debian.org/new.html">on the way</a>. Implemented in <a title="Fenix Homepage" href="http://fenix.divsite.net/">Fénix</a>, an interpreted script programming language, <a title="Especially or Specially?" href="http://englishplus.com/grammar/00000287.htm">specially</a> designed to developing and running 2D games and added to <a title="Fenix in Debian" href="http://packages.debian.org/fenix">Debian repositories</a> some weeks ago, it has really cute graphics and the visual layout has been nicely taken care of. The game in itself is quite simple, so it shouldn&#8217;t be hard for smaller kids to play, especially when they can compete against each other 4 at a time.</p>
 <p>For more grown-ups, I guess it&#8217;s so cool to have a version in Debian from this historical game. I&#8217;m sure many people missed it. I hope it enters the repositories soon, but meanwhile you can get it from <a title="Some debian packages" href="http://users.alioth.debian.org/~baby-guest/fenix/">here</a>. Thake care while crossing the street, though.
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 17:25:22 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 17:25:22 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -159,7 +165,10 @@ it for posterity, in case anyone is looking for procmail documentation, tips,
 tricks, a how-to, or anything else related to procmail.</p>
 <p>And if you procmail and have not read the document, I suggest you do. It's
 truly outstanding.</p>
-<p>NP: <a class="reference" href="http://www.allmusic.com/cg/amg.dll?SQL=A%20Silver%20Mt.%20Zion&amp;P=amg&amp;OPT1=1">A Silver Mt. Zion</a>: <em>He Has Left us Alone, but Shafts of Light Sometimes Grace the Corner of our Rooms</em></p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 16:43:00 UTC 2007</font></td></tr>
+<p>NP: <a class="reference" href="http://www.allmusic.com/cg/amg.dll?SQL=A%20Silver%20Mt.%20Zion&amp;P=amg&amp;OPT1=1">A Silver Mt. Zion</a>: <em>He Has Left us Alone, but Shafts of Light Sometimes Grace the Corner of our Rooms</em></p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 16:43:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -189,7 +198,10 @@ truly outstanding.</p>
 
 <p>All in all, the debian-doc and debian-www folks are rather supportive of the move, but it requires adjustment to the build infrastructure, in particular to keep track of the status of translations. I have no answer from DSA and the buildd guys however.</p>
 
-<p>The web team started a <a href="http://wiki.debian.org/WebsiteVCSEvaluation">wiki page</a> to evaluate the VCS that they would switch to. Volunteers would be welcome to organize the conversion of the repositories and to fix the build infrastructure accordingly. This a nice little project for new contributors that want to learn. <img src="http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> </p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 14:00:37 UTC 2007</font></td></tr>
+<p>The web team started a <a href="http://wiki.debian.org/WebsiteVCSEvaluation">wiki page</a> to evaluate the VCS that they would switch to. Volunteers would be welcome to organize the conversion of the repositories and to fix the build infrastructure accordingly. This a nice little project for new contributors that want to learn. <img src="http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> </p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 14:00:37 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -212,7 +224,10 @@ speaks up and revives the port.</p>
 <p>Unfortunately, Debian's PowerPC developer machine is a nice Motorola
 Powerstack II Pro4000 machine.  This means that we currently don't have a
 working sid (and lenny) development environment.  Looks like maybe it's
-time to check out alternatives.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 13:34:00 UTC 2007</font></td></tr>
+time to check out alternatives.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 13:34:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -237,7 +252,10 @@ time to check out alternatives.</p><hr width="100%"/><table width="100%" cellpad
 
 <p>And, of course, it's a lot cheaper than my used X41 laptop, never mind a brand-new Lenovo X61s, which could run 2 or 3 kilobucks fully outfitted with the 4 gigs of memory and 160 gig/7200 rpm drive.   However, as a road warrior, my priorities are not just weight, but functionality.  A 2.5 pound solid-state laptop with only 128 megs of memory which massively restricts what I can do is not a good use of the space in my laptop bag.   What I'm waiting for is the next generation of the Thinkpad X series which has a solid state disk --- which shouldn't be that far off --- and the elimination of the spinning magnetic media would mean that we should have something with Foleo's battery life without the Foleo's limited usefulness.    Sure, maybe I will need to wait another year or two for my perfect laptop (12", 1024x768 LED display, at least 60 gigs solid state disk, at least 2-4 gigs memory, Intel core 2 or follow-on processor, &lt; 3 pounds, &gt; 5 hours useful lifetime) to become available, but the technology to do this exists today; it's just a matter of making it affordable.   But given that kind of long-term future, I'm willing to settle for now with either 2 or 4 hour battery life, and a slightly heavier laptop, than to use something today with a desperately slow ARM processor and only 128 megs of memory.  The weight/size savings and the increased battery life of the Foleo isn't a fair tradeoff given its very limited capabilities.</p>
 
-<p>This is all really too bad, because if Palm is counting on the Foleo to allow it to succeed, I think the concept has some massive shortcomings, much like their claimed LifeDrive product, which didn't last very long.   And I really like the Palm company; I <b>still</b> haven't found better PDA functionality on a decade-old Palm design compared to what is available on all of the Nokia phones I've looked at, the WinCE phones/PDA's, the N800, etc.  So I want Palm as a company to stick around.   But with Treo getting eclipsed by newer smart phones, and the Foleo not getting particularly good buzz by folks reviewing it --- and after I played with it, I have to agree with the majority of the reviewers that this is not the Next Big Thing --- I'm not sure how much longer Palm is going to be around.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 11:09:16 UTC 2007</font></td></tr>
+<p>This is all really too bad, because if Palm is counting on the Foleo to allow it to succeed, I think the concept has some massive shortcomings, much like their claimed LifeDrive product, which didn't last very long.   And I really like the Palm company; I <b>still</b> haven't found better PDA functionality on a decade-old Palm design compared to what is available on all of the Nokia phones I've looked at, the WinCE phones/PDA's, the N800, etc.  So I want Palm as a company to stick around.   But with Treo getting eclipsed by newer smart phones, and the Foleo not getting particularly good buzz by folks reviewing it --- and after I played with it, I have to agree with the majority of the reviewers that this is not the Next Big Thing --- I'm not sure how much longer Palm is going to be around.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 11:09:16 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -262,7 +280,10 @@ HAHAHAHAHA!
 </pre>
 <p>I'll watch
 <a href="http://video.google.com/videoplay?docid=973149761529535925">the talk</a>
-this evening.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 10:26:00 UTC 2007</font></td></tr>
+this evening.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 10:26:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -286,7 +307,10 @@ Software and Debian in particular.</p>
 <p>The final broadcast will be available in September on the station's
 website.  There are also plans to broadcast it via radio as well.  There
 will also be an installation party in October during which the radio
-people and Münster user group will install GNU/Linux on visitors machines.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 10:22:00 UTC 2007</font></td></tr>
+people and Münster user group will install GNU/Linux on visitors machines.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 10:22:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -315,7 +339,10 @@ people and Münster user group will install GNU/Linux on visitors machines.</p><
       with the latest software.  The new interface is pretty damn cool, with
       smooth colours, clear icons and subtle gradients.  I'm sure Thomas will
       blog with more details and screenshots at some point.
-    </p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 09:30:00 UTC 2007</font></td></tr>
+    </p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 09:30:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -341,7 +368,10 @@ people and Münster user group will install GNU/Linux on visitors machines.</p><
     </p>
     <p>
       <small>NP: <cite>Sleep</cite>, DJ Olive</small>
-    </p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 09:10:00 UTC 2007</font></td></tr>
+    </p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 09:10:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -363,7 +393,10 @@ people and Münster user group will install GNU/Linux on visitors machines.</p><
 <p>When a daemon that runs as non-root is cracked on a non-SE system it will have the ability to execute setuid programs - some of which may have exploitable bugs.  Also on a non-SE system every daemon has unrestricted network access in a typical configuration (there is a Net Filter module to control access by UID and GID, but it is very rarely used and won&#8217;t work in the case of multiple programs running with the same UID/GID).  With SE Linux a non-root daemon will usually have no access to run setuid programs (and if it can run them it will be without a domain transition so they gain no extra privileges).  Also SE Linux permits controls over which network ports an application may talk to.  So the ability of a compromised server process to attack other programs is significantly reduced on a SE Linux system.</p>
 <p>In summary the more complex your installation is and the more privileges that are required by various server processes the more potential there is to increase the security of your system by using SE Linux.  But even on a simple server running only a single daemon as non-root there is potential for SE Linux to provide real benefits to system security.</p>
 <p class="akst_link"><a href="http://etbe.coker.com.au/?p=361&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_361" class="akst_share_link" rel="nofollow">Share This</a>
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 09:00:07 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 09:00:07 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -380,7 +413,10 @@ people and Münster user group will install GNU/Linux on visitors machines.</p><
 
 <p>Roger Binkley, leader of Sun's <a href="http://community.java.net/mobileandembedded/">Mobile and Embedded</a> community, interviewed me after my talk at OSCON.  It went ok, given how tired I was:</p>
 
-<p><a href="http://today.java.net/pub/a/today/2007/08/20/javamobility-podcast16.html">http://today.java.net/pub/a/today/2007/08/20/javamobility-podcast16.html</a></p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 08:52:00 UTC 2007</font></td></tr>
+<p><a href="http://today.java.net/pub/a/today/2007/08/20/javamobility-podcast16.html">http://today.java.net/pub/a/today/2007/08/20/javamobility-podcast16.html</a></p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 08:52:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -512,7 +548,10 @@ and view my
 <li>When I install software using the system admin tools, it
 changes the
   application menu for all other users too.
-</li></ul></p></p></p></p></p></p></p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 05:57:59 UTC 2007</font></td></tr>
+</li></ul></p></p></p></p></p></p></p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 05:57:59 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -595,7 +634,10 @@ strictly needed.</li>
 </li>
 </ul>
 <p>I’d be happy to hear about what other people add to their commit
-scripts, to see if I have missed out on anything.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 05:19:11 UTC 2007</font></td></tr>
+scripts, to see if I have missed out on anything.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 05:19:11 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -637,7 +679,10 @@ was up (not its utilization-rate)."</p>
 </blockquote>
 
 <p>You will now probably notice this subtle verbiage in most
-everything you read!</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 00:19:00 UTC 2007</font></td></tr>
+everything you read!</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Aug 21 00:19:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -655,7 +700,10 @@ everything you read!</p><hr width="100%"/><table width="100%" cellpadding="0" ce
 <p>I decided that I really needed to start making proper backups of the data on my server this week.  I did have a tape drive in the server at one point but I never remembered to change the tape, or indeed ever test the backups.</p>
 <p>Now that I have a Linksys NSLU2 (a slug), which I bought to use as a local Debian mirror.  "Why not use it for backing up my important data?" I thought, so I leapt into action.  The first job was to replace the drive in the USB caddy with a 250Gb drive.  250Gb should be plenty for both the mirror and the backups, which is mostly source code, mail and photos.  After that installing and setting up rsnapshot was a snap.</p>
 <p>It sure beats the "keep some stuff on my laptop" backup method I was using, which did save me from a major brain fade moment involving my Maildir folder.</p>
-<p>I shall now wallow in the warm glow that only a backup provides.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 21:58:13 UTC 2007</font></td></tr>
+<p>I shall now wallow in the warm glow that only a backup provides.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 21:58:13 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -694,7 +742,10 @@ It&#8217;s a pity that there is not a more traditional blog feed for the data, t
 </ul></p>
 <p>Finally I don&#8217;t read it myself, but <a href="http://www.cuteoverload.com/">CuteOverload.com</a> is a good site to refer people to when they claim that the Internet is too nasty for children - the Internet has lots of pictures of cute animals!</p>
 <p class="akst_link"><a href="http://etbe.coker.com.au/?p=359&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_359" class="akst_share_link" rel="nofollow">Share This</a>
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 21:00:16 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 21:00:16 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -731,7 +782,10 @@ from my inbox. I know I'm not the only one with this problem, BTW.</p>
 
 <p>I recommend watching the talk. Thinking about mail in the inbox as only
 having one of 5 actions you can perform on it (delete, defer, delegate,
-respond, do) really helps process it quickly.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 20:17:28 UTC 2007</font></td></tr>
+respond, do) really helps process it quickly.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 20:17:28 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -748,7 +802,10 @@ respond, do) really helps process it quickly.</p><hr width="100%"/><table width=
 
 <p>Normally I don't like them, because the people using them write non-portable code.</p>
 <p>In some cases however (mostly when writing stuff other people would write in perl), I'd like things like <code>__attribute__((mode(QI)))</code> to work, and not claim that while the compiler perfectly well understood what I was trying to do, it can nonetheless not help me around writing my own support for 128 bit types. At least MSVC is no better, <code>__int128</code> has the exact same behaviour.</p>
-<p>Bleh.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 19:49:45 UTC 2007</font></td></tr>
+<p>Bleh.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 19:49:45 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -772,7 +829,10 @@ respond, do) really helps process it quickly.</p><hr width="100%"/><table width=
 <li>Parse (how?) the SOAP reply containing bugreport-data into a Bugreport object</li>
 </ul>
 <p>What I&#8217;m currently doing with soappy in <a href="http://reportbug-ng.alioth.debian.org/">rng</a> is rather crude: I take the SOAP response which is a dictionary holding many interesting facts about a bug report, take those elements I&#8217;m interested in and copy them into a bug report object. Not very elegant, but it works.</p>
-<p>While I&#8217;m moving away from soappy to ZSI I&#8217;d like to implement the deserializion the ZSI way. Unfortunately I don&#8217;t understand their examples. So please Lazyweb, is there any ZSI expert out there who can provide a minimalistic example?</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 17:29:20 UTC 2007</font></td></tr>
+<p>While I&#8217;m moving away from soappy to ZSI I&#8217;d like to implement the deserializion the ZSI way. Unfortunately I don&#8217;t understand their examples. So please Lazyweb, is there any ZSI expert out there who can provide a minimalistic example?</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 17:29:20 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -787,7 +847,10 @@ respond, do) really helps process it quickly.</p><hr width="100%"/><table width=
 </a>
 </td></tr></table></td></tr></table>
 
-<a href="http://www.cornflakesheroes.com/">Cornflakes Heroes</a> (my sister's band) have released the video for their new single <span>Lifeline</span>, check it out:<br /><br /> <br />(click <a href="http://www.youtube.com/watch?v=XENxzz_goo0">here</a> if the embedded player doesn't work)<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 17:40:03 UTC 2007</font></td></tr>
+<a href="http://www.cornflakesheroes.com/">Cornflakes Heroes</a> (my sister's band) have released the video for their new single <span>Lifeline</span>, check it out:<br /><br /> <br />(click <a href="http://www.youtube.com/watch?v=XENxzz_goo0">here</a> if the embedded player doesn't work)
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 17:40:03 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -812,7 +875,10 @@ respond, do) really helps process it quickly.</p><hr width="100%"/><table width=
 <p>- Kavin@home</p>
 <p>- As above</p>
 <p>- As above</p>
-<p> <img src="http://kartikmistry.org/blog/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /></p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 14:33:36 UTC 2007</font></td></tr>
+<p> <img src="http://kartikmistry.org/blog/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /></p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 14:33:36 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -836,7 +902,10 @@ since last testing release:</p>
 
 <p>For stable users there are tons of changes, most noticable is initial 
 support for Sharp and Motorola phones, notes support for OBEX driver and
-various fixes to make compilation in Visual Studio possible.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 13:06:44 UTC 2007</font></td></tr>
+various fixes to make compilation in Visual Studio possible.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 13:06:44 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -852,7 +921,10 @@ various fixes to make compilation in Visual Studio possible.</p><hr width="100%"
 </td></tr></table></td></tr></table>
 
 <br/>
-Hey'all!  We're still in transit on our great trans-continental adventure!  Sorry if you've emailed us and we've not gotten back, Internet access is spotty at best on this trip, and who wants to spend their vacation reading email anyway? =)<br /><br />We just finished a good time in the kitchens of Opus and ConCentric.  Angie, Sera, Chris and I all worked well together in a cohesive team, with a minimum of drama.  It was really nice to work with such a solid group of people that we could say things like "Dude, I need a nap, can you cover for me?" and there was no problem with the rest of the team trading off.<br /><br />Leif was an absolute hit at the con.  We were able to participate in a couple worships where him singing along wasn't a distraction at all, and he totally loved being passed between people.  It does mean that he caught his first cold, but he's doing alright.<br /><br />There are always the people that I'll miss when I'm gone from there.  Alexis was in the kitchen on a regular basis saying hi, Liz was always nearby, Karina with her star maps, lizzie the brit with her piles of energy, the frying-tofu master Geoff seemed to be in the kitchen often.  In the kitchen, though, we got to see pretty much everyone so it was a nice chance to connect with people.<br /><br />The staff was also a very neat set of people.  I don't think there was anyone in the Opus staff that I couldn't see actively working hard to pull of great programming.  There's always the curmudgeonly part of me that sits in the back corner and can nit pick things to death, but in doing so I wouldn't want to hide that by almost every measure this was a successful Opus.  In particular, I was impressed that the staff faced head-on how to handle walk-ins at the staff meeting just before the con started.  It was interesting to watch a consensus process work with a group of people who came in from wildly different personal perspectives and to watch people change from varying viewpoints to agree on the compromise that best suited the group.<br /><br />So what's next?  We've spent the night with Andrew from <a href="http://www.koolu.com/">Koolu</a> and will be heading down to Buffalo next to get an van and start on the adventure.  We don't know where we're going yet, or how we'll get there, but the idea is to head down to the <a href="http://www.creationmuseum.org/">Creation Museum</a> and then west towards Vegas and the Grand Canyon.  On the way, we might see if we can visit Stephanie in Ohio, Sera in Albuquerque, and Karina in Flagstaff.<br /><br />Peace, Love, Faith and Blessings to all.<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 12:21:48 UTC 2007</font></td></tr>
+Hey'all!  We're still in transit on our great trans-continental adventure!  Sorry if you've emailed us and we've not gotten back, Internet access is spotty at best on this trip, and who wants to spend their vacation reading email anyway? =)<br /><br />We just finished a good time in the kitchens of Opus and ConCentric.  Angie, Sera, Chris and I all worked well together in a cohesive team, with a minimum of drama.  It was really nice to work with such a solid group of people that we could say things like "Dude, I need a nap, can you cover for me?" and there was no problem with the rest of the team trading off.<br /><br />Leif was an absolute hit at the con.  We were able to participate in a couple worships where him singing along wasn't a distraction at all, and he totally loved being passed between people.  It does mean that he caught his first cold, but he's doing alright.<br /><br />There are always the people that I'll miss when I'm gone from there.  Alexis was in the kitchen on a regular basis saying hi, Liz was always nearby, Karina with her star maps, lizzie the brit with her piles of energy, the frying-tofu master Geoff seemed to be in the kitchen often.  In the kitchen, though, we got to see pretty much everyone so it was a nice chance to connect with people.<br /><br />The staff was also a very neat set of people.  I don't think there was anyone in the Opus staff that I couldn't see actively working hard to pull of great programming.  There's always the curmudgeonly part of me that sits in the back corner and can nit pick things to death, but in doing so I wouldn't want to hide that by almost every measure this was a successful Opus.  In particular, I was impressed that the staff faced head-on how to handle walk-ins at the staff meeting just before the con started.  It was interesting to watch a consensus process work with a group of people who came in from wildly different personal perspectives and to watch people change from varying viewpoints to agree on the compromise that best suited the group.<br /><br />So what's next?  We've spent the night with Andrew from <a href="http://www.koolu.com/">Koolu</a> and will be heading down to Buffalo next to get an van and start on the adventure.  We don't know where we're going yet, or how we'll get there, but the idea is to head down to the <a href="http://www.creationmuseum.org/">Creation Museum</a> and then west towards Vegas and the Grand Canyon.  On the way, we might see if we can visit Stephanie in Ohio, Sera in Albuquerque, and Karina in Flagstaff.<br /><br />Peace, Love, Faith and Blessings to all.
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 12:21:48 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -879,7 +951,10 @@ interp.setVar("searchwidget", ObjectThing.create(search));
 
 <p>This is a good tradeoff, because it gets something in front of the user right away, and it's not a throwaway like a splash screen.</p>
 
-<p>On another front, I've updated some of the code in <a href="http://dedawiki.dedasys.com">DedaWiki</a>, to enable email notifications in the comment system, which has percolated into the <a href="http://www.leenooks.com">Linux Incompatibility List</a>, and, with a bit of tweaking, into <a href="http://www.squeezedbooks.com">Squeezed Books</a>.  I don't think the code is quite ready for a real release, but by running the incompatibility list on it, it's a great way to give it a thorough shakedown, and I'll attempt to release it sooner or later.  Of course, in the meantime, interested parties can get the code out of subversion on rubyforge.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 12:03:00 UTC 2007</font></td></tr>
+<p>On another front, I've updated some of the code in <a href="http://dedawiki.dedasys.com">DedaWiki</a>, to enable email notifications in the comment system, which has percolated into the <a href="http://www.leenooks.com">Linux Incompatibility List</a>, and, with a bit of tweaking, into <a href="http://www.squeezedbooks.com">Squeezed Books</a>.  I don't think the code is quite ready for a real release, but by running the incompatibility list on it, it's a great way to give it a thorough shakedown, and I'll attempt to release it sooner or later.  Of course, in the meantime, interested parties can get the code out of subversion on rubyforge.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 12:03:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -899,7 +974,10 @@ interp.setVar("searchwidget", ObjectThing.create(search));
 <p>To increase my Technorati ranking I have stopped using the Feedburner URL rewriting feature.  For people who view my blog directly or through a Planet installation this will not give any difference that you would notice.  The problem is for people who use a service that syndicates RSS feeds and then forwards them on by email, such people received two copies of the last 10 items as the URL (GUID) change means that the posts are seen as new (Planet solves this by deleting the posts which are seen as unavailable and then creating new posts with the new URLs and no change is visible to the user).</p>
 <p>Based on this experience I suggest not using URL rewriting services.  They will hurt your technorati ranking, give little benefit (IMHO) and annoy the small number of RSS to email readers.  Particularly don&#8217;t change your mind about whether to use such a feature or not.  Changing the setting regularly would be really annoying.  Also this means that if you use such a service you should take care not to have you Feedburner redirection ever get disabled.  A minor Apache configuration error corrected a day later could end up in sending all the posts in the current feed an extra two times.</p>
 <p class="akst_link"><a href="http://etbe.coker.com.au/?p=358&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_358" class="akst_share_link" rel="nofollow">Share This</a>
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 09:00:12 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 09:00:12 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -960,7 +1038,10 @@ express-reservation seats.</blockquote>
 <p>I am aware of this. However, the train between Zurich and Munich is ancient
 (part of the way it still has to run on Diesel) and the reservation signs were
 paper slips. The seats of eight I found were definitely unreserved, especially
-because I checked immediately after departure.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 08:43:00 UTC 2007</font></td></tr>
+because I checked immediately after departure.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 08:43:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -975,7 +1056,10 @@ because I checked immediately after departure.</p><hr width="100%"/><table width
 </a>
 </td></tr></table></td></tr></table>
 
-<p> Various newspapers report that the health product giant Johnson &amp; Johnson is suing the Red Cross for using the red cross as a logo. Johnson &amp; Johnson registered the trademark in 1887, six years after the us-american Red Cross started to use it. Needless to say, that a red cross has been in use for much longer and that european Red Cross associations also exist for quite some more years.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 06:59:07 UTC 2007</font></td></tr>
+<p> Various newspapers report that the health product giant Johnson &amp; Johnson is suing the Red Cross for using the red cross as a logo. Johnson &amp; Johnson registered the trademark in 1887, six years after the us-american Red Cross started to use it. Needless to say, that a red cross has been in use for much longer and that european Red Cross associations also exist for quite some more years.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 06:59:07 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1069,7 +1153,10 @@ in sequence; and takes no arguments. So, after human
 classification, just calling <code>mproc</code> does the
 classification.</p>
 <p>This pretty much finishes the series of posts I had in mind
-about spam filtering, I hope it has been useful.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 05:28:53 UTC 2007</font></td></tr>
+about spam filtering, I hope it has been useful.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 05:28:53 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1095,7 +1182,10 @@ The other map improvement is fairly simple - offer to give me directions from on
 <br />
 The last improvement that would be nice is to be able to click on the URL or visit the site in the URL field for tasks in some way.  Currently the URL field is pretty useless as a URL, because there is no way to click it and actually visit the site.  If I click on it, the editing field pops up and I have to do all the hard work myself of cutting and pasting the URL into the location field.  It's also a mis-cue because the URL looks like a link before I click it, just like I could click on it as I want to.  A keyboard shortcut for visiting the site would be nice as well since I do use the keyboard interface quite a bit.<br />
 <br />
-These improvements I think would make a big difference to RTM users.  The map improvements alone would be a big upgrade in my opinion.  As for now, I will continue to use RTM whether these are implemented or not - it's a good way to keep an online list in any case.  It's kept me writing blog posts at the rate of about once every two days.  Not sure if that's a good thing or not yet..<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 04:48:53 UTC 2007</font></td></tr>
+These improvements I think would make a big difference to RTM users.  The map improvements alone would be a big upgrade in my opinion.  As for now, I will continue to use RTM whether these are implemented or not - it's a good way to keep an online list in any case.  It's kept me writing blog posts at the rate of about once every two days.  Not sure if that's a good thing or not yet..
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 04:48:53 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">nospam@example.com (Jamuraa)</font></td></tr>
 </table>
 
@@ -1111,7 +1201,10 @@ These improvements I think would make a big difference to RTM users.  The map im
 </a>
 </td></tr></table></td></tr></table>
 
-<p><a href="http://bakery.cakephp.org/articles/view/obvious-trick-to-reduce-amount-of-habtm-relationship-tables-1">This</a> is not how to do HABTM (ie. &#8220;<em>many-many</em>&#8220;) database joins.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 01:19:24 UTC 2007</font></td></tr>
+<p><a href="http://bakery.cakephp.org/articles/view/obvious-trick-to-reduce-amount-of-habtm-relationship-tables-1">This</a> is not how to do HABTM (ie. &#8220;<em>many-many</em>&#8220;) database joins.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 01:19:24 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1214,7 +1307,10 @@ persistent connections and pipelining</li>
 already connected</li>
 <li>tracker would return all torrents' peers for every request</li>
 </ul></li>
-</ul><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 00:56:46 UTC 2007</font></td></tr>
+</ul>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Aug 20 00:56:46 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1235,7 +1331,10 @@ already connected</li>
 <p>Of course the ideal (and recommended) way of solving this problem is to migrate all services from a node using the <b>crm_resource</b> program.  But in a test or development situation you may forget to migrate all services or simply forget to run the migration before the package upgrade starts.  In that case the best thing to do is to be able to remove the ability to call STONITH .  For my testing I use Xen and have the nodes <a href="http://etbe.coker.com.au/2007/06/24/xen-and-heartbeat/">ssh to the Dom0 to call STONITH</a>, so all I have to do to remove the STONITH ability is to stop the ssh daemon on the Dom0.  For a more serious test network (EG using IPMI or an equivalent technology to perform a hardware STONITH as well as ssh for OS level STONITH on a private network) a viable option might be to shut down the switch port used for such operations - shutting down switch ports is not a nice thing to do, but to allow you to continue work on a development environment without hassle it&#8217;s a reasonable hack.</p>
 <p>When choosing your method of STONITH it&#8217;s probably worth considering what the possibilities are for temporarily disabling it - preferably without having to walk to the server room.</p>
 <p class="akst_link"><a href="http://etbe.coker.com.au/?p=356&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_356" class="akst_share_link" rel="nofollow">Share This</a>
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 21:00:45 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 21:00:45 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1254,7 +1353,10 @@ already connected</li>
 <p>I also set up a git repository to hold the <a href="http://git.debian.org/?p=pkg-webkit/webkit.git;a=summary">debian branch</a>, following the already existing <a href="http://git.debian.org/?p=pkg-webkit/upstream.git;a=summary">git repository tracking upstream</a>. Note the <em>filtered</em> branch, which avoids the debian branch to contain what we don&#8217;t ship, and reduce the download size from 100MB+ to roughly 16MB. I&#8217;ll write more about this filtering in a few days.</p>
 <p>Also, if you&#8217;re interested in webkit and/or want to give a hand, you can subscribe to the <a href="http://web.glandium.org/blog/ http://lists.alioth.debian.org/mailman/listinfo/pkg-webkit-maintainers">pkg-webkit-maintainers mailing list</a>. Everything is ready for team maintenance, so, don&#8217;t hesitate ;).</p>
 <p>If you want to track changes on the debian repo, there is also a <a href="http://lists.alioth.debian.org/mailman/listinfo/pkg-webkit-commits">pkg-webkit-commits mailing list</a> where the post-receive hook sends the commit messages.
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 18:33:06 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 18:33:06 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1270,7 +1372,10 @@ already connected</li>
 </td></tr></table></td></tr></table>
 
 <br/>
-During my <a href="http://blog.orebokech.com/2007/08/debian-packages-without-md5sums.html">previous adventures</a> with the Debian archive, I found that two packages in the archive use bzip2 compression inside the .deb instead of the traditional gzip compression, so I decided to try it out on emacs-snapshot (one of my larger packages). The combined size of the deb files goes from 36764KB to 33880KB, a 2884KB (7.8%) difference. It also makes both <tt>lintian</tt> and <tt>linda</tt> unhappy, the former gives me the following error:<pre>E: emacs-snapshot-nox: deb-data-member-wrongly-compressed<br />N:<br />N:   The binary package contains a data member not compressed with gzip.<br />N:   From dpkg-dev 1.11 on, you can configure the way the data tarball is<br />N:   compressed. Though this is possible, you are not allowed to use it<br />N:   before dpkg 1.11 (or later) enters stable.</pre>and <tt>linda</tt> just bombs:<pre>E: emacs-snapshot-common; Package uses a newer feature of dpkg.<br /> This package uses a data.tar, or data.tar.bz2 member of the .deb. This<br /> was introduced in dpkg 1.11, but is not allowed to be used until dpkg<br /> 1.11 or later hits stable.<br />File ...3_all.deb failed to process: Level 2 unpacking failed:<br />Could not unpack data tarball</pre>Etch was released with dpkg 1.13.25, so bzip2 compression is probably allowed now. But is a 7.8% saving worth the incompatibility price? I'm not sure.<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 18:28:19 UTC 2007</font></td></tr>
+During my <a href="http://blog.orebokech.com/2007/08/debian-packages-without-md5sums.html">previous adventures</a> with the Debian archive, I found that two packages in the archive use bzip2 compression inside the .deb instead of the traditional gzip compression, so I decided to try it out on emacs-snapshot (one of my larger packages). The combined size of the deb files goes from 36764KB to 33880KB, a 2884KB (7.8%) difference. It also makes both <tt>lintian</tt> and <tt>linda</tt> unhappy, the former gives me the following error:<pre>E: emacs-snapshot-nox: deb-data-member-wrongly-compressed<br />N:<br />N:   The binary package contains a data member not compressed with gzip.<br />N:   From dpkg-dev 1.11 on, you can configure the way the data tarball is<br />N:   compressed. Though this is possible, you are not allowed to use it<br />N:   before dpkg 1.11 (or later) enters stable.</pre>and <tt>linda</tt> just bombs:<pre>E: emacs-snapshot-common; Package uses a newer feature of dpkg.<br /> This package uses a data.tar, or data.tar.bz2 member of the .deb. This<br /> was introduced in dpkg 1.11, but is not allowed to be used until dpkg<br /> 1.11 or later hits stable.<br />File ...3_all.deb failed to process: Level 2 unpacking failed:<br />Could not unpack data tarball</pre>Etch was released with dpkg 1.13.25, so bzip2 compression is probably allowed now. But is a 7.8% saving worth the incompatibility price? I'm not sure.
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 18:28:19 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1297,7 +1402,10 @@ During my <a href="http://blog.orebokech.com/2007/08/debian-packages-without-md5
 <li>Painless Debian/Ubuntu installation, including out-of-the-box suspend/resume functionality.</li>
 </ul>
 <p>Suggestions?
-<p class="akst_link"><a href="http://adam.rosi-kessel.org/weblog/?p=564&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_564" class="akst_share_link" rel="nofollow">Share This</a></p></p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 13:38:00 UTC 2007</font></td></tr>
+<p class="akst_link"><a href="http://adam.rosi-kessel.org/weblog/?p=564&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_564" class="akst_share_link" rel="nofollow">Share This</a></p></p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 13:38:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1333,7 +1441,10 @@ During my <a href="http://blog.orebokech.com/2007/08/debian-packages-without-md5
 
 	<p>I remember in University dorms (I&#8217;m not telling where!), students had a massive multimedia share with Windows file sharing. It actually worked quite well, including search.</p>
 
-	<p>Any tips lazyweb? Or are centralised services really the future?</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 13:08:16 UTC 2007</font></td></tr>
+	<p>Any tips lazyweb? Or are centralised services really the future?</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 13:08:16 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1363,7 +1474,10 @@ is not required to return the full list of matching items of a search,
 if that list is sufficiently large (I believe the RFC suggests a minimum
 of 100 items to be returned); this is to avoid people DoSsing the LDAP
 server by accident. It also means that the suggestion to search for the
-at sign to get all items in the directory may not work.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 13:04:00 UTC 2007</font></td></tr>
+at sign to get all items in the directory may not work.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 13:04:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1378,7 +1492,10 @@ at sign to get all items in the directory may not work.</p><hr width="100%"/><ta
 </a>
 </td></tr></table></td></tr></table>
 
-<p> Again I have 99 unread mails in my mailbox ;-) <br /><br /> More than two weeks ago I watched <a href="http://video.google.com/videoplay?docid=973149761529535925">Inbox zero</a>, which I recommend you to watch if you have problems coping with your inbox, even if it mostly boils down to "getting things done". <br /><br /> /me smiles and continues to update tuxmath :-)</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 12:45:08 UTC 2007</font></td></tr>
+<p> Again I have 99 unread mails in my mailbox ;-) <br /><br /> More than two weeks ago I watched <a href="http://video.google.com/videoplay?docid=973149761529535925">Inbox zero</a>, which I recommend you to watch if you have problems coping with your inbox, even if it mostly boils down to "getting things done". <br /><br /> /me smiles and continues to update tuxmath :-)</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 12:45:08 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1404,7 +1521,10 @@ at sign to get all items in the directory may not work.</p><hr width="100%"/><ta
 <p>On the whole, I try to go with the flow. For example, I recently returned from a visit and soon after I left, my mother forgot I was even there. She started to ask me over and over again when I was coming home for a visit and when I told her I was just there, her semi-humorous reaction was “well, why didn’t anyone tell me?” (and then proceeded to castigate her caretaker for not telling her!!). </p>
 <p>Perhaps I did not stay long enough, or perhaps her lack of recall would happen no matter what. To hear she forgot shook me hard and deeply. The first time I realized she could not remember I had just visited, I was able to jog her memory by listing off all that we did together. Finally, when I mentioned that I bought a new refrigerator while in PR, something clicked. She is still worried about money, so buying a refrigerator was enough to remind her I had spent a lot of money.</p>
 <p>But after it was clear that she felt quite bad about not remembering, I knew that was the first and last time I would try to “jog” her memory. Instead, I will merge and mold my reality to her reality, as much as I can and assure her that I will soon visit.<br />
- <a href="http://healthhacker.org/satoroams/?p=814#more-814" class="more-link">(more&#8230;)</a></p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 12:22:09 UTC 2007</font></td></tr>
+ <a href="http://healthhacker.org/satoroams/?p=814#more-814" class="more-link">(more&#8230;)</a></p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 12:22:09 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1424,7 +1544,10 @@ at sign to get all items in the directory may not work.</p><hr width="100%"/><ta
 <p>By the way, the author of Devel::REPL, Matt S Trout, <a href="http://chainsawblues.vox.com/library/post/devel-repl-going-into-debian-apparently.html">looks pretty happy to see his module entering Debian</a>.</p>
 <p>I&#8217;ve just uploaded libdevel-repl-perl, this upload closes the exciting work session we did during all the weekend with Damyan Ivanov, in order to get the module into debian. All its dependencies are now in the Perl group&#8217;s hands. That was fun.</p>
 <p>Team maintenance rocks!
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 11:48:12 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 11:48:12 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1444,7 +1567,10 @@ at sign to get all items in the directory may not work.</p><hr width="100%"/><ta
       and blimey it's lovely.  Does anyone out there run have one?  If I got one
       it would be under the television and always on, so heat and noise are
       important factors to me.
-    </p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 11:00:00 UTC 2007</font></td></tr>
+    </p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 11:00:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1484,7 +1610,10 @@ and the Deutschland-Tour seemed
 surprisingly unsurprising, with
 Juan Mauricio Soler and Jens Voigt
 kept their respective leads.
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 10:47:00 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 10:47:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1548,7 +1677,10 @@ summarize the results later.
 </p>
 
 <b>Update:</b>UMTS == 3G; 2 People already told me that the Vodafone net
-is the right selection in Germany, one said the same for UK.<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 09:22:52 UTC 2007</font></td></tr>
+is the right selection in Germany, one said the same for UK.
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 09:22:52 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1610,7 +1742,10 @@ is the right selection in Germany, one said the same for UK.<hr width="100%"/><t
    pref(&quot;ldap_2.servers.mathematik.filename&quot;, &quot;foobar.mab&quot;);
    pref(&quot;ldap_2.servers.mathematik.maxHits&quot;, 500);
    pref(&quot;ldap_2.servers.mathematik.uri&quot;, &quot;ldap://HOSTNAME:389/ou=People,dc=FOOBAR,dc=TLD??sub?(mail=*)&quot;);
-   </pre></p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 09:05:59 UTC 2007</font></td></tr>
+   </pre></p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 09:05:59 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1633,7 +1768,10 @@ Found at the exhibition <i>Play with Technology</i> in
 <img src="http://www.bebt.de/images/blog/x-ray-small.jpeg" alt="Toy x-ray machine from early 20th century" />
 </a><br />
 a small working x-ray machine toy. See <a href="http://www.bebt.de/images/blog/x-ray-text.jpeg">description</a>.
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 09:03:50 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 09:03:50 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1653,7 +1791,10 @@ a small working x-ray machine toy. See <a href="http://www.bebt.de/images/blog/x
 <p>Currently there is an early registration open which saves $200 off the full price ($1,795 instead of $1,995), this lasts until the 31st of August.  In addition to this the organisers have offered a further $100 discount to the first five readers of my blog who register personally (IE an individual not a corporation is paying for the ticket).  To take advantage of the extra $100 discount you must include the code <b>CSS509907</b> in your registration.</p>
 <p>PS  I have no financial interest in this matter.  I like the conference organisers, but that largely stems from the fact that they run great conferences that I have enjoyed.  I recommend the conference because it&#8217;s really good.</p>
 <p class="akst_link"><a href="http://etbe.coker.com.au/?p=357&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_357" class="akst_share_link" rel="nofollow">Share This</a>
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 09:00:14 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 09:00:14 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1670,7 +1811,10 @@ a small working x-ray machine toy. See <a href="http://www.bebt.de/images/blog/x
 
 <p>Some more hacking and the xcontrol aware "checkbuilddeps" command is nearly done. I have no idea whether using apt to access the package database was a good idea -- those bits that deal with it are hardly readable. On the other hand, directly reading the status database is frowned upon.</p>
 <p>Hooray for more abstraction layers.</p>
-<p>In other news, there is now a <a href="http://wiki.debian.org/Xcontrol">wiki page for xcontrol</a>.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 08:23:25 UTC 2007</font></td></tr>
+<p>In other news, there is now a <a href="http://wiki.debian.org/Xcontrol">wiki page for xcontrol</a>.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Aug 19 08:23:25 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1688,7 +1832,10 @@ a small working x-ray machine toy. See <a href="http://www.bebt.de/images/blog/x
 <p>While testing <a href="http://debian-live.alioth.debian.org">Debian Live</a> I suddenly discovered that something had installed a library in my home directory: <tt>~/cbt/lib/libcbtsysinfo_0.so</tt>.</p>
 <p>Google gives two hints: Some discussion on the danish usenet group <a href="http://groups.google.com/group/dk.edb.mac/browse_thread/thread/c8acbc3fa46116ec/9bf9dff1b6cf03bf">dk.edb.mac</a> and some discussion on <a href="http://lists.debian.org/debian-user/2007/07/msg02432.html">debian-user</a>.</p>
 <p>It looks like it get installed when I log into my internet bank. By lookin at the symbols extracted by objdump (a couple of symbols stating with Java_com_ibm_cbt_slight_CbtSysInfo) it seems to be IBM&#8217;s <a href="http://www-03.ibm.com/security/products/cbt.shtml">Crypto-base Transaction</a> system.</p>
-<p>Evil to install such thing without asking. (Well, it&#8217;s a Linux/x86 library even though I&#8217;m using Linux/PPC)</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 19:04:09 UTC 2007</font></td></tr>
+<p>Evil to install such thing without asking. (Well, it&#8217;s a Linux/x86 library even though I&#8217;m using Linux/PPC)</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 19:04:09 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1710,7 +1857,10 @@ I've found that it's pretty useful for me.  If you see the set, you can almost n
 <br />
 The idea of taking a picture a day is quite interesting to me, if only because if you asked me what I was doing last year this time, I would probably give you a general idea because my life is basically boring - I work in an office, even when I'm at school.  This way I might have some idea or get reminded.   <br />
 <br />
-I do have a couple of kinks that I would like to work out when I'm doing it though - when I download my photos through Bluetooth using my phone, it sets all of the creation dates to the time that I transfer the photos instead of the time that I took the photos.  This means that I need to fiddle with the "taken on" date when I finish uploading the pictures - there's no way to use the <a href="http://flickr.com/tools/">Flickr Uploadr</a> to set the date.  This, and the horrible VGA camera that I have in the phone make it tempting for me to buy a new phone with a better camera and tools for transferring.  Also, some days I just stay in, and don't do anything interesting, so I don't have anything interesting or different to take a picture of.  I'm thinking of just taking a <a href="http://flickr.com/photos/jamuraa/1012736547/in/set-72157601532004533/">self-portrait</a> on those days, but I'm not sure that it would be interesting enough.</a></a><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 18:35:51 UTC 2007</font></td></tr>
+I do have a couple of kinks that I would like to work out when I'm doing it though - when I download my photos through Bluetooth using my phone, it sets all of the creation dates to the time that I transfer the photos instead of the time that I took the photos.  This means that I need to fiddle with the "taken on" date when I finish uploading the pictures - there's no way to use the <a href="http://flickr.com/tools/">Flickr Uploadr</a> to set the date.  This, and the horrible VGA camera that I have in the phone make it tempting for me to buy a new phone with a better camera and tools for transferring.  Also, some days I just stay in, and don't do anything interesting, so I don't have anything interesting or different to take a picture of.  I'm thinking of just taking a <a href="http://flickr.com/photos/jamuraa/1012736547/in/set-72157601532004533/">self-portrait</a> on those days, but I'm not sure that it would be interesting enough.</a></a>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 18:35:51 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">nospam@example.com (Jamuraa)</font></td></tr>
 </table>
 
@@ -1744,7 +1894,10 @@ I do have a couple of kinks that I would like to work out when I'm doing it thou
 
 <p><a href="http://padovachronicles.welton.it/articles/2007/08/18/confronting-the-bureaucratic-beast-registering-an-italian-domain">Confronting the bureaucratic beast - registering an Italian domain</a></p>
 
-<p>Two months to accomplish what can be done in ten minutes with a <code>.com</code>!</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 16:54:00 UTC 2007</font></td></tr>
+<p>Two months to accomplish what can be done in ten minutes with a <code>.com</code>!</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 16:54:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1760,7 +1913,10 @@ I do have a couple of kinks that I would like to work out when I'm doing it thou
 </td></tr></table></td></tr></table>
 
 <br/>
-I've just finished releasing new versions of all modules related to my Summer of Code project, the Bug Triage and Forward Tool. If my mentor doesn't find any serious bug, these will be the last releases under the SoC flag. Thanks again, Google, for this great program and the progress it brings to Free Software.<br /><br />The releases:<br /><br />bzutils 0.2:<br /><ul><li><a href="http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000006.html">Announcement</a></li>  <li><a href="http://alioth.debian.org/frs/download.php/2112/bzutils-0.2.tar.gz">Source .tar.gz</a></li></ul>btsutils 0.3:<br /><ul><li><a href="http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000005.html">Announcement</a></li><li><a href="http://alioth.debian.org/frs/download.php/2111/btsutils-0.3.tar.gz">Source .tar.gz</a></li></ul>bug-triage 0.2.2:<br /><ul><li><a href="http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000007.html">Announcement</a></li><li><a href="http://alioth.debian.org/frs/download.php/2116/bug-triage-0.2.2.tar.gz">Source .tar.gz</a></li></ul>Debian packages should hit the archive as soon as they get evaluated and sponsored. Of course, a full status report will also be posted during the evaluation time.<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 16:48:19 UTC 2007</font></td></tr>
+I've just finished releasing new versions of all modules related to my Summer of Code project, the Bug Triage and Forward Tool. If my mentor doesn't find any serious bug, these will be the last releases under the SoC flag. Thanks again, Google, for this great program and the progress it brings to Free Software.<br /><br />The releases:<br /><br />bzutils 0.2:<br /><ul><li><a href="http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000006.html">Announcement</a></li>  <li><a href="http://alioth.debian.org/frs/download.php/2112/bzutils-0.2.tar.gz">Source .tar.gz</a></li></ul>btsutils 0.3:<br /><ul><li><a href="http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000005.html">Announcement</a></li><li><a href="http://alioth.debian.org/frs/download.php/2111/btsutils-0.3.tar.gz">Source .tar.gz</a></li></ul>bug-triage 0.2.2:<br /><ul><li><a href="http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000007.html">Announcement</a></li><li><a href="http://alioth.debian.org/frs/download.php/2116/bug-triage-0.2.2.tar.gz">Source .tar.gz</a></li></ul>Debian packages should hit the archive as soon as they get evaluated and sponsored. Of course, a full status report will also be posted during the evaluation time.
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 16:48:19 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1784,7 +1940,10 @@ change grows longer, the probability of stating that China is <a href="http://ww
 1,000 new cars on the road every week</a> approaches one.</blockquote>
 <br />
 When used as a defence for driving an SUV, I'd also like to invoke the sudden
-death variant, where the discussion is finished immediately.<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 14:21:46 UTC 2007</font></td></tr>
+death variant, where the discussion is finished immediately.
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 14:21:46 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1841,7 +2000,10 @@ for "Silver Needle In The Skype")</li>
 </ul></p><p>And, honest, there is nothing in Skype that other apps wouldn't offer, or had
 been offering before <em>except</em> being really <em>aggressive</em> at
 getting through firewalls without any user intervention.
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 12:14:00 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 12:14:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1875,7 +2037,10 @@ global resources.  Even if it is slow or small, take that first step.
 </blockquote>
 <p>
 I like that.  Conservation, courtesy, and generosity should never go out of style...
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 08:52:00 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 08:52:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1901,7 +2066,10 @@ argument is simple - that not looking at the ads would be stealing.
 They point out they can't block people who are using the Ad Blocker,
 so they have to block every firefox user. This is the MPAAs thinking -
 the user is the enemy. For me, all it means is that I can't visit these
-websites - I'll have to go spend money somewhere else...<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 04:59:42 UTC 2007</font></td></tr>
+websites - I'll have to go spend money somewhere else...
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 04:59:42 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1917,7 +2085,10 @@ websites - I'll have to go spend money somewhere else...<hr width="100%"/><table
 </td></tr></table></td></tr></table>
 
 <br/>
-How to get rid of most spam on <span class="blsp-spelling-corrected" id="SPELLING_ERROR_0">Alioth</span> mailing lists.<br /><br />Until some <span class="blsp-spelling-corrected" id="SPELLING_ERROR_1">Debian</span> developer implements <a href="http://wiki.debian.org/UsefulImprovements#head-e0eab470284b59976fc9c112a979ecf674879d27">this idea</a> in the <span class="blsp-spelling-error" id="SPELLING_ERROR_2">BTS</span>, the mailing list and in <span class="blsp-spelling-error" id="SPELLING_ERROR_3">PTS</span>, the quantities of spam that people get on the mail addresses they expose in the Debian world, the spam will keep on coming in huge quantities. I don't care that there will always be spam, I care that the <span class="blsp-spelling-corrected" id="SPELLING_ERROR_4">amount</span> of spam would be lower or probably <span class="blsp-spelling-corrected" id="SPELLING_ERROR_5">nonexistent</span> for one time sending (I sent just one mail to the <span class="blsp-spelling-error" id="SPELLING_ERROR_6">BTS</span> from two <span class="blsp-spelling-corrected" id="SPELLING_ERROR_7">different</span> mail addresses and it was enough to get huge amounts of spam on them).<br /><br /><br />The Debian Games Team's ML has suffered for a while, back in 2006, from spam bombing.<br />We thought that the easiest method to get rid of spam is to requires registration in order to be able to send mails to the list.<br /><br />That was a big mistake because, as some people suspect, mails from the <span class="blsp-spelling-error" id="SPELLING_ERROR_8">BTS</span> needed to be allowed in and the reporters got an automated reply saying that the mail is waiting for <span class="blsp-spelling-corrected" id="SPELLING_ERROR_9">approval</span>, etc, etc - plain rude, people send you bug reports and you say "You are not listed, <span class="blsp-spelling-error" id="SPELLING_ERROR_10">bla</span>, <span class="blsp-spelling-error" id="SPELLING_ERROR_11">bla</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_12">bla</span>". We changed the setting not to send any automatic reply and people were more content.<br /><br />But still, we had to hand approve or white list valid mails/addresses. That worked for a while, but once the mail ended up on <span class="blsp-spelling-error" id="SPELLING_ERROR_13">spammer</span> lists, the thing blew out of proportions. We were desperate. We tweaked the settings of the lists in <span class="blsp-spelling-corrected" id="SPELLING_ERROR_14">different</span> ways, but in the end we ended up in having such a broken setup that we had to approve white listed addresses.<br /><br />That did for me. I had to do something. So I started working on the ML setup and basically I did <a href="http://lists.debian.org/debian-devel-games/2007/04/msg00035.html">the following things</a> to get rid of spam:<br /><ul><li>anything coming from white listed mail addresses was approved</li><li>black listed mails (<span class="blsp-spelling-error" id="SPELLING_ERROR_15">bellsouth</span> is one of those) is rejected (or should be)</li><li>anything that came from the <span class="blsp-spelling-error" id="SPELLING_ERROR_16">BTS</span> (there are some nice headers that the <span class="blsp-spelling-error" id="SPELLING_ERROR_17">BTS</span> puts) and was evaluated as ham with a score of 0 (there is a field for that, too - some field has Spam=No, Score=...) was allowed</li><li>anything that came from the <span class="blsp-spelling-error" id="SPELLING_ERROR_18">BTS</span> that was Spam=No with a score above 0 was held for moderation</li><li>anything else is held for moderation</li></ul><br />This solution allowed us to lighten the burden of manually white listing every email address that ever sent valid mails to the <span class="blsp-spelling-error" id="SPELLING_ERROR_19">BTS</span> and to focus only on real spam.<br /><br />Try it your self on your lists, you'll be <span class="blsp-spelling-corrected" id="SPELLING_ERROR_20">pleasantly</span> surprised.<hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 03:33:11 UTC 2007</font></td></tr>
+How to get rid of most spam on <span class="blsp-spelling-corrected" id="SPELLING_ERROR_0">Alioth</span> mailing lists.<br /><br />Until some <span class="blsp-spelling-corrected" id="SPELLING_ERROR_1">Debian</span> developer implements <a href="http://wiki.debian.org/UsefulImprovements#head-e0eab470284b59976fc9c112a979ecf674879d27">this idea</a> in the <span class="blsp-spelling-error" id="SPELLING_ERROR_2">BTS</span>, the mailing list and in <span class="blsp-spelling-error" id="SPELLING_ERROR_3">PTS</span>, the quantities of spam that people get on the mail addresses they expose in the Debian world, the spam will keep on coming in huge quantities. I don't care that there will always be spam, I care that the <span class="blsp-spelling-corrected" id="SPELLING_ERROR_4">amount</span> of spam would be lower or probably <span class="blsp-spelling-corrected" id="SPELLING_ERROR_5">nonexistent</span> for one time sending (I sent just one mail to the <span class="blsp-spelling-error" id="SPELLING_ERROR_6">BTS</span> from two <span class="blsp-spelling-corrected" id="SPELLING_ERROR_7">different</span> mail addresses and it was enough to get huge amounts of spam on them).<br /><br /><br />The Debian Games Team's ML has suffered for a while, back in 2006, from spam bombing.<br />We thought that the easiest method to get rid of spam is to requires registration in order to be able to send mails to the list.<br /><br />That was a big mistake because, as some people suspect, mails from the <span class="blsp-spelling-error" id="SPELLING_ERROR_8">BTS</span> needed to be allowed in and the reporters got an automated reply saying that the mail is waiting for <span class="blsp-spelling-corrected" id="SPELLING_ERROR_9">approval</span>, etc, etc - plain rude, people send you bug reports and you say "You are not listed, <span class="blsp-spelling-error" id="SPELLING_ERROR_10">bla</span>, <span class="blsp-spelling-error" id="SPELLING_ERROR_11">bla</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_12">bla</span>". We changed the setting not to send any automatic reply and people were more content.<br /><br />But still, we had to hand approve or white list valid mails/addresses. That worked for a while, but once the mail ended up on <span class="blsp-spelling-error" id="SPELLING_ERROR_13">spammer</span> lists, the thing blew out of proportions. We were desperate. We tweaked the settings of the lists in <span class="blsp-spelling-corrected" id="SPELLING_ERROR_14">different</span> ways, but in the end we ended up in having such a broken setup that we had to approve white listed addresses.<br /><br />That did for me. I had to do something. So I started working on the ML setup and basically I did <a href="http://lists.debian.org/debian-devel-games/2007/04/msg00035.html">the following things</a> to get rid of spam:<br /><ul><li>anything coming from white listed mail addresses was approved</li><li>black listed mails (<span class="blsp-spelling-error" id="SPELLING_ERROR_15">bellsouth</span> is one of those) is rejected (or should be)</li><li>anything that came from the <span class="blsp-spelling-error" id="SPELLING_ERROR_16">BTS</span> (there are some nice headers that the <span class="blsp-spelling-error" id="SPELLING_ERROR_17">BTS</span> puts) and was evaluated as ham with a score of 0 (there is a field for that, too - some field has Spam=No, Score=...) was allowed</li><li>anything that came from the <span class="blsp-spelling-error" id="SPELLING_ERROR_18">BTS</span> that was Spam=No with a score above 0 was held for moderation</li><li>anything else is held for moderation</li></ul><br />This solution allowed us to lighten the burden of manually white listing every email address that ever sent valid mails to the <span class="blsp-spelling-error" id="SPELLING_ERROR_19">BTS</span> and to focus only on real spam.<br /><br />Try it your self on your lists, you'll be <span class="blsp-spelling-corrected" id="SPELLING_ERROR_20">pleasantly</span> surprised.
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Aug 18 03:33:11 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1933,7 +2104,10 @@ How to get rid of most spam on <span class="blsp-spelling-corrected" id="SPELLIN
 </td></tr></table></td></tr></table>
 
 <p>Joey <a href="http://kitenet.net/~joey/blog/entry/a_little_politeness__44___please/">complains about users filing aggressive or otherwise inappropriate bug reports</a>. Well, in this case I must say I bit the bullet.<br />Yesterday, somebody <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=438168">complained about the maintenance statuse</a> of <a href="http://packages.debian.org/cgi-bin/search_packages.pl?searchon=names&#038;version=all&#038;exact=1&#038;keywords=libapache2-mod-perl2">libapache2-mod-perl2</a>. Usually, I would have sadly nodded and said that, yes, since the API change between mod_perl for Apache 1.x and mod_perl2 for Apache 2.x (which was a <em>long</em> time ago - with perfect timing <em>not</em> to be accepted in the last weeks of Sarge's hard-freeze period, causing many of us to have to maintain two or even three versions of our code depending on the API used - But that's a different story I won't go into details now). But this time, the bug report was sent with <tt>Severity: critical</tt>.<br />I replied to this report, intending just to lower its priority and get the attention of the maintainers by <a href="http://lists.debian.org/debian-devel/2007/08/msg00681.html">sending it to a couple of Debian lists</a> - But soon afterwards, it became obvious that I was probably the person most interested in this package in Debian - At least, me and some other <a href="http://alioth.debian.org/projects/pkg-perl">pkg-perl fellows</a> who -as foolishly as myself- volunteered to step forward when needed.<br />Well, in short: I am now the proud owner of one of the packages most vital for many of the systems I've written for my work. It's also more complex than most of the other packages I maintain. From an undermaintained and quite full of warnings build process and resulting package set, I managed to make it linda- and lintian- clean, and... Well, now we have to dig through its <a href="http://bugs.debian.org/cgi-bin/pkgreport.cgi?pkg=libapache2-mod-perl2;dist=unstable">open bugs</a>. Its build system is far from orthodox from a Perl point of view, and that took me most of the day, but hey - TIMTOWTDI, right? :)
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Aug 17 21:47:40 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Aug 17 21:47:40 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">gwolf@gwolf.org (Gunnar Wolf)</font></td></tr>
 </table>
 
@@ -1972,7 +2146,10 @@ to defend against an attack on their network (and using the IP limit to slow
 down the attacks?)</p><p>P.P.S. Another interesting note: the Skype stats on the Skype website report
 5.5 Million connected users - my Skype client reports 3.7 Million. Which
 number is correct?
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Aug 17 20:55:00 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Aug 17 20:55:00 UTC 2007</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -1991,7 +2168,10 @@ number is correct?
 <p>The day was pretty productive and we&#8217;re almost done now, as you can see in this tomboy note:</p>
 <p><img src="http://www.sukria.net/images/libdevel-repl-perl-deps.png" /></p>
 <p><em> PS MadCoder: I&#8217;m sorry dude, I&#8217;m still speaking about Perl <img src="http://www.sukria.net/en/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> </em>
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Aug 17 20:42:51 UTC 2007</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Aug 17 20:42:51 UTC 2007</font></td></tr>
 </table>
 
 </body></html>

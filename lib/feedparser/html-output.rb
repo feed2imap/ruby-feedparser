@@ -106,8 +106,8 @@ module FeedParser
         end
         s += "</table></td></tr></table>\n"
       end
-      s += "<hr width=\"100%\"/>"
-      s += '<table width="100%" cellpadding="0" cellspacing="0">'
+      s += "\n<hr width=\"100%\"/>\n"
+      s += '<table width="100%" cellpadding="0" cellspacing="0">' + "\n"
       l = '<tr><td align="right"><font color="#ababab">%s</font>&nbsp;&nbsp;</td><td><font color="#ababab">%s</font></td></tr>' + "\n"
       if @date
         if localtime

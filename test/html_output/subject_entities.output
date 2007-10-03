@@ -31,7 +31,10 @@
 <p>As you can see from the photo, they have a rather trivial security model for using this PC:</p>
 <p><a href='http://www.lightbluetouchpaper.org/wp-content/uploads/2007/02/birmingham-lectern-pc.jpg' title='Birmingham Lectern PC with text “Username=user” and “Password=user&#038;2006″'><img width="425" src='http://www.lightbluetouchpaper.org/wp-content/uploads/2007/02/birmingham-lectern-pc.jpg' alt='Birmingham Lectern PC with text “Username=user” and “Password=user&#038;2006″' /></a></p>
 <p>The text (apologies for a rather fuzzy photo) says: <code>"Username=user"</code> and <code>"Password=user&#038;2006"</code>.</p>
-<p>With a little thought, it can be seen that most likely this isn&#8217;t really a security issue at all, but a software design issue. I rather suspect that there just isn&#8217;t a way of turning off the login function, and the PC can&#8217;t be used to access any other important systems &#8212; and no-one wants to see lectures delayed if the password isn&#8217;t to hand. That&#8217;s undoubtedly why they&#8217;ve used proper <a href="http://global.dymo.com/enGB/Products/LabelMANAGER_150.html">Dymo</a>-style tape for the information, rather than relying on the <a href="http://www.computerworld.com/securitytopics/security/story/0,10801,61986,00.html">traditional</a> <a href="http://www.3m.com/us/office/postit/pastpresent/history_ws.html">yellow sticky</a>, which could get lost!</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Feb 25 15:15:34 UTC 2007</font></td></tr>
+<p>With a little thought, it can be seen that most likely this isn&#8217;t really a security issue at all, but a software design issue. I rather suspect that there just isn&#8217;t a way of turning off the login function, and the PC can&#8217;t be used to access any other important systems &#8212; and no-one wants to see lectures delayed if the password isn&#8217;t to hand. That&#8217;s undoubtedly why they&#8217;ve used proper <a href="http://global.dymo.com/enGB/Products/LabelMANAGER_150.html">Dymo</a>-style tape for the information, rather than relying on the <a href="http://www.computerworld.com/securitytopics/security/story/0,10801,61986,00.html">traditional</a> <a href="http://www.3m.com/us/office/postit/pastpresent/history_ws.html">yellow sticky</a>, which could get lost!</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Feb 25 15:15:34 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Richard Clayton</font></td></tr>
 </table>
 
@@ -57,7 +60,10 @@
 <p>The second message is that SOCA is a &#8220;harm reduction agency&#8221; and is not just concentrating on detective work and prosecutions. They are also looking at a whole range of other interventions, from offender management (serious, organised criminals have a very high recidivism rate) through diligent application of the <a href="http://www.opsi.gov.uk/acts/acts2002/20020029.htm">Proceeds of Crime</a> legislation, to working with industry to harden systems against criminal opportunities.</p>
 <p>They have a Bill before parliament at present (the <a href="http://www.publications.parliament.uk/pa/pabills/200607/serious_crime.htm">Serious Crime Bill</a>) which will give them sweeping new powers to create &#8220;gangster-ASBOs&#8221; to restrict the lives of convicted organised criminals, and will permit the wholesale swapping of data for the prevention of fraud, without infringement of the Data Protection Act.  The Bill also reworks the framework for &#8220;inchoate&#8221; offences, viz: incitement to commit crimes or assisting with them &#8212; of which perhaps more on another occasion, since poor wording for the offences could make many security research activities problematic.</p>
 <p>Looking back, it is this strong emphasis on SOCA&#8217;s approach to ensuring &#8220;crime doesn&#8217;t pay&#8221; that remains with me most strongly. This isn&#8217;t just the approach of <a href="http://www.fbi.gov/libref/historic/famcases/capone/capone.htm">locking Al Capone up for tax evasion</a> because nothing else could be made to stick (though Capone actually served time for several other offences). This is all about SOCA developing an effective way of stripping criminals of their ill-gotten gains.</p>
-<p>I&#8217;m reminded of <a href="http://www.amstrad.com/about/sir_alan.html">Sir Alan Sugar</a> giving a lecture about management way back in the 1980&#8217;s. He was mocking the catch-phrase/mission-statement culture, memorably saying, &#8220;<a href="http://eurowards.org/content/article.php?sid=25">&#8216;Pan Am takes good care of you&#8217;, &#8216;Marks and Spencer loves you&#8217;, &#8216;Securicor cares&#8217; . . . at Amstrad, &#8216;We just want your money&#8217;</a>&#8220;. Twenty years on, that seems a rather apt phrase for a significant slice of SOCA&#8217;s activities.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Feb 11 16:56:09 UTC 2007</font></td></tr>
+<p>I&#8217;m reminded of <a href="http://www.amstrad.com/about/sir_alan.html">Sir Alan Sugar</a> giving a lecture about management way back in the 1980&#8217;s. He was mocking the catch-phrase/mission-statement culture, memorably saying, &#8220;<a href="http://eurowards.org/content/article.php?sid=25">&#8216;Pan Am takes good care of you&#8217;, &#8216;Marks and Spencer loves you&#8217;, &#8216;Securicor cares&#8217; . . . at Amstrad, &#8216;We just want your money&#8217;</a>&#8220;. Twenty years on, that seems a rather apt phrase for a significant slice of SOCA&#8217;s activities.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Feb 11 16:56:09 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Richard Clayton</font></td></tr>
 </table>
 
@@ -94,7 +100,10 @@
 <p>Besides the scenarios mentioned above, our <a href="http://www.lightbluetouchpaper.org/2007/02/06/chip-pin-relay-attacks/">demonstration for Watchdog</a> showed how, even without cloning a card, a Chip &amp; PIN terminal could be fooled into accepting a counterfeit. Assuming this ATM read the chip rather than the magnetic stripe, our attack would work just as well there. The situation surrounding this particular case might preclude a relay attack, but it is one of many possibilities that ought to be eliminated in a serious investigation.</p>
 <blockquote><p>Although you question The Firm&#8217;s security systems, I consider that the audit trail provided is in a format utilised by several major banks and therefore can be relied upon.</p></blockquote>
 <p>The format of the audit trail is no indication of whether the information it records is a true and complete representation of what actually happened and it is almost ludicrous to suggest that. Even if it were, the fact that several banks are using it is no indication of its security. To actually establish these facts, external scrutiny is required and, without access to bank&#8217;s systems, customers are not a position to arrange for this.</p>
-<p>So the banking dispute resolution process works well for the banks, by reducing their litigation costs, but not well for their customers. If customers go to the Ombudsman, they risk being asked to prove their innocence without being given access to the information necessary to do so. Instead, they could go directly to the courts, but while the bank might accuse customers of not following proper procedures, if they win there they can at least <a href="http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=430129&#038;in_page_id=1770">send in the bailiffs</a>.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Feb 08 18:25:56 UTC 2007</font></td></tr>
+<p>So the banking dispute resolution process works well for the banks, by reducing their litigation costs, but not well for their customers. If customers go to the Ombudsman, they risk being asked to prove their innocence without being given access to the information necessary to do so. Instead, they could go directly to the courts, but while the bank might accuse customers of not following proper procedures, if they win there they can at least <a href="http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=430129&#038;in_page_id=1770">send in the bailiffs</a>.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Feb 08 18:25:56 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Steven J. Murdoch</font></td></tr>
 </table>
 
@@ -116,7 +125,10 @@
 <p>From the banks&#8217; perspective, there will be nothing unusual about this transaction. To them, it will seem as if the real card was used, with a chip and along with the correct PIN. Banks have previously claimed that if a fraudulent Chip &#038; PIN transaction was placed, then the customer must have been negligent in protecting their card and PIN, and so must be liable. This work shows that despite customers taking all due care in using their card, they can still be the victim of fraud.</p>
 <p>For more information, we have a <a href="http://www.cl.cam.ac.uk/research/security/projects/banking/relay/">summary of the technique and FAQ</a>. This attack will be featured on <a href="http://www.bbc.co.uk/consumer/tv_and_radio/watchdog/">Watchdog</a>, tonight (6 February) at 19:00 GMT on BBC One. The programme will show how we successfully sent details between two shops in the same street, but it should work equally well, via mobile phone, to the other side of the world.</p>
 <p>It is unlikely that criminals are currently using techniques such as this, as there are less sophisticated attacks which Chip &#038; PIN remains vulnerable to. However, as security is improved, the relay attack may become a significant source of fraud. Therefore, it is important that defences against this attack are deployed sooner rather than later. We discuss defences in our <a href="http://www.cl.cam.ac.uk/research/security/projects/banking/relay/bounding.pdf">draft academic paper</a>, submitted for review at a peer reviewed conference.</p>
-<p><strong>Update</strong> (2007-01-10): The segment of Watchdog featuring our contribution has been <a href="http://www.youtube.com/watch?v=X7pjUIxKoEc">posted to YouTube</a>.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Feb 06 09:36:58 UTC 2007</font></td></tr>
+<p><strong>Update</strong> (2007-01-10): The segment of Watchdog featuring our contribution has been <a href="http://www.youtube.com/watch?v=X7pjUIxKoEc">posted to YouTube</a>.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Feb 06 09:36:58 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Steven J. Murdoch</font></td></tr>
 </table>
 
@@ -158,7 +170,10 @@ CH-8093 Zurich / Switzerland<br />
 Tel: +41-1-638-3453<br />
 Fax: +41-1-693-10 73 and 693 11 51<br />
 </code></p>
-<p>But this email is not quite what it seems….</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Jan 07 21:21:15 UTC 2007</font></td></tr>
+<p>But this email is not quite what it seems….</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Jan 07 21:21:15 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Richard Clayton</font></td></tr>
 </table>
 
@@ -182,7 +197,10 @@ Fax: +41-1-693-10 73 and 693 11 51<br />
 <blockquote><p>
 APACS, the payments organisation representing high street banks, said the Cambridge breakthrough could be a threat.</p>
 <p>&#8216;People could, in theory, use this to steal account details from cards,&#8217; said Sandra Quinn of APACS. &#8216;Our experts are in discussion with the manufacturers of terminals to see what can be done. Essentially what these people have done is replace the innards of a chip and Pin machine.</p>
-<p>&#8216;However, we would say that this has only been seen in a laboratory so far. People would not be able to create counterfeit chip and Pin cards, but they could use this information abroad to make purchases.&#8217; </p></blockquote><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Dec 24 21:08:24 UTC 2006</font></td></tr>
+<p>&#8216;However, we would say that this has only been seen in a laboratory so far. People would not be able to create counterfeit chip and Pin cards, but they could use this information abroad to make purchases.&#8217; </p></blockquote>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Dec 24 21:08:24 UTC 2006</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Saar Drimer</font></td></tr>
 </table>
 
@@ -200,7 +218,10 @@ APACS, the payments organisation representing high street banks, said the Cambri
 
 <p>This morning I debated health privacy on Radio 4&#8217;s Today programme with health minister Lord Warner. You can listen to the debate <a href="http://www.bbc.co.uk/radio4/today/listenagain/ram/today4_nhs_record_20061218.ram">here</a>, and there is an earlier comment by Michael Summers of the Patients&#8217; Association <a href="http://www.bbc.co.uk/radio4/today/listenagain/ram/today2_nhs_record_20061218.ram">here</a>.</p>
 <p>I support a campaign by <a href="http://www.thebigoptout.org">TheBigOptOut.org</a> which has so far persuaded thousands of people to write to their GPs forbidding the upload of their patient records to central systems. Once they are uploaded, you&#8217;ll have to prove &#8217;substantial mental distress&#8217; to the government (as Lord Warner says) to get them removed or restricted. It is much simpler to tell your GP not to upload them in the first place (and you can always change your mind later if the Government delivers on its claims about safety and privacy).</p>
-<p>For more, see <a href="http://www.thebigoptout.org">TheBigOptOut.org</a>, <a href="http://www.nhs-it.info">nhs-it.info</a> and my previous blog posts <a href="http://www.lightbluetouchpaper.org/2006/12/01/health-privacy-breaking-news/">here</a>, <a href="http://www.lightbluetouchpaper.org/2006/11/27/developments-on-health-privacy/">here</a> and <a href="http://www.lightbluetouchpaper.org/2006/11/01/opting-out-of-the-nhs-database/">here</a>, and our work on <a href="http://www.lightbluetouchpaper.org/2006/11/22/kids-databases/">children&#8217;s databases</a> (children&#8217;s safety and privacy might be particularly at risk from the proposals, as I explain in the <a href="http://www.bbc.co.uk/radio4/today/listenagain/ram/today4_nhs_record_20061218.ram">debate</a>).</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Dec 18 10:10:58 UTC 2006</font></td></tr>
+<p>For more, see <a href="http://www.thebigoptout.org">TheBigOptOut.org</a>, <a href="http://www.nhs-it.info">nhs-it.info</a> and my previous blog posts <a href="http://www.lightbluetouchpaper.org/2006/12/01/health-privacy-breaking-news/">here</a>, <a href="http://www.lightbluetouchpaper.org/2006/11/27/developments-on-health-privacy/">here</a> and <a href="http://www.lightbluetouchpaper.org/2006/11/01/opting-out-of-the-nhs-database/">here</a>, and our work on <a href="http://www.lightbluetouchpaper.org/2006/11/22/kids-databases/">children&#8217;s databases</a> (children&#8217;s safety and privacy might be particularly at risk from the proposals, as I explain in the <a href="http://www.bbc.co.uk/radio4/today/listenagain/ram/today4_nhs_record_20061218.ram">debate</a>).</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Dec 18 10:10:58 UTC 2006</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Ross Anderson</font></td></tr>
 </table>
 
@@ -228,7 +249,10 @@ APACS, the payments organisation representing high street banks, said the Cambri
 <li>Roger Dingledine (co-designer of <a href="http://tor.eff.org/">Tor</a>) on <a href="http://events.ccc.de/congress/2006/Fahrplan/events/1444.en.html">Tor and China</a> &#8212; censorship resistance has been a major interest of mine, particularly since I started working for the <a href="http://opennet.net/">OpenNet Initiative</a></li>
 <li>Rop Gonggrijp on <a href="http://events.ccc.de/congress/2006/Fahrplan/events/1423.en.html">We don&#8217;t trust voting computers</a> &#8212; from the team who made a Dutch voting computer <a href="http://www.heise.de/english/newsticker/news/79106">play chess</a></li>
 </ul>
-<p>It&#8217;s looking like a great line-up, so I hope many of you can make it. See you there!</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Dec 12 11:13:44 UTC 2006</font></td></tr>
+<p>It&#8217;s looking like a great line-up, so I hope many of you can make it. See you there!</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Dec 12 11:13:44 UTC 2006</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Steven J. Murdoch</font></td></tr>
 </table>
 
@@ -246,7 +270,10 @@ APACS, the payments organisation representing high street banks, said the Cambri
 
 <p>The Chief Medical Officer, Sir Liam Donaldson, has written a <a href="http://www.cl.cam.ac.uk/~rja14/Papers/nhs-cmolet-nov.pdf">letter</a> to all GPs and hospital medical directors telling them that if patients try to opt out of the central collection of their medical data, the Secretary of State must be told. This follows a <a href="http://www.thebigoptout.org">campaign</a> that I&#8217;ve been helping and that has attracted strong support - in the <a href="http://www.lightbluetouchpaper.org/2006/11/01/opting-out-of-the-nhs-database/">press</a>, from <a href="http://society.guardian.co.uk/e-public/story/0,,1953185,00.html">GPs</a> and from <a href="http://www.guardian.co.uk/uk_news/story/0,,1960170,00.html">public opinion</a>.</p>
 <p>This letter orders GPs to break patient confidentiality - and apparently for the noble purpose of news management. I understand that at least one GP will be reporting Sir Liam to the General Medical Council. It is entirely up to the patient to decide whether to send an opt-out letter to their GP, to Ms Hewitt, or to both. It is not for a civil servant - even a very grand one like Sir Liam - to unilaterally override the wishes of those patients who decide to write to their GP but not to Ms Hewitt. (It&#8217;s also somewhat amusing as, only a month ago, officials were telling patients who tried to opt out that <a href="http://dooooooom.blogspot.com/2006/11/nhs-data-rape-hits-headlines.html">their GPs would decide whether to upload data</a>.)</p>
-<p>Developing &#8230;</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Dec 01 15:29:31 UTC 2006</font></td></tr>
+<p>Developing &#8230;</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Dec 01 15:29:31 UTC 2006</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Ross Anderson</font></td></tr>
 </table>
 
@@ -264,7 +291,10 @@ APACS, the payments organisation representing high street banks, said the Cambri
 
 <p>The <a href="http://www.theregister.co.uk/2006/11/27/care_record_conf/">Register</a> reports a <a href="http://www.nhsconfidentiality.org/wp-content/uploads/November%20-%20NHS%20Care%20Records%20Report.pdf">leaked document</a> from the NHS which concludes that sensitive patient records would probably be safer held locally, rather than stored on a national database as the Government proposes.</p>
 <p>This follows a poll last week in which <a href="http://society.guardian.co.uk/e-public/story/0,,1953185,00.html">a majority of GPs</a> said they would not upload their patients&#8217; records to the national database. Together the poll and the leak are a double whammy for the <a href="http://editthis.info/nhs_it_info/Main_Page">misguided and wasteful project to centralise all computer systems in the NHS</a>.</p>
-<p>On Wednesday we are launching <a href="http://www.thebigoptout.org">a campaign</a> to persuade patients to opt out too. The inaugural meeting will be <a href="http://www.no2id.net/news/events.php#111">from 7 to 9 PM in Imperial College, London</a>. For background, see recent posts on <a href="http://www.lightbluetouchpaper.org/2006/11/01/opting-out-of-the-nhs-database/">opting out</a> and on <a href="http://www.lightbluetouchpaper.org/2006/11/22/kids-databases/">kids&#8217; databases</a>.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Nov 27 23:08:23 UTC 2006</font></td></tr>
+<p>On Wednesday we are launching <a href="http://www.thebigoptout.org">a campaign</a> to persuade patients to opt out too. The inaugural meeting will be <a href="http://www.no2id.net/news/events.php#111">from 7 to 9 PM in Imperial College, London</a>. For background, see recent posts on <a href="http://www.lightbluetouchpaper.org/2006/11/01/opting-out-of-the-nhs-database/">opting out</a> and on <a href="http://www.lightbluetouchpaper.org/2006/11/22/kids-databases/">kids&#8217; databases</a>.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Nov 27 23:08:23 UTC 2006</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Ross Anderson</font></td></tr>
 </table>
 

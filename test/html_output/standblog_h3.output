@@ -48,7 +48,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li>Blog <em>Les Echos</em> (encore) : <a href="http://blogs.lesechos.fr/article.php?id_article=620" hreflang="fr">Pascal Nègre n’a plus qu’à ouvrir une boulangerie.</a> ;</li>
 </ul>
 
-<p>Vous aussi, si vous refusez les DRM, si vous considérez qu'il s'agit d'une restriction à votre droit à la copie privée (et à votre vie privée tout court), alors n'hésitez pas, faites un blog et écrivez un billet <a href="http://lilyprune.free.fr/index.php/2007/01/25/drm-de-merde-2/" hreflang="fr">DRM de merde</a>.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 29 08:43:00 UTC 2007</font></td></tr>
+<p>Vous aussi, si vous refusez les DRM, si vous considérez qu'il s'agit d'une restriction à votre droit à la copie privée (et à votre vie privée tout court), alors n'hésitez pas, faites un blog et écrivez un billet <a href="http://lilyprune.free.fr/index.php/2007/01/25/drm-de-merde-2/" hreflang="fr">DRM de merde</a>.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 29 08:43:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dangers des DRM</font></td></tr>
 </table>
@@ -91,7 +94,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li>La stratégie <em>Live</em> de Microsoft <a href="http://news.com.com/2100-1038_3-6153879.html" hreflang="en">tarde à décoller</a>. Pour l'instant. Ils y arriveront, malgré cette marque faible et le petit nombre d'annonceurs.</li>
 <li>Spécial <em>Web geeks</em> : <a href="http://ejohn.org/blog/hacking-digg-with-firebug-and-jquery/" hreflang="en">Hacking Digg with Firebug and jQuery</a>, par John Resig (mainteneur de jQuery et employé Mozilla). En vidéo ! Ca change complètement la façon de percevoir une page Web (un peu comme GreaseMonkey, mais de façon interactive avec la console JS de Firebug). J'ai du mal à m'en remettre <img src="http://standblog.org/dc-blog/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /></li>
 <li><a href="http://yro.slashdot.org/yro/07/01/27/147243.shtml" hreflang="en">Microsoft démontre brillamment à quel point les brevets logiciels sont aberrants</a> en copiant une innovation, en l'admettant, et en la faisant breveter ensuite. Superbement pédagogique ! Merci Microsoft ! (Ah, attendez, on me souffle dans l'oreillette que ça n'était pas forcément fait dans cette optique <img src="http://standblog.org/dc-blog/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> )</li>
-</ul><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Jan 28 18:13:00 UTC 2007</font></td></tr>
+</ul>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Jan 28 18:13:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">En vrac</font></td></tr>
 </table>
@@ -184,7 +190,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <p>[<a href="http://standblog.org/blog/post/2007/01/25/#rev-pnote-3087-7" id="pnote-3087-7">7</a>] Pour plus d'information sur le sujet, j'invite le lecteur à se reporter à un excellent papier, <a href="http://chl.be/vista/" hreflang="fr">Analyse du coût de la protection de contenu de Windows Vista</a>, très documenté, qui a fait le tour du monde, et qui est même disponible en français !</p>
 <p>[<a href="http://standblog.org/blog/post/2007/01/25/#rev-pnote-3087-8" id="pnote-3087-8">8</a>] Je pense en particulier au droit à la copie privée, au droit de lire les oeuvres comme bon me semble, avec l'équipement de mon choix, le droit à acheter le matériel que je veux et le droit d'utiliser les logiciels de mon choix, le droit de changer de carte-mère ou de faire évoluer mon matériel sans avoir à me plier au diktat d'une entreprise, qu'elle soit française ou américaine.</p>
 <p>[<a href="http://standblog.org/blog/post/2007/01/25/#rev-pnote-3087-9" id="pnote-3087-9">9</a>] Qu'on ne se méprenne pas. Si je parle de Microsoft avec des mots si durs, ça n'est pas parce que je déteste Microsoft : je ne déteste pas cette entreprise (voir à ce sujet mon billet <a href="http://standblog.org/blog/post/2005/10/22/93114455-faut-il-etre-pour-ou-contre-microsoft" hreflang="fr">Faut-il être pour ou contre Microsoft ?</a>). Par contre, et c'est là l'origine de ma démarche, je déteste la situation de monopole, qui ôte le pouvoir aux consommateurs de choisir, et les DRM, qui sont néfastes aux libertés des citoyens.</p>
-<p>[<a href="http://standblog.org/blog/post/2007/01/25/#rev-pnote-3087-10" id="pnote-3087-10">10</a>] Oui, il y a des DRM sur le Mac, mais dans iTunes, pas dans le système d'exploitation lui-même. A l'inverse, il n'y a pas de DRM sous Linux, mais on est bridé dans l'utilisation de formats propriétaires et l'accès à certains contenus, justement à cause de cette absence de DRM. Il est à noter qu'il n'est pas exclu que cela touche le Mac aussi.</p></div><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Jan 26 13:45:00 UTC 2007</font></td></tr>
+<p>[<a href="http://standblog.org/blog/post/2007/01/25/#rev-pnote-3087-10" id="pnote-3087-10">10</a>] Oui, il y a des DRM sur le Mac, mais dans iTunes, pas dans le système d'exploitation lui-même. A l'inverse, il n'y a pas de DRM sous Linux, mais on est bridé dans l'utilisation de formats propriétaires et l'accès à certains contenus, justement à cause de cette absence de DRM. Il est à noter qu'il n'est pas exclu que cela touche le Mac aussi.</p></div>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Jan 26 13:45:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technologie</font></td></tr>
 </table>
@@ -220,7 +229,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><strong>Binaires universels</strong> pour Mac OS X (PowerPC et Intel) ;</li>
 </ul>
 <div class="footnotes"><h4>Notes</h4>
-<p>[<a href="http://standblog.org/blog/post/2007/01/25/#rev-pnote-3086-1" id="pnote-3086-1">1</a>] Je suis déjà raide dingue de cette fonctionnalité</p></div><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Jan 25 20:15:00 UTC 2007</font></td></tr>
+<p>[<a href="http://standblog.org/blog/post/2007/01/25/#rev-pnote-3086-1" id="pnote-3086-1">1</a>] Je suis déjà raide dingue de cette fonctionnalité</p></div>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Jan 25 20:15:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mozilla-Europe</font></td></tr>
 </table>
@@ -263,7 +275,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 </ul></li>
 </ul>
 
-<p>Je prépare un billet pour parler du <em>Mozilla Manifesto</em>, qui mérite bien un peu plus de visibilité pour lui tout seul.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Jan 25 08:55:00 UTC 2007</font></td></tr>
+<p>Je prépare un billet pour parler du <em>Mozilla Manifesto</em>, qui mérite bien un peu plus de visibilité pour lui tout seul.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Jan 25 08:55:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mozilla-Europe</font></td></tr>
 </table>
@@ -294,7 +309,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><a href="http://www.w3.org/Consortium/Recruitment/Fellows#openings" hreflang="en">2 postes sont ouverts au W3C</a> (à condition de travailler chez une organisation membre du W3C) ;</li>
 <li><a href="http://www.leblogdebezier.com/?p=87" hreflang="fr">Votre serviteur interviewé par Thierry Bézier (partie 3 sur 4)</a>, en vidéo et en MP3 ;</li>
 <li><a href="http://www.lemonde.fr/web/article/0,1-0@2-3228,36-858553@51-856676,0.html" hreflang="fr">Chez eBay UK, on se frotte les mains</a> <img src="http://standblog.org/dc-blog/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></li>
-</ul><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 24 16:42:00 UTC 2007</font></td></tr>
+</ul>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 24 16:42:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">En vrac</font></td></tr>
 </table>
@@ -320,7 +338,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <p>And another quote, while Mr Cazenave answers why he wanted the <em>Assemblée Nationale</em> to use Linux:</p>
 
 
-<blockquote><p>I wanted this mostly to solve the issues of standards, as I think that public organizations and administrations, in order to be able to be used by everybody, must use tools that implement open standards. It's a matter of compatibility over time as it ensures that any software vendor is going to be able to implement this standard. It's also for financial reasons, as the use of Free/Open Source software, considering the size of these organizations and administrations, enables significant savings, despite the cost of deployment, migration and training involved. I hope that Assemblée Nationale will lead the way for others.</p></blockquote><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 24 15:10:00 UTC 2007</font></td></tr>
+<blockquote><p>I wanted this mostly to solve the issues of standards, as I think that public organizations and administrations, in order to be able to be used by everybody, must use tools that implement open standards. It's a matter of compatibility over time as it ensures that any software vendor is going to be able to implement this standard. It's also for financial reasons, as the use of Free/Open Source software, considering the size of these organizations and administrations, enables significant savings, despite the cost of deployment, migration and training involved. I hope that Assemblée Nationale will lead the way for others.</p></blockquote>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 24 15:10:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">en</font></td></tr>
 </table>
@@ -345,7 +366,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 </ul></li>
 <li><a href="http://lilyprune.free.fr/index.php/2007/01/22/drm-de-merde/" hreflang="fr">DRM de merde, la campagne</a> ! Et si vous aussi, ami blogueur, vous parliez de <a href="http://standblog.org/blog/post/2007/01/22/DRM-de-merde" hreflang="fr">ce problème</a> ? C'est en tout cas ce que vous propose de faire le blog Lilyprune ;</li>
 <li><a href="http://www.01net.com/editorial/339348/musique/des-associations-europeennes-contre-les-drm-d-apple/" hreflang="fr">Des associations européennes contre les DRM d'Apple</a> ;</li>
-</ul><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 24 13:30:00 UTC 2007</font></td></tr>
+</ul>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 24 13:30:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dangers des DRM</font></td></tr>
 </table>
@@ -362,7 +386,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 </a>
 </td></tr></table></td></tr></table>
 
-<p>Ainsi, Nicolas Hulot s'est retiré de la course à la présidence de la République, avec un soulagement à la fois visible et prévisible. Il aura réussi à donner plus de visibilité à la protection de l'environnement, et c'est une excellente chose. J'ai signé le <a href="http://www.pacte-ecologique-2007.org/declaration/index.html" hreflang="fr">pacte écologique</a>, et je vous encourage à faire de même, dès maintenant : il faut montrer aux politiques de tous bords l'importance de ce sujet, et pour cela il faut montrer qu'il tient à coeur pour des millions d'électeurs ! J'en profite pour mettre un lien vers un article tout en tendresse, par l'ami <a href="http://cdelasteyrie.typepad.com/sidiese/" hreflang="fr">Vinvin</a>, <a href="http://cdelasteyrie.typepad.com/sidiese/2007/01/les_pieds_de_ni.html" hreflang="fr">le pied de Nicolas Hulot</a>.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 24 13:20:00 UTC 2007</font></td></tr>
+<p>Ainsi, Nicolas Hulot s'est retiré de la course à la présidence de la République, avec un soulagement à la fois visible et prévisible. Il aura réussi à donner plus de visibilité à la protection de l'environnement, et c'est une excellente chose. J'ai signé le <a href="http://www.pacte-ecologique-2007.org/declaration/index.html" hreflang="fr">pacte écologique</a>, et je vous encourage à faire de même, dès maintenant : il faut montrer aux politiques de tous bords l'importance de ce sujet, et pour cela il faut montrer qu'il tient à coeur pour des millions d'électeurs ! J'en profite pour mettre un lien vers un article tout en tendresse, par l'ami <a href="http://cdelasteyrie.typepad.com/sidiese/" hreflang="fr">Vinvin</a>, <a href="http://cdelasteyrie.typepad.com/sidiese/2007/01/les_pieds_de_ni.html" hreflang="fr">le pied de Nicolas Hulot</a>.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 24 13:20:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Environnement</font></td></tr>
 </table>
@@ -388,7 +415,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <p>Je donnerai aussi une conférence le lendemain après midi, dans le cadre du village associatif. Ca sera pour moi l'occasion de faire le point sur le projet Mozilla, Firefox et Mozilla Europe.</p>
 
 
-<p>Il n'est pas trop tard pour <a href="http://www.solutionslinux.fr/fr/visiter_preinscription_fr.php" hreflang="fr">vous pré-inscrire</a> !</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 24 10:15:00 UTC 2007</font></td></tr>
+<p>Il n'est pas trop tard pour <a href="http://www.solutionslinux.fr/fr/visiter_preinscription_fr.php" hreflang="fr">vous pré-inscrire</a> !</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 24 10:15:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mozilla-Europe</font></td></tr>
 </table>
@@ -417,7 +447,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li>Humour : <a href="http://www.nytimes.com/2007/01/22/business/media/22porn.html" hreflang="en">l'industrie du porno hésite à passer à la haute définition</a>, vu que ça révèle les défauts des acteurs et actrices. Solution : maquillage et chirurgie esthétique ! (Merci au <em>New York Times</em> pour cet article de fond <img src="http://standblog.org/dc-blog/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> )</li>
 <li><a href="http://www.linux-foundation.org/" hreflang="en">Création de la [Linux Foundation</a>, fusion d<em>'OSDL</em> et du <em>Free Standards Group</em>. Voici le <a href="http://www.linux-foundation.org/wordpress/?p=286" hreflang="en">communiqué de presse</a>. <a href="http://www.groklaw.net/article.php?story=20070122053519523" hreflang="en">Groklaw appuie là où ça fait mal</a> (et fournit un serveur qui tient la route, lui !) ;</li>
 <li>Très bon billet de Christophe Bardy à propos <a href="http://idg3.typepad.com/infrastructure/2007/01/louverture_du_p.html" hreflang="fr">L'ouverture du PC : le cauchemar de Microsoft et de Vista...</a>. La conclusion fait peur ! Faut-il remettre le PC à plat ?</li>
-</ul><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 17:45:00 UTC 2007</font></td></tr>
+</ul>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 17:45:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">En vrac</font></td></tr>
 </table>
@@ -442,7 +475,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 
 <blockquote><p>j'ai un petit message personnel à faire passer à qui de droit : &quot;Messieurs, vos DRM sont une belle merde, du foutage de gueule en barre, du ni fait ni à faire, un ramassis de camelote, un assortiment de bugs en cascade, une escroquerie logicielle et intellectuelle et pour finir, une véritable incitation à les contourner, ce que je n'hésiterai pas à faire en dernier ressort - ça devrait être moins compliqué que de les faire fonctionner -, pour continuer à bénéficier des services que je paie !&quot; A bon entendeur…</p></blockquote>
 <div class="footnotes"><h4>Notes</h4>
-<p>[<a href="http://standblog.org/blog/post/2007/01/22/#rev-pnote-3078-1" id="pnote-3078-1">1</a>] Plus mal nommé que jamais !</p></div><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 16:34:00 UTC 2007</font></td></tr>
+<p>[<a href="http://standblog.org/blog/post/2007/01/22/#rev-pnote-3078-1" id="pnote-3078-1">1</a>] Plus mal nommé que jamais !</p></div>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 16:34:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dangers des DRM</font></td></tr>
 </table>
@@ -464,7 +500,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 
 <p>For now, this public preview (released yesterday) is only available in French, but other versions are in the works, including English, Spanish, Portuguese, Chinese and German. I already have submitted my first <acronym title="Request For Enhancement">RFE</acronym>s to the team, as I plan to give this CD-ROM to my son Robin (10 years today<sup>[<a href="http://standblog.org/blog/post/2007/01/22/#pnote-3077-1" id="rev-pnote-3077-1">1</a>]</sup>) so he can read Wikipedia on his old, not connected PC. However, <a href="http://www.moulinwiki.org/" hreflang="en">Moulin</a> is meant to be deployed in African schools were there are a few PCs with CD-ROM drives, but without Internet access. There are already <a href="http://www.moulinwiki.org/moulinwiki-sites/">places in Mali where Moulin has been deployed</a> ! I love the fact that Mozilla technology is used with Wikipedia content in order to share culture and knowledge in remote places (including my son's desk <img src="http://standblog.org/dc-blog/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> )</p>
 <div class="footnotes"><h4>Notes</h4>
-<p>[<a href="http://standblog.org/blog/post/2007/01/22/#rev-pnote-3077-1" id="pnote-3077-1">1</a>] Happy Birthday, Robin!</p></div><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 15:44:00 UTC 2007</font></td></tr>
+<p>[<a href="http://standblog.org/blog/post/2007/01/22/#rev-pnote-3077-1" id="pnote-3077-1">1</a>] Happy Birthday, Robin!</p></div>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 15:44:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">en</font></td></tr>
 </table>
@@ -487,7 +526,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><a href="http://www.engadget.com/2007/01/20/microsoft-made-the-zune-because-partner-hardware-sucks/" hreflang="en">Microsoft made the Zune because partner hardware &quot;sucks&quot;</a>...pour finalement faire... ce qu'on connaît (avec un nouveau DRM pour faire bonne mesure) ;</li>
 <li><a href="http://www.pbs.org/cringely/pulpit/2007/pulpit_20070119_001510.html" hreflang="en">Google veut dominer le monde</a>. Bon d'accord, c'est délirant, mais c'est intéressant, comme délire, et pas forcément faux, d'autant que Cringely n'a pas écrit que des bêtises par le passé. Pendant ce temps là, <a href="http://www.mysanantonio.com/news/metro/stories/MYSA011907.01A.Microsoft.1bc19da.html" hreflang="en">Microsoft veuet faire de même</a> ;</li>
 <li><a href="http://apple.slashdot.org/apple/07/01/21/1843216.shtml" hreflang="en">Zune a 10,2% des parts de marché aux US, dans le segment des baladeurs MP3 à disque de 30Go</a>. Maintenant, voici le <em>scoop</em> mortel qu'on ne trouve que sur le Standblog, à propos du Zune : dans le segment des baladeurs à disque dur de couleur marron avec un truc qui ressemble à une <em>clickwheel</em> mais n'en est pas une, ils ont 100% ! (Comme disait Coluche, &quot;en politique française, on est les meilleurs du mooooonde !&quot;)</li>
-</ul><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 14:25:00 UTC 2007</font></td></tr>
+</ul>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 14:25:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technologie</font></td></tr>
 </table>
@@ -511,7 +553,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><em>ZDNet</em> : <a href="http://www.zdnet.fr/actualites/informatique/0,39040745,39366267,00.htm" hreflang="fr">Bruxelles publie un plaidoyer pour l'open source</a> ;</li>
 <li><em>Wired</em> : <a href="http://blog.wired.com/monkeybites/2007/01/huge_new_study_.html" hreflang="en">Huge new study on Free/Open Source Software</a> ;</li>
 <li><em>LinuxFR</em> : <a href="http://linuxfr.org/2007/01/17/21930.html" hreflang="fr">Rapport pour la Commission européenne sur le logiciel libre</a> (avec un rapide résumé du résumé) ;</li>
-</ul><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 14:03:00 UTC 2007</font></td></tr>
+</ul>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 14:03:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technologie</font></td></tr>
 </table>
@@ -528,7 +573,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 </a>
 </td></tr></table></td></tr></table>
 
-<p>On vient de m'envoyer un lien vers un bon papier de Libé, <a href="http://www.liberation.fr/actualite/economie/230039.FR.php" hreflang="fr">L'industrie du disque en plein jeu de pistes</a>. Il y apparaît que beaucoup de producteurs de disques commencent à réaliser à quel point les DRM sont pénibles. Un représentant de l'industrie électronique se risque à dire la vérité : &quot;Il serait normal que les gens puissent utiliser comme ils le souhaitent les contenus qu'ils ont légalement acquis&quot;. Seul le patron de la <acronym title="Recording Industry Association of America">RIAA</acronym> (équivalent américain de la SACEM) rame à contre-courant (mais bon, il est payé pour). &quot;Si les majors n'ont jamais semblé aussi proches de se convertir au format ouvert MP3, elles craignent de voir la filière passer sous le contrôle des groupes comme Microsoft ou Apple, détenteurs des technologies de distribution en ligne&quot;, écrit Christophe Alix. Tiens, j'ai <a href="http://standblog.org/blog/post/2007/01/17/Letonnant-parallele-entre-Frankenstein-et-les-DRM" hreflang="fr">déjà lu ça quelque part</a> ! <img src="http://standblog.org/dc-blog/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 07:41:00 UTC 2007</font></td></tr>
+<p>On vient de m'envoyer un lien vers un bon papier de Libé, <a href="http://www.liberation.fr/actualite/economie/230039.FR.php" hreflang="fr">L'industrie du disque en plein jeu de pistes</a>. Il y apparaît que beaucoup de producteurs de disques commencent à réaliser à quel point les DRM sont pénibles. Un représentant de l'industrie électronique se risque à dire la vérité : &quot;Il serait normal que les gens puissent utiliser comme ils le souhaitent les contenus qu'ils ont légalement acquis&quot;. Seul le patron de la <acronym title="Recording Industry Association of America">RIAA</acronym> (équivalent américain de la SACEM) rame à contre-courant (mais bon, il est payé pour). &quot;Si les majors n'ont jamais semblé aussi proches de se convertir au format ouvert MP3, elles craignent de voir la filière passer sous le contrôle des groupes comme Microsoft ou Apple, détenteurs des technologies de distribution en ligne&quot;, écrit Christophe Alix. Tiens, j'ai <a href="http://standblog.org/blog/post/2007/01/17/Letonnant-parallele-entre-Frankenstein-et-les-DRM" hreflang="fr">déjà lu ça quelque part</a> ! <img src="http://standblog.org/dc-blog/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Jan 22 07:41:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dangers des DRM</font></td></tr>
 </table>
@@ -571,7 +619,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><a href="http://blog.washingtonpost.com/securityfix/2007/01/critical_microsoft_mozilla_pat.html" hreflang="en">Le temps pour Microsoft pour résoudre une faille critique d'IE en 2006 : 90 jours</a> (parfois 40 pour les cas très graves). Conclusion du journaliste du <em>Washington Post</em> :</li>
 </ul>
 
-<blockquote><p><em>Si vous utilisez encore IE6 et n'êtes pas encore passé à IE7, arrêtez de traînasser. Si vous utilisez une vieille version de Windows (IE7 ne fonctionne pas sur des versions antérieures à Windows XP SP2), j'abandonnerais en vitesse IE pour n'importe quel autre navigateur.</em></p></blockquote><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Jan 20 16:25:00 UTC 2007</font></td></tr>
+<blockquote><p><em>Si vous utilisez encore IE6 et n'êtes pas encore passé à IE7, arrêtez de traînasser. Si vous utilisez une vieille version de Windows (IE7 ne fonctionne pas sur des versions antérieures à Windows XP SP2), j'abandonnerais en vitesse IE pour n'importe quel autre navigateur.</em></p></blockquote>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Jan 20 16:25:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Navigateurs</font></td></tr>
 </table>
@@ -598,7 +649,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><a href="http://www.01net.com/article/338948.html" hreflang="fr">Moins de téléchargement illégal en 2006</a>, et c'est bien ;</li>
 <li><a href="http://www.zdnet.fr/actualites/internet/0,39020774,39366310,00.htm" hreflang="fr">L'UFC-Que choisir demande aux majors de s'affranchir des DRM</a> ;</li>
 <li><a href="http://tf1.lci.fr/infos/high-tech/0,,3382414,00-mp3-sans-drm-nous-negocions-majors-.html" hreflang="fr">MP3 sans DRM : &quot;Nous négocions avec les majors&quot;</a>, explique le directeur de Fnac.com (via Daniel). Il qualifie les DRM de &quot;système encore très prohibitif pour une grande majorité de consommateurs de musique numérique&quot; ;</li>
-</ul><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Jan 19 14:19:00 UTC 2007</font></td></tr>
+</ul>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Jan 19 14:19:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">En vrac</font></td></tr>
 </table>
@@ -684,7 +738,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <p>Voilà, chers lecteurs, mes voeux pour 2007. Et histoire de faire dans la nouveauté, j'ouvre les commentaires sur ce billet (on verra si l'expérience est concluante). Et vous, que souhaitez vous aux lecteurs du Standblog ?</p>
 
 
-<p><strong>Mise à jour : </strong> j'ai du mal à me retenir de pouffer, et vous n'allez pas me croire : <del>j'ai un souci avec DotClear 2 Beta, et je n'arrive pas à ouvrir les commentaires <img src="http://standblog.org/dc-blog/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /></del> C'est corrigé. Merci Olivier et Mat !</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 17 17:18:00 UTC 2007</font></td></tr>
+<p><strong>Mise à jour : </strong> j'ai du mal à me retenir de pouffer, et vous n'allez pas me croire : <del>j'ai un souci avec DotClear 2 Beta, et je n'arrive pas à ouvrir les commentaires <img src="http://standblog.org/dc-blog/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /></del> C'est corrigé. Merci Olivier et Mat !</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 17 17:18:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">StandBlog et blogs</font></td></tr>
 </table>
@@ -735,7 +792,10 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><a href="http://www.lemonde.fr/web/article/0,1-0@2-651865,36-856015@51-833652,0.html" hreflang="fr">Musique en ligne : Virgin et Fnac &quot;déverrouillent&quot; plusieurs centaines de milliers de titres</a> ;</li>
 </ul>
 <div class="footnotes"><h4>Notes</h4>
-<p>[<a href="http://standblog.org/blog/post/2007/01/17/#rev-pnote-3070-1" id="pnote-3070-1">1</a>] J'ai testé pour vous : on vous demande votre numéro de carte bancaire puis on vous facture un abonnement mensuel, qui offre un certain nombre de chansons format non-protégé téléchargeables dans le mois. Coté catalogue, on a un peu l'impression de se retrouver dans les bacs d'un disquaire d'occasion, avec quelques noms connus, mais un max de vieux trucs dont personne ne veut...</p></div><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 17 15:15:00 UTC 2007</font></td></tr>
+<p>[<a href="http://standblog.org/blog/post/2007/01/17/#rev-pnote-3070-1" id="pnote-3070-1">1</a>] J'ai testé pour vous : on vous demande votre numéro de carte bancaire puis on vous facture un abonnement mensuel, qui offre un certain nombre de chansons format non-protégé téléchargeables dans le mois. Coté catalogue, on a un peu l'impression de se retrouver dans les bacs d'un disquaire d'occasion, avec quelques noms connus, mais un max de vieux trucs dont personne ne veut...</p></div>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Jan 17 15:15:00 UTC 2007</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dangers des DRM</font></td></tr>
 </table>

@@ -27,7 +27,10 @@ Paf
 <td width="100%"><b>content:encoded</b>
 </td></tr></table></td></tr></table>
 
-<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"></table>
+<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+</table>
 
 <hr/><!-- *********************************** -->
 <table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
@@ -40,7 +43,10 @@ Paf
 <td width="100%"><b>HTML direct</b>
 </td></tr></table></td></tr></table>
 
-<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"></table>
+<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+</table>
 
 <hr/><!-- *********************************** -->
 <table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
@@ -53,6 +59,9 @@ Paf
 <td width="100%"><b>Escaped</b>
 </td></tr></table></td></tr></table>
 
-<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"></table>
+<p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+</table>
 
 </body></html>

@@ -43,7 +43,10 @@ On peut reprocher le coté sectaire de la chose, mais il se trouve que cela appo
 <p>Pour ceux qui sont déjà sur <a href="http://orkut.com" hreflang="en">Orkut</a>, on peut dire que .node apporte la comformité aux standards du Web (XHTML), un développement basé sur du libre (<a href="http://httpd.apache.org" hreflang="en">Apache</a>, <a href="http://linux.org" hreflang="en">Linux</a>, <a href="http://mysql.com" hreflang="en">MySQL</a> et <a href="http://php.net" hreflang="en">PHP</a>, ...)... et 2-3 features (les blogs, la génération de <a href="http://alexx.dotnode.com" hreflang="fr">page perso</a> ...)</p>
 
 <p>Une version 1.1 apportera réélement de grosses nouveautés par rapport à ce qui existe.
-Pour rejoindre le réseau, guettez vos messageries ... peut-être qu'un amis va vous inviter :)</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Jun 18 15:14:04 UTC 2004</font></td></tr>
+Pour rejoindre le réseau, guettez vos messageries ... peut-être qu'un amis va vous inviter :)</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Jun 18 15:14:04 UTC 2004</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
 <tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Developpement</font></td></tr>
 </table>
@@ -73,7 +76,10 @@ Si le RSS contient un champs description, il faudra cliquer sur le titre, puis s
 <p>Amusez-vous bien, et n'hésitez pas à me remonter des RSS interessant :)</p>
 
 <p><strong>NB</strong>: Il semble qu'il y ai un pb de parse pour linuxfr.org ... il semblerait qu'il manque <code>&lt;![CDATA[</code> pour encadrer la 'description', afin que les balises HTML passent correctement, au lieu d'arreter le parsing.<br />
-<strong>NB2</strong>: Ca ne passe plus la validation XHTML1.1, car j'ai du ajouter un attribut target au lien pour que ceux-ci s'ouvre bien dans la partie principal du browser et non dans la sidebar (Vu sur Mozilla 1.6 et 1.7B, mais fonctionnait 'normalement' sur FireBird0.8... a moins que ce ne soit FireFird le mauvais élève ;) )</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Apr 08 16:04:59 UTC 2004</font></td></tr>
+<strong>NB2</strong>: Ca ne passe plus la validation XHTML1.1, car j'ai du ajouter un attribut target au lien pour que ceux-ci s'ouvre bien dans la partie principal du browser et non dans la sidebar (Vu sur Mozilla 1.6 et 1.7B, mais fonctionnait 'normalement' sur FireBird0.8... a moins que ce ne soit FireFird le mauvais élève ;) )</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Apr 08 16:04:59 UTC 2004</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
 <tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Developpement</font></td></tr>
 </table>
@@ -98,7 +104,10 @@ A force de tailler dans le CSS à a hache, la page passe a present (sur le vrai 
 
 <p>Mais je n'ai pas reussi a isoler le pb :/</p>
 
-<p>Si vous avez des pistes ....</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Mar 24 12:09:18 UTC 2004</font></td></tr>
+<p>Si vous avez des pistes ....</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Mar 24 12:09:18 UTC 2004</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
 <tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Coup de gueule</font></td></tr>
 </table>
@@ -118,7 +127,10 @@ A force de tailler dans le CSS à a hache, la page passe a present (sur le vrai 
 <p>Marre des paranoïaques ...</p> <p>Cf. le Journal de manchot sur <a href="http://linuxfr.org" hreflang="fr">LinuxFR</a> : <a href="http://linuxfr.org/~manchot/10802.html">http://linuxfr.org/~manchot/10802.html</a><br />
 et mes commentaires: <a href="http://linuxfr.org/comments/377316.html">http://linuxfr.org/comments/377316.html</a> et <a href="http://linuxfr.org/comments/377319.html">http://linuxfr.org/comments/377319.html</a></p>
 
-<p><em>A bon entendeur ...</em></p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Mar 23 21:48:43 UTC 2004</font></td></tr>
+<p><em>A bon entendeur ...</em></p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Mar 23 21:48:43 UTC 2004</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
 <tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Coup de gueule</font></td></tr>
 </table>
@@ -148,7 +160,10 @@ et mes commentaires: <a href="http://linuxfr.org/comments/377316.html">http://li
 
 <p>Tout les commentaires seront les bienvenu ....<br />
 Il y a sans doute des bugs (c'est obligatoire pour un truc programmer en 15 minutes à l'arrache ;) ), merci de me les rapporter si vous en croisez un.<br />
-Si vous avez des RSS/RDF interessant, ca peut-etre sympa de mettre ca en commentaire :)</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Mar 09 22:45:47 UTC 2004</font></td></tr>
+Si vous avez des RSS/RDF interessant, ca peut-etre sympa de mettre ca en commentaire :)</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Mar 09 22:45:47 UTC 2004</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
 <tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Developpement</font></td></tr>
 </table>
@@ -171,7 +186,10 @@ ainsi :<br />
 "MyDoom virus alert - Under Microsoft(r) Windows(c)(tm) All version : Be caution about opening emails with attachments."</p> <p>Hé oui, le bel ordinateur portable de l'illustration est un superbe ... Mac ! :)<br />
 Qui, aux dernières nouvelles, n'est en rien affecté par les problemes purement windowsiens de virus/vers email...</p>
 
-<p>Enfin bref ... on ne pourra plus se moquer pendant une petite 15aine de jour bientot ;)</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Jan 31 21:19:20 UTC 2004</font></td></tr>
+<p>Enfin bref ... on ne pourra plus se moquer pendant une petite 15aine de jour bientot ;)</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Jan 31 21:19:20 UTC 2004</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
 <tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Juste pour rire ...</font></td></tr>
 </table>

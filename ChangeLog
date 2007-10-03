@@ -2,6 +2,9 @@ Ruby-Feedparser 0.5 (XX/XX/2007)
 ================================
 * Fixed a bug with items with both non-escaped and escaped HTML. Reported,
   then patch provided by Gregory Hartman <gghartma@cs.cmu.edu>.
+* In Atom feeds, use the date provided in <updated>, and use it in
+  preference to the one in <published> if both are available.
+  Closes gna bug #8987.
 
 Ruby-Feedparser 0.4 (01/05/2007)
 ================================

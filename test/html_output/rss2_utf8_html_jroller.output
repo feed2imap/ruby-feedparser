@@ -28,7 +28,10 @@ Alex Karasulu's Weblog
 </a>
 </td></tr></table></td></tr></table>
 
-<p>Today I resusitated a file in subversion.  I thought it was cool although its not a big deal.  However what was cool was getting help from the original authors on it.  I think people should rething the support issue for svn its definately growing strong from what I can see.</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Mar 30 16:39:55 UTC 2004</font></td></tr>
+<p>Today I resusitated a file in subversion.  I thought it was cool although its not a big deal.  However what was cool was getting help from the original authors on it.  I think people should rething the support issue for svn its definately growing strong from what I can see.</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Mar 30 16:39:55 UTC 2004</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
 </table>
@@ -56,7 +59,10 @@ So the dependency graph turns into a star with all components depending on the e
 <p>
 What does this mean for service interfaces?  Well they start looking bleak because the Subscriber interface replaces them.  Basically methods are called internally by the Subscriber handling code 
 on the component itself rather than exposing them on the service interface for direct calls by what are now publishers.  This is crazy my service interfaces are all empty now!
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Feb 18 04:40:44 UTC 2004</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Feb 18 04:40:44 UTC 2004</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Java</font></td></tr>
 </table>
@@ -100,7 +106,10 @@ server side JNDI provider a walk in the park.
 <p>
 Perhaps if someone does not implement the GroovyJndi package it
 might be a way I can add my $0.02 to it and be Groovy too :-).
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Feb 12 16:26:28 UTC 2004</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Feb 12 16:26:28 UTC 2004</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Java</font></td></tr>
 </table>
@@ -121,7 +130,10 @@ might be a way I can add my $0.02 to it and be Groovy too :-).
 Eve the LDAP server formerly known as LDAPd has just been accepted last week into the incubator under the Apache Directory top level project.  Eve will be the flagship server for that Apache Directory TLP upon matriculation from the incubator.
 </p><p>
 Thanks to all those that made it happen!
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Oct 31 04:00:53 UTC 2003</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Oct 31 04:00:53 UTC 2003</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
 </table>
@@ -143,7 +155,10 @@ Yesterday I got voted practically unanimously to join the Avalon team as a commi
 </p>
 <p>
 I am especially excited to be working on getting Merlin to a generally embeddible state.  That is the subject of my first set of changes.  I'm very excited and happy to see things comming along.
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Oct 31 01:48:00 UTC 2003</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Oct 31 01:48:00 UTC 2003</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
 </table>
@@ -166,7 +181,10 @@ Almost a year ago I founded the LDAPd Group which over the course of the past ye
 
 <p>
 LDAPd currently is in the process of joining the Apache Incubator.  Unofficial comments regarding its probable acceptance were made by Nicola Ken Barozzi <a href="http://nagoya.apache.org/eyebrowse/ReadMsg?listName=general@incubator.apache.org&msgNo=2207">here</a> on Sept. 30th and support was given by Ken Coar <a href="http://nagoya.apache.org/eyebrowse/ReadMsg?listName=general@incubator.apache.org&msgNo=2201">here</a>.  Both Ken and Nicola are members of Apache and are heavily involved with the incubator.  The vote to incubate began officially in October and has probably completed by now.  No official announcement of the result has been made as of yet.  I'm hoping for an announcement on LDAPd's first birthday ;-).
-</p><hr width="100%"/><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Oct 15 13:00:40 UTC 2003</font></td></tr>
+</p>
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Oct 15 13:00:40 UTC 2003</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alex Karasulu</font></td></tr>
 <tr><td align="right"><font color="#ababab">Category:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
 </table>

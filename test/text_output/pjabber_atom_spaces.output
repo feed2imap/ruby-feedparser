@@ -9,6 +9,7 @@ Creator:
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Artur Hefczyc: Machines for tests <http://www.tigase.org/node/250>
 
+Date: Mon Feb 12 00:46:25 UTC 2007
 Author: kobit
 
 If you look at the test page[1] you may notice that stability tests are missing for a few last releases.
@@ -28,6 +29,7 @@ read more[3]
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Ralph Meijer: FOSDEM 2007 Jabber devroom schedule published <http://ralphm.net/blog/2007/02/09/fosdem_2007_devroom>
 
+Date: Fri Feb 09 15:49:30 UTC 2007
 Author: ralphm
 
 Back in November I[1] posted[2] a call for presence (haha) for the Jabber developer room[3] at FOSDEM 2007. But this year, with the help of Peter Saint-André[4], the hunt for speakers has been far more aggressive than previous editions. I must say that this has resulted in a great, packed, line-up and I am sure that many people (currently) from outside the will be interested in what will be presented. Loki has put the schedule online earlier today.
@@ -59,6 +61,7 @@ Around lunch we give[12] Robert McQueen and Peter a Jingle to get us up to speed
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Peter Saint-Andre: Getting IMified <http://www.saint-andre.com/blog/2007-02.html#2007-02-08T13:13>
 
+Date: Thu Feb 08 20:13:00 UTC 2007
 Author: Peter Saint-Andre
 
 IMified[1] is a fun new service that enables you to keep to-do items and reminders, interact with Google Calendar, and so on -- all from the comfort of your Jabber client. It's well explained here[2] with pretty screenshots. Just add imified@gmail.com[3] to your roster and off you go. (I'm not sure how their bot will scale, but I suppose they'll figure it out ;-)
@@ -70,6 +73,7 @@ IMified[1] is a fun new service that enables you to keep to-do items and reminde
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Christopher Zorn: Punjab release <http://thetofu.livejournal.com/67429.html>
 
+Date: Thu Feb 08 17:15:55 UTC 2007
 Author: Christopher Zorn
 
 A new version of punjab has been released. Also, we left sourceforge for various reasons. The new url is http://www.butterfat.net/wiki/Projects/PunJab[1]
@@ -84,6 +88,7 @@ I got rid of the old demo too. I will put up a new one soon. If you want to demo
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Peter Saint-Andre: FOSDEM Interview <http://www.saint-andre.com/blog/2007-02.html#2007-02-08T09:44>
 
+Date: Thu Feb 08 16:44:00 UTC 2007
 Author: Peter Saint-Andre
 
 The generous volunteers who put on FOSDEM[1] have published an interview[2] with yours truly, since I'll be a speaker at the conference (my topic is Secure Communications with Jabber[3], be there on Sunday at 15:00 :-).
@@ -95,6 +100,7 @@ The generous volunteers who put on FOSDEM[1] have published an interview[2] with
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Ignite Realtime Blog: Releases: Second Wave <http://www.igniterealtime.org/blog/2007/02/06/releases-second-wave/>
 
+Date: Wed Feb 07 01:27:37 UTC 2007
 Author: matt
 
 Just one week later, I’m pleased to announce the second wave of releases:
@@ -132,6 +138,7 @@ The first downloadable release of SparkWeb is now ready[9]. Over the last week, 
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Ignite Realtime Blog: Smack 3.0 Beta <http://www.igniterealtime.org/blog/2007/02/06/smack-30-beta/>
 
+Date: Tue Feb 06 23:09:39 UTC 2007
 Author: matt
 
 A new beta of Smack (3.0.0 Beta 1) was released[1] today. It’s been a *long* time since the last release, which is easy to tell by the length of the changelog[2]. The beta represents major new functionality. Some highlights:
@@ -151,6 +158,7 @@ All these changes have been driven by work being done on Spark. In fact, Jingle 
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Process One: OneTeam performance versus pure Multibrowsers Ajax Clients <http://www.process-one.net/en/blogs/article/oneteam_performance_versus_pure_multibrowsers_ajax_clients/>
 
+Date: Tue Feb 06 18:20:04 UTC 2007
 Author: Mickaël Rémond
 
 Pure Cross-browser application are targeting desktop like interfaces. However, performance improvements is radical in the XUL version of an application. This is why OneTeam offer a desktop-like feeling.
@@ -168,6 +176,7 @@ You can check it by yourself in OneTeam[2]. The beta test[3] for our XUL based E
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Peter Saint-Andre: Simply Wrong <http://www.saint-andre.com/blog/2007-02.html#2007-02-05T16:25>
 
+Date: Mon Feb 05 23:25:00 UTC 2007
 Author: Peter Saint-Andre
 
 There are so many errors in this article[1] about SIMPLE[2] in the enterprise that it would take me quite a while to correct them all. Maybe later this week I'll find the time...
@@ -178,6 +187,7 @@ There are so many errors in this article[1] about SIMPLE[2] in the enterprise th
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Peter Saint-Andre: OSCON Proposal <http://www.saint-andre.com/blog/2007-02.html#2007-02-05T15:51>
 
+Date: Mon Feb 05 22:51:00 UTC 2007
 Author: Peter Saint-Andre
 
 I just submitted a proposal to speak at OSCON 2007[1], the brief version is:
@@ -193,6 +203,7 @@ Although Jabber/XMPP technologies are known as the open alternative for real-tim
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Remko Tronçon: Psi @ FOSDEM <http://el-tramo.be/blog/psi-fosdem>
 
+Date: Sun Feb 04 17:01:19 UTC 2007
 Author: Remko Tronçon
 
 Kev[1] and I will be attending FOSDEM[2] on February 24th and 25th, and we’ll be joining other XMPP developers at the XMPP Interop Event and DevCon[3] the day after. So, if you want to meet up, or have some outstanding protocol issues with Psi, now is a good time to tell us [A]
@@ -206,6 +217,7 @@ Kev[1] and I will be attending FOSDEM[2] on February 24th and 25th, and we’ll 
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Remko Tronçon: Receiving Google Talk files with libjingle <http://el-tramo.be/blog/psi-googleft>
 
+Date: Sun Feb 04 16:14:30 UTC 2007
 Author: Remko Tronçon
 
 As Google released a new version of libjingle[1] last friday, I decided to experiment with their file transfer implementation in Psi this weekend. I added some code that allows someone to accept files sent by Google Talk, and tested it with a few Google Talk contacts, with a perfect success rate (so far). For the brave who wish to experiment with this, see the instructions below. Note that this code is unofficial, untested, only uses a very rudimentary UI (there is no integration with the existing file transfers), still suffers from at least two bugs (on Mac OS X: one that segfaults when receiving images, and one where CPU skyrockets to 100% after a while, which we had with older libjingles as well), and has no support from the Psi developers whatsoever. Comments should therefore go directly to me.
@@ -215,6 +227,7 @@ As Google released a new version of libjingle[1] last friday, I decided to exper
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Artur Hefczyc: 2.5.0 version of Tigase server available <http://www.tigase.org/node/218>
 
+Date: Sat Feb 03 16:56:24 UTC 2007
 Author: kobit
 
 This time changes are very small but also very significant.
@@ -230,6 +243,7 @@ read more[1]
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Process One: Slides of the talk “Jabber, XMPP and the XSF” <http://www.process-one.net/en/blogs/article/slides_of_the_talk_jabber_xmpp_and_the_xsf/>
 
+Date: Fri Feb 02 09:14:17 UTC 2007
 Author: Mickaël Rémond
 
 Here are the slides from my talk given at the Solutions Linux Event in Paris (France). The talk is about Jabber, XMPP and the XMPP Standards Foundation.
@@ -249,6 +263,7 @@ The slides are also available as PDF: XMPP/Jabber and XSF Presentation[3].
 Feed: Planet Jabber <http://planet.jabber.org/>
 Item: Process One: OneTeam Enterprise IM Client Video Preview <http://www.process-one.net/en/blogs/article/oneteam_enterprise_im_client_video_preview/>
 
+Date: Fri Feb 02 08:13:53 UTC 2007
 Author: Mickaël Rémond
 
 I have been presenting OneTeam yesterday at the Linux Solutions Event in Paris, in the Mozilla track. Here is the video preview from my talk.
