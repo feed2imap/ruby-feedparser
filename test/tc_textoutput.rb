@@ -19,6 +19,7 @@ class TextOutputTest < Test::Unit::TestCase
     allok = true
     Dir.foreach(SRCDIR) do |f|
       next if f !~ /.xml$/
+      next if ENV['SOURCE'] != nil and ENV['SOURCE'] != f
       puts "Checking #{f}"
       str = File::read(SRCDIR + '/' + f)
       chan = FeedParser::Feed::new(str)

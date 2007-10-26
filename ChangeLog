@@ -7,6 +7,8 @@ Ruby-Feedparser 0.5 (XX/XX/2007)
   Closes gna bug #8987.
 * "require 'feedparser'" now requires 'feedparser/text-output'. Fixes a bug
   reported by Sebastian Probst Eide.
+* Make checks for HTML tags case-insensitive. Broke Dilbert feeds!!
+  Reported by Michal Čihař. Closes gna bug #10199.
 
 Ruby-Feedparser 0.4 (01/05/2007)
 ================================
