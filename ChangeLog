@@ -1,7 +1,6 @@
 Ruby-Feedparser 0.6 (XX/02/2008)
 ================================
 * Moved to_human_readable from class Fixnum to class Integer.
-  Closes gna bug #10516.
 
 Ruby-Feedparser 0.5 (26/10/2007)
 ================================
