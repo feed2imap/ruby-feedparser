@@ -1,0 +1,79 @@
+body {
+	margin: 0px 0px 0px 0px;
+	color: white;
+	background-color: #ecca99;
+	font-size: 11pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+div.main {
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	padding: 30px 10px 10px 10px;
+	border: 3px solid #d07b00;
+	color: black;
+	background-color: #fff9f0;
+}
+
+div.titre {
+	text-align: center;
+	background-color: #d07b00;
+	color: #fff9f0;
+	padding: 10px 10px 10px 10px;
+}
+
+
+h1 {
+	text-align: center;
+	font: 26pt georgia; 
+	letter-spacing: 5px; 
+	font-weight: bold;
+}
+
+h2 {
+	padding: 5px 5px 5px 50px;
+	background-color: #d07b00;
+	color: #fff9f0;
+}
+
+a:link, a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #d07b00;
+}
+
+a:hover, a:active { 
+	text-decoration: underline; 
+}
+
+h3 { 
+	font-style: italic;
+	font-size: 14pt;
+	letter-spacing: 1px; 
+	margin-bottom: 0px; 
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #d07b00;
+}
+
+p {
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: justify;
+}
+
+p.center {
+	text-align: center;
+}
+
+div.menu {
+	position: fixed;
+	background-color: #fff9f0;
+	border-bottom: 3px solid #d07b00;
+	width: 100%;
+	color: #167f32;
+	text-align: center;
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<title>Ruby-Feedparser</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15"/>
+	<meta name="keywords" content="feed,rss,atom,parser,ruby"/>
+	<meta name="description" content="Ruby-Feedparser is an RSS and Atom parser for Ruby"/>
+	<link rel="stylesheet" type="text/css" href="feedparser.css" />
+</head>
+
+<body>
+<div class="menu">
+<a href="#rationale">Rationale</a> | 
+<a href="#download">Download</a> | 
+<a href="#installation">Installation</a> |
+<a href="#developer">Mailing List &amp; Developers</a> |
+<a href="http://gna.org/projects/ruby-feedparser/">GNA project page</a>
+</div>
+
+<div class="main">
+
+<div class="titre">
+<h1>Ruby-Feedparser</h1>
+</div>
+<p>Ruby-Feedparser is an RSS and Atom parser for Ruby. It was initially developed for <a href="http://home.gna.org/feed2imap/">Feed2Imap</a>, but it is now a standalone library.</p>
+
+<p>Ruby-feedparser is :</p>
+<ul><li>based on <a href="http://www.germane-software.com/software/rexml/">REXML</a></li>
+<li>built for robustness : most feeds are not valid, a parser can't ignore that</li>
+<li>fully unit-tested</li>
+<li>easy to use (it can output text or HTML easily)</li>
+</ul>
+
+<p>To learn more about syndication, RSS and Atom, read :</p>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Web_feed">Wikipedia: Web feed</a></li>
+<li><a href="http://en.wikipedia.org/wiki/RSS_%28file_format%29">Wikipedia: RSS (file format)</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Atom_%28standard%29">Wikipedia: Atom (standard)</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Aggregator">Wikipedia: Aggregator</a></li>
+</ul>
+
+<p>Similar projects : <a href="http://simple-rss.rubyforge.org/">Simple-RSS</a>, <a href="http://astroblog.spaceboyz.net/harvester/">Blog Harvester</a>.</p>
+<a name="download"></a>
+<h2>Download</h2>
+<p>Latest release: <a href="http://download.gna.org/ruby-feedparser/ruby-feedparser-0.5.tgz">ruby-feedparser-0.5.tgz</a>. Other formats and older releases <a href="http://download.gna.org/ruby-feedparser/">are also available</a>. The SVN version is also very usable.</p>
+<p>You can get the latest version from SVN using <i>svn co svn://svn.gna.org/svn/ruby-feedparser/trunk/ruby-feedparser</i> or download a daily snapshot from <a href="http://svn.gna.org/daily/ruby-feedparser-snapshot.tar.gz">http://svn.gna.org/daily/ruby-feedparser-snapshot.tar.gz</a>.</p>
+<p>The source code is <a href="http://svn.gna.org/viewcvs/ruby-feedparser/trunk/ruby-feedparser/">browseable here</a>.</p>
+
+<a name="installation"></a>
+<h2>Installation Instructions</h2>
+<ul>
+<li>Download it and untar it.</li>
+<li>Run ./setup.rb as root, or figure out how to install it on your account by reading ./setup.rb --help (it's possible, but you have to take care of <i>RUBYPATH</i>.</li>
+<li>Install the needed dependancies. For Debian, it is : ruby libtest-unit-ruby librexml-ruby rake (if you are using Debian Woody, find another solution : ruby is too old on woody)</li>
+<li>(Not mandatory, but a good idea :) run <i>rake test</i> and check that everything is working fine.</li>
+</ul>
+
+<a name="developer"></a>
+<h2>Developers</h2>
+<h3>Mailing List</h3>
+<p><a href="mailto:ruby-feedparser-develATgnaDOTorg">ruby-feedparser-devel at gna dot org</a> is a mailing list for development and general discussion.</p>
+<ul><li><a href="https://mail.gna.org/listinfo/ruby-feedparser-devel/">Ruby-Feedparser-devel Info Page</a> (to subscribe/unsubscribe, etc)</li>
+<li><a href="https://mail.gna.org/public/ruby-feedparser-devel/">Ruby-Feedparser-devel archives</a></li>
+</ul>
+<p>SVN and CVS commits are sent to <a href="mailto:ruby-feedparser-commitsATgnaDOTorg">ruby-feedparser-commits at gna dot org</a>. Discussion about them takes place on ruby-feedparser-devel.</p>
+<ul><li><a href="https://mail.gna.org/listinfo/ruby-feedparser-commits/">ruby-feedparser-commits Info Page</a> (to subscribe/unsubscribe, etc)</li>
+<li><a href="https://mail.gna.org/public/ruby-feedparser-commits/">ruby-feedparser-commits archives</a></li>
+</ul>
+
+
+<h3>(Sort of) Developer Documentation</h3>
+
+<p>Development takes place on the <a href="https://gna.org/projects/ruby-feedparser/">GNA project page</a>. Don't hesitate to post feature requests, bugs or patches.</p>
+
+<p>Source code is <a href="http://svn.gna.org/viewcvs/ruby-feedparser/trunk/ruby-feedparser/">browseable here</a>.</p>
+
+<p>You can get the source code from SVN using <i>svn co svn://svn.gna.org/svn/ruby-feedparser/trunk/ruby-feedparser</i>.</p>
+</body>
+</html>
