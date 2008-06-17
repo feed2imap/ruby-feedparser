@@ -288,12 +288,13 @@ module FeedParser
       c = children[0]
       if c.class == REXML::Text
         return e.text.toUTF8(encoding).rmWhiteSpace!.text2html(feed)
-      else
-        if c.class == REXML::CData
-          return c.to_s.toUTF8(encoding).rmWhiteSpace!.text2html(feed)
-        elsif c.text
-          return c.text.toUTF8(encoding).text2html(feed)
-        end
+      elsif c.class == REXML::CData
+        return c.to_s.toUTF8(encoding).rmWhiteSpace!.text2html(feed)
+      elsif c.class == REXML::Element
+        # only one element. recurse.
+        return getcontent(c, feed)
+      elsif c.text
+        return c.text.toUTF8(encoding).text2html(feed)
       end
     end
   end

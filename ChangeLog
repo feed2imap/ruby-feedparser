@@ -1,6 +1,8 @@
 Ruby-Feedparser 0.6 (XX/02/2008)
 ================================
 * Moved to_human_readable from class Fixnum to class Integer.
+* Correctly parse http://www.tbray.org/ongoing/ongoing.atom. Thanks
+  to Janico Greifenberg for reporting this.
 
 Ruby-Feedparser 0.5 (26/10/2007)
 ================================
