@@ -4,7 +4,7 @@ require 'feedparser/filesizes'
 
 class String
   # Convert an HTML text to plain text
-  def html2text
+  def html2text(wrapto = false)
     text = self.clone
     # parse HTML
     p = FeedParser::HTML2TextParser::new(true)
@@ -21,13 +21,20 @@ class String
     text.gsub!(/\n\n+/m, "\n\n")
     # and remove duplicated whitespace
     text.gsub!(/[ \t]+/, ' ')
+
+    # finally, wrap the text if requested
+    return wrap_text(text, wrapto) if wrapto
     text
+  end
+
+  def wrap_text(text, wrapto = 72)
+    text.gsub(/(.{1,#{wrapto}})( +|$)\n?/, "\\1\\2\n")
   end
 end
 
 module FeedParser
   class Feed
-    def to_text(localtime = true)
+    def to_text(localtime = true, wrapto = false)
       s = ''
       s += "Type: #{@type}\n"
       s += "Encoding: #{@encoding}\n"
@@ -42,14 +49,14 @@ module FeedParser
       s += "\n"
       @items.each do |i|
         s += '*' * 40 + "\n"
-        s += i.to_text(localtime)
+        s += i.to_text(localtime, wrapto)
       end
       s
     end
   end
 
   class FeedItem
-    def to_text(localtime = true)
+    def to_text(localtime = true, wrapto = false)
       s = ""
       s += "Feed: "
       s += @feed.title + ' ' if @feed.title
@@ -70,7 +77,7 @@ module FeedParser
       s += "\nSubject: #{@subject}" if @subject
       s += "\nCategory: #{@category}" if @category
       s += "\n\n"
-      s += "#{@content.html2text}\n" if @content
+      s += "#{@content.html2text(wrapto)}\n" if @content
       if @enclosures and @enclosures.length > 0
         s += "Files:\n"
         @enclosures.each do |e|
