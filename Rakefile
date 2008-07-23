@@ -17,6 +17,8 @@ Find.find('lib/', 'test/', 'tools/') do |f|
 	end
 end
 
+PKG_FILES.reject! { |f| f =~ /^test\/(source|.*_output)\// }
+
 task :default => [:package]
 
 Rake::TestTask.new do |t|
