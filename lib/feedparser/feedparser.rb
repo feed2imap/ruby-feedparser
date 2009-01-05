@@ -119,7 +119,7 @@ module FeedParser
 
   # an Item from a feed
   class FeedItem
-    attr_accessor :title, :link, :content, :date, :creator, :subject,
+    attr_accessor :title, :link, :content, :date, :creators, :subject,
                   :category, :cacheditem
 
     # The item's enclosures childs. An array of (url, length, type) triplets.
@@ -133,13 +133,25 @@ module FeedParser
     def initialize(item = nil, feed = nil)
       @xml = item
       @feed = feed
-      @title, @link, @content, @date, @creator, @subject, @category = nil
+      @title, @link, @content, @date, @subject, @category = nil
+      @creators = []
       @enclosures = []
       parse(item) if item
     end
 
     def parse(item)
       raise "parse() should be implemented by subclasses!"
+    end
+
+    def creator
+      case @creators.length
+      when 0
+        return nil
+      when 1
+        return creators[0]
+      else
+        return creators[0...-1].join(", ")+" and "+creators[-1]
+      end
     end
 
     def to_s(localtime = true)
@@ -150,7 +162,7 @@ module FeedParser
       else
         s += "Date: #{@date.getutc.to_s}\n"
       end
-      s += "Creator: #{@creator}\n" +
+      s += "Creator: #{creator}\n" +
         "Subject: #{@subject}\nCategory: #{@category}\nContent:\n#{content}\n"
       if defined?(@enclosures) and @enclosures.length > 0
         s2 = "Enclosures:\n"
@@ -204,11 +216,14 @@ module FeedParser
         end
       end
       # Creator
-      @creator = @feed.creator
+            
       if (e = item.elements['dc:creator'] || item.elements['author'] ||
           item.elements['rss:author']) && e.text
-        @creator = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
+        @creators << e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
       end
+
+      @creators << @feed.creator if @creators.empty? and @feed.creator
+
       # Subject
       if (e = item.elements['dc:subject']) && e.text
         @subject = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
@@ -266,10 +281,13 @@ module FeedParser
         end
       end
       # Creator
-      @creator = @feed.creator
-      if (e = item.elements['author/name']) && e.text
-        @creator = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
+      item.each_element('author/name') do |e|
+        if e.text
+          @creators << e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
+        end
       end
+
+      @creators << @feed.creator if @creators.empty? and @feed.creator
     end
   end
 

@@ -116,7 +116,7 @@ module FeedParser
           s += l % [ 'Date:', @date.getutc.to_s ]
         end
       end
-      s += l % [ 'Author:', @creator.escape_html ] if @creator
+      s += l % [ 'Author:', creator.escape_html ] if creator
       s += l % [ 'Subject:', @subject.escape_html ] if @subject
       s += l % [ 'Category:', @category.escape_html ] if @category
       s += "</table>\n"

@@ -73,7 +73,7 @@ module FeedParser
           s += "\nDate: #{@date.getutc.to_s}"
         end
       end
-      s += "\nAuthor: #{@creator}" if @creator
+      s += "\nAuthor: #{creator}" if creator
       s += "\nSubject: #{@subject}" if @subject
       s += "\nCategory: #{@category}" if @category
       s += "\n\n"
