@@ -120,7 +120,10 @@ module FeedParser
   # an Item from a feed
   class FeedItem
     attr_accessor :title, :link, :content, :date, :creators, :subject,
-                  :category, :cacheditem
+                  :cacheditem
+
+    # The item's categories/tags. An array of strings.
+    attr_accessor :categories
 
     # The item's enclosures childs. An array of (url, length, type) triplets.
     attr_accessor :enclosures
@@ -133,8 +136,9 @@ module FeedParser
     def initialize(item = nil, feed = nil)
       @xml = item
       @feed = feed
-      @title, @link, @content, @date, @subject, @category = nil
+      @title, @link, @content, @date, @subject = nil
       @creators = []
+      @categories = []
       @enclosures = []
       parse(item) if item
     end
@@ -163,7 +167,11 @@ module FeedParser
         s += "Date: #{@date.getutc.to_s}\n"
       end
       s += "Creator: #{creator}\n" +
-        "Subject: #{@subject}\nCategory: #{@category}\nContent:\n#{content}\n"
+        "Subject: #{@subject}\n"
+      if defined?(@categories) and @categories.length > 0
+        s += "Filed under: " + @categories.join(', ') + "\n"
+      end
+      s += "Content:\n#{content}\n"
       if defined?(@enclosures) and @enclosures.length > 0
         s2 = "Enclosures:\n"
         @enclosures.each do |e|
@@ -216,22 +224,24 @@ module FeedParser
         end
       end
       # Creator
-            
       if (e = item.elements['dc:creator'] || item.elements['author'] ||
           item.elements['rss:author']) && e.text
         @creators << e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
       end
-
       @creators << @feed.creator if @creators.empty? and @feed.creator
 
       # Subject
       if (e = item.elements['dc:subject']) && e.text
         @subject = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
       end
-      # Category
-      if (e = item.elements['dc:category'] || item.elements['category'] ||
-          item.elements['rss:category']) && e.text
-        @category = e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
+      # Categories
+      cat_elts = []
+      item.each_element('dc:category')  { |e| cat_elts << e if e.text }
+      item.each_element('category')     { |e| cat_elts << e if e.text }
+      item.each_element('rss:category') { |e| cat_elts << e if e.text }
+
+      cat_elts.each do |e|
+        @categories << e.text.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
       end
       # Enclosures
       item.each_element('enclosure') do |e|
@@ -288,6 +298,20 @@ module FeedParser
       end
 
       @creators << @feed.creator if @creators.empty? and @feed.creator
+
+      # Categories
+      item.each_element('category') do |e|
+        if (h = e.attribute('term')) && h.value
+          # Use human-readable label if it is provided
+          if (l = e.attribute('label')) && l.value
+            cat = l.value
+          else
+            cat = h.value
+          end
+
+          @categories << cat.unescape_html.toUTF8(@feed.encoding).rmWhiteSpace!
+        end
+      end
     end
   end
 

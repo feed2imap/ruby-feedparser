@@ -75,7 +75,7 @@ module FeedParser
       end
       s += "\nAuthor: #{creator}" if creator
       s += "\nSubject: #{@subject}" if @subject
-      s += "\nCategory: #{@category}" if @category
+      s += "\nFiled under: #{@categories.join(', ')}" unless @categories.empty?
       s += "\n\n"
       s += "#{@content.html2text(wrapto)}\n" if @content
       if @enclosures and @enclosures.length > 0
