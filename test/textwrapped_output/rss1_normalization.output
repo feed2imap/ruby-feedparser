@@ -6,22 +6,25 @@ Description: Paf
 Creator: 
 
 ****************************************
-Feed: Normalization <http://alexx.ikse.org/blog>
-Item: content:encoded 
+Feed: Normalization
+      <http://alexx.ikse.org/blog>
+Item: content:encoded
 
 
 Ceci est test√©&#xc3a9;…. Je parle d'<html>.
 
 ****************************************
-Feed: Normalization <http://alexx.ikse.org/blog>
-Item: HTML direct 
+Feed: Normalization
+      <http://alexx.ikse.org/blog>
+Item: HTML direct
 
 
 Ceci est test√©&#xc3a9;…. Je parle d'<html>.
 
 ****************************************
-Feed: Normalization <http://alexx.ikse.org/blog>
-Item: Escaped 
+Feed: Normalization
+      <http://alexx.ikse.org/blog>
+Item: Escaped
 
 
 Ceci est test√©&#xc3a9;…. Je parle d'<html>.

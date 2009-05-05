@@ -6,8 +6,10 @@ Description: Planet Debian - http://planet.debian.org/
 Creator: 
 
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Peter Makholm: On handling email <http://peter.makholm.net/2007/08/21/on-handling-email/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Peter Makholm: On handling email
+      <http://peter.makholm.net/2007/08/21/on-handling-email/>
 
 Date: Tue Aug 21 17:47:54 UTC 2007
 
@@ -106,8 +108,10 @@ __END__
 
 [1] http://video.google.com/videoplay?docid=973149761529535925
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Miriam Ruiz: PiX Frogger: help the frog cross the street <http://www.miriamruiz.es/weblog/?p=99>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Miriam Ruiz: PiX Frogger: help the frog cross the street
+      <http://www.miriamruiz.es/weblog/?p=99>
 
 Date: Tue Aug 21 17:25:22 UTC 2007
 
@@ -131,8 +135,10 @@ For more grown-ups, I guess it’s so cool to have a version in Debian from this
 [10] http://packages.debian.org/fenix
 [11] http://users.alioth.debian.org/~baby-guest/fenix/
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Martin F. Krafft: If you procmail, read this <http://blog.madduck.net/geek/2007.08.21_if-you-procmail-read-this.xhtml>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Martin F. Krafft: If you procmail, read this
+      <http://blog.madduck.net/geek/2007.08.21_if-you-procmail-read-this.xhtml>
 
 Date: Tue Aug 21 16:43:00 UTC 2007
 
@@ -145,8 +151,10 @@ NP: A Silver Mt. Zion[2]: *He Has Left us Alone, but Shafts of Light Sometimes G
 [1] http://pm-doc.sourceforge.net/pm-tips.html
 [2] http://www.allmusic.com/cg/amg.dll?SQL=A%20Silver%20Mt.%20Zion&amp;P=amg&amp;OPT1=1
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Raphaël Hertzog: Deprecating cvs.debian.org in favor of Alioth <http://www.ouaza.com/wp/2007/08/21/deprecating-cvsdebianorg-in-favor-of-alioth/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Raphaël Hertzog: Deprecating cvs.debian.org in favor of Alioth
+      <http://www.ouaza.com/wp/2007/08/21/deprecating-cvsdebianorg-in-favor-of-alioth/>
 
 Date: Tue Aug 21 14:00:37 UTC 2007
 
@@ -175,8 +183,10 @@ The web team started a wiki page[6] to evaluate the VCS that they would switch t
 [A] http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif
 [B] http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Joey Schulze: PowerPC PReP Machines <http://www.infodrom.org/~joey/log/?200708211534>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Joey Schulze: PowerPC PReP Machines
+      <http://www.infodrom.org/~joey/log/?200708211534>
 
 Date: Tue Aug 21 13:34:00 UTC 2007
 
@@ -184,8 +194,10 @@ What to do with nice PowerPC PReP machines? The PReP sub-architecture is not sup
 
 Unfortunately, Debian's PowerPC developer machine is a nice Motorola Powerstack II Pro4000 machine. This means that we currently don't have a working sid (and lenny) development environment. Looks like maybe it's time to check out alternatives.
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Theodore Ts'o: Thoughts about the Palm Foleo <http://tytso.livejournal.com/30229.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Theodore Ts'o: Thoughts about the Palm Foleo
+      <http://tytso.livejournal.com/30229.html>
 
 Date: Tue Aug 21 11:09:16 UTC 2007
 
@@ -201,8 +213,10 @@ And, of course, it's a lot cheaper than my used X41 laptop, never mind a brand-n
 
 This is all really too bad, because if Palm is counting on the Foleo to allow it to succeed, I think the concept has some massive shortcomings, much like their claimed LifeDrive product, which didn't last very long. And I really like the Palm company; I *still* haven't found better PDA functionality on a decade-old Palm design compared to what is available on all of the Nokia phones I've looked at, the WinCE phones/PDA's, the N800, etc. So I want Palm as a company to stick around. But with Treo getting eclipsed by newer smart phones, and the Foleo not getting particularly good buzz by folks reviewing it --- and after I played with it, I have to agree with the majority of the reviewers that this is not the Next Big Thing --- I'm not sure how much longer Palm is going to be around.
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Jordi Mallach: Inbox Zero <http://oskuro.net/blog/stuff/inbox-zero-2007-08-21-12-26>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Jordi Mallach: Inbox Zero
+      <http://oskuro.net/blog/stuff/inbox-zero-2007-08-21-12-26>
 
 Date: Tue Aug 21 10:26:00 UTC 2007
 
@@ -217,8 +231,10 @@ I'll watch the talk[1] this evening.
 
 [1] http://video.google.com/videoplay?docid=973149761529535925
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Joey Schulze: Interview <http://www.infodrom.org/~joey/log/?200708211222>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Joey Schulze: Interview
+      <http://www.infodrom.org/~joey/log/?200708211222>
 
 Date: Tue Aug 21 10:22:00 UTC 2007
 
@@ -229,8 +245,10 @@ The final broadcast will be available in September on the station's website. The
 [1] http://www.antennetux.de/
 [2] http://www.debian.org/releases/etch/
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Ross Burton: OpenMoko <http://www.burtonini.com/blog/computers/openmoko-2007-08-21-10-30>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Ross Burton: OpenMoko
+      <http://www.burtonini.com/blog/computers/openmoko-2007-08-21-10-30>
 
 Date: Tue Aug 21 09:30:00 UTC 2007
 
@@ -240,8 +258,10 @@ I finally got my hands on a GTA01 last week, which was promptly flashed with the
 
 [1] http://lists.openmoko.org/pipermail/announce/2007-August/000018.html
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Ross Burton: Postr 0.8 <http://www.burtonini.com/blog/computers/postr/postr-2007-08-21-10-10>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Ross Burton: Postr 0.8
+      <http://www.burtonini.com/blog/computers/postr/postr-2007-08-21-10-10>
 
 Date: Tue Aug 21 09:10:00 UTC 2007
 
@@ -253,8 +273,10 @@ NP: Sleep, DJ Olive
 
 [1] http://burtonini.com/computing/postr-0.8.tar.gz
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Russell Coker: When to Use SE Linux <http://etbe.coker.com.au/2007/08/21/when-to-use-se-linux/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Russell Coker: When to Use SE Linux
+      <http://etbe.coker.com.au/2007/08/21/when-to-use-se-linux/>
 
 Date: Tue Aug 21 09:00:07 UTC 2007
 
@@ -274,8 +296,10 @@ Share This[1]
 
 [1] http://etbe.coker.com.au/?p=361&amp;akst_action=share-this
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: David Welton: Hecl interview <http://journal.dedasys.com/articles/2007/08/21/hecl-interview>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: David Welton: Hecl interview
+      <http://journal.dedasys.com/articles/2007/08/21/hecl-interview>
 
 Date: Tue Aug 21 08:52:00 UTC 2007
 
@@ -286,8 +310,10 @@ http://today.java.net/pub/a/today/2007/08/20/javamobility-podcast16.html[2]
 [1] http://community.java.net/mobileandembedded/
 [2] http://today.java.net/pub/a/today/2007/08/20/javamobility-podcast16.html
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Matt Brubeck: 21 Aug 2007 <http://www.advogato.org/person/mbrubeck/diary.html?start=102>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Matt Brubeck: 21 Aug 2007
+      <http://www.advogato.org/person/mbrubeck/diary.html?start=102>
 
 Date: Tue Aug 21 05:57:59 UTC 2007
 
@@ -324,8 +350,10 @@ Installing software:
 
 - When I install software using the system admin tools, it changes the application menu for all other users too.
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Manoj Srivastava: Arch Hook <http://www.golden-gryphon.com/blog/manoj//blog/2007/08/21/Arch_Hook.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Manoj Srivastava: Arch Hook
+      <http://www.golden-gryphon.com/blog/manoj//blog/2007/08/21/Arch_Hook.html>
 
 Date: Tue Aug 21 05:19:11 UTC 2007
 
@@ -356,8 +384,10 @@ I’d be happy to hear about what other people add to their commit scripts, to s
 [2] http://www.golden-gryphon.com/blog/manoj///software/misc/arch_create_config.html
 [3] http://www.golden-gryphon.com/blog/manoj///software/misc/arch_upload_grab.html
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Ian Wienand: On incorrectly utilising "utilising" <http://www.technovelty.org/code/badcode/utilising.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Ian Wienand: On incorrectly utilising "utilising"
+      <http://www.technovelty.org/code/badcode/utilising.html>
 
 Date: Tue Aug 21 00:19:00 UTC 2007
 
@@ -371,8 +401,10 @@ Utilize is not an elegant variation of the word use; it has its own distinct mea
 
 You will now probably notice this subtle verbiage in most everything you read!
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: David Watson: It's about time <http://planetwatson.co.uk/blog/2007/08/20/its-about-time>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: David Watson: It's about time
+      <http://planetwatson.co.uk/blog/2007/08/20/its-about-time>
 
 Date: Mon Aug 20 21:58:13 UTC 2007
 
@@ -384,8 +416,10 @@ It sure beats the "keep some stuff on my laptop" backup method I was using, whic
 
 I shall now wallow in the warm glow that only a backup provides.
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Russell Coker: Suggestions and Thanks <http://etbe.coker.com.au/2007/08/21/suggestions-and-thanks/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Russell Coker: Suggestions and Thanks
+      <http://etbe.coker.com.au/2007/08/21/suggestions-and-thanks/>
 
 Date: Mon Aug 20 21:00:16 UTC 2007
 
@@ -457,8 +491,10 @@ Share This[27]
 [26] http://www.cuteoverload.com/
 [27] http://etbe.coker.com.au/?p=359&amp;akst_action=share-this
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Joey Hess: inbox zero <http://kitenet.net/~joey/blog/entry/inbox_zero/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Joey Hess: inbox zero
+      <http://kitenet.net/~joey/blog/entry/inbox_zero/>
 
 Date: Mon Aug 20 20:17:28 UTC 2007
 
@@ -473,8 +509,10 @@ I recommend watching the talk. Thinking about mail in the inbox as only having o
 [1] http://layer-acht.org/blog/debian/#1-120
 [2] http://video.google.com/videoplay?docid=973149761529535925
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Simon Richter: Non-standard compiler extensions <http://www.hogyros.de/?q=node/305>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Simon Richter: Non-standard compiler extensions
+      <http://www.hogyros.de/?q=node/305>
 
 Date: Mon Aug 20 19:49:45 UTC 2007
 
@@ -484,8 +522,10 @@ In some cases however (mostly when writing stuff other people would write in per
 
 Bleh.
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Bastian Venthur: Deserializing SOAP replies with ZSI? <http://blog.venthur.de/2007/08/20/deserializing-soap-replies-with-zsi/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Bastian Venthur: Deserializing SOAP replies with ZSI?
+      <http://blog.venthur.de/2007/08/20/deserializing-soap-replies-with-zsi/>
 
 Date: Mon Aug 20 17:29:20 UTC 2007
 
@@ -508,8 +548,10 @@ While I’m moving away from soappy to ZSI I’d like to implement the deseriali
 [3] http://pywebsvcs.sourceforge.net/zsi.html#SECTION007000000000000000000
 [4] http://reportbug-ng.alioth.debian.org/
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Romain Francoise: Cornflakes Heroes: "Lifeline" video <http://blog.orebokech.com/2007/08/cornflakes-heroes-lifeline-video.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Romain Francoise: Cornflakes Heroes: "Lifeline" video
+      <http://blog.orebokech.com/2007/08/cornflakes-heroes-lifeline-video.html>
 
 Date: Mon Aug 20 17:40:03 UTC 2007
 
@@ -520,8 +562,10 @@ Cornflakes Heroes[1] (my sister's band) have released the video for their new si
 [1] http://www.cornflakesheroes.com/
 [2] http://www.youtube.com/watch?v=XENxzz_goo0
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Kartik Mistry: TODOs <http://kartikmistry.org/blog/?p=352>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Kartik Mistry: TODOs
+      <http://kartikmistry.org/blog/?p=352>
 
 Date: Mon Aug 20 14:33:36 UTC 2007
 
@@ -555,8 +599,10 @@ Date: Mon Aug 20 14:33:36 UTC 2007
 
 [A] http://kartikmistry.org/blog/wp-includes/images/smilies/icon_wink.gif
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Michal Čihař: Gammu stable version 1.13.0 <http://blog.cihar.com/archives/2007/08/20/gammu_stable_version_1_13_0/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Michal Čihař: Gammu stable version 1.13.0
+      <http://blog.cihar.com/archives/2007/08/20/gammu_stable_version_1_13_0/>
 
 Date: Mon Aug 20 13:06:44 UTC 2007
 
@@ -568,8 +614,10 @@ For stable users there are tons of changes, most noticable is initial support fo
 
 [1] http://cihar.com/gammu/
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Jeff Bailey: Next stop: Buffalo <http://jbailey.livejournal.com/37143.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Jeff Bailey: Next stop: Buffalo
+      <http://jbailey.livejournal.com/37143.html>
 
 Date: Mon Aug 20 12:21:48 UTC 2007
 
@@ -590,8 +638,10 @@ Peace, Love, Faith and Blessings to all.
 [1] http://www.koolu.com/
 [2] http://www.creationmuseum.org/
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: David Welton: Hecl, DedaWiki updates <http://journal.dedasys.com/articles/2007/08/20/hecl-dedawiki-updates>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: David Welton: Hecl, DedaWiki updates
+      <http://journal.dedasys.com/articles/2007/08/20/hecl-dedawiki-updates>
 
 Date: Mon Aug 20 12:03:00 UTC 2007
 
@@ -613,8 +663,10 @@ On another front, I've updated some of the code in DedaWiki[2], to enable email 
 [3] http://www.leenooks.com
 [4] http://www.squeezedbooks.com
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Russell Coker: Feedburner Item Link Clicks <http://etbe.coker.com.au/2007/08/20/feedburner-item-link-clicks/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Russell Coker: Feedburner Item Link Clicks
+      <http://etbe.coker.com.au/2007/08/20/feedburner-item-link-clicks/>
 
 Date: Mon Aug 20 09:00:12 UTC 2007
 
@@ -633,8 +685,10 @@ Share This[4]
 [3] http://www.technorati.com/
 [4] http://etbe.coker.com.au/?p=358&amp;akst_action=share-this
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Martin F. Krafft: Pay three times as much and get zero brain power <http://blog.madduck.net/travel/2007.08.20_pay-three-times-as-much-and-get-zero-brain-power.xhtml>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Martin F. Krafft: Pay three times as much and get zero brain power
+      <http://blog.madduck.net/travel/2007.08.20_pay-three-times-as-much-and-get-zero-brain-power.xhtml>
 
 Date: Mon Aug 20 08:43:00 UTC 2007
 
@@ -660,15 +714,19 @@ I am aware of this. However, the train between Zurich and Munich is ancient (par
 
 [1] http://www.allmusic.com/cg/amg.dll?SQL=Mono&amp;P=amg&amp;OPT1=1
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Holger Levsen: Red Cross sued for using the red cross <http://layer-acht.org/blog/debian/#1-121>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Holger Levsen: Red Cross sued for using the red cross
+      <http://layer-acht.org/blog/debian/#1-121>
 
 Date: Mon Aug 20 06:59:07 UTC 2007
 
 Various newspapers report that the health product giant Johnson & Johnson is suing the Red Cross for using the red cross as a logo. Johnson & Johnson registered the trademark in 1887, six years after the us-american Red Cross started to use it. Needless to say, that a red cross has been in use for much longer and that european Red Cross associations also exist for quite some more years.
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Manoj Srivastava: Mail Filtering with CRM114: Part 4 <http://www.golden-gryphon.com/blog/manoj//blog/2007/08/20/Mail_Filtering_with_CRM114__58___Part_4.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Manoj Srivastava: Mail Filtering with CRM114: Part 4
+      <http://www.golden-gryphon.com/blog/manoj//blog/2007/08/20/Mail_Filtering_with_CRM114__58___Part_4.html>
 
 Date: Mon Aug 20 05:28:53 UTC 2007
 
@@ -713,8 +771,10 @@ This pretty much finishes the series of posts I had in mind about spam filtering
 [6] http://www.golden-gryphon.com/blog/manoj///software/misc/mail-process.html
 [7] http://www.golden-gryphon.com/blog/manoj///software/misc/mproc.html
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Michael Janssen: Things That I Wish Remember The Milk Had <http://base0.net/archives/322-Things-That-I-Wish-Remember-The-Milk-Had.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Michael Janssen: Things That I Wish Remember The Milk Had
+      <http://base0.net/archives/322-Things-That-I-Wish-Remember-The-Milk-Had.html>
 
 Date: Mon Aug 20 04:48:53 UTC 2007
 Author: nospam@example.com (Jamuraa)
@@ -734,8 +794,10 @@ These improvements I think would make a big difference to RTM users. The map imp
 [1] http://base0.net/archives/319-Dont-you-dun-dun-dun-da-dun-dun-forget-about-me.html
 [2] http://rmilk.com
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Chris Lamb: “Eww” <http://www.chris-lamb.co.uk/2007/08/20/fred-ewww/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Chris Lamb: “Eww”
+      <http://www.chris-lamb.co.uk/2007/08/20/fred-ewww/>
 
 Date: Mon Aug 20 01:19:24 UTC 2007
 
@@ -743,8 +805,10 @@ This[1] is not how to do HABTM (ie. “*many-many*“) database joins.
 
 [1] http://bakery.cakephp.org/articles/view/obvious-trick-to-reduce-amount-of-habtm-relationship-tables-1
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Cameron Dale: DebTorrent Release 0.1.4 (and apt-transport-debtorrent 0.1.0) <http://www.cs.sfu.ca/~camerond/personal/blog/posts/Aug-19-2007.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Cameron Dale: DebTorrent Release 0.1.4 (and apt-transport-debtorrent 0.1.0)
+      <http://www.cs.sfu.ca/~camerond/personal/blog/posts/Aug-19-2007.html>
 
 Date: Mon Aug 20 00:56:46 UTC 2007
 
@@ -794,8 +858,10 @@ Here's the changelog for the new DebTorrent release:
 [8] http://code.google.com/soc/2007/debian/appinfo.html?csaid=46454031B77ABCBA
 [9] http://wiki.debian.org/DebTorrent/UniquePieces
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Russell Coker: Controlling a STONITH and Upgrading a Cluster <http://etbe.coker.com.au/2007/08/20/controlling-a-stonith-and-upgrading-a-cluster/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Russell Coker: Controlling a STONITH and Upgrading a Cluster
+      <http://etbe.coker.com.au/2007/08/20/controlling-a-stonith-and-upgrading-a-cluster/>
 
 Date: Sun Aug 19 21:00:45 UTC 2007
 
@@ -819,8 +885,10 @@ Share This[7]
 [6] http://etbe.coker.com.au/2007/06/24/xen-and-heartbeat/
 [7] http://etbe.coker.com.au/?p=356&amp;akst_action=share-this
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Mike Hommey: New WebKit snapshot (almost) in unstable <http://web.glandium.org/blog/?p=158>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Mike Hommey: New WebKit snapshot (almost) in unstable
+      <http://web.glandium.org/blog/?p=158>
 
 Date: Sun Aug 19 18:33:06 UTC 2007
 
@@ -839,8 +907,10 @@ If you want to track changes on the debian repo, there is also a pkg-webkit-comm
 [5] http://web.glandium.org/blog/ http://lists.alioth.debian.org/mailman/listinfo/pkg-webkit-maintainers
 [6] http://lists.alioth.debian.org/mailman/listinfo/pkg-webkit-commits
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Romain Francoise: bzip2 compression in debs <http://blog.orebokech.com/2007/08/bzip2-compression-in-debs.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Romain Francoise: bzip2 compression in debs
+      <http://blog.orebokech.com/2007/08/bzip2-compression-in-debs.html>
 
 Date: Sun Aug 19 18:28:19 UTC 2007
 
@@ -866,8 +936,10 @@ Etch was released with dpkg 1.13.25, so bzip2 compression is probably allowed no
 
 [1] http://blog.orebokech.com/2007/08/debian-packages-without-md5sums.html
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Adam Rosi-Kessel: Solid State Kitchen Linux Box <http://adam.rosi-kessel.org/weblog/2007/08/19/solid-state-kitchen-linux-box/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Adam Rosi-Kessel: Solid State Kitchen Linux Box
+      <http://adam.rosi-kessel.org/weblog/2007/08/19/solid-state-kitchen-linux-box/>
 
 Date: Sun Aug 19 13:38:00 UTC 2007
 
@@ -890,8 +962,10 @@ Share This[2]
 [1] http://zonbu.com/device/
 [2] http://adam.rosi-kessel.org/weblog/?p=564&amp;akst_action=share-this
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Kai Hendry: Sharing multimedia <http://natalian.org/archives/2007/08/19/sharing-multimedia/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Kai Hendry: Sharing multimedia
+      <http://natalian.org/archives/2007/08/19/sharing-multimedia/>
 
 Date: Sun Aug 19 13:08:16 UTC 2007
 
@@ -923,8 +997,10 @@ Any tips lazyweb? Or are centralised services really the future?
 
 [A] http://farm2.static.flickr.com/1055/1172361934_fe1a77dc72_m.jpg
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Wouter Verhelst: "empty" LDAP addressbooks <http://www.grep.be/blog/en/computer/play/ldap_addressbooks>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Wouter Verhelst: "empty" LDAP addressbooks
+      <http://www.grep.be/blog/en/computer/play/ldap_addressbooks>
 
 Date: Sun Aug 19 13:04:00 UTC 2007
 
@@ -934,8 +1010,10 @@ Actually, the reason is that an LDAP server is not a database, and it is not req
 
 [1] http://pcpool00.mathematik.uni-freiburg.de/~brl/blog/index.html#22
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Holger Levsen: again <http://layer-acht.org/blog/debian/#1-120>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Holger Levsen: again
+      <http://layer-acht.org/blog/debian/#1-120>
 
 Date: Sun Aug 19 12:45:08 UTC 2007
 
@@ -947,8 +1025,10 @@ More than two weeks ago I watched Inbox zero[1], which I recommend you to watch 
 
 [1] http://video.google.com/videoplay?docid=973149761529535925
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Biella Coleman: The Lingering Memories of War <http://healthhacker.org/satoroams/?p=814>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Biella Coleman: The Lingering Memories of War
+      <http://healthhacker.org/satoroams/?p=814>
 
 Date: Sun Aug 19 12:22:09 UTC 2007
 
@@ -977,8 +1057,10 @@ But after it was clear that she felt quite bad about not remembering, I knew tha
 [1] http://www.nytimes.com/2007/08/14/health/14seco.html?ei=5087%0A&#038;em=&#038;en=d0e729d8196a22f5&#038;ex=1187323200&#038;adxnnl=1&#038;adxnnlx=1187185170-Ko4yCS2ohzKBDSRKCdNbfQ
 [2] http://healthhacker.org/satoroams/?p=814#more-814
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Alexis Sukrieh: The road to libdevel-repl-perl, part 2 <http://www.sukria.net/en/archives/2007/08/19/the-road-to-libdevel-repl-perl-part-2/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Alexis Sukrieh: The road to libdevel-repl-perl, part 2
+      <http://www.sukria.net/en/archives/2007/08/19/the-road-to-libdevel-repl-perl-part-2/>
 
 Date: Sun Aug 19 11:48:12 UTC 2007
 
@@ -997,8 +1079,10 @@ Team maintenance rocks!
 
 [A] http://www.sukria.net/images/libdevel-repl-perl-deps-2.png
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Ross Burton: Mini PC Loveliness <http://www.burtonini.com/blog/computers/minipc-2007-08-19-12-00>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Ross Burton: Mini PC Loveliness
+      <http://www.burtonini.com/blog/computers/minipc-2007-08-19-12-00>
 
 Date: Sun Aug 19 11:00:00 UTC 2007
 
@@ -1006,8 +1090,10 @@ I've just discovered the AOpen MP965-DR mini PC[1], and blimey it's lovely. Does
 
 [1] http://minipc.aopen.com/Global/spec.htm
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: MJ Ray: Hamburg Classic <http://mjr.towers.org.uk/blog/2007/cycling#hhracing>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: MJ Ray: Hamburg Classic
+      <http://mjr.towers.org.uk/blog/2007/cycling#hhracing>
 
 Date: Sun Aug 19 10:47:00 UTC 2007
 
@@ -1021,8 +1107,10 @@ Yesterday's last stages of the Burgos and the Deutschland-Tour seemed surprising
 [4] http://tour.ard.de/
 [5] http://en.kingofsat.net/detail-ard.php
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Joerg Jaspert: UMTS? <http://blog.ganneff.de/blog/2007/08/19#umts>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Joerg Jaspert: UMTS?
+      <http://blog.ganneff.de/blog/2007/08/19#umts>
 
 Date: Sun Aug 19 09:22:52 UTC 2007
 
@@ -1039,8 +1127,10 @@ Comments? Suggestions? Anything? Email me[4] or catch me on IRC, (no, my blog do
 [3] http://blog.zugschlus.de/archives/114-UMTS-unter-Linux-funktioniert.html
 [4] http://planet.debian.org//mailto:&#106;&#111;&#101;&#114;&#103;&#64;&#103;&#97;&#110;&#110;&#101;&#102;&#102;&#46;&#100;&#101;
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Bernhard R. Link: Using slapd as thunderbird/icedove addressbook <http://pcpool00.mathematik.uni-freiburg.de/~brl/blog/index.html#22>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Bernhard R. Link: Using slapd as thunderbird/icedove addressbook
+      <http://pcpool00.mathematik.uni-freiburg.de/~brl/blog/index.html#22>
 
 Date: Sun Aug 19 09:05:59 UTC 2007
 
@@ -1069,8 +1159,10 @@ pref("ldap_2.servers.mathematik.filename", "foobar.mab");
 pref("ldap_2.servers.mathematik.maxHits", 500);
 pref("ldap_2.servers.mathematik.uri", "ldap://HOSTNAME:389/ou=People,dc=FOOBAR,dc=TLD??sub?(mail=*)");
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Andreas Metzler: those were the times <http://www.bebt.de/blog/debian/archives/2007/08/19/T09_03_50/index.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Andreas Metzler: those were the times
+      <http://www.bebt.de/blog/debian/archives/2007/08/19/T09_03_50/index.html>
 
 Date: Sun Aug 19 09:03:50 UTC 2007
 
@@ -1085,8 +1177,10 @@ a small working x-ray machine toy. See description[3].
 
 [A] http://www.bebt.de/images/blog/x-ray-small.jpeg
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Russell Coker: Colorado Software Summit 2007 <http://etbe.coker.com.au/2007/08/19/colorado-software-summit-2007/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Russell Coker: Colorado Software Summit 2007
+      <http://etbe.coker.com.au/2007/08/19/colorado-software-summit-2007/>
 
 Date: Sun Aug 19 09:00:14 UTC 2007
 
@@ -1103,8 +1197,10 @@ Share This[2]
 [1] http://www.softwaresummit.com/
 [2] http://etbe.coker.com.au/?p=357&amp;akst_action=share-this
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Simon Richter: Hacking <http://www.hogyros.de/?q=node/304>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Simon Richter: Hacking
+      <http://www.hogyros.de/?q=node/304>
 
 Date: Sun Aug 19 08:23:25 UTC 2007
 
@@ -1116,8 +1212,10 @@ In other news, there is now a wiki page for xcontrol[1].
 
 [1] http://wiki.debian.org/Xcontrol
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Peter Makholm: libcbtsysinfo_0 <http://peter.makholm.net/2007/08/18/libcbtsysinfo_0/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Peter Makholm: libcbtsysinfo_0
+      <http://peter.makholm.net/2007/08/18/libcbtsysinfo_0/>
 
 Date: Sat Aug 18 19:04:09 UTC 2007
 
@@ -1134,8 +1232,10 @@ Evil to install such thing without asking. (Well, it’s a Linux/x86 library eve
 [3] http://lists.debian.org/debian-user/2007/07/msg02432.html
 [4] http://www-03.ibm.com/security/products/cbt.shtml
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Michael Janssen: Got a camera rolling on your back <http://base0.net/archives/321-Got-a-camera-rolling-on-your-back.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Michael Janssen: Got a camera rolling on your back
+      <http://base0.net/archives/321-Got-a-camera-rolling-on-your-back.html>
 
 Date: Sat Aug 18 18:35:51 UTC 2007
 Author: nospam@example.com (Jamuraa)
@@ -1157,8 +1257,10 @@ I do have a couple of kinks that I would like to work out when I'm doing it thou
 [7] http://flickr.com/tools/
 [8] http://flickr.com/photos/jamuraa/1012736547/in/set-72157601532004533/
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: David Welton: Business Friendly <http://journal.dedasys.com/articles/2007/08/18/business-friendly>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: David Welton: Business Friendly
+      <http://journal.dedasys.com/articles/2007/08/18/business-friendly>
 
 Date: Sat Aug 18 16:54:00 UTC 2007
 
@@ -1185,8 +1287,10 @@ Two months to accomplish what can be done in ten minutes with a .com!
 [1] http://www.paulgraham.com/america.html
 [2] http://padovachronicles.welton.it/articles/2007/08/18/confronting-the-bureaucratic-beast-registering-an-italian-domain
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Gustavo R. Montesino: Final SoC releases <http://grmontesino.blogspot.com/2007/08/final-soc-releases.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Gustavo R. Montesino: Final SoC releases
+      <http://grmontesino.blogspot.com/2007/08/final-soc-releases.html>
 
 Date: Sat Aug 18 16:48:19 UTC 2007
 
@@ -1215,8 +1319,10 @@ Debian packages should hit the archive as soon as they get evaluated and sponsor
 [5] http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000007.html
 [6] http://alioth.debian.org/frs/download.php/2116/bug-triage-0.2.2.tar.gz
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Daniel Stone: a fit of narcissism <http://www.fooishbar.org/blog/life/stonesCorollory-2007-08-18-17-12.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Daniel Stone: a fit of narcissism
+      <http://www.fooishbar.org/blog/life/stonesCorollory-2007-08-18-17-12.html>
 
 Date: Sat Aug 18 14:21:46 UTC 2007
 
@@ -1227,8 +1333,10 @@ When used as a defence for driving an SUV, I'd also like to invoke the sudden de
 [1] http://www.burtonini.com/blog/life/burtons-low-2007-08-13-19-26
 [2] http://www.guardian.co.uk/environment/2007/aug/17/china.pollution
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Erich Schubert: More (ranting) on Skype <http://blog.drinsama.de/erich/en/2007081701-skype.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Erich Schubert: More (ranting) on Skype
+      <http://blog.drinsama.de/erich/en/2007081701-skype.html>
 
 Date: Sat Aug 18 12:14:00 UTC 2007
 
@@ -1257,8 +1365,10 @@ And, honest, there is nothing in Skype that other apps wouldn't offer, or had be
 [2] http://en.wikipedia.org/wiki/Session_Initiation_Protocol
 [3] http://en.wikipedia.org/wiki/H.323
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Bdale Garbee: Conservation: It's in the Bag <http://www.gag.com/cgi-bin/blosxom/2007/08/18#2007.08.18>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Bdale Garbee: Conservation: It's in the Bag
+      <http://www.gag.com/cgi-bin/blosxom/2007/08/18#2007.08.18>
 
 Date: Sat Aug 18 08:52:00 UTC 2007
 
@@ -1270,8 +1380,10 @@ I like that. Conservation, courtesy, and generosity should never go out of style
 
 [1] http://www.homepower.com/
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Pete Nuttall: Firefox blocking <http://www.lupin.org.uk/blog/computing/blocking-firefox.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Pete Nuttall: Firefox blocking
+      <http://www.lupin.org.uk/blog/computing/blocking-firefox.html>
 
 Date: Sat Aug 18 04:59:42 UTC 2007
 
@@ -1279,8 +1391,10 @@ The great thing about the internet is that people can use it to make a fool of t
 
 [1] http://whyfirefoxisblocked.com/
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Eddy Petrișor: how did the Debian Games Team got rid of spam <http://ramblingfoo.blogspot.com/2007/08/how-did-debian-games-team-got-rid-of.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Eddy Petrișor: how did the Debian Games Team got rid of spam
+      <http://ramblingfoo.blogspot.com/2007/08/how-did-debian-games-team-got-rid-of.html>
 
 Date: Sat Aug 18 03:33:11 UTC 2007
 
@@ -1310,8 +1424,10 @@ Try it your self on your lists, you'll be pleasantly surprised.
 [1] http://wiki.debian.org/UsefulImprovements#head-e0eab470284b59976fc9c112a979ecf674879d27
 [2] http://lists.debian.org/debian-devel-games/2007/04/msg00035.html
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Gunnar Wolf: Aggressive bug reports leading to a good answer (or so I hope) <http://www.gwolf.org/index.php/blog/show/Aggressive-bug-reports-leading-to-a-good-answer-or-so-I-hope.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Gunnar Wolf: Aggressive bug reports leading to a good answer (or so I hope)
+      <http://www.gwolf.org/index.php/blog/show/Aggressive-bug-reports-leading-to-a-good-answer-or-so-I-hope.html>
 
 Date: Fri Aug 17 21:47:40 UTC 2007
 Author: gwolf@gwolf.org (Gunnar Wolf)
@@ -1328,8 +1444,10 @@ Well, in short: I am now the proud owner of one of the packages most vital for m
 [5] http://alioth.debian.org/projects/pkg-perl
 [6] http://bugs.debian.org/cgi-bin/pkgreport.cgi?pkg=libapache2-mod-perl2;dist=unstable
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Erich Schubert: Skype problems aren't solved, but just worked around? <http://blog.drinsama.de/erich/en/2007081701-skype-problems-not-solved-just-worked-around.html>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Erich Schubert: Skype problems aren't solved, but just worked around?
+      <http://blog.drinsama.de/erich/en/2007081701-skype-problems-not-solved-just-worked-around.html>
 
 Date: Fri Aug 17 20:55:00 UTC 2007
 
@@ -1353,8 +1471,10 @@ P.P.S. Another interesting note: the Skype stats on the Skype website report 5.5
 [2] http://www.85qm.de/archives/567-Skype-Netzwerk-hat-sich-immer-noch-nicht-erholt.html
 [3] http://www.blackhat.com/presentations/bh-europe-06/bh-eu-06-biondi/bh-eu-06-biondi-up.pdf
 ****************************************
-Feed: Planet Debian <http://planet.debian.org/>
-Item: Alexis Sukrieh: The road to libdevel-repl-perl, part 1 <http://www.sukria.net/en/archives/2007/08/17/the-road-to-libdevel-repl-perl-part-1/>
+Feed: Planet Debian
+      <http://planet.debian.org/>
+Item: Alexis Sukrieh: The road to libdevel-repl-perl, part 1
+      <http://www.sukria.net/en/archives/2007/08/17/the-road-to-libdevel-repl-perl-part-1/>
 
 Date: Fri Aug 17 20:42:51 UTC 2007
 

@@ -6,8 +6,10 @@ Description: Views on software from Bryan Cantrill's deck chair
 Creator: 
 
 ****************************************
-Feed: The Observation Deck <http://blogs.sun.com/roller/page/bmc>
-Item: TR35 <http://blogs.sun.com/roller/page/bmc?entry=tr35>
+Feed: The Observation Deck
+      <http://blogs.sun.com/roller/page/bmc>
+Item: TR35
+      <http://blogs.sun.com/roller/page/bmc?entry=tr35>
 
 Date: Fri Sep 09 17:50:11 UTC 2005
 Author: Bryan Cantrill
