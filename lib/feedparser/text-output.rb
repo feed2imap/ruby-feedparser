@@ -59,12 +59,12 @@ module FeedParser
     def to_text(localtime = true, wrapto = false)
       s = ""
       s += "Feed: "
-      s += @feed.title + ' ' if @feed.title
-      s += "<#{@feed.link}>" if @feed.link
+      s += @feed.title if @feed.title
+      s += "\n      <#{@feed.link}>" if @feed.link
       s += "\n"
       s += "Item: "
-      s += @title + ' ' if @title
-      s += "<#{@link}>" if @link
+      s += @title if @title
+      s += "\n      <#{@link}>" if @link
       s += "\n"
       if @date
         if localtime
