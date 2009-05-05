@@ -11,7 +11,7 @@ Item: Brève cinema <http://guillaume.apinc.org/2005/janvier/23/75-breve-cinema>
 
 Date: Sun Jan 23 10:41:02 UTC 2005
 Author: Guillaume Bouchard
-Category: Cinéma
+Filed under: Cinéma
 
 Description de quatres films, les Daltons, Benjamin Gate et le trésor 
 des Templiers, Mystic river et Un monde parfait.
@@ -22,7 +22,7 @@ Item: Veille de DS chez Totoro <http://guillaume.apinc.org/2005/janvier/20/74-ve
 
 Date: Thu Jan 20 12:29:17 UTC 2005
 Author: Guillaume Bouchard
-Category: Vie en vrai
+Filed under: Vie en vrai
 
 Introduction du blog d'un amis.
 
@@ -32,7 +32,7 @@ Item: L'ocean de la lame indestructible volante <http://guillaume.apinc.org/2005
 
 Date: Sun Jan 02 15:52:01 UTC 2005
 Author: Guillaume Bouchard
-Category: Cinéma
+Filed under: Cinéma
 
 Quatre films au cinema, Blade 3, Ocean's twelve, Les indestructibles et 
 Le secret des poignards volants.
@@ -43,7 +43,7 @@ Item: Changelog <http://guillaume.apinc.org/2005/janvier/02/72-changelog>
 
 Date: Sun Jan 02 15:34:38 UTC 2005
 Author: Guillaume Bouchard
-Category: Blog
+Filed under: Blog
 
 Un petit changelog du blog.
 
@@ -53,7 +53,7 @@ Item: Happy new year <http://guillaume.apinc.org/2005/janvier/02/71-happy-new-ye
 
 Date: Sun Jan 02 15:09:40 UTC 2005
 Author: Guillaume Bouchard
-Category: Vie en vrai
+Filed under: Vie en vrai
 
 Une bonne année, mes résolutions et bilan, bref totalement 
 ininteressant. Je raconte ma vie !
@@ -64,7 +64,7 @@ Item: Philosophie de l'update. <http://guillaume.apinc.org/2005/janvier/02/70-ph
 
 Date: Sun Jan 02 14:52:16 UTC 2005
 Author: Guillaume Bouchard
-Category: Autres
+Filed under: Autres
 
 L'histoire vrai d'une personne qui doit racheter un ordinateur à cause 
 d'une mise à jour d'un petit programme.
@@ -75,7 +75,7 @@ Item: Resident Evil 2 <http://guillaume.apinc.org/2004/novembre/08/69-resident-e
 
 Date: Mon Nov 08 20:17:16 UTC 2004
 Author: Guillaume Bouchard
-Category: Cinéma
+Filed under: Cinéma
 
 Resident Evil 2 est au cinema. Sans plus.
 
@@ -85,7 +85,7 @@ Item: RSS et commentaires <http://guillaume.apinc.org/2004/novembre/04/68-rss-et
 
 Date: Thu Nov 04 15:21:50 UTC 2004
 Author: Guillaume Bouchard
-Category: Blog
+Filed under: Blog
 
 Un bug du RSS corigé et de nouvelles fonctionalitées (RSS des 
 commentaires)
@@ -96,7 +96,7 @@ Item: Star Wars, The return of the DVD <http://guillaume.apinc.org/2004/novembre
 
 Date: Mon Nov 01 10:33:20 UTC 2004
 Author: Guillaume Bouchard
-Category: Cinéma
+Filed under: Cinéma
 
 J'ai acheter le DVD de Stars Wars.
 
@@ -106,7 +106,7 @@ Item: Tiscali et l'abonnement <http://guillaume.apinc.org/2004/novembre/01/66-ti
 
 Date: Mon Nov 01 10:28:53 UTC 2004
 Author: Guillaume Bouchard
-Category: Autres
+Filed under: Autres
 
 Une petite pointe d'enervement fasse à Tiscali, mon FAI 56 K ainsi 
 qu'une critique d'un logiciel de P2P.
@@ -117,7 +117,7 @@ Item: J'ai rencontré Tristan <http://guillaume.apinc.org/2004/novembre/01/65-ja
 
 Date: Mon Nov 01 10:28:02 UTC 2004
 Author: Guillaume Bouchard
-Category: Vie en vrai
+Filed under: Vie en vrai
 
 Ma rencontre avec Tristan Nitot et un peu sur les journées du logiciels 
 libre à Lyon.
@@ -128,7 +128,7 @@ Item: L'informatique consomme le temps <http://guillaume.apinc.org/2004/novembre
 
 Date: Mon Nov 01 10:27:05 UTC 2004
 Author: Guillaume Bouchard
-Category: Linux
+Filed under: Linux
 
 Petite pensée sur le temps que prend l'informatique.
 
@@ -138,7 +138,7 @@ Item: Vacance et cinema <http://guillaume.apinc.org/2004/novembre/01/63-vacance-
 
 Date: Mon Nov 01 10:25:49 UTC 2004
 Author: Guillaume Bouchard
-Category: Cinéma
+Filed under: Cinéma
 
 Trois films vu pendant ces vacances. Arsene Lupin, Vipère au poing et 
 Un long dimanche de fiancailles.
@@ -149,7 +149,7 @@ Item: Gagner un livre Debian <http://guillaume.apinc.org/2004/octobre/15/62-gagn
 
 Date: Fri Oct 15 12:28:51 UTC 2004
 Author: Guillaume Bouchard
-Category: Linux
+Filed under: Linux
 
 Gagnez un livre Debian, promis je vais faire des vrais articles... Un 
 jour.
@@ -160,7 +160,7 @@ Item: Où se cachent les terroristes ? <http://guillaume.apinc.org/2004/septembr
 
 Date: Mon Sep 06 12:30:22 UTC 2004
 Author: Guillaume Bouchard
-Category: Politique
+Filed under: Politique
 
 Critique de la societé de consomation et d'un événements à Lyon.
 
@@ -170,7 +170,7 @@ Item: Résumé des films precedents <http://guillaume.apinc.org/2004/aout/16/60-
 
 Date: Mon Aug 16 06:13:12 UTC 2004
 Author: Guillaume Bouchard
-Category: Cinéma
+Filed under: Cinéma
 
 Critique de diverses films dont Farenheit 9/11.
 
@@ -180,7 +180,7 @@ Item: Gentoo, la distrib de debutants <http://guillaume.apinc.org/2004/aout/16/5
 
 Date: Mon Aug 16 05:59:33 UTC 2004
 Author: Guillaume Bouchard
-Category: Linux
+Filed under: Linux
 
 Résumé d'une install party raté et pourquoi Gentoo reste la meilleur 
 distribution Linux du marché.
@@ -191,7 +191,7 @@ Item: Critique sur l'orthographe <http://guillaume.apinc.org/2004/aout/16/58-cri
 
 Date: Mon Aug 16 05:49:34 UTC 2004
 Author: Guillaume Bouchard
-Category: Autres
+Filed under: Autres
 
 Reponse à la critique de phnk sur l'orthgraphe.
 
@@ -201,7 +201,7 @@ Item: La fin du mangeur <http://guillaume.apinc.org/2004/aout/16/57-la-fin-du-ma
 
 Date: Mon Aug 16 05:40:25 UTC 2004
 Author: Guillaume Bouchard
-Category: Mangeur de cigogne
+Filed under: Mangeur de cigogne
 
 Mon dégout de la tournure qu'a prit le mangeur de cigogne sur la fin.
 
@@ -211,7 +211,7 @@ Item: Je suis de retour... <http://guillaume.apinc.org/2004/aout/16/56-je-suis-d
 
 Date: Mon Aug 16 05:37:12 UTC 2004
 Author: Guillaume Bouchard
-Category: Vie en vrai
+Filed under: Vie en vrai
 
 Explication de mon absence
 

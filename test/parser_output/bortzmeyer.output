@@ -11,7 +11,6 @@ Link: http://www.bortzmeyer.org/5511.html
 Date: Sun May 03 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Contrairement à d'autres SDO,
 l'IETF utilise relativement peu de langages
@@ -30,7 +29,6 @@ Link: http://www.bortzmeyer.org/lisp-wg.html
 Date: Tue Apr 28 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Non, ce nouveau groupe de travail (<a href="http://www.ietf.org/html.charters/lisp-charter.html)">http://www.ietf.org/html.charters/lisp-charter.html)</a>
 de l'IETF, créé officiellement aujourd'hui, ne concerne pas le fameux langage de programmation. Il est chargé de
@@ -43,7 +41,6 @@ Link: http://www.bortzmeyer.org/tests-disques-postgresql.html
 Date: Mon Apr 27 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>À chaque fois qu'on installe et configure des machines pour une
 application spécifique, on se pose la question des meilleurs réglages
@@ -64,7 +61,6 @@ Link: http://www.bortzmeyer.org/dell-raid-omsa.html
 Date: Tue Apr 28 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Faire fonctionner un PC, qu'il soit machine
 de bureau ou serveur sans écran, avec du logiciel libre n'a jamais été facile. Même si les fabricants
@@ -79,7 +75,6 @@ Link: http://www.bortzmeyer.org/5507.html
 Date: Thu Apr 23 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le DNS est au
 cœur de la plupart des transactions sur
@@ -96,7 +91,6 @@ Link: http://www.bortzmeyer.org/no-triple-play.html
 Date: Thu Apr 23 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le protocole IP est la base de
 l'Internet, celle au dessus de laquelle on peut tout
@@ -113,7 +107,6 @@ Link: http://www.bortzmeyer.org/codesearch.html
 Date: Tue Apr 28 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Pour le programmeur, la présence
 d'énormes quantités de codes
@@ -128,7 +121,6 @@ Link: http://www.bortzmeyer.org/abysses.html
 Date: Sat Apr 18 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Vous aimez les romans catastrophico-scientifiques ? « Abysses », de Frank
 Schätzing (Der Schwarm en
@@ -143,7 +135,6 @@ Link: http://www.bortzmeyer.org/5451.html
 Date: Fri Apr 17 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Il existe désormais plusieurs techniques pour authentifier les courriers
 électroniques. Certaines peuvent nécessiter des calculs un
@@ -161,7 +152,6 @@ Link: http://www.bortzmeyer.org/bibliographie-docbook.html
 Date: Fri Apr 17 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le schéma XML de documentation Docbook
 contient un élément "<bibliography> (<a href="http://oreilly.com/catalog/docbook/book2/bibliography.html)">http://oreilly.com/catalog/docbook/book2/bibliography.html)</a>"
@@ -179,7 +169,6 @@ Link: http://www.bortzmeyer.org/normes-w3c-booleens.html
 Date: Fri Apr 17 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Une question me titille : dans plusieurs (toutes ?) normes du
 W3C, un attribut prend une valeur qui est le
@@ -202,7 +191,6 @@ Link: http://www.bortzmeyer.org/raw-sockets.html
 Date: Mon Apr 20 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>De nombreuses applications réseau nécessitent de contrôler
 étroitement le contenu du paquet IP, y compris les parties qui ne
@@ -222,7 +210,6 @@ Link: http://www.bortzmeyer.org/commande-rappelable-pour-tests.html
 Date: Wed Apr 15 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>À chaque fois que je donne des cours d'administration système et
 réseaux sur Unix (par exemple pour
@@ -242,7 +229,6 @@ Link: http://www.bortzmeyer.org/meridian.html
 Date: Tue Apr 14 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le développement formidable des techniques
 pair-à-pair a apporté d'immenses possibilités
@@ -262,7 +248,6 @@ Link: http://www.bortzmeyer.org/mots-nes-mer.html
 Date: Mon Apr 13 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>J'aime l'étymologie, savoir d'où viennent
 les mots et quels voyages ils ont fait avant d'arriver en
@@ -277,7 +262,6 @@ Link: http://www.bortzmeyer.org/1305.html
 Date: Fri Apr 10 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Dans tout système technique complexe, comme
 l'Internet, on a besoin
@@ -303,7 +287,6 @@ Link: http://www.bortzmeyer.org/5540.html
 Date: Wed Apr 08 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Ce mois d'avril marque le quarantième anniversaire du premier
 RFC, le RFC 1, Host
@@ -314,7 +297,6 @@ Link: http://www.bortzmeyer.org/etat-internet.html
 Date: Wed Apr 08 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Il n'y a quasiment que des articles intéressants sur le blog de Renesys (<a href="http://www.renesys.com/blog)">http://www.renesys.com/blog)</a> et toute
 personne intéressée par BGP ou, plus
@@ -330,7 +312,6 @@ Link: http://www.bortzmeyer.org/5518.html
 Date: Tue Apr 07 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le courrier électronique ne fournit pas
 assez de garanties pour un certain nombre d'utilisations, notamment
@@ -345,7 +326,6 @@ Link: http://www.bortzmeyer.org/python-tls-timeout.html
 Date: Mon Apr 06 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>J'ai besoin de munir un client HTTP
 existant, écrit en Python, de TLS. Je ne veux pas
@@ -362,7 +342,6 @@ Link: http://www.bortzmeyer.org/emportevoix-au-kibele.html
 Date: Thu Apr 02 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>La compagnie Emporte-Voix (<a href="http://www.emportevoix.com">http://www.emportevoix.com</a>) présente ses
 spectacles en ce moment au Kibélé (<a href="http://www.kibele.fr/)">http://www.kibele.fr/)</a> à
@@ -375,7 +354,6 @@ Link: http://www.bortzmeyer.org/5504.html
 Date: Wed Apr 01 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Complétant la série de RFC sur l'internationalisation du
 courrier électronique (courrier-entierement-internationalise.html), ce document normalise la procédure de
@@ -390,7 +368,6 @@ Link: http://www.bortzmeyer.org/5474.html
 Date: Wed Apr 01 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>L'échantillonnage est une opération qui
 consiste à ne sélectionner qu'une partie des objets qu'on mesure. Par
@@ -407,7 +384,6 @@ Link: http://www.bortzmeyer.org/5475.html
 Date: Wed Apr 01 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Ce RFC fait partie de la série des normes produites par le groupe
 de travail psamp (<a href="http://www.ietf.org/html.charters/psamp-charter.html)">http://www.ietf.org/html.charters/psamp-charter.html)</a> sur
@@ -421,7 +397,6 @@ Link: http://www.bortzmeyer.org/5470.html
 Date: Wed Apr 01 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Voici donc les RFC décrivant le protocole IPFIX, le successeur normalisé de Netflow. Ce RFC particulier décrit l'architecture d'IPFIX.</p>
 --------------------------------
@@ -430,7 +405,6 @@ Link: http://www.bortzmeyer.org/attribut-lang-liens.html
 Date: Tue Mar 31 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>J'ai souvent lu qu'il était de bonne pratique d'ajouter un
 attribut "hreflang (<a href="http://www.w3.org/TR/REC-html40/struct/links.html#adef-hreflang)">http://www.w3.org/TR/REC-html40/struct/links.html#adef-hreflang)</a>"
@@ -444,7 +418,6 @@ Link: http://www.bortzmeyer.org/ssh-a-travers-relais-http.html
 Date: Sat Mar 28 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Parfois, en voyage, on est coincé sur un réseau qui ne permet que
 HTTP. Pour se connecter à sa machine distante
@@ -458,7 +431,6 @@ Link: http://www.bortzmeyer.org/milano-technical-norms-governance.html
 Date: Mon Mar 30 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Aujourd'hui, à l'université du
 Sacré-Cœur à Milan, j'ai eu
@@ -471,7 +443,6 @@ Link: http://www.bortzmeyer.org/manga-guide-databases.html
 Date: Wed Mar 25 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Finis, les livres d'informatiques « pour les nuls ». Place aux
 mangas. No Starch Press et O'Reilly
@@ -485,7 +456,6 @@ Link: http://www.bortzmeyer.org/domaines-d-un-seul-label.html
 Date: Wed Mar 25 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>L'ICANN avait annoncé à l'occasion de sa
 réunion (<a href="http://par.icann.org/)">http://par.icann.org/)</a> de
@@ -505,7 +475,6 @@ Link: http://www.bortzmeyer.org/rfc-editor-at-isi.html
 Date: Tue Mar 24 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Ce texte était à l'origine la réponse de
 l'ISI à la candidature pour le renouvellement
@@ -522,7 +491,6 @@ Link: http://www.bortzmeyer.org/science-et-vie-table-rase.html
 Date: Mon Mar 23 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le numéro de Science & Vie de décembre
 2008. contient un article intitulé « Internet au bord de l'explosion
@@ -536,7 +504,6 @@ Link: http://www.bortzmeyer.org/securite-logiciels-peu-utilises.html
 Date: Mon Mar 23 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>La publication récente de deux failles de sécurité dans le logiciel
 djbdns met l'accent sur un problème particulier
@@ -550,7 +517,6 @@ Link: http://www.bortzmeyer.org/install-debian-realtek-RTL8168.html
 Date: Fri Apr 03 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Contrairement à ce que racontent des optimistes invétérés (linux-driver-project-status.html),
 l'installation et la configuration du matériel sur
@@ -564,7 +530,6 @@ Link: http://www.bortzmeyer.org/4366.html
 Date: Thu Mar 19 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Ce RFC décrit les premières extensions au protocole cryptographique
 TLS. Il décrit le mécanisme général d'extension
@@ -576,7 +541,6 @@ Link: http://www.bortzmeyer.org/the-gift.html
 Date: Thu Mar 19 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Tiens, l'art de la nouvelle n'est pas complètement perdu aux
 États-Unis ? On peut encore y faire des
@@ -594,7 +558,6 @@ Link: http://www.bortzmeyer.org/pythonista.html
 Date: Wed Mar 18 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>C'est quand on croit bien connaître quelque chose qu'il faut
 retourner apprendre du nouveau sur celle-ci. Par exemple, parmi les
@@ -610,7 +573,6 @@ Link: http://www.bortzmeyer.org/dame-a-la-licorne.html
 Date: Tue Mar 17 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Si vous avez visité Paris, il y a des
 chances que vous ayez vu le Musée du Moyen-Âge
@@ -627,7 +589,6 @@ Link: http://www.bortzmeyer.org/who-buys-porn.html
 Date: Tue Mar 17 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Les économistes peuvent tout
 étudier, comme l'a montré Steven Levitt dans son célèbre
@@ -643,7 +604,6 @@ Link: http://www.bortzmeyer.org/5482.html
 Date: Tue Mar 17 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le RFC 793, qui normalise
 TCP, prévoit un paramètre local
@@ -661,7 +621,6 @@ Link: http://www.bortzmeyer.org/moteur-recherche.html
 Date: Thu Apr 02 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Cela fait longtemps que je voulais avoir un moteur de recherche
 sur mon blog. Il y a deux solutions, installer un logiciel sur le
@@ -676,7 +635,6 @@ Link: http://www.bortzmeyer.org/moteur-recherche-wsgi.html
 Date: Mon Mar 16 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le tout nouveau moteur de recherche
 de ce blog (moteur-recherche.html) repose sur plusieurs techniques que j'apprécie, notamment
@@ -688,7 +646,6 @@ Link: http://www.bortzmeyer.org/wsgi.html
 Date: Sat Mar 28 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Pour créer une application Web en
 Python, il existe plusieurs solutions. La plus
@@ -704,7 +661,6 @@ Link: http://www.bortzmeyer.org/conficker-version-c-et-le-dns.html
 Date: Mon Mar 30 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>L'une des originalités du ver
 Conficker est qu'il utilise des noms de domaine et pas des
@@ -718,7 +674,6 @@ Link: http://www.bortzmeyer.org/world-without-us.html
 Date: Fri Mar 13 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Qu'adviendrait-il du monde, des animaux et végétaux qui le
 peuplent, des choses que nous avions construites, si l'humanité
@@ -734,7 +689,6 @@ Link: http://www.bortzmeyer.org/filtrage-maladroit-paris.html
 Date: Fri Mar 13 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Il existe plein d'endroits au monde où l'accès à
 l'Internet est filtré, par exemple par le
@@ -752,7 +706,6 @@ Link: http://www.bortzmeyer.org/2645.html
 Date: Wed Mar 11 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le protocole de transfert de courrier électronique SMTP, normalisé dans
 le RFC 5321, est prévu pour des cas où la
@@ -774,7 +727,6 @@ Link: http://www.bortzmeyer.org/5424.html
 Date: Tue Mar 10 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Mettant à jour l'ancienne description, voici la nouvelle
 spécification du protocole syslog, protocole de
@@ -786,7 +738,6 @@ Link: http://www.bortzmeyer.org/5425.html
 Date: Tue Mar 10 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le protocole syslog, de transport des
 données de journalisation entre deux machines
@@ -801,7 +752,6 @@ Link: http://www.bortzmeyer.org/hadopi-a-l-assemblee.html
 Date: Fri Apr 10 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>L'Assemblée Nationale commence aujourd'hui
 l'examen du projet de loi Hadopi. Si elle est
@@ -813,7 +763,6 @@ Link: http://www.bortzmeyer.org/5426.html
 Date: Tue Mar 10 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>La nouvelle version du protocole syslog
 offre désormais le choix du protocole de transport. Il y aura
@@ -825,7 +774,6 @@ Link: http://www.bortzmeyer.org/4001.html
 Date: Mon Mar 09 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Il y a plein de normes Internet dans lesquelles il faut représenter
 sous forme texte (representation-texte.html) des adresses
@@ -839,7 +787,6 @@ Link: http://www.bortzmeyer.org/5485.html
 Date: Fri Mar 06 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Lorsqu'un document, par exemple un
 Internet-Draft est publié et
@@ -854,7 +801,6 @@ Link: http://www.bortzmeyer.org/ip-data-structures.html
 Date: Fri Mar 06 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Comme je ne programme pas en C tous les jours, à chaque fois que je m'y
 remets (et c'est en général pour un programme réseau), j'ai du mal
@@ -867,7 +813,6 @@ Link: http://www.bortzmeyer.org/5481.html
 Date: Wed Mar 04 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le RFC 3393
 normalise une métrique de variation du délai
@@ -880,7 +825,6 @@ Link: http://www.bortzmeyer.org/pcap-decodage-dns.html
 Date: Thu Mar 05 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Une fois capturés et stockés sur disque (capture-paquets.html), au format
 pcap, les paquets doivent être disséqués pour trouver les éléments
@@ -892,7 +836,6 @@ Link: http://www.bortzmeyer.org/certificats-ressources-internet.html
 Date: Mon Mar 02 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>On le sait bien, le système de routage de
 l'Internet est très peu fiable, comme l'a
@@ -910,7 +853,6 @@ Link: http://www.bortzmeyer.org/2046.html
 Date: Sun Mar 01 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>La norme MIME permettant de distribuer du
 contenu multimédia par courrier électronique est composée de plusieurs
@@ -936,7 +878,6 @@ Link: http://www.bortzmeyer.org/4251.html
 Date: Fri Feb 27 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Pendant longtemps, les connexions interactives à une machine
 distante, via l'Internet, se faisaient par un
@@ -958,7 +899,6 @@ Link: http://www.bortzmeyer.org/5461.html
 Date: Thu Feb 26 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Que doit faire une implémentation de TCP
 lorsqu'une erreur est signalée par le réseau, par exemple lorsqu'un
@@ -972,7 +912,6 @@ Link: http://www.bortzmeyer.org/5492.html
 Date: Thu Feb 26 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Cette norme modifie le protocole BGP (RFC 4271) pour ajouter une nouvelle option, qui est
 plutôt une méta-option, permettant de décrire des capacités
@@ -983,7 +922,6 @@ Link: http://www.bortzmeyer.org/ressources-ecrire-francais.html
 Date: Fri Mar 13 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Il me semble qu'il y a bien davantage de ressources en ligne
 (dictionnaires, guides de
@@ -1002,7 +940,6 @@ Link: http://www.bortzmeyer.org/5466.html
 Date: Wed Feb 25 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>La déjà très longue série des RFC sur
 IMAP s'agrandit avec cette norme pour le
@@ -1014,7 +951,6 @@ Link: http://www.bortzmeyer.org/itar-dnssec.html
 Date: Tue Feb 24 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Un problème classique de DNSSEC est qu'il
 faut connaître au moins une clé publique
@@ -1030,7 +966,6 @@ Link: http://www.bortzmeyer.org/5453.html
 Date: Wed Feb 11 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Une machine IPv6 doit évidemment avoir une
 adresse IP unique mais il existe une autre
@@ -1049,7 +984,6 @@ Link: http://www.bortzmeyer.org/4301.html
 Date: Mon Feb 09 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>L'Internet n'est pas sûr, on le sait
 bien. Un méchant peut lire les paquets IP qui circulent, il peut injecter de faux
@@ -1063,7 +997,6 @@ Link: http://www.bortzmeyer.org/3148.html
 Date: Sun Feb 08 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Parmi les différentes métriques qu'on peut
 définir sur l'Internet, une est
@@ -1080,7 +1013,6 @@ Link: http://www.bortzmeyer.org/5411.html
 Date: Wed Feb 04 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>La quantité de RFC sur le protocole
 SIP est colossale et s'accroit tous les
@@ -1094,7 +1026,6 @@ Link: http://www.bortzmeyer.org/5434.html
 Date: Mon Feb 02 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le travail de normalisation au sein de
 l'IETF se fait dans des groupes de travail
@@ -1111,7 +1042,6 @@ Link: http://www.bortzmeyer.org/5437.html
 Date: Sun Feb 01 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le langage de description de filtres de courrier Sieve
 dispose d'une possibilité de notification. Avec ce RFC la notification
@@ -1123,7 +1053,6 @@ Link: http://www.bortzmeyer.org/5436.html
 Date: Sun Feb 01 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le système de notification du langage de filtrage de courrier
 Sieve est normalisé dans le RFC 5435. Il se décline en plusieurs mécanismes, pour envoyer des
@@ -1135,7 +1064,6 @@ Link: http://www.bortzmeyer.org/5435.html
 Date: Sun Feb 01 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le langage de filtrage du courrier Sieve se
 voit désormais doté d'une nouvelle fonction, la possibilité de
@@ -1148,7 +1076,6 @@ Link: http://www.bortzmeyer.org/measurement-lab.html
 Date: Sat Jan 31 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Google lance un énorme pavé dans la mare avec Measurement Lab (<a href="http://www.measurementlab.net/),">http://www.measurementlab.net/),</a> une plate-forme distribuée
 de mesures sur Internet, avec un système de rapport qui permet à
@@ -1161,7 +1088,6 @@ Link: http://www.bortzmeyer.org/pcapr.html
 Date: Fri Jan 30 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Examiner en détail, au niveau des champs qui le composent et même
 des bits sous-jacents, des
@@ -1184,7 +1110,6 @@ Link: http://www.bortzmeyer.org/5452.html
 Date: Thu Jan 29 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le système de résolution de noms DNS est indispensable à la grande majorité des
 sessions sur l'Internet et pourtant il est très
@@ -1202,7 +1127,6 @@ Link: http://www.bortzmeyer.org/5408.html
 Date: Sat Jan 24 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>L'IBE
 (Identity-Based Encryption) est une technique
@@ -1215,7 +1139,6 @@ Link: http://www.bortzmeyer.org/dns-attaque-ns-point.html
 Date: Sat Jan 24 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Depuis au moins le 7 janvier, une série d'attaques
 DoS utilisant le DNS a lieu. Parfois nommée
@@ -1228,7 +1151,6 @@ Link: http://www.bortzmeyer.org/c-hash-tables.html
 Date: Mon Feb 09 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Les tables de hachages, appelées, selon les
 langages de programmations, hashes (Perl), dictionnaires (Python),
@@ -1242,7 +1164,6 @@ Link: http://www.bortzmeyer.org/unbound.html
 Date: Wed Jan 21 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le résolveur DNS le plus courant, dans le
 monde du logiciel libre, est
@@ -1256,7 +1177,6 @@ Link: http://www.bortzmeyer.org/worlds-writing-systems.html
 Date: Mon Jan 19 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Depuis l'invention de l'écriture il y a cinq mille ans, du côté de
 Sumer ou d'Uruk (section
@@ -1275,7 +1195,6 @@ Link: http://www.bortzmeyer.org/3757.html
 Date: Sat Jan 17 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le protocole DNSSEC de signature des
 enregistrements DNS
@@ -1291,7 +1210,6 @@ Link: http://www.bortzmeyer.org/analyse-pcap-ipv6.html
 Date: Thu Jan 15 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Comme expliqué dans mon article sur
 l'analyse des
@@ -1308,7 +1226,6 @@ Link: http://www.bortzmeyer.org/taille-de-storm.html
 Date: Wed Jan 14 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Quelle est la taille du plus célèbre des botnets,
 Storm ? Selon un article de chercheurs à
@@ -1320,7 +1237,6 @@ Link: http://www.bortzmeyer.org/expose-identites-fulbi.html
 Date: Fri Jan 16 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le 13 janvier, à Paris, j'ai eu le
 plaisir de faire un exposé lors de la réunion FULBI (<a href="http://www.fulbi.fr/spip.php?article40)">http://www.fulbi.fr/spip.php?article40)</a> consacrée à
@@ -1337,7 +1253,6 @@ Link: http://www.bortzmeyer.org/mettre-date-fichiers-config.html
 Date: Mon Jan 12 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Souvent, je regarde les fichiers de configuration d'une machine qui
 a plusieurs administrateurs système et je vois
@@ -1355,7 +1270,6 @@ Link: http://www.bortzmeyer.org/demander-son-chemin-a-helsinki.html
 Date: Mon Jan 12 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Chaque fois que quelqu'un qui n'a pas encore étudié la question se
 penche sur le choix des langues
@@ -1371,7 +1285,6 @@ Link: http://www.bortzmeyer.org/schemas-avec-un-langage.html
 Date: Fri Jan 09 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>On dit qu'une image vaut mille mots. C'est vrai qu'il est souvent
 bien plus facile d'expliquer avec un dessin qu'avec de la prose. Dans
@@ -1386,7 +1299,6 @@ Link: http://www.bortzmeyer.org/768.html
 Date: Thu Jan 08 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le protocole IP,
 situé dans la couche 3,
@@ -1410,7 +1322,6 @@ Link: http://www.bortzmeyer.org/2385.html
 Date: Tue Jan 06 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Le protocole TCP est vulnérable à plusieurs
 attaques fondées sur l'envoi de paquets prétendant venir d'un
@@ -1430,7 +1341,6 @@ Link: http://www.bortzmeyer.org/homelink.html
 Date: Tue Jan 06 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>Vous voulez une maison de trois étages à
 Londres ? Plutôt au
@@ -1445,7 +1355,6 @@ Link: http://www.bortzmeyer.org/2330.html
 Date: Sun Jan 04 00:00:00 UTC 2009
 Creator: 
 Subject: 
-Category: 
 Content:
 <p>La mesure des performances sur Internet est un vaste sujet, rendu
 plus difficile par l'utilisation massive de mots mal définis ou, pire,

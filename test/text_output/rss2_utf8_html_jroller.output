@@ -11,7 +11,7 @@ Item: Another victory for svn <http://jroller.com/page/akarasulu/20040330#anothe
 
 Date: Tue Mar 30 16:39:55 UTC 2004
 Author: Alex Karasulu
-Category: General
+Filed under: General
 
 Today I resusitated a file in subversion. I thought it was cool although its not a big deal. However what was cool was getting help from the original authors on it. I think people should rething the support issue for svn its definately growing strong from what I can see.
 ****************************************
@@ -20,7 +20,7 @@ Item: Notification pattern has interesting effect on IoC <http://jroller.com/pag
 
 Date: Wed Feb 18 04:40:44 UTC 2004
 Author: Alex Karasulu
-Category: Java
+Filed under: Java
 
 While looking at the frontend of the Eve server I began to realize a trend emerging after I introduced a central publish and subscribe facility. The pattern decouples components by enabling communication using events and the notifier pattern. This also lead to the disappearence of methods on service interfaces.
 
@@ -33,7 +33,7 @@ Item: Groovy dude is on a roll <http://jroller.com/page/akarasulu/20040212#groov
 
 Date: Thu Feb 12 16:26:28 UTC 2004
 Author: Alex Karasulu
-Category: Java
+Filed under: Java
 
 You know I just started to get good at groking the Jelly. Just as I start digesting one Strachan production the guy comes out with yet another. Groovy [1] really lives upto its name and I can't wait to get hard core with it. You just can't beat a language that has a class called GString in it! That's totally Groovy.
 
@@ -50,7 +50,7 @@ Item: Eve formerly know as LDAPd has been accepted to Apache Incubator <http://j
 
 Date: Fri Oct 31 04:00:53 UTC 2003
 Author: Alex Karasulu
-Category: General
+Filed under: General
 
 Eve the LDAP server formerly known as LDAPd has just been accepted last week into the incubator under the Apache Directory top level project. Eve will be the flagship server for that Apache Directory TLP upon matriculation from the incubator.
 
@@ -61,7 +61,7 @@ Item: Got committer status on Avalon <http://jroller.com/page/akarasulu/20031030
 
 Date: Fri Oct 31 01:48:00 UTC 2003
 Author: Alex Karasulu
-Category: General
+Filed under: General
 
 Yesterday I got voted practically unanimously to join the Avalon team as a committer. I was very excited to get the warm welcome from those guys. I hope to do my best to further the cause there.
 
@@ -72,7 +72,7 @@ Item: LDAPd Project Started Oct 16th 2002 <http://jroller.com/page/akarasulu/200
 
 Date: Wed Oct 15 13:00:40 UTC 2003
 Author: Alex Karasulu
-Category: General
+Filed under: General
 
 Almost a year ago I founded the LDAPd Group which over the course of the past year has grown into a healthy community to build a pure java LDAPv3 server implementation. In April 2003 the first alpha release occurred on source forge with other minor releases there after. More on the server is available here[1].
 

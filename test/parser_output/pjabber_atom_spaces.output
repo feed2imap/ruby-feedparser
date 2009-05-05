@@ -11,7 +11,6 @@ Link: http://www.tigase.org/node/250
 Date: Mon Feb 12 00:46:25 UTC 2007
 Creator: kobit
 Subject: 
-Category: 
 Content:
 <p>If you look at the <a href="http://www.tigase.org/node/27">test page</a> you may notice that stability tests are missing for a few last releases.</p>
 <p>This is because of lack of resources to do long lasting tests. It may take up to 80 hours to complete all stability tests and 2 machines are needed for that. Well, it would be even better to run tests on more than 2 machines if possible. Unfortunately it is not possible now to dedicate 2 computers for that long time.</p>
@@ -24,7 +23,6 @@ Link: http://ralphm.net/blog/2007/02/09/fosdem_2007_devroom
 Date: Fri Feb 09 15:49:30 UTC 2007
 Creator: ralphm
 Subject: 
-Category: 
 Content:
 <p>Back in November <a href="http://ralphm.net/blog/">I</a> <a href="http://ralphm.net/blog/2006/11/17/fosdem_2007_call">posted</a>
 				a call for presence (haha) for the <a href="http://fosdem.org/2007/schedule/devroom/jabber">Jabber developer
@@ -74,7 +72,6 @@ Link: http://www.saint-andre.com/blog/2007-02.html#2007-02-08T13:13
 Date: Thu Feb 08 20:13:00 UTC 2007
 Creator: Peter Saint-Andre
 Subject: 
-Category: 
 Content:
 <p><a href="http://imified.com/">IMified</a> is a fun new service that enables you to keep to-do items and reminders, interact with Google Calendar, and so on -- all from the comfort of your Jabber client. It's well explained <a href="http://blog.siltala.net/post/2007/02/08/IMified-is-your-best-buddy">here</a> with pretty screenshots. Just add <a href="xmpp:imified@gmail.com">imified@gmail.com</a> to your roster and off you go. (I'm not sure how their bot will scale, but I suppose they'll figure it out ;-)</p>
 --------------------------------
@@ -83,7 +80,6 @@ Link: http://thetofu.livejournal.com/67429.html
 Date: Thu Feb 08 17:15:55 UTC 2007
 Creator: Christopher Zorn
 Subject: 
-Category: 
 Content:
 A new version of punjab has been released. Also, we left sourceforge for various reasons. The new url is <a href="http://www.butterfat.net/wiki/Projects/PunJab">http://www.butterfat.net/wiki/Projects/PunJab</a> <br /><br />This release has small bug fixes involving sessions and it now works with the newest versions of twisted and twisted.words.<br /><br />I got rid of the old demo too. I will put up a new one soon. If you want to demo what punjab is capable of you can visit <a href="http://chesspark.com">http://chesspark.com</a> The webclient uses punjab.
 --------------------------------
@@ -92,7 +88,6 @@ Link: http://www.saint-andre.com/blog/2007-02.html#2007-02-08T09:44
 Date: Thu Feb 08 16:44:00 UTC 2007
 Creator: Peter Saint-Andre
 Subject: 
-Category: 
 Content:
 <p>The generous volunteers who put on <a href="http://fosdem.org/2007/">FOSDEM</a> have published an <a href="http://fosdem.org/2007/interview/peter+saint-andre">interview</a> with yours truly, since I'll be a speaker at the conference (my topic is <a href="http://fosdem.org/2007/schedule/events/jabber">Secure Communications with Jabber</a>, be there on Sunday at 15:00 :-).</p>
 --------------------------------
@@ -101,7 +96,6 @@ Link: http://www.igniterealtime.org/blog/2007/02/06/releases-second-wave/
 Date: Wed Feb 07 01:27:37 UTC 2007
 Creator: matt
 Subject: 
-Category: 
 Content:
 <p>Just one week later, I’m pleased to announce the second wave of releases:</p>
 <p><strong>Wildfire 3.2.0</strong></p>
@@ -121,7 +115,6 @@ Link: http://www.igniterealtime.org/blog/2007/02/06/smack-30-beta/
 Date: Tue Feb 06 23:09:39 UTC 2007
 Creator: matt
 Subject: 
-Category: 
 Content:
 <p>A new beta of Smack (3.0.0 Beta 1) was <a href="http://www.igniterealtime.org/downloads/beta.jsp">released</a> today. It’s been a <strong>long</strong> time since the last release, which is easy to tell by the length of the <a href="http://www.igniterealtime.org/builds/smack/docs/3.0.0.beta1/changelog.html">changelog</a>. The beta represents major new functionality. Some highlights:</p>
 <ul>
@@ -138,7 +131,6 @@ Link: http://www.process-one.net/en/blogs/article/oneteam_performance_versus_pur
 Date: Tue Feb 06 18:20:04 UTC 2007
 Creator: Mickaël Rémond
 Subject: 
-Category: 
 Content:
 Pure Cross-browser application are targeting desktop like interfaces. However, performance improvements is radical in the XUL version of an application. This is why OneTeam offer a desktop-like feeling. <p>Performance of the pure cross-browser Ajax applications, cannot match the feeling of a true native set of widgets. This is why we bet on XUL for our OneTeam enterprise instant messaging client. With this approach you have a full web application with zero deployment, that can really be as responsive as a desktop app.</p>
 <p>For the sceptical, read this article from O'Reilly: <a href="http://www.xml.com/pub/a/2007/01/31/xul-enhanced-web-apps.html">XUL-Enhanced Web Apps</a> (better read from Firefox to compare the examples). The rendering speed for a large three is 4400 ms in DHTML versus 650 ms in XUL. Yes, it makes a real difference in term of usability.</p>
@@ -149,7 +141,6 @@ Link: http://www.saint-andre.com/blog/2007-02.html#2007-02-05T16:25
 Date: Mon Feb 05 23:25:00 UTC 2007
 Creator: Peter Saint-Andre
 Subject: 
-Category: 
 Content:
 <p>There are so many errors in <a href="http://www.tmcnet.com/sip/0107/feature_articles_simple_in_the_enterprise_0107.htm">this article</a> about <a href="http://www.ietf.org/html.charters/simple-charter.html">SIMPLE</a> in the enterprise that it would take me quite a while to correct them all. Maybe later this week I'll find the time...</p>
 --------------------------------
@@ -158,7 +149,6 @@ Link: http://www.saint-andre.com/blog/2007-02.html#2007-02-05T15:51
 Date: Mon Feb 05 22:51:00 UTC 2007
 Creator: Peter Saint-Andre
 Subject: 
-Category: 
 Content:
 <p>I just submitted a proposal to speak at <a href="http://conferences.oreillynet.com/os2007/">OSCON 2007</a>, the brief version is:</p>
 <blockquote cite="http://www.saint-andre.com/blog/atom-jabber.xml">
@@ -174,7 +164,6 @@ Link: http://el-tramo.be/blog/psi-fosdem
 Date: Sun Feb 04 17:01:19 UTC 2007
 Creator: Remko Tronçon
 Subject: 
-Category: 
 Content:
 <p><a href="http://kismith.co.uk/">Kev</a> and I will be attending <a href="http://fosdem.org">FOSDEM</a> on February 24th and 25th, and we’ll be joining other XMPP developers at the <a href="http://wiki.jabber.org/index.php/Interop_Event">XMPP Interop Event and DevCon</a> the day after. So, if you want to meet up, or have some outstanding protocol issues with Psi, now is a good time to tell us <img alt=":)" class="wp-smiley" src="http://el-tramo.be/wordpress/wp-includes/images/smilies/icon_smile.gif" /></p>
 --------------------------------
@@ -183,7 +172,6 @@ Link: http://el-tramo.be/blog/psi-googleft
 Date: Sun Feb 04 16:14:30 UTC 2007
 Creator: Remko Tronçon
 Subject: 
-Category: 
 Content:
 <p>As Google released a new version of <a href="http://code.google.com/apis/talk/libjingle">libjingle</a> last friday, I decided to experiment with their file transfer implementation in Psi this weekend. I added some code that allows someone to accept files sent by Google Talk, and tested it with a few Google Talk contacts, with a perfect success rate (so far). For the brave who wish to experiment with this, see the instructions below. Note that this code is unofficial, untested, only uses a very rudimentary UI (there is no integration with the existing file transfers), still suffers from at least two bugs (on Mac OS X: one that segfaults when receiving images, and one where CPU skyrockets to 100% after a while, which we had with older libjingles as well), and has no support from the Psi developers whatsoever. Comments should therefore go directly to me.</p>
 --------------------------------
@@ -192,7 +180,6 @@ Link: http://www.tigase.org/node/218
 Date: Sat Feb 03 16:56:24 UTC 2007
 Creator: kobit
 Subject: 
-Category: 
 Content:
 <p>This time changes are very small but also very significant.</p>
 <p>Following suggestions from Jabber/XMPP community I changed the policy for packets forwarding. Previously all unknown XMPP stanzas were rejected by default. After a few discussions I realized that this is not the way Jabber/XMPP server is supposed to work.</p>
@@ -204,7 +191,6 @@ Link: http://www.process-one.net/en/blogs/article/slides_of_the_talk_jabber_xmpp
 Date: Fri Feb 02 09:14:17 UTC 2007
 Creator: Mickaël Rémond
 Subject: 
-Category: 
 Content:
 Here are the slides from my talk given at the Solutions Linux Event in Paris (France). The talk is about Jabber, XMPP and the XMPP Standards Foundation. <p>The talk was given in a session called: "Instant Messaging and VoIP solutions". The presentation is in French.</p>
 <p>Here is the presentation:</p>
@@ -216,7 +202,6 @@ Link: http://www.process-one.net/en/blogs/article/oneteam_enterprise_im_client_v
 Date: Fri Feb 02 08:13:53 UTC 2007
 Creator: Mickaël Rémond
 Subject: 
-Category: 
 Content:
 I have been presenting OneTeam yesterday at the Linux Solutions Event in Paris, in the Mozilla track. Here is the video preview from my talk. <p>My talk presenting our new OneTeam client have been well received by the Mozilla development community and by the users in the conference room. We feel that we are filling a gap in the Instant Messaging area. There is Firefox, Thunderbird, but no derivate IM client yet. The user expectations are high and this is encouraging.</p>
 <p>We have now published the video preview that show some basic features of OneTeam: <a href="http://www.process-one.net/tutorials/demo_oneteam_sl2007_fr_viewlet_swf.html">Demo OneTeam Mozilla/XUL conference</a>. Please note that the comments are in French. An english version is on the way.</p>

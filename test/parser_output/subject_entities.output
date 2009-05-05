@@ -11,7 +11,6 @@ Link: http://www.lightbluetouchpaper.org/2007/02/25/insecurity-at-the-university
 Date: Sun Feb 25 15:15:34 UTC 2007
 Creator: Richard Clayton
 Subject: 
-Category: 
 Content:
 <p>I travelled to the <a href="http://www.cs.bham.ac.uk/">University of Birmingham</a> on Friday to give a guest lecture to their undergraduates on <a href="http://www.cl.cam.ac.uk/~rnc1/talks/070223-anontrace.pdf">Anonymity and Traceability</a>. It was given in a smart new lecture theatre, which had what Birmingham apparently call a <a href="http://www.is.bham.ac.uk/lrat/lecternsoftware.htm">lectern PC</a> at the front with buttons to give the speaker control of the room&#8217;s AV devices and lighting, along with a proper PC running various Windows applications, so you can plug in your <a href="http://www.usbflashdrive.org/">USB flash drive</a> and display your material.</p>
 <p>As you can see from the photo, they have a rather trivial security model for using this PC:</p>
@@ -24,7 +23,6 @@ Link: http://www.lightbluetouchpaper.org/2007/02/11/soca-we-just-want-your-money
 Date: Sun Feb 11 16:56:09 UTC 2007
 Creator: Richard Clayton
 Subject: 
-Category: 
 Content:
 <p>Just over a year ago I wrote about the, then upcoming, Serious Organised Crime Agency (SOCA), reporting that their aim in tackling &#8220;level 3&#8243; crime was to be &#8220;<a href="http://www.lightbluetouchpaper.org/2006/02/06/mysterious-and-menacing/">mysterious and menacing</a>&#8220;. I pointed out how they were going to be absorbing the National High Tech Crime Unit (NHTCU) and that this would leave a large gap, in that there would apparently be no police organisation dealing with &#8220;level 2&#8243; eCrime &#8212; crime which is not local to a single police force area, but that is not sufficiently serious or organised to be dealt with by SOCA.</p>
 <p>In fact, I&#8217;ve since learnt that the inability to deal with level 2 criminality is not just an eCrime issue. In 2005 Her Majesty&#8217;s Inspectorate of Constabulary (HMIC) published &#8220;<a href="http://inspectorates.homeoffice.gov.uk/hmic/inspect_reports1/thematic-inspections/closinggap05.pdf">Closing the Gap - Review of the &#8216;Fitness for Purpose&#8217; of the Current Structure of Policing in England and Wales</a>&#8220;, which found that the failure to deal with &#8220;level 2&#8243; criminality was an issue across a very wide range of different crimes (the whole report makes its points without once mentioning eCrime or the Internet). This led to the, <a href="http://news.bbc.co.uk/1/hi/programmes/breakfast/5331538.stm">now abandoned</a>, proposals to compulsorily merge 43 police forces into 17 larger units. No further generic policy initiative appears to be forthcoming.</p>
@@ -43,7 +41,6 @@ Link: http://www.lightbluetouchpaper.org/2007/02/08/financial-ombudsman-on-chip-
 Date: Thu Feb 08 18:25:56 UTC 2007
 Creator: Steven J. Murdoch
 Subject: 
-Category: 
 Content:
 <p>The <a href="http://www.financial-ombudsman.org.uk/">Financial Ombudsman Service</a> offers to adjudicate disputes between banks and their customers who claim to have been treated unfairly. We were forwarded <a href="http://www.lightbluetouchpaper.org/wp-content/uploads/2007/02/ombud-redact.png">a letter written by the Ombudsman</a> concerning a complaint by a Halifax customer over unauthorised ATM withdrawals. I am not familiar with the details of this particular case, but the letter does give a good illustration of how the complaint procedure is stacked against customers.</p>
 <p>The customer had requested further information from Halifax (the Firm) and the Financial Ombudsman Service (this Service) had replied:</p>
@@ -73,7 +70,6 @@ Link: http://www.lightbluetouchpaper.org/2007/02/06/chip-pin-relay-attacks/
 Date: Tue Feb 06 09:36:58 UTC 2007
 Creator: Steven J. Murdoch
 Subject: 
-Category: 
 Content:
 <p>Saar Drimer and myself have shown that the <a href="http://www.chipandpin.co.uk/">Chip &#038; PIN system</a>, used for card payments in the UK, is vulnerable to a new kind of fraud. By “relaying” information from a genuine card, a Chip &#038; PIN terminal in another shop, can be made to accept a counterfeit card. We previously discussed this possibility in <a href="http://www.chipandspin.co.uk/spin.pdf">&#8220;Chip &#038; Spin&#8221;</a> but it was not until now that we implemented and tested the attack.</p>
 <p>A fraudster sets up a <a href="http://www.lightbluetouchpaper.org/2006/12/24/chip-pin-terminal-playing-tetris/">fake terminal</a> in a busy shop or restaurant. When a genuine customer inserts their card into this terminal, the fraudster&#8217;s accomplice, in another shop, inserts their counterfeit card into the merchant&#8217;s terminal. The fake terminal reads details from the genuine card, and relays them to the counterfeit card, so that it will be accepted. The PIN is recorded by the fake terminal and sent to the accomplice for them to enter, and they can then walk off with the goods. To the victim, everything was normal, but when their statement arrives, they will find that they have been defrauded.</p>
@@ -88,7 +84,6 @@ Link: http://www.lightbluetouchpaper.org/2007/01/07/human-rights-and-biophysics-
 Date: Sun Jan 07 21:21:15 UTC 2007
 Creator: Richard Clayton
 Subject: 
-Category: 
 Content:
 <p>I recently received an email from &#8220;Daniel&#8221; at the &#8220;European Human Rights Centre&#8221;.</p>
 <p><code>I came across your site while searching the net for<br />
@@ -123,7 +118,6 @@ Link: http://www.lightbluetouchpaper.org/2006/12/24/chip-pin-terminal-playing-te
 Date: Sun Dec 24 21:08:24 UTC 2006
 Creator: Saar Drimer
 Subject: 
-Category: 
 Content:
 <p>Many discussions over the security of Chip &#038; PIN have focused on the tamper-resistance of terminals (for example in the aftermath of the <a href="http://www.lightbluetouchpaper.org/2006/05/10/the-mythical-tamper-proof-pin-pad/">Shell Chip &#038; PIN fraud</a>). It is important to remember, however, that even perfect tamper resistance only ensures that the terminal will no longer be able to communicate with the bank once opened. It does not prevent anyone from replacing most of the terminal&#8217;s hardware and presenting it to customers as legitimate, so freely collecting card details and PINs.</p>
 <p>Steven Murdoch and myself took the chassis of a real terminal and replaced much of the internal electronics such that it allows us to control the screen, keypad and card-reader. Steven suggested that in order to show that it is completely under our control, we should make it play Tetris (similarly to the guys who made a <a href="http://www.wijvertrouwenstemcomputersniet.nl/other/es3b-en.pdf">voting machine play chess</a>). We recorded a short video showing our Tetris playing terminal in action. Have a merry Christmas and happy New Year <img src='http://www.lightbluetouchpaper.org/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
@@ -140,7 +134,6 @@ Link: http://www.lightbluetouchpaper.org/2006/12/18/health-database-optout-lates
 Date: Mon Dec 18 10:10:58 UTC 2006
 Creator: Ross Anderson
 Subject: 
-Category: 
 Content:
 <p>This morning I debated health privacy on Radio 4&#8217;s Today programme with health minister Lord Warner. You can listen to the debate <a href="http://www.bbc.co.uk/radio4/today/listenagain/ram/today4_nhs_record_20061218.ram">here</a>, and there is an earlier comment by Michael Summers of the Patients&#8217; Association <a href="http://www.bbc.co.uk/radio4/today/listenagain/ram/today2_nhs_record_20061218.ram">here</a>.</p>
 <p>I support a campaign by <a href="http://www.thebigoptout.org">TheBigOptOut.org</a> which has so far persuaded thousands of people to write to their GPs forbidding the upload of their patient records to central systems. Once they are uploaded, you&#8217;ll have to prove &#8217;substantial mental distress&#8217; to the government (as Lord Warner says) to get them removed or restricted. It is much simpler to tell your GP not to upload them in the first place (and you can always change your mind later if the Government delivers on its claims about safety and privacy).</p>
@@ -151,7 +144,6 @@ Link: http://www.lightbluetouchpaper.org/2006/12/12/23rd-chaos-communication-con
 Date: Tue Dec 12 11:13:44 UTC 2006
 Creator: Steven J. Murdoch
 Subject: 
-Category: 
 Content:
 <p><img id="image181" src="http://www.lightbluetouchpaper.org/wp-content/uploads/2006/12/23c3_135x122_23c3.jpg" alt="23C3 logo" style="float: right; margin: 5px" />The <a href="http://events.ccc.de/congress/2006/Home">23rd Chaos Communication Congress</a> will be held later this month in Berlin, Germany on 27&#8211;30 December. I will be attending to give <a href="http://events.ccc.de/congress/2006/Fahrplan/events/1513.en.html">a talk</a> on <a href="http://www.lightbluetouchpaper.org/2006/09/04/hot-or-not-revealing-hidden-services-by-their-clock-skew/">Hot or Not: Revealing Hidden Services by their Clock Skew</a>.  Another contributor to this blog, <a href="http://homes.esat.kuleuven.be/~gdanezis/">George Danezis</a>, will be talking on <a href="http://events.ccc.de/congress/2006/Fahrplan/events/1478.en.html">An Introduction to Traffic Analysis</a>.</p>
 <p>This will be my third time speaking at the CCC (I previously talked on <a href="http://events.ccc.de/congress/2004/fahrplan/event/271.en.html">Hidden Data in Internet Published Documents</a> and <a href="http://events.ccc.de/congress/2004/fahrplan/event/108.en.html">The Convergence of Anti-Counterfeiting and Computer Security</a> in 2004 then <a href="http://events.ccc.de/congress/2005/fahrplan/events/798.en.html">Covert channels in TCP/IP: attack and defence</a> in 2005) and I&#8217;ve always had a great time but this year looks to be the best yet. Here are a few highlights from the <a href="http://events.ccc.de/congress/2006/Fahrplan/events.en.html">draft programme</a>, although I am sure there are many great talks I have missed.</p>
@@ -172,7 +164,6 @@ Link: http://www.lightbluetouchpaper.org/2006/12/01/health-privacy-breaking-news
 Date: Fri Dec 01 15:29:31 UTC 2006
 Creator: Ross Anderson
 Subject: 
-Category: 
 Content:
 <p>The Chief Medical Officer, Sir Liam Donaldson, has written a <a href="http://www.cl.cam.ac.uk/~rja14/Papers/nhs-cmolet-nov.pdf">letter</a> to all GPs and hospital medical directors telling them that if patients try to opt out of the central collection of their medical data, the Secretary of State must be told. This follows a <a href="http://www.thebigoptout.org">campaign</a> that I&#8217;ve been helping and that has attracted strong support - in the <a href="http://www.lightbluetouchpaper.org/2006/11/01/opting-out-of-the-nhs-database/">press</a>, from <a href="http://society.guardian.co.uk/e-public/story/0,,1953185,00.html">GPs</a> and from <a href="http://www.guardian.co.uk/uk_news/story/0,,1960170,00.html">public opinion</a>.</p>
 <p>This letter orders GPs to break patient confidentiality - and apparently for the noble purpose of news management. I understand that at least one GP will be reporting Sir Liam to the General Medical Council. It is entirely up to the patient to decide whether to send an opt-out letter to their GP, to Ms Hewitt, or to both. It is not for a civil servant - even a very grand one like Sir Liam - to unilaterally override the wishes of those patients who decide to write to their GP but not to Ms Hewitt. (It&#8217;s also somewhat amusing as, only a month ago, officials were telling patients who tried to opt out that <a href="http://dooooooom.blogspot.com/2006/11/nhs-data-rape-hits-headlines.html">their GPs would decide whether to upload data</a>.)</p>
@@ -183,7 +174,6 @@ Link: http://www.lightbluetouchpaper.org/2006/11/27/developments-on-health-priva
 Date: Mon Nov 27 23:08:23 UTC 2006
 Creator: Ross Anderson
 Subject: 
-Category: 
 Content:
 <p>The <a href="http://www.theregister.co.uk/2006/11/27/care_record_conf/">Register</a> reports a <a href="http://www.nhsconfidentiality.org/wp-content/uploads/November%20-%20NHS%20Care%20Records%20Report.pdf">leaked document</a> from the NHS which concludes that sensitive patient records would probably be safer held locally, rather than stored on a national database as the Government proposes.</p>
 <p>This follows a poll last week in which <a href="http://society.guardian.co.uk/e-public/story/0,,1953185,00.html">a majority of GPs</a> said they would not upload their patients&#8217; records to the national database. Together the poll and the leak are a double whammy for the <a href="http://editthis.info/nhs_it_info/Main_Page">misguided and wasteful project to centralise all computer systems in the NHS</a>.</p>
