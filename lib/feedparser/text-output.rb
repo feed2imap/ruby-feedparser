@@ -98,6 +98,7 @@ module FeedParser
       s += "\nAuthor: #{creator}" if creator
       s += "\nSubject: #{@subject}" if @subject
       s += "\nFiled under: #{@categories.join(', ')}" unless @categories.empty?
+      s += "\n" # final newline, for compat with history
       s 
     end
   end

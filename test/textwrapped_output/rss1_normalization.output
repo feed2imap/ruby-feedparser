@@ -11,13 +11,15 @@ Ceci est test√©&#xc3a9;…. Je parle d'<html>.
 
 
 Feed: Normalization
-<http://alexx.ikse.org/blog>****************************************
+<http://alexx.ikse.org/blog>
+****************************************
 Item: HTML direct
 Ceci est test√©&#xc3a9;…. Je parle d'<html>.
 
 
 Feed: Normalization
-<http://alexx.ikse.org/blog>****************************************
+<http://alexx.ikse.org/blog>
+****************************************
 Item: Escaped
 Ceci est test√©&#xc3a9;…. Je parle d'<html>.
 

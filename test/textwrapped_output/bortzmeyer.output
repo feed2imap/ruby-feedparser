@@ -21,7 +21,8 @@ pour une partie d'une norme. Souhaitons donc la bienvenue à RBNF
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Création du groupe de travail IETF sur LISP
 <http://www.bortzmeyer.org/lisp-wg.html>
 Date: Tue Apr 28 00:00:00 UTC 2009
@@ -36,7 +37,8 @@ problème de passage à l'échelle du routage sur l'Internet.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Tests de performances de systèmes de fichiers pour une application PostgreSQL
 <http://www.bortzmeyer.org/tests-disques-postgresql.html>
 Date: Mon Apr 27 00:00:00 UTC 2009
@@ -54,7 +56,8 @@ client), sur Linux.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Gérer son contrôleur RAID PERC sur un Dell PowerEdge sous Debian
 <http://www.bortzmeyer.org/dell-raid-omsa.html>
 Date: Tue Apr 28 00:00:00 UTC 2009
@@ -68,7 +71,8 @@ du matériel.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5507: Design Choices When Expanding DNS
 <http://www.bortzmeyer.org/5507.html>
 Date: Thu Apr 23 00:00:00 UTC 2009
@@ -83,7 +87,8 @@ l'information dans le DNS.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Vente forcée : pourquoi nous oblige t-on à acheter du « triple play » ?
 <http://www.bortzmeyer.org/no-triple-play.html>
 Date: Thu Apr 23 00:00:00 UTC 2009
@@ -96,7 +101,8 @@ triple play même si nous n'en voulons pas ?
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Les moteurs de recherche de code source
 <http://www.bortzmeyer.org/codesearch.html>
 Date: Tue Apr 28 00:00:00 UTC 2009
@@ -108,7 +114,8 @@ de la classe Java "BufferedReader", on a tout sous la main.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Abysses, de Frank Schätzing
 <http://www.bortzmeyer.org/abysses.html>
 Date: Sat Apr 18 00:00:00 UTC 2009
@@ -120,7 +127,8 @@ partout dans le monde, notamment en Norvège et au Canada.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5451: Message Header Field for Indicating Message Authentication Status
 <http://www.bortzmeyer.org/5451.html>
 Date: Fri Apr 17 00:00:00 UTC 2009
@@ -135,7 +143,8 @@ basée sur cette synthèse. C'est le but du nouvel en-tête
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Utiliser une bibliographie avec Docbook
 <http://www.bortzmeyer.org/bibliographie-docbook.html>
 Date: Fri Apr 17 00:00:00 UTC 2009
@@ -154,7 +163,8 @@ citées.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Pourquoi pas d'attributs booléens dans les normes du W3C ?
 <http://www.bortzmeyer.org/normes-w3c-booleens.html>
 Date: Fri Apr 17 00:00:00 UTC 2009
@@ -179,7 +189,8 @@ Existe t-il une raison à cette absence de booléens ?
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Programmation réseau avec des prises brutes, en IPv4 et en IPv6
 <http://www.bortzmeyer.org/raw-sockets.html>
 Date: Mon Apr 20 00:00:00 UTC 2009
@@ -194,7 +205,8 @@ et si c'est possible en IPv6.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Pour tester, il faut utiliser une commande d'une ligne, rappelable
 <http://www.bortzmeyer.org/commande-rappelable-pour-tests.html>
 Date: Wed Apr 15 00:00:00 UTC 2009
@@ -214,7 +226,8 @@ pourtant beaucoup la vie.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Meridian, un mécanisme pour trouver le pair le plus proche
 <http://www.bortzmeyer.org/meridian.html>
 Date: Tue Apr 14 00:00:00 UTC 2009
@@ -231,7 +244,8 @@ très coûteux en ressources réseau.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Dictionnaire des mots nés de la mer
 <http://www.bortzmeyer.org/mots-nes-mer.html>
 Date: Mon Apr 13 00:00:00 UTC 2009
@@ -247,7 +261,8 @@ amené beaucoup d'entre eux à passer dans le vocabulaire non-marin.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 1305: Network Time Protocol (Version 3) Specification, Implementation
 <http://www.bortzmeyer.org/1305.html>
 Date: Fri Apr 10 00:00:00 UTC 2009
@@ -270,7 +285,8 @@ celles-ci, par le biais du protocole NTP, objet de ce RFC.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5540: 40 Years of RFCs
 <http://www.bortzmeyer.org/5540.html>
 Date: Wed Apr 08 00:00:00 UTC 2009
@@ -279,7 +295,8 @@ RFC 1, Host software, publié le 7 avril 1969.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: État du routage sur Internet par rapport aux registres de routes
 <http://www.bortzmeyer.org/etat-internet.html>
 Date: Wed Apr 08 00:00:00 UTC 2009
@@ -298,7 +315,8 @@ http://www.renesys.com/blog/2009/03/compliance-scoring-by-country.shtml)
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5518: Vouch By Reference
 <http://www.bortzmeyer.org/5518.html>
 Date: Tue Apr 07 00:00:00 UTC 2009
@@ -311,7 +329,8 @@ garant (to vouch for) de son sérieux.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Python, TLS et les délais de garde
 <http://www.bortzmeyer.org/python-tls-timeout.html>
 Date: Mon Apr 06 00:00:00 UTC 2009
@@ -329,7 +348,8 @@ connexion.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: La compagnie Emporte-Voix au Kibélé (le Horla)
 <http://www.bortzmeyer.org/emportevoix-au-kibele.html>
 Date: Thu Apr 02 00:00:00 UTC 2009
@@ -343,7 +363,8 @@ Maupassant, le Horla.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5504: Downgrading mechanism for Email Address Internationalization
 <http://www.bortzmeyer.org/5504.html>
 Date: Wed Apr 01 00:00:00 UTC 2009
@@ -355,7 +376,8 @@ MTA si ce dernier ne gère pas l'extension "UTF8SMTP" du RFC 5336.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5474: A Framework for Packet Selection and Reporting
 <http://www.bortzmeyer.org/5474.html>
 Date: Wed Apr 01 00:00:00 UTC 2009
@@ -373,7 +395,8 @@ général de PSAMP.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5475: Sampling and Filtering Techniques for IP Packet Selection
 <http://www.bortzmeyer.org/5475.html>
 Date: Wed Apr 01 00:00:00 UTC 2009
@@ -388,7 +411,8 @@ paquets.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5470: Architecture for IP Flow Information Export
 <http://www.bortzmeyer.org/5470.html>
 Date: Wed Apr 01 00:00:00 UTC 2009
@@ -398,7 +422,8 @@ d'IPFIX.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Ajout d'un attribut HTML indiquant la langue du document lié
 <http://www.bortzmeyer.org/attribut-lang-liens.html>
 Date: Tue Mar 31 00:00:00 UTC 2009
@@ -413,7 +438,8 @@ désagréablement en changeant soudain de domaine linguistique.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Faire passer ssh à travers un relais qui ne permet que HTTP
 <http://www.bortzmeyer.org/ssh-a-travers-relais-http.html>
 Date: Sat Mar 28 00:00:00 UTC 2009
@@ -425,7 +451,8 @@ explicitement par un relais, comme cela vient de m'arriver ?
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Exposé sur les normes techniques au colloque IG3T à Milan
 <http://www.bortzmeyer.org/milano-technical-norms-governance.html>
 Date: Mon Mar 30 00:00:00 UTC 2009
@@ -440,7 +467,8 @@ socio-ethical dimensions.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: The manga guide to databases
 <http://www.bortzmeyer.org/manga-guide-databases.html>
 Date: Wed Mar 25 00:00:00 UTC 2009
@@ -457,7 +485,8 @@ données avec The manga guide to databases
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Avoir un TLD à soi, d'accord, mais s'en servir ?
 <http://www.bortzmeyer.org/domaines-d-un-seul-label.html>
 Date: Wed Mar 25 00:00:00 UTC 2009
@@ -478,7 +507,8 @@ domaines composés d'un seul élément.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC editor à l'ISI, un bilan
 <http://www.bortzmeyer.org/rfc-editor-at-isi.html>
 Date: Tue Mar 24 00:00:00 UTC 2009
@@ -498,7 +528,8 @@ toujours été à l'ISI...
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Science & Vie et la table rase
 <http://www.bortzmeyer.org/science-et-vie-table-rase.html>
 Date: Mon Mar 23 00:00:00 UTC 2009
@@ -510,7 +541,8 @@ en partant de zéro, un réseau « meilleur ».
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Sécurité des logiciels peu utilisés
 <http://www.bortzmeyer.org/securite-logiciels-peu-utilises.html>
 Date: Mon Mar 23 00:00:00 UTC 2009
@@ -522,7 +554,8 @@ utilisateurs dans le noir, quant aux risques de leur logiciel.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Utilisation de carte Ethernet Realtek 8168 sur Debian
 <http://www.bortzmeyer.org/install-debian-realtek-RTL8168.html>
 Date: Fri Apr 03 00:00:00 UTC 2009
@@ -534,7 +567,8 @@ trace pour la prochaine fois et pour que cela puisse servir à d'autres.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 4366: Transport Layer Security (TLS) Extensions
 <http://www.bortzmeyer.org/4366.html>
 Date: Thu Mar 19 00:00:00 UTC 2009
@@ -545,7 +579,8 @@ déplacé dans le RFC 5246) puis certaines extensions spécifiques
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: The gift, de Jon Kalb
 <http://www.bortzmeyer.org/the-gift.html>
 Date: Thu Mar 19 00:00:00 UTC 2009
@@ -560,7 +595,8 @@ passionnante histoire, et très bons personnages.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Toujours apprendre, ici sur Python
 <http://www.bortzmeyer.org/pythonista.html>
 Date: Wed Mar 18 00:00:00 UTC 2009
@@ -578,7 +614,8 @@ http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html).
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: La Dame à la Licorne, de Tracy Chevalier
 <http://www.bortzmeyer.org/dame-a-la-licorne.html>
 Date: Tue Mar 17 00:00:00 UTC 2009
@@ -593,7 +630,8 @@ tâche d'imaginer les auteurs de la Dame à la Licorne.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Qui achète du porno en ligne ?
 <http://www.bortzmeyer.org/who-buys-porn.html>
 Date: Tue Mar 17 00:00:00 UTC 2009
@@ -605,7 +643,8 @@ sont-ils corrélés à la pratique religieuse ? Au niveau de diplôme ?
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5482: TCP User Timeout Option
 <http://www.bortzmeyer.org/5482.html>
 Date: Tue Mar 17 00:00:00 UTC 2009
@@ -621,7 +660,8 @@ rapidement la coupure du réseau.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Moteur de recherche sur mon blog
 <http://www.bortzmeyer.org/moteur-recherche.html>
 Date: Thu Apr 02 00:00:00 UTC 2009
@@ -635,7 +675,8 @@ le serveur. Il est désormais disponible depuis chaque page.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Mise en œuvre du moteur de recherche de ce blog
 <http://www.bortzmeyer.org/moteur-recherche-wsgi.html>
 Date: Mon Mar 16 00:00:00 UTC 2009
@@ -646,7 +687,8 @@ PostgreSQL.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: WSGI, une technique pour des applications Web en Python
 <http://www.bortzmeyer.org/wsgi.html>
 Date: Sat Mar 28 00:00:00 UTC 2009
@@ -659,7 +701,8 @@ solution, développer des applications en WSGI.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Nouvelle version de Conficker, avec une utilisation plus intensive du DNS
 <http://www.bortzmeyer.org/conficker-version-c-et-le-dns.html>
 Date: Mon Mar 30 00:00:00 UTC 2009
@@ -671,7 +714,8 @@ logique encore plus loin.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: The world without us
 <http://www.bortzmeyer.org/world-without-us.html>
 Date: Fri Mar 13 00:00:00 UTC 2009
@@ -686,7 +730,8 @@ scientifico-journalistique.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Filtrage maladroit dans les bibliothèques parisiennes
 <http://www.bortzmeyer.org/filtrage-maladroit-paris.html>
 Date: Fri Mar 13 00:00:00 UTC 2009
@@ -701,7 +746,8 @@ montre le filtrage dans les bibliothèques parisiennes.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 2645: ON-DEMAND MAIL RELAY (ODMR) ; SMTP with Dynamic IP Addresses
 <http://www.bortzmeyer.org/2645.html>
 Date: Wed Mar 11 00:00:00 UTC 2009
@@ -720,7 +766,8 @@ n'a pas été un succès et reste très peu déployé aujourd'hui.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5424: The syslog Protocol
 <http://www.bortzmeyer.org/5424.html>
 Date: Tue Mar 10 00:00:00 UTC 2009
@@ -730,7 +777,8 @@ du protocole syslog, protocole de transmission d'informations sur les
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5425: TLS Transport Mapping for Syslog
 <http://www.bortzmeyer.org/5425.html>
 Date: Tue Mar 10 00:00:00 UTC 2009
@@ -742,7 +790,8 @@ sécurité de syslog.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: La loi Hadopi à l'Assemblée Nationale
 <http://www.bortzmeyer.org/hadopi-a-l-assemblee.html>
 Date: Fri Apr 10 00:00:00 UTC 2009
@@ -752,7 +801,8 @@ permettant des sanctions sans aucune procédure judiciaire.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5426: Transmission of syslog messages over UDP
 <http://www.bortzmeyer.org/5426.html>
 Date: Tue Mar 10 00:00:00 UTC 2009
@@ -762,7 +812,8 @@ normalise le transport sur UDP.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 4001: Textual Conventions for Internet Network Addresses
 <http://www.bortzmeyer.org/4001.html>
 Date: Mon Mar 09 00:00:00 UTC 2009
@@ -775,7 +826,8 @@ méritait une norme.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5485: Digital Signatures on Internet-Draft Documents
 <http://www.bortzmeyer.org/5485.html>
 Date: Fri Mar 06 00:00:00 UTC 2009
@@ -788,7 +840,8 @@ Internet-Drafts.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Les structures de données IP en C
 <http://www.bortzmeyer.org/ip-data-structures.html>
 Date: Fri Mar 06 00:00:00 UTC 2009
@@ -801,7 +854,8 @@ blog.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5481: Packet Delay Variation Applicability Statement
 <http://www.bortzmeyer.org/5481.html>
 Date: Wed Mar 04 00:00:00 UTC 2009
@@ -812,7 +866,8 @@ discute deux et précise leur usage.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Décoder les paquets DNS capturés avec pcap
 <http://www.bortzmeyer.org/pcap-decodage-dns.html>
 Date: Thu Mar 05 00:00:00 UTC 2009
@@ -823,7 +878,8 @@ dissection de paquets DNS ?
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Des certificats pour prouver qu'on est titulaire d'une ressource Internet
 <http://www.bortzmeyer.org/certificats-ressources-internet.html>
 Date: Mon Mar 02 00:00:00 UTC 2009
@@ -838,7 +894,8 @@ par exemple une adresse IP.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 2046: Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types
 <http://www.bortzmeyer.org/2046.html>
 Date: Sun Mar 01 00:00:00 UTC 2009
@@ -860,7 +917,8 @@ devrait plus dire type MIME mais « type du média ».
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 4251: The Secure Shell (SSH) Protocol Architecture
 <http://www.bortzmeyer.org/4251.html>
 Date: Fri Feb 27 00:00:00 UTC 2009
@@ -882,7 +940,8 @@ http://groups.google.com/group/comp.security.unix/msg/67079d812a19f499),
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5461: TCP's Reaction to Soft Errors
 <http://www.bortzmeyer.org/5461.html>
 Date: Thu Feb 26 00:00:00 UTC 2009
@@ -894,7 +953,8 @@ mises en œuvre de TCP.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5492: Capabilities Advertisement with BGP-4
 <http://www.bortzmeyer.org/5492.html>
 Date: Thu Feb 26 00:00:00 UTC 2009
@@ -904,7 +964,8 @@ décrire des capacités optionnelles d'un pair BGP.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Ressources en ligne pour ceux qui écrivent en français
 <http://www.bortzmeyer.org/ressources-ecrire-francais.html>
 Date: Fri Mar 13 00:00:00 UTC 2009
@@ -920,7 +981,8 @@ ressources pour le français que je ne connais pas ?
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5466: IMAP4 Extension for Named Searches (Filters)
 <http://www.bortzmeyer.org/5466.html>
 Date: Wed Feb 25 00:00:00 UTC 2009
@@ -930,7 +992,8 @@ filtres sous un nom et les réutiliser plus tard.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: ITAR est officiellement publié, pour aider au déploiement de DNSSEC
 <http://www.bortzmeyer.org/itar-dnssec.html>
 Date: Tue Feb 24 00:00:00 UTC 2009
@@ -947,7 +1010,8 @@ disponible, ITAR (https://itar.iana.org/).[1]
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5453: Reserved IPv6 Interface Identifiers
 <http://www.bortzmeyer.org/5453.html>
 Date: Wed Feb 11 00:00:00 UTC 2009
@@ -964,7 +1028,8 @@ garde à ne pas utiliser ces identificateurs notre RFC que réserve.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 4301: Security Architecture for the Internet Protocol
 <http://www.bortzmeyer.org/4301.html>
 Date: Mon Feb 09 00:00:00 UTC 2009
@@ -976,7 +1041,8 @@ architecture de sécurité pour IP, IPsec.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 3148: A Framework for Defining Empirical Bulk Transfer Capacity Metrics
 <http://www.bortzmeyer.org/3148.html>
 Date: Sun Feb 08 00:00:00 UTC 2009
@@ -990,7 +1056,8 @@ définition formelle de ce débit, dans ce RFC.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5411: A Hitchhiker's Guide to the Session Initiation Protocol (SIP)
 <http://www.bortzmeyer.org/5411.html>
 Date: Wed Feb 04 00:00:00 UTC 2009
@@ -1002,7 +1069,8 @@ classe en catégories.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5434: Considerations for Having a Successful Birds-of-a-Feather (BOF) Session
 <http://www.bortzmeyer.org/5434.html>
 Date: Mon Feb 02 00:00:00 UTC 2009
@@ -1017,7 +1085,8 @@ de nombreuses années et le premier RFC qui les avait mentionnées
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5437: Sieve Notification Mechanism: xmpp
 <http://www.bortzmeyer.org/5437.html>
 Date: Sun Feb 01 00:00:00 UTC 2009
@@ -1028,7 +1097,8 @@ messagerie instantanée.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5436: Sieve Notification Mechanism: mailto
 <http://www.bortzmeyer.org/5436.html>
 Date: Sun Feb 01 00:00:00 UTC 2009
@@ -1039,7 +1109,8 @@ notre RFC 5436, du courrier.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5435: Sieve Email Filtering: Notifications
 <http://www.bortzmeyer.org/5435.html>
 Date: Sun Feb 01 00:00:00 UTC 2009
@@ -1050,7 +1121,8 @@ protocoles, spécifiés dans d'autres RFC.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Measurement Lab, pour savoir si votre FAI vous ment
 <http://www.bortzmeyer.org/measurement-lab.html>
 Date: Sat Jan 31 00:00:00 UTC 2009
@@ -1065,7 +1137,8 @@ la limitation de trafic BitTorrent.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: pcapr.net, pour explorer des paquets réseau
 <http://www.bortzmeyer.org/pcapr.html>
 Date: Fri Jan 30 00:00:00 UTC 2009
@@ -1086,7 +1159,8 @@ par exemple pour apprendre des protocoles dont on n'a pas de mise en
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5452: Measures for making DNS more resilient against forged answers
 <http://www.bortzmeyer.org/5452.html>
 Date: Thu Jan 29 00:00:00 UTC 2009
@@ -1103,7 +1177,8 @@ faire empoisonner.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 5408: Identity-based Encryption Architecture and Supporting Data Structures
 <http://www.bortzmeyer.org/5408.html>
 Date: Sat Jan 24 00:00:00 UTC 2009
@@ -1114,7 +1189,8 @@ utilisation, notamment dans S/MIME.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Attaque DNS par amplification en demandant "NS ."
 <http://www.bortzmeyer.org/dns-attaque-ns-point.html>
 Date: Sat Jan 24 00:00:00 UTC 2009
@@ -1124,7 +1200,8 @@ attaque utilise une variante originale des attaques par amplification.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Tables de hachage pour le programmeur C
 <http://www.bortzmeyer.org/c-hash-tables.html>
 Date: Mon Feb 09 00:00:00 UTC 2009
@@ -1136,7 +1213,8 @@ niveau ? Et en C ?
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Unbound, un autre résolveur DNS
 <http://www.bortzmeyer.org/unbound.html>
 Date: Wed Jan 21 00:00:00 UTC 2009
@@ -1147,7 +1225,8 @@ plus utilisé est sans doute Unbound.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: The world's writing systems
 <http://www.bortzmeyer.org/worlds-writing-systems.html>
 Date: Mon Jan 19 00:00:00 UTC 2009
@@ -1164,7 +1243,8 @@ distincte de la linguistique.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 3757: Domain Name System KEY (DNSKEY) Resource Record (RR) Secure Entry Point (SEP) Flag
 <http://www.bortzmeyer.org/3757.html>
 Date: Sat Jan 17 00:00:00 UTC 2009
@@ -1178,7 +1258,8 @@ par ce RFC.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Analyser les en-têtes IPv6 avec pcap
 <http://www.bortzmeyer.org/analyse-pcap-ipv6.html>
 Date: Thu Jan 15 00:00:00 UTC 2009
@@ -1191,7 +1272,8 @@ ou moins difficile à analyser ?
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: La taille du botnet Storm est-elle surestimée ?
 <http://www.bortzmeyer.org/taille-de-storm.html>
 Date: Wed Jan 14 00:00:00 UTC 2009
@@ -1201,7 +1283,8 @@ qu'annoncée.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Exposé sur les identités numériques à la réunion FULBI
 <http://www.bortzmeyer.org/expose-identites-fulbi.html>
 Date: Fri Jan 16 00:00:00 UTC 2009
@@ -1221,7 +1304,8 @@ d'identité ».
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: C'est vraiment bien d'indiquer la date dans les commentaires des fichiers de configuration
 <http://www.bortzmeyer.org/mettre-date-fichiers-config.html>
 Date: Mon Jan 12 00:00:00 UTC 2009
@@ -1239,7 +1323,8 @@ un tel commentaire ?
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Repli d'une langue vers ou autre, ou demander son chemin à Helsinki
 <http://www.bortzmeyer.org/demander-son-chemin-a-helsinki.html>
 Date: Mon Jan 12 00:00:00 UTC 2009
@@ -1253,7 +1338,8 @@ Helsinki.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Faire des schémas avec un langage et pas avec la souris
 <http://www.bortzmeyer.org/schemas-avec-un-langage.html>
 Date: Fri Jan 09 00:00:00 UTC 2009
@@ -1267,7 +1353,8 @@ Graphviz.
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 768: User Datagram Protocol
 <http://www.bortzmeyer.org/768.html>
 Date: Thu Jan 08 00:00:00 UTC 2009
@@ -1288,7 +1375,8 @@ importante).
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 2385: Protection of BGP Sessions via the TCP MD5 Signature Option
 <http://www.bortzmeyer.org/2385.html>
 Date: Tue Jan 06 00:00:00 UTC 2009
@@ -1305,7 +1393,8 @@ assez mal - un problème très particulier.)
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: Homelink, pour échanger ses maisons pour les vacances
 <http://www.bortzmeyer.org/homelink.html>
 Date: Tue Jan 06 00:00:00 UTC 2009
@@ -1319,7 +1408,8 @@ en adhérant à un système d'échange de maisons comme Homelink
 
 
 Feed: Blog de Stéphane Bortzmeyer
-<http://www.gnu.org/copyleft/fdl.html>****************************************
+<http://www.gnu.org/copyleft/fdl.html>
+****************************************
 Item: RFC 2330: Framework for IP Performance Metrics
 <http://www.bortzmeyer.org/2330.html>
 Date: Sun Jan 04 00:00:00 UTC 2009
