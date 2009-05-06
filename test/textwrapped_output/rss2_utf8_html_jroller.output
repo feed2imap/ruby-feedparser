@@ -6,30 +6,22 @@ Description: Alex Karasulu's Weblog
 Creator: 
 
 ****************************************
-Feed: Alex Karasulu's Weblog
-      <http://jroller.com/page/akarasulu>
 Item: Another victory for svn
-      <http://jroller.com/page/akarasulu/20040330#another_victory_for_svn>
-
+<http://jroller.com/page/akarasulu/20040330#another_victory_for_svn>
 Date: Tue Mar 30 16:39:55 UTC 2004
-Author: Alex Karasulu
-Filed under: General
-
 Today I resusitated a file in subversion. I thought it was cool although 
 its not a big deal. However what was cool was getting help from the 
 original authors on it. I think people should rething the support issue 
 for svn its definately growing strong from what I can see.
 
-****************************************
+
 Feed: Alex Karasulu's Weblog
-      <http://jroller.com/page/akarasulu>
-Item: Notification pattern has interesting effect on IoC
-      <http://jroller.com/page/akarasulu/20040217#notification_pattern_has_interesting_effect>
-
-Date: Wed Feb 18 04:40:44 UTC 2004
+<http://jroller.com/page/akarasulu>
 Author: Alex Karasulu
-Filed under: Java
-
+Filed under: General****************************************
+Item: Notification pattern has interesting effect on IoC
+<http://jroller.com/page/akarasulu/20040217#notification_pattern_has_interesting_effect>
+Date: Wed Feb 18 04:40:44 UTC 2004
 While looking at the frontend of the Eve server I began to realize a 
 trend emerging after I introduced a central publish and subscribe 
 facility. The pattern decouples components by enabling communication 
@@ -51,16 +43,14 @@ itself rather than exposing them on the service interface for direct
 calls by what are now publishers. This is crazy my service interfaces 
 are all empty now!
 
-****************************************
+
 Feed: Alex Karasulu's Weblog
-      <http://jroller.com/page/akarasulu>
-Item: Groovy dude is on a roll
-      <http://jroller.com/page/akarasulu/20040212#groovy_dude_is_on_a>
-
-Date: Thu Feb 12 16:26:28 UTC 2004
+<http://jroller.com/page/akarasulu>
 Author: Alex Karasulu
-Filed under: Java
-
+Filed under: Java****************************************
+Item: Groovy dude is on a roll
+<http://jroller.com/page/akarasulu/20040212#groovy_dude_is_on_a>
+Date: Thu Feb 12 16:26:28 UTC 2004
 You know I just started to get good at groking the Jelly. Just as I 
 start digesting one Strachan production the guy comes out with yet 
 another. Groovy [1] really lives upto its name and I can't wait to get 
@@ -83,16 +73,14 @@ a way I can add my $0.02 to it and be Groovy too :-).
 
 [1] http://groovy.codehaus.org/
 
-****************************************
+
 Feed: Alex Karasulu's Weblog
-      <http://jroller.com/page/akarasulu>
-Item: Eve formerly know as LDAPd has been accepted to Apache Incubator
-      <http://jroller.com/page/akarasulu/20031030#eve_formerly_know_as_ldapd>
-
-Date: Fri Oct 31 04:00:53 UTC 2003
+<http://jroller.com/page/akarasulu>
 Author: Alex Karasulu
-Filed under: General
-
+Filed under: Java****************************************
+Item: Eve formerly know as LDAPd has been accepted to Apache Incubator
+<http://jroller.com/page/akarasulu/20031030#eve_formerly_know_as_ldapd>
+Date: Fri Oct 31 04:00:53 UTC 2003
 Eve the LDAP server formerly known as LDAPd has just been accepted last 
 week into the incubator under the Apache Directory top level project. 
 Eve will be the flagship server for that Apache Directory TLP upon 
@@ -100,16 +88,14 @@ matriculation from the incubator.
 
 Thanks to all those that made it happen!
 
-****************************************
+
 Feed: Alex Karasulu's Weblog
-      <http://jroller.com/page/akarasulu>
-Item: Got committer status on Avalon
-      <http://jroller.com/page/akarasulu/20031030#got_committer_status_on_avalon>
-
-Date: Fri Oct 31 01:48:00 UTC 2003
+<http://jroller.com/page/akarasulu>
 Author: Alex Karasulu
-Filed under: General
-
+Filed under: General****************************************
+Item: Got committer status on Avalon
+<http://jroller.com/page/akarasulu/20031030#got_committer_status_on_avalon>
+Date: Fri Oct 31 01:48:00 UTC 2003
 Yesterday I got voted practically unanimously to join the Avalon team as 
 a committer. I was very excited to get the warm welcome from those guys. 
 I hope to do my best to further the cause there.
@@ -118,16 +104,14 @@ I am especially excited to be working on getting Merlin to a generally
 embeddible state. That is the subject of my first set of changes. I'm 
 very excited and happy to see things comming along.
 
-****************************************
+
 Feed: Alex Karasulu's Weblog
-      <http://jroller.com/page/akarasulu>
-Item: LDAPd Project Started Oct 16th 2002
-      <http://jroller.com/page/akarasulu/20031015#ldapd_project_started_oct_16th>
-
-Date: Wed Oct 15 13:00:40 UTC 2003
+<http://jroller.com/page/akarasulu>
 Author: Alex Karasulu
-Filed under: General
-
+Filed under: General****************************************
+Item: LDAPd Project Started Oct 16th 2002
+<http://jroller.com/page/akarasulu/20031015#ldapd_project_started_oct_16th>
+Date: Wed Oct 15 13:00:40 UTC 2003
 Almost a year ago I founded the LDAPd Group which over the course of the 
 past year has grown into a healthy community to build a pure java LDAPv3 
 server implementation. In April 2003 the first alpha release occurred on 
@@ -149,3 +133,8 @@ http://nagoya.apache.org/eyebrowse/ReadMsg?listName=general@incubator.apache.org
 [3] 
 http://nagoya.apache.org/eyebrowse/ReadMsg?listName=general@incubator.apache.org&msgNo=2201
 
+
+Feed: Alex Karasulu's Weblog
+<http://jroller.com/page/akarasulu>
+Author: Alex Karasulu
+Filed under: General

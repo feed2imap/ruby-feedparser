@@ -6,13 +6,9 @@ Description:
 Creator: 
 
 ****************************************
-Feed: ongoing
 Item: Cottage Life I: Logs
-      <CL-Logs#comments>
-
+<CL-Logs#comments>
 Date: Mon Jun 16 07:00:17 UTC 2008
-Filed under: The World/Cottage Life, The World, Cottage Life, Arts/Photos/Cameras, Arts, Photos, Cameras, The World/Places/Canada/Howe Sound, Places, Canada, Howe Sound
-
 I think that life in general and this space in particular would benefit 
 from more of an outdoor flavor; words and pictures rooted in Nature. Our 
 recent acquisition of a piece of Keats Island[1], should make this 
@@ -45,14 +41,12 @@ lens off the camera.
 [A] PS081037.png
 [B] PS081035.png
 
-****************************************
+
 Feed: ongoing
+Filed under: The World/Cottage Life, The World, Cottage Life, Arts/Photos/Cameras, Arts, Photos, Cameras, The World/Places/Canada/Howe Sound, Places, Canada, Howe Sound****************************************
 Item: Deletionist Morons
-      <Deletionist-Morons#comments>
-
+<Deletionist-Morons#comments>
 Date: Sun Jun 15 21:34:36 UTC 2008
-Filed under: Technology/Publishing/Reference, Technology, Publishing, Reference, The World/Life Online, The World, Life Online
-
 For a nice safe NPOV (“Neutral Point of View”) discussion of the 
 issues, see Deletionism and inclusionism in Wikipedia[1]. My experience, 
 which isn’t NPOV at all, is that Deletionists are knuckle-dragging 
@@ -112,14 +106,12 @@ http://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Why_the_lucky_stiff
 [7] http://poignantguide.net/ruby/
 [8] http://twitter.com/codinghorror/statuses/835112269
 
-****************************************
+
 Feed: ongoing
+Filed under: Technology/Publishing/Reference, Technology, Publishing, Reference, The World/Life Online, The World, Life Online****************************************
 Item: Not Much
-      <Not-Much#comments>
-
+<Not-Much#comments>
 Date: Fri Jun 13 07:32:18 UTC 2008
-Filed under: Arts/Photos, Arts, Photos, The World/Places/Vancouver, The World, Places, Vancouver
-
 Two photos of not much in particular, but with explanations.
 
 Explanation: Girls and Trucks[1].[A]
@@ -137,14 +129,12 @@ better. I guess I’ll never be a Real Photographer.
 [A] PS080961.png
 [B] R0010529.png
 
-****************************************
+
 Feed: ongoing
+Filed under: Arts/Photos, Arts, Photos, The World/Places/Vancouver, The World, Places, Vancouver****************************************
 Item: Main Art
-      <On-Main#comments>
-
+<On-Main#comments>
 Date: Thu Jun 12 00:19:10 UTC 2008
-Filed under: Arts/Photos, Arts, Photos, Arts/Visual, Visual
-
 Our house is near, and my office on, Main Street[1], which despite its 
 name is not, nor has it ever been, the main street of anything. These 
 days “The Main” is starting to be hip and fashionable, but the 
@@ -161,14 +151,12 @@ are so ephemeral. Whoever you are, thank you.
 [A] R0010514.png
 [B] R0010515.png
 
-****************************************
+
 Feed: ongoing
+Filed under: Arts/Photos, Arts, Photos, Arts/Visual, Visual****************************************
 Item: Cottagers!
-      <Keats-Island#comments>
-
+<Keats-Island#comments>
 Date: Wed Jun 11 07:39:53 UTC 2008
-Filed under: Arts/Photos, Arts, Photos, The World/Places/Canada/Howe Sound, The World, Places, Canada, Howe Sound
-
 Now we’re real Canadians. As of June 11th, Lauren and I own a cottage 
 on Keats Island (Wikipedia[1], map[2], keatsisland.net[3]). The 
 consequences include a sudden interest in remote-area Internet options.
@@ -259,14 +247,12 @@ http://maps.google.com/?ll=49.403154,-123.461266&amp;spn=0.120418,0.221443&amp;z
 [A] IMGP7549.png
 [B] IMGP7517.png
 
-****************************************
+
 Feed: ongoing
+Filed under: Arts/Photos, Arts, Photos, The World/Places/Canada/Howe Sound, The World, Places, Canada, Howe Sound****************************************
 Item: RX and 1.9 and Pain
-      <RX-Work#comments>
-
+<RX-Work#comments>
 Date: Wed Jun 11 06:29:20 UTC 2008
-Filed under: Technology/XML, Technology, XML, Technology/Ruby, Ruby
-
 This fragment is mostly a note to myself and placeholder and might prove 
 useful to someone slashing through the XML undergrowth with 
 bleeding-edge Ruby. Briefly: I revived my “RX” Ruby tokenizer (see 
@@ -394,14 +380,12 @@ http://enfranchisedmind.com/blog/2008/05/27/the-status-of-rubys-libxml/
 http://enfranchisedmind.com/blog/2008/03/24/rexml-dynamic-typing-lose/
 [10] http://www.rubyflow.com/items/388
 
-****************************************
+
 Feed: ongoing
+Filed under: Technology/XML, Technology, XML, Technology/Ruby, Ruby****************************************
 Item: Flamenco Sketches
-      <Flamenco-Sketches#comments>
-
+<Flamenco-Sketches#comments>
 Date: Mon Jun 09 06:13:33 UTC 2008
-Filed under: Arts/Music/Performance, Arts, Music, Performance, Arts/Photos, Photos
-
 Photographic sketches, I mean. Earlier this month, Eve[1] and Eli were 
 up from Seattle to visit and after dinner, we all dropped by the Kino 
 Café[2] to take in the flamenco. It was passionate and sexy and fun.
@@ -441,14 +425,12 @@ Spanish feel, on Miles Davis’ epochal Kind of Blue[5].
 [C] PS080910.png
 [D] PS080922.png
 
-****************************************
+
 Feed: ongoing
+Filed under: Arts/Music/Performance, Arts, Music, Performance, Arts/Photos, Photos****************************************
 Item: WF2: Early Results
-      <WF-Early-Results#comments>
-
+<WF-Early-Results#comments>
 Date: Mon Jun 09 05:16:29 UTC 2008
-Filed under: Technology/Concurrency, Technology, Concurrency
-
 [This is part of the Wide Finder 2[1] series.] The first serious results 
 are in[2], and they’re eye-opening. The naive Ruby approach, remember, 
 burned some 25 hours. There are now four other results posted, with 
@@ -458,14 +440,12 @@ full of surprises, and I’m expecting more.
 [1] /ongoing/When/200x/2008/05/01/Wide-Finder-2
 [2] http://wikis.sun.com/display/WideFinder/Results
 
-****************************************
+
 Feed: ongoing
+Filed under: Technology/Concurrency, Technology, Concurrency****************************************
 Item: Wide Finder 2
-      <Wide-Finder-2#comments>
-
+<Wide-Finder-2#comments>
 Date: Mon Jun 09 05:15:59 UTC 2008
-Filed under: Technology/Concurrency, Technology, Concurrency
-
 Last fall, I ran the Wide Finder Project[1]. The results were 
 interesting, but incomplete; it was a real shoestring operation. I think 
 this line of work is interesting, so I’m restarting it. I’ve got a 
@@ -561,14 +541,12 @@ I’ve made a couple of initial suggestions on the wiki.
 [9] http://wikis.sun.com/display/WideFinder/
 [10] http://wikis.sun.com/display/WideFinder/The+Benchmark
 
-****************************************
+
 Feed: ongoing
+Filed under: Technology/Concurrency, Technology, Concurrency****************************************
 Item: WF2: Start Your Engines!
-      <WF-Start-Me-Up#comments>
-
+<WF-Start-Me-Up#comments>
 Date: Fri Jun 06 07:43:53 UTC 2008
-Filed under: Technology/Concurrency, Technology, Concurrency
-
 [This is part of the Wide Finder 2[1] series.] I have now done the first 
 “official” run of the naive Ruby implementation of the benchmark. 
 There is some discussion of the code here[2]. The benchmark is 
@@ -611,14 +589,12 @@ point I think; Ruby makes you do some odd things.
 [3] http://wikis.sun.com/display/WideFinder/The+Benchmark
 [4] http://wikis.sun.com/display/WideFinder/Results
 
-****************************************
+
 Feed: ongoing
+Filed under: Technology/Concurrency, Technology, Concurrency****************************************
 Item: Everything On-Line?
-      <New-Yorker#comments>
-
+<New-Yorker#comments>
 Date: Fri Jun 06 05:05:15 UTC 2008
-Filed under: Business/Publishing, Business, Publishing, The World/Life Online, The World, Life Online
-
 Recently I read The Rebellion Within[1] by Lawrence Wright, a long, 
 erudite, immensely informative New Yorker piece about the internal 
 dynamics of Al-Qaeda and the Muslim Brotherhood and Islamic Jihad: Who 
@@ -653,14 +629,12 @@ print worlds were perhaps a bit more cleanly separated.
 
 [1] http://www.newyorker.com/reporting/2008/06/02/080602fa_fact_wright
 
-****************************************
+
 Feed: ongoing
+Filed under: Business/Publishing, Business, Publishing, The World/Life Online, The World, Life Online****************************************
 Item: San Fran Shadows
-      <San-Fran-Shadows#comments>
-
+<San-Fran-Shadows#comments>
 Date: Thu Jun 05 05:23:35 UTC 2008
-Filed under: The World/Places/San Francisco, The World, Places, San Francisco, Arts/Photos, Arts, Photos
-
 Last week I took a brief trip to San Francisco, and managed to escape 
 for a walk. Lots of buildings had interesting shadows on them.[A][B][C]
 
@@ -670,14 +644,12 @@ The old parts of San Francisco seem to age with grace, by and large.
 [B] PS080886.png
 [C] PS080887.png
 
-****************************************
+
 Feed: ongoing
+Filed under: The World/Places/San Francisco, The World, Places, San Francisco, Arts/Photos, Arts, Photos****************************************
 Item: Not an OS
-      <Not-an-OS#comments>
-
+<Not-an-OS#comments>
 Date: Wed Jun 04 04:36:33 UTC 2008
-Filed under: The World/Life Online, The World, Life Online, Business/Internet, Business, Internet, Technology/Internet, Technology, Technology/Web, Web
-
 Last Thursday I tweeted[1]: “I strive to maintain an open mind when 
 nontechnical people talk about the ‘Internet OS’ or ‘Web OS’. 
 Sometimes it's tough.” I got some grumbles by email and I think the 
@@ -807,14 +779,12 @@ way. Thank goodness.
 [1] http://twitter.com/timbray/statuses/823088211
 [2] http://blogs.zdnet.com/BTL/?p=4686
 
-****************************************
+
 Feed: ongoing
+Filed under: The World/Life Online, The World, Life Online, Business/Internet, Business, Internet, Technology/Internet, Technology, Technology/Web, Web****************************************
 Item: WF2: People At Work
-      <WF-Others#comments>
-
+<WF-Others#comments>
 Date: Tue Jun 03 15:16:51 UTC 2008
-Filed under: Technology/Concurrency, Technology, Concurrency
-
 [This is part of the Wide Finder 2[1] series.] I’m happy to report 
 that I’ve given out a bunch of accounts on the Wide Finder 2 
 machine[2]. I’ll aggregate links to others’ work in this entry.
@@ -843,14 +813,12 @@ If you’re working on this let me know and I’ll keep adding links.
 [9] http://grep.ro/blog/2008/05/wide_finder_going_parallel
 [10] http://grep.ro/blog/2008/05/wide_finder_many_cores
 
-****************************************
+
 Feed: ongoing
+Filed under: Technology/Concurrency, Technology, Concurrency****************************************
 Item: Other Diddleys
-      <Other-Diddleys#comments>
-
+<Other-Diddleys#comments>
 Date: Tue Jun 03 06:08:08 UTC 2008
-Filed under: Arts/Music, Arts, Music
-
 Gosh, Bo Diddley[1]’s gone. Which instantly reaffirmed one Internet 
 lesson: if you want to boost the popularity of your YouTube videos, die. 
 My two favorites (via Twitter today): Mona, with Tom Petty[2] (listen to 
@@ -892,14 +860,12 @@ sapiens/ draws breath.
 [9] http://en.wikipedia.org/wiki/London_Calling
 [10] http://www.youtube.com/watch?v=QsZUBpNLGAU
 
-****************************************
+
 Feed: ongoing
+Filed under: Arts/Music, Arts, Music****************************************
 Item: Enterprisey Goodness
-      <JBI#comments>
-
+<JBI#comments>
 Date: Mon Jun 02 19:15:57 UTC 2008
-Filed under: Technology/Java, Technology, Java, Technology/Web, Web
-
 I tend to liking simple things, and to suspicion of big 
 “enterprisey” software frameworks. I am dimly aware that up in the 
 clouds there are platforms built on platforms built on platforms built 
@@ -944,14 +910,12 @@ interested; stay tuned.
 [5] http://pipes.yahoo.com/pipes/
 [6] /ongoing/When/200x/2008/04/30/PDML-Twitter-Mashup
 
-****************************************
+
 Feed: ongoing
+Filed under: Technology/Java, Technology, Java, Technology/Web, Web****************************************
 Item: WF2: First Pathetic Results
-      <WF-First-Results#comments>
-
+<WF-First-Results#comments>
 Date: Sat May 31 21:24:46 UTC 2008
-Filed under: Technology/Concurrency, Technology, Concurrency
-
 [This is part of the Wide Finder 2[1] series.] I made a couple of little 
 changes to the Strawman Benchmark[2] and let ’er rip on the big 45Gig 
 data set. The results were miserable, but instructive.
@@ -1010,14 +974,12 @@ to beat. Then the fun should start.
 http://www.tbray.org/ongoing/When/200x/2008/05/22/WF-Benchmark-Strawman#c1211521663.324677
 [4] http://wikis.sun.com/display/WideFinder/Infrastructure
 
-****************************************
+
 Feed: ongoing
+Filed under: Technology/Concurrency, Technology, Concurrency****************************************
 Item: Family Moment
-      <Discovery#comments>
-
+<Discovery#comments>
 Date: Sat May 31 06:43:51 UTC 2008
-Filed under: The World/Family, The World, Family, The World/Humor, Humor
-
 The back porch door was open and our adorable little 
 almost-two-year-old, all golden curls and pink dimples, was wandering in 
 and out. One time as she was coming in, I noticed Marlowe the cat was 
@@ -1032,14 +994,12 @@ the corpse was headed for disposal.
 waterfront city thus will always have rats, and our cats are well-fed so 
 they bring their prizes home to the back porch to show off.)
 
-****************************************
+
 Feed: ongoing
+Filed under: The World/Family, The World, Family, The World/Humor, Humor****************************************
 Item: WF2: The Benchmark
-      <WF-Benchmark#comments>
-
+<WF-Benchmark#comments>
 Date: Sat May 31 06:19:43 UTC 2008
-Filed under: Technology/Concurrency, Technology, Concurrency
-
 [This is part of the Wide Finder 2[1] series.] A bunch of people have 
 requested the sample data. Meanwhile, over at the wiki[2], there’s a 
 decent discussion going on of what benchmark we should run.
@@ -1069,14 +1029,12 @@ http://wikis.sun.com/display/WideFinder/The+Benchmark?focusedCommentId=25887368#
 http://wikis.sun.com/display/WideFinder/The+Benchmark?focusedCommentId=25887443#comment-25887443
 [6] http://wikis.sun.com/display/WideFinder/The+Benchmark
 
-****************************************
+
 Feed: ongoing
+Filed under: Technology/Concurrency, Technology, Concurrency****************************************
 Item: WF2: Benchmark Strawman
-      <WF-Benchmark-Strawman#comments>
-
+<WF-Benchmark-Strawman#comments>
 Date: Sat May 31 06:19:35 UTC 2008
-Filed under: Technology/Concurrency, Technology, Concurrency
-
 [This is part of the Wide Finder 2[1] series.] I’ve just updated the 
 Wide Finder wiki[2] with a straw-man benchmark (see “Strawman”), 
 with sample Ruby code and output. Argh... it takes Ruby over 23 seconds 
@@ -1087,3 +1045,6 @@ we can all start bashing our heads against the big file.
 [1] /ongoing/When/200x/2008/05/01/Wide-Finder-2
 [2] http://wikis.sun.com/display/WideFinder/The+Benchmark
 
+
+Feed: ongoing
+Filed under: Technology/Concurrency, Technology, Concurrency

@@ -6,13 +6,9 @@ Description: The world's premiere Linux and Free Software radio show
 Creator: 
 
 ****************************************
-Feed: LugRadio (high-quality mp3)
-      <http://www.lugradio.org/episodes.rss>
 Item: Guadec Day 4
-      <http://www.lugradio.org/episodes/57>
-
+<http://www.lugradio.org/episodes/57>
 Date: Fri Jun 30 00:00:00 UTC 2006
-
 Jono Bacon, Stuart Langridge, and Ade Bradshaw finish the LugRadio 
 coverage of Guadec 2006[1]. Today's show has interviews with Bastian 
 Nocera from Red Hat and Philippe Normand and Jan Schmidt from the Elisa 
@@ -24,16 +20,14 @@ you for Guadec next year.
 
 [1] http://guadec.org
 
+
 Files:
  http://audio.lugradio.org/season3/ep22/lugradio-s03e22-300606.mp3?podcast (25.4 MB, audio/mpeg)
-****************************************
 Feed: LugRadio (high-quality mp3)
-      <http://www.lugradio.org/episodes.rss>
+<http://www.lugradio.org/episodes.rss>****************************************
 Item: Guadec Day 3
-      <http://www.lugradio.org/episodes/56>
-
+<http://www.lugradio.org/episodes/56>
 Date: Thu Jun 29 00:00:00 UTC 2006
-
 Jono Bacon, Stuart Langridge and Ade Bradshaw continue their coverage of 
 Guadec[1] Todays show has interviews with
 
@@ -45,16 +39,14 @@ Stay tuned for more tomorrow ...
 
 [1] http://guadec.org
 
+
 Files:
  http://audio.lugradio.org/season3/ep21/lugradio-s03e21-290606.mp3?podcast (23.7 MB, audio/mpeg)
-****************************************
 Feed: LugRadio (high-quality mp3)
-      <http://www.lugradio.org/episodes.rss>
+<http://www.lugradio.org/episodes.rss>****************************************
 Item: Guadec Day 2
-      <http://www.lugradio.org/episodes/55>
-
+<http://www.lugradio.org/episodes/55>
 Date: Wed Jun 28 00:00:00 UTC 2006
-
 Ali Baba, Stuart Langridge and Ade Bradshaw are still at Guadec[1], and 
 this is day 2's show! Including interviews with Ted Haegar and Edward 
 "PiTiVi[2]" Hervey, thoughts on lightning talks, GStreamer, and insane 
@@ -63,16 +55,14 @@ beer drinking, and why Jono looks like Ali Baba. More tomorrow!
 [1] http://guadec.org
 [2] http://www.pitivi.org/
 
+
 Files:
  http://audio.lugradio.org/season3/ep20/lugradio-s03e20-280606.mp3?podcast (28.2 MB, audio/mpeg)
-****************************************
 Feed: LugRadio (high-quality mp3)
-      <http://www.lugradio.org/episodes.rss>
+<http://www.lugradio.org/episodes.rss>****************************************
 Item: Guadec Day 1
-      <http://www.lugradio.org/episodes/54>
-
+<http://www.lugradio.org/episodes/54>
 Date: Tue Jun 27 00:00:00 UTC 2006
-
 Jono Bacon, Stuart Langridge & Ade Bradshaw talk about their first day 
 at Guadec[1], including interviews with:
 
@@ -93,16 +83,14 @@ Enjoy and stay turned for the rest.
 
 [1] http://guadec.org
 
+
 Files:
  http://audio.lugradio.org/season3/ep19/lugradio-s03e019-260606.mp3?podcast (20.4 MB, audio/mpeg)
-****************************************
 Feed: LugRadio (high-quality mp3)
-      <http://www.lugradio.org/episodes.rss>
+<http://www.lugradio.org/episodes.rss>****************************************
 Item: Beard/Linux
-      <http://www.lugradio.org/episodes/53>
-
+<http://www.lugradio.org/episodes/53>
 Date: Mon Jun 19 00:00:00 UTC 2006
-
 Jono Bacon, Stuart Langridge, Ade Bradshaw, and Matthew Revell talk 
 about Linux and whatever else comes along, including:
 
@@ -127,5 +115,8 @@ http://gnomejournal.org/article/31/gocollab----peer-to-peer-document-collaborati
 [3] http://darcs.0x539.de/trac/obby/cgi-bin/trac.cgi
 [4] http://www.fsfeurope.org/
 
+
 Files:
  http://audio.lugradio.org/season3/ep18/lugradio-s03e18-190606-high.mp3?podcast (41.8 MB, audio/mpeg)
+Feed: LugRadio (high-quality mp3)
+<http://www.lugradio.org/episodes.rss>

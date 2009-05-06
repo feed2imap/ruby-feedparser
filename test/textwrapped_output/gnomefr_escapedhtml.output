@@ -6,26 +6,20 @@ Description: Planète GNOME-FR - http://planete.gnomefr.org/
 Creator: 
 
 ****************************************
-Feed: Planète GNOME-FR
-      <http://planete.gnomefr.org/>
 Item: Vincent Noel: I might need some supplies
-      <http://members.cox.net/vnoel/weblog/2005/09/i-might-need-some-supplies.html>
-
+<http://members.cox.net/vnoel/weblog/2005/09/i-might-need-some-supplies.html>
 Date: Wed Sep 14 20:21:47 UTC 2005
-
 How are you supposed to trust these guys ?[A]
 
 [A] 
 http://members.cox.net/vnoel/weblog/uploaded_images/Screenshot-Flight%20Details-798819.png
 
-****************************************
+
 Feed: Planète GNOME-FR
-      <http://planete.gnomefr.org/>
+<http://planete.gnomefr.org/>****************************************
 Item: Vincent Noel: nautilus and gworkspace
-      <http://members.cox.net/vnoel/weblog/2005/09/nautilus-and-gworkspace.html>
-
+<http://members.cox.net/vnoel/weblog/2005/09/nautilus-and-gworkspace.html>
 Date: Wed Sep 14 19:15:01 UTC 2005
-
 Is it my imagination or is nautilus, with every release, getting closer 
 to the interface of GWorkspace[1] ? [A] [2]
 Everything is there : the "places" (vertical in nautilus and horizontal 
@@ -45,3 +39,6 @@ current path bar could replace that view in most of the cases).
 [A] 
 http://www.gnome.org/~vnoel/screenshots/nautilus_gworkspace_small.png
 
+
+Feed: Planète GNOME-FR
+<http://planete.gnomefr.org/>

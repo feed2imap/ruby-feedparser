@@ -6,14 +6,9 @@ Description:
 Creator: 
 
 ****************************************
-Feed: Light Blue Touchpaper
-      <http://www.lightbluetouchpaper.org>
 Item: (In)security at the University of Birmingham
-      <http://www.lightbluetouchpaper.org/2007/02/25/insecurity-at-the-university-of-birmingham/>
-
+<http://www.lightbluetouchpaper.org/2007/02/25/insecurity-at-the-university-of-birmingham/>
 Date: Sun Feb 25 15:15:34 UTC 2007
-Author: Richard Clayton
-
 I travelled to the University of Birmingham[1] on Friday to give a guest 
 lecture to their undergraduates on Anonymity and Traceability[2]. It was 
 given in a smart new lecture theatre, which had what Birmingham 
@@ -53,15 +48,13 @@ http://www.computerworld.com/securitytopics/security/story/0,10801,61986,00.html
 [A] 
 http://www.lightbluetouchpaper.org/wp-content/uploads/2007/02/birmingham-lectern-pc.jpg
 
-****************************************
+
 Feed: Light Blue Touchpaper
-      <http://www.lightbluetouchpaper.org>
+<http://www.lightbluetouchpaper.org>
+Author: Richard Clayton****************************************
 Item: SOCA: we just want your money?
-      <http://www.lightbluetouchpaper.org/2007/02/11/soca-we-just-want-your-money/>
-
+<http://www.lightbluetouchpaper.org/2007/02/11/soca-we-just-want-your-money/>
 Date: Sun Feb 11 16:56:09 UTC 2007
-Author: Richard Clayton
-
 Just over a year ago I wrote about the, then upcoming, Serious Organised 
 Crime Agency (SOCA), reporting that their aim in tackling “level 3″ 
 crime was to be “mysterious and menacing[1]“. I pointed out how they 
@@ -172,15 +165,13 @@ http://www.publications.parliament.uk/pa/pabills/200607/serious_crime.htm
 [16] http://www.amstrad.com/about/sir_alan.html
 [17] http://eurowards.org/content/article.php?sid=25
 
-****************************************
+
 Feed: Light Blue Touchpaper
-      <http://www.lightbluetouchpaper.org>
+<http://www.lightbluetouchpaper.org>
+Author: Richard Clayton****************************************
 Item: Financial Ombudsman on Chip & PIN infallibility
-      <http://www.lightbluetouchpaper.org/2007/02/08/financial-ombudsman-on-chip-pin-infallibility/>
-
+<http://www.lightbluetouchpaper.org/2007/02/08/financial-ombudsman-on-chip-pin-infallibility/>
 Date: Thu Feb 08 18:25:56 UTC 2007
-Author: Steven J. Murdoch
-
 The Financial Ombudsman Service[1] offers to adjudicate disputes between 
 banks and their customers who claim to have been treated unfairly. We 
 were forwarded a letter written by the Ombudsman[2] concerning a 
@@ -285,15 +276,13 @@ http://www.lightbluetouchpaper.org/2007/02/06/chip-pin-relay-attacks/
 [7] 
 http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=430129&#038;in_page_id=1770
 
-****************************************
+
 Feed: Light Blue Touchpaper
-      <http://www.lightbluetouchpaper.org>
+<http://www.lightbluetouchpaper.org>
+Author: Steven J. Murdoch****************************************
 Item: Chip & PIN relay attacks
-      <http://www.lightbluetouchpaper.org/2007/02/06/chip-pin-relay-attacks/>
-
+<http://www.lightbluetouchpaper.org/2007/02/06/chip-pin-relay-attacks/>
 Date: Tue Feb 06 09:36:58 UTC 2007
-Author: Steven J. Murdoch
-
 Saar Drimer and myself have shown that the Chip & PIN system[1], used 
 for card payments in the UK, is vulnerable to a new kind of fraud. By 
 “relaying” information from a genuine card, a Chip & PIN terminal in 
@@ -351,15 +340,13 @@ http://www.cl.cam.ac.uk/research/security/projects/banking/relay/bounding.pdf
 [A] 
 http://www.lightbluetouchpaper.org/wp-content/uploads/2007/02/relay.jpg
 
-****************************************
+
 Feed: Light Blue Touchpaper
-      <http://www.lightbluetouchpaper.org>
+<http://www.lightbluetouchpaper.org>
+Author: Steven J. Murdoch****************************************
 Item: Human Rights and Biophysics (strange similarities)
-      <http://www.lightbluetouchpaper.org/2007/01/07/human-rights-and-biophysics-strange-similarities/>
-
+<http://www.lightbluetouchpaper.org/2007/01/07/human-rights-and-biophysics-strange-similarities/>
 Date: Sun Jan 07 21:21:15 UTC 2007
-Author: Richard Clayton
-
 I recently received an email from “Daniel” at the “European Human 
 Rights Centre”.
 
@@ -395,15 +382,13 @@ Fax: +41-1-693-10 73 and 693 11 51
 
 But this email is not quite what it seems….
 
-****************************************
+
 Feed: Light Blue Touchpaper
-      <http://www.lightbluetouchpaper.org>
+<http://www.lightbluetouchpaper.org>
+Author: Richard Clayton****************************************
 Item: Chip & PIN terminal playing Tetris
-      <http://www.lightbluetouchpaper.org/2006/12/24/chip-pin-terminal-playing-tetris/>
-
+<http://www.lightbluetouchpaper.org/2006/12/24/chip-pin-terminal-playing-tetris/>
 Date: Sun Dec 24 21:08:24 UTC 2006
-Author: Saar Drimer
-
 Many discussions over the security of Chip & PIN have focused on the 
 tamper-resistance of terminals (for example in the aftermath of the 
 Shell Chip & PIN fraud[1]). It is important to remember, however, that 
@@ -449,15 +434,13 @@ http://www.thisismoney.co.uk/saving-and-banking/article.html?in_article_id=41613
 [A] 
 http://www.lightbluetouchpaper.org/wp-includes/images/smilies/icon_smile.gif
 
-****************************************
+
 Feed: Light Blue Touchpaper
-      <http://www.lightbluetouchpaper.org>
+<http://www.lightbluetouchpaper.org>
+Author: Saar Drimer****************************************
 Item: Health database optout - latest news
-      <http://www.lightbluetouchpaper.org/2006/12/18/health-database-optout-latest-news/>
-
+<http://www.lightbluetouchpaper.org/2006/12/18/health-database-optout-latest-news/>
 Date: Mon Dec 18 10:10:58 UTC 2006
-Author: Ross Anderson
-
 This morning I debated health privacy on Radio 4’s Today programme 
 with health minister Lord Warner. You can listen to the debate here[1], 
 and there is an earlier comment by Michael Summers of the Patients’ 
@@ -494,15 +477,13 @@ http://www.lightbluetouchpaper.org/2006/11/01/opting-out-of-the-nhs-database/
 [10] 
 http://www.bbc.co.uk/radio4/today/listenagain/ram/today4_nhs_record_20061218.ram
 
-****************************************
+
 Feed: Light Blue Touchpaper
-      <http://www.lightbluetouchpaper.org>
+<http://www.lightbluetouchpaper.org>
+Author: Ross Anderson****************************************
 Item: 23rd Chaos Communication Congress
-      <http://www.lightbluetouchpaper.org/2006/12/12/23rd-chaos-communication-congress/>
-
+<http://www.lightbluetouchpaper.org/2006/12/12/23rd-chaos-communication-congress/>
 Date: Tue Dec 12 11:13:44 UTC 2006
-Author: Steven J. Murdoch
-
 [A]The 23rd Chaos Communication Congress[1] will be held later this 
 month in Berlin, Germany on 27–30 December. I will be attending to 
 give a talk[2] on Hot or Not: Revealing Hidden Services by their Clock 
@@ -584,15 +565,13 @@ http://theinvisiblethings.blogspot.com/2006/06/introducing-blue-pill.html
 [A] 
 http://www.lightbluetouchpaper.org/wp-content/uploads/2006/12/23c3_135x122_23c3.jpg
 
-****************************************
+
 Feed: Light Blue Touchpaper
-      <http://www.lightbluetouchpaper.org>
+<http://www.lightbluetouchpaper.org>
+Author: Steven J. Murdoch****************************************
 Item: Health privacy … breaking news …
-      <http://www.lightbluetouchpaper.org/2006/12/01/health-privacy-breaking-news/>
-
+<http://www.lightbluetouchpaper.org/2006/12/01/health-privacy-breaking-news/>
 Date: Fri Dec 01 15:29:31 UTC 2006
-Author: Ross Anderson
-
 The Chief Medical Officer, Sir Liam Donaldson, has written a letter[1] 
 to all GPs and hospital medical directors telling them that if patients 
 try to opt out of the central collection of their medical data, the 
@@ -622,15 +601,13 @@ http://www.lightbluetouchpaper.org/2006/11/01/opting-out-of-the-nhs-database/
 [6] 
 http://dooooooom.blogspot.com/2006/11/nhs-data-rape-hits-headlines.html
 
-****************************************
+
 Feed: Light Blue Touchpaper
-      <http://www.lightbluetouchpaper.org>
+<http://www.lightbluetouchpaper.org>
+Author: Ross Anderson****************************************
 Item: Developments on health privacy…
-      <http://www.lightbluetouchpaper.org/2006/11/27/developments-on-health-privacy/>
-
+<http://www.lightbluetouchpaper.org/2006/11/27/developments-on-health-privacy/>
 Date: Mon Nov 27 23:08:23 UTC 2006
-Author: Ross Anderson
-
 The Register[1] reports a leaked document[2] from the NHS which 
 concludes that sensitive patient records would probably be safer held 
 locally, rather than stored on a national database as the Government 
@@ -657,3 +634,7 @@ http://www.nhsconfidentiality.org/wp-content/uploads/November%20-%20NHS%20Care%2
 http://www.lightbluetouchpaper.org/2006/11/01/opting-out-of-the-nhs-database/
 [8] http://www.lightbluetouchpaper.org/2006/11/22/kids-databases/
 
+
+Feed: Light Blue Touchpaper
+<http://www.lightbluetouchpaper.org>
+Author: Ross Anderson

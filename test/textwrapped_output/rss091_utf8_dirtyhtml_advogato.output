@@ -6,13 +6,9 @@ Description: Advogato diary for sopwith
 Creator: 
 
 ****************************************
-Feed: Advogato diary for sopwith
-      <http://www.advogato.org/person/sopwith/>
 Item: 21 Sep 2004
-      <http://www.advogato.org/person/sopwith/diary.html?start=10>
-
+<http://www.advogato.org/person/sopwith/diary.html?start=10>
 Date: Tue Sep 21 21:20:46 UTC 2004
-
 On the Fedora front:
 
 FC3test2 is out (give it a try) and it's not too shabby.
@@ -30,14 +26,12 @@ a funny picture[1].
 
 [1] http://cakeru.image.pbase.com/image/33879157/large.jpg
 
-****************************************
+
 Feed: Advogato diary for sopwith
-      <http://www.advogato.org/person/sopwith/>
+<http://www.advogato.org/person/sopwith/>****************************************
 Item: 24 Aug 2004
-      <http://www.advogato.org/person/sopwith/diary.html?start=9>
-
+<http://www.advogato.org/person/sopwith/diary.html?start=9>
 Date: Tue Aug 24 23:07:13 UTC 2004
-
 The Fedora community can really use people who are willing to go through 
 bugzilla and tame things down there. There are just a ton of bugs that 
 the package maintainers will have no time to get to.
@@ -49,14 +43,12 @@ Also needed are community leaders for each of the architectures. E.g.
 Justin Forbes is The Man for AMD64, but we can always use peeps for ia64 
 and s390* :)
 
-****************************************
+
 Feed: Advogato diary for sopwith
-      <http://www.advogato.org/person/sopwith/>
+<http://www.advogato.org/person/sopwith/>****************************************
 Item: 27 Jul 2004
-      <http://www.advogato.org/person/sopwith/diary.html?start=8>
-
+<http://www.advogato.org/person/sopwith/diary.html?start=8>
 Date: Tue Jul 27 16:38:36 UTC 2004
-
 What's happening with Fedora lately:
 
 - FC3test1 came out a little while ago.
@@ -64,14 +56,12 @@ What's happening with Fedora lately:
 fixable if not fixed.
 - CVS should be rolled out "soon"
 
-****************************************
+
 Feed: Advogato diary for sopwith
-      <http://www.advogato.org/person/sopwith/>
+<http://www.advogato.org/person/sopwith/>****************************************
 Item: 23 Apr 2004
-      <http://www.advogato.org/person/sopwith/diary.html?start=7>
-
+<http://www.advogato.org/person/sopwith/diary.html?start=7>
 Date: Fri Apr 23 15:09:39 UTC 2004
-
 Cool link of the day is TradingBrain[1].
 
 If you added a user-login feature, you could use a neural network to 
@@ -82,27 +72,23 @@ FC2test3 is being pushed out and is on track for Monday release.
 
 [1] http://www.tradingbrain.com/
 
-****************************************
+
 Feed: Advogato diary for sopwith
-      <http://www.advogato.org/person/sopwith/>
+<http://www.advogato.org/person/sopwith/>****************************************
 Item: 22 Apr 2004
-      <http://www.advogato.org/person/sopwith/diary.html?start=6>
-
+<http://www.advogato.org/person/sopwith/diary.html?start=6>
 Date: Thu Apr 22 19:35:13 UTC 2004
-
 Ben & Jerry's[1] annual Free Cone Day. Tuesday, April 27 12pm-8pm. 
 Follow the link to find out where.
 
 [1] http://www.benandjerrys.com/
 
-****************************************
+
 Feed: Advogato diary for sopwith
-      <http://www.advogato.org/person/sopwith/>
+<http://www.advogato.org/person/sopwith/>****************************************
 Item: 21 Apr 2004
-      <http://www.advogato.org/person/sopwith/diary.html?start=5>
-
+<http://www.advogato.org/person/sopwith/diary.html?start=5>
 Date: Wed Apr 21 15:49:59 UTC 2004
-
 Plots orkut people on a map: http://www.datawhorehouse.com/orkut/[1].
 
 PS. If you still haven't gotten an orkut invite, send me an e-mail of 
@@ -110,14 +96,12 @@ introduction, already. :)
 
 [1] http://www.datawhorehouse.com/orkut/
 
-****************************************
+
 Feed: Advogato diary for sopwith
-      <http://www.advogato.org/person/sopwith/>
+<http://www.advogato.org/person/sopwith/>****************************************
 Item: 20 Apr 2004
-      <http://www.advogato.org/person/sopwith/diary.html?start=4>
-
+<http://www.advogato.org/person/sopwith/diary.html?start=4>
 Date: Wed Apr 21 03:00:51 UTC 2004
-
 Only a few diary entries ago, I was complaining about the last company 
 meeting. Now a new one is coming up, and I'm really looking forward to 
 meeting all the great people that work at Red Hat.
@@ -126,38 +110,32 @@ Dropping by to say hello to the advogato crowd,
 
 -- Elliot
 
-****************************************
+
 Feed: Advogato diary for sopwith
-      <http://www.advogato.org/person/sopwith/>
+<http://www.advogato.org/person/sopwith/>****************************************
 Item: 16 Sep 2003
-      <http://www.advogato.org/person/sopwith/diary.html?start=3>
-
+<http://www.advogato.org/person/sopwith/diary.html?start=3>
 Date: Tue Sep 16 20:41:24 UTC 2003
-
 My home page[1]
 
 [1] http://people.redhat.com/sopwith/
 
-****************************************
+
 Feed: Advogato diary for sopwith
-      <http://www.advogato.org/person/sopwith/>
+<http://www.advogato.org/person/sopwith/>****************************************
 Item: 12 Apr 2001
-      <http://www.advogato.org/person/sopwith/diary.html?start=2>
-
+<http://www.advogato.org/person/sopwith/diary.html?start=2>
 Date: Thu Apr 12 15:53:44 UTC 2001
-
 I hate this open source game - it just proves my in(s)anity.
 
 </rant>
 
-****************************************
+
 Feed: Advogato diary for sopwith
-      <http://www.advogato.org/person/sopwith/>
+<http://www.advogato.org/person/sopwith/>****************************************
 Item: 19 Sep 2000
-      <http://www.advogato.org/person/sopwith/diary.html?start=1>
-
+<http://www.advogato.org/person/sopwith/diary.html?start=1>
 Date: Wed Sep 20 06:45:03 UTC 2000
-
 It's 02:01, I can't sleep, and there's a bunch of company meetings today 
 at 08:30 that appear increasingly boring as the time approaches. It sort 
 of rains on my parade of TODO items - I could have finished libGIOP this 
@@ -195,3 +173,6 @@ I'm done with the unprovoked insults and needless griping, so LART me
 and get back to your regularly scheduled world. I'm sure by lunchtime 
 I'll have gotten enough sleep to regret this all.
 
+
+Feed: Advogato diary for sopwith
+<http://www.advogato.org/person/sopwith/>

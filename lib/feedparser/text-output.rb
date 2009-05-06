@@ -56,34 +56,48 @@ module FeedParser
   end
 
   class FeedItem
-    def to_text(localtime = true, wrapto = false)
+    def to_text(localtime = true, wrapto = false, header = true)
       s = ""
-      s += "Feed: "
+      if header
+        s += "Item: "
+        s += @title if @title
+        s += "\n<#{@link}>" if @link
+        if @date
+          if localtime
+            s += "\nDate: #{@date.to_s}"
+          else
+            s += "\nDate: #{@date.getutc.to_s}"
+          end
+        end
+        s += "\n"
+      else
+        s += "<#{@link}>\n\n" if @link
+      end
+      s += "#{@content.html2text(wrapto)}\n" if @content
+      if @enclosures and @enclosures.length > 0
+        s += "\nFiles:"
+        @enclosures.each do |e|
+          s += "\n #{e[0]} (#{e[1].to_i.to_human_readable}, #{e[2]})"
+        end
+      end
+      s += "\nFeed: "
       s += @feed.title if @feed.title
-      s += "\n      <#{@feed.link}>" if @feed.link
-      s += "\n"
-      s += "Item: "
-      s += @title if @title
-      s += "\n      <#{@link}>" if @link
-      s += "\n"
-      if @date
-        if localtime
-          s += "\nDate: #{@date.to_s}"
-        else
-          s += "\nDate: #{@date.getutc.to_s}"
+      s += "\n<#{@feed.link}>" if @feed.link
+      if not header
+        s += "\nItem: "
+        s += @title if @title
+        s += "\n<#{@link}>" if @link
+        if @date
+          if localtime
+            s += "\nDate: #{@date.to_s}"
+          else
+            s += "\nDate: #{@date.getutc.to_s}"
+          end
         end
       end
       s += "\nAuthor: #{creator}" if creator
       s += "\nSubject: #{@subject}" if @subject
       s += "\nFiled under: #{@categories.join(', ')}" unless @categories.empty?
-      s += "\n\n"
-      s += "#{@content.html2text(wrapto)}\n" if @content
-      if @enclosures and @enclosures.length > 0
-        s += "Files:\n"
-        @enclosures.each do |e|
-          s += " #{e[0]} (#{e[1].to_i.to_human_readable}, #{e[2]})\n"
-        end
-      end
       s 
     end
   end
