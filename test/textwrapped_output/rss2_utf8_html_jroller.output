@@ -14,7 +14,6 @@ its not a big deal. However what was cool was getting help from the
 original authors on it. I think people should rething the support issue 
 for svn its definately growing strong from what I can see.
 
-
 Feed: Alex Karasulu's Weblog
 <http://jroller.com/page/akarasulu>
 Author: Alex Karasulu
@@ -43,7 +42,6 @@ are called internally by the Subscriber handling code on the component
 itself rather than exposing them on the service interface for direct 
 calls by what are now publishers. This is crazy my service interfaces 
 are all empty now!
-
 
 Feed: Alex Karasulu's Weblog
 <http://jroller.com/page/akarasulu>
@@ -75,7 +73,6 @@ a way I can add my $0.02 to it and be Groovy too :-).
 
 [1] http://groovy.codehaus.org/
 
-
 Feed: Alex Karasulu's Weblog
 <http://jroller.com/page/akarasulu>
 Author: Alex Karasulu
@@ -90,7 +87,6 @@ Eve will be the flagship server for that Apache Directory TLP upon
 matriculation from the incubator.
 
 Thanks to all those that made it happen!
-
 
 Feed: Alex Karasulu's Weblog
 <http://jroller.com/page/akarasulu>
@@ -107,7 +103,6 @@ I hope to do my best to further the cause there.
 I am especially excited to be working on getting Merlin to a generally 
 embeddible state. That is the subject of my first set of changes. I'm 
 very excited and happy to see things comming along.
-
 
 Feed: Alex Karasulu's Weblog
 <http://jroller.com/page/akarasulu>
@@ -137,7 +132,6 @@ LDAPd's first birthday ;-).
 http://nagoya.apache.org/eyebrowse/ReadMsg?listName=general@incubator.apache.org&msgNo=2207
 [3] 
 http://nagoya.apache.org/eyebrowse/ReadMsg?listName=general@incubator.apache.org&msgNo=2201
-
 
 Feed: Alex Karasulu's Weblog
 <http://jroller.com/page/akarasulu>

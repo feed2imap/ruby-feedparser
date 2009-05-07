@@ -73,12 +73,15 @@ module FeedParser
       else
         s += "<#{@link}>\n\n" if @link
       end
-      s += "#{@content.html2text(wrapto)}\n" if @content
+      s += "#{@content.html2text(wrapto).chomp}\n" if @content
       if @enclosures and @enclosures.length > 0
         s += "\nFiles:"
         @enclosures.each do |e|
           s += "\n #{e[0]} (#{e[1].to_i.to_human_readable}, #{e[2]})"
         end
+      end
+      if not header
+        s += "-- "
       end
       s += "\nFeed: "
       s += @feed.title if @feed.title

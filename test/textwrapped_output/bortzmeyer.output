@@ -19,7 +19,6 @@ langues humaines. Parfois, un langage formel est quand même utilisé
 pour une partie d'une norme. Souhaitons donc la bienvenue à RBNF 
 (Routing Backus-Naur Form), nouveau venu dans cette famille.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -34,7 +33,6 @@ réseau qui, sur le long terme, permettra peut-être de résoudre le
 problème de passage à l'échelle du routage sur l'Internet.
 
 [1] http://www.ietf.org/html.charters/lisp-charter.html)
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -54,7 +52,6 @@ installer une machine pour une application faisant un usage intensif du
 SGBD PostgreSQL mais avec peu de concurrence (presque toujours un seule 
 client), sur Linux.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -68,7 +65,6 @@ réalité, un tel « support » nécessite en général de n'utiliser
 qu'un seul système d'exploitation, en général d'origine commerciale, 
 de charger des pilotes non-libres et de renoncer à certaines fonctions 
 du matériel.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -85,7 +81,6 @@ et ce RFC de l'IAB veut « redresser la barre » en précisant les
 bonnes (et les mauvaises) façons de stocker et de récupérer de 
 l'information dans le DNS.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -99,7 +94,6 @@ dessus d'IP, pas forcément par le fournisseur d'accès à l'Internet.
 Alors, pourquoi tant de FAI s'obstinent-ils à nous forcer à acheter du 
 triple play même si nous n'en voulons pas ?
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -112,7 +106,6 @@ documentation n'est pas claire et qu'on cherche à trouver un exemple
 d'utilisation de la fonction C "gpgme_get_engine_info" ou la définition 
 de la classe Java "BufferedReader", on a tout sous la main.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -124,7 +117,6 @@ Frank Schätzing (Der Schwarm en allemand) est un livre passionnant sur
 une catastrophe écologique provoquée par... lisez le livre, vous 
 verrez bien. Je dis juste que cela se passe dans la mer et un peu 
 partout dans le monde, notamment en Norvège et au Canada.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -140,7 +132,6 @@ Dans cette hypothèse, le MUA ne recevra qu'une synthèse (« Ce message
 vient bien de "example.com" ») et pourra alors prendre une décision, 
 basée sur cette synthèse. C'est le but du nouvel en-tête 
 "Authentication-Results:" que normalise notre RFC.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -160,7 +151,6 @@ dans les documents Docbook seulement les références effectivement
 citées.
 
 [1] http://oreilly.com/catalog/docbook/book2/bibliography.html)
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -187,7 +177,6 @@ alors que j'aurai préféré :
 
 Existe t-il une raison à cette absence de booléens ?
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -202,7 +191,6 @@ changer la plus grande partie du paquet, il peut être plus simple de
 fabriquer un paquet IP entièrement « à la main » en utilisant des 
 prises brutes (en anglais raw sockets). Voyons comment on fait en IPv4 
 et si c'est possible en IPv6.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -224,7 +212,6 @@ pourtant beaucoup la vie.
 
 [1] http://www.afnic.fr/afnic/international/college/ffti)),
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -242,7 +229,6 @@ mesurer de manière qui supporte le passage à l'échelle ? Utiliser
 ping avec chacun des 10 000 pairs prendrait un temps fou et serait 
 très coûteux en ressources réseau.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -258,7 +244,6 @@ qui porte sur l'étymologie des termes marins et sur le parcours qui a
 amené beaucoup d'entre eux à passer dans le vocabulaire non-marin.
 
 [1] http://web.mac.com/polcorvez/iWeb/Dictionnaire-mer/Accueil.html),
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -283,7 +268,6 @@ l'Internet est donc que seules certaines machines sont connectées à
 une horloge physique correcte et que les autres d'ajustent sur 
 celles-ci, par le biais du protocole NTP, objet de ce RFC.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -292,7 +276,6 @@ Item: RFC 5540: 40 Years of RFCs
 Date: Wed Apr 08 00:00:00 UTC 2009
 Ce mois d'avril marque le quarantième anniversaire du premier RFC, le 
 RFC 1, Host software, publié le 7 avril 1969.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -313,7 +296,6 @@ ce que contiennent les registres de route.
 [2] 
 http://www.renesys.com/blog/2009/03/compliance-scoring-by-country.shtml)
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -326,7 +308,6 @@ de sécurité. Il y a donc beaucoup de propositions pour améliorer les
 choses, dont ce RFC qui propose un mécanisme par lequel un message 
 électronique peut annoncer le nom d'un certificateur, qui se portera 
 garant (to vouch for) de son sérieux.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -346,7 +327,6 @@ connexion.
 
 [1] http://www.dnswitness.net/)
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -361,7 +341,6 @@ Maupassant, le Horla.
 [1] http://www.emportevoix.com
 [2] http://www.kibele.fr/)
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -373,7 +352,6 @@ Complétant la série de RFC sur l'internationalisation du courrier
 normalise la procédure de repli (downgrade) que doivent utiliser les 
 MTA lorsqu'ils essaient de transmettre un message RFC 5335 à un autre 
 MTA si ce dernier ne gère pas l'extension "UTF8SMTP" du RFC 5336.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -393,7 +371,6 @@ général de PSAMP.
 
 [1] http://www.ietf.org/html.charters/psamp-charter.html)
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -409,7 +386,6 @@ paquets.
 
 [1] http://www.ietf.org/html.charters/psamp-charter.html)
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -419,7 +395,6 @@ Date: Wed Apr 01 00:00:00 UTC 2009
 Voici donc les RFC décrivant le protocole IPFIX, le successeur 
 normalisé de Netflow. Ce RFC particulier décrit l'architecture 
 d'IPFIX.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -436,7 +411,6 @@ désagréablement en changeant soudain de domaine linguistique.
 
 [1] http://www.w3.org/TR/REC-html40/struct/links.html#adef-hreflang)
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -448,7 +422,6 @@ HTTP. Pour se connecter à sa machine distante avec SSH, il « suffit »
 d'avoir un serveur SSH qui écoute sur le port 443, celui normalement 
 dédié à HTTPS. Mais, si le réseau en question oblige à passer 
 explicitement par un relais, comme cela vient de m'arriver ?
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -464,7 +437,6 @@ sur Technical norms and Internet governance : socio-technical et
 socio-ethical dimensions.
 
 [1] http://www.info.fundp.ac.be/IG3T/),
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -482,7 +454,6 @@ données avec The manga guide to databases
 
 [1] http://press.oreilly.com/pub/pr/2099)
 [2] http://oreilly.com/catalog/9781593271909/index.html).
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -505,7 +476,6 @@ domaines composés d'un seul élément.
 [1] http://par.icann.org/)
 [2] http://www.icann.org/en/announcements/announcement-4-26jun08-en.htm)
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -526,7 +496,6 @@ toujours été à l'ISI...
 [2] http://www.isoc.org/standards/rfceditor/rfceditor-rfp.shtml),
 [3] http://www.rfc-editor.org/)
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -538,7 +507,6 @@ intitulé « Internet au bord de l'explosion ». L'article explique que
 ce n'est que par miracle que l'Internet continue de fonctionner et qu'il 
 est nécessaire de faire table rase de tout ce qui existe pour bâtir, 
 en partant de zéro, un réseau « meilleur ».
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -552,7 +520,6 @@ question des logiciels peu utilisés, qui intéressent peu de monde et
 n'ont donc guère de revues de sécurité, laissant ainsi leurs 
 utilisateurs dans le noir, quant aux risques de leur logiciel.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -565,7 +532,6 @@ du matériel sur Linux sont souvent très pénibles. Je documente ici
 mes aventures avec une carte Ethernet Realtek RTL8168, pour en garder 
 trace pour la prochaine fois et pour que cela puisse servir à d'autres.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -576,7 +542,6 @@ Ce RFC décrit les premières extensions au protocole cryptographique
 TLS. Il décrit le mécanisme général d'extension (qui a depuis été 
 déplacé dans le RFC 5246) puis certaines extensions spécifiques 
 (résumées en section 1).
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -592,7 +557,6 @@ in the Bone Trade. Il a également commis un excellent livre de fiction,
 The Gift, court roman sur le thème des relations très violentes dans 
 le milieu des chercheurs en paléoanthropologie. Très recommandé, 
 passionnante histoire, et très bons personnages.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -612,7 +576,6 @@ Code Like a Pythonista: Idiomatic Python
 [1] 
 http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html).
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -628,7 +591,6 @@ est la symbolique derrière ces curieuses scènes. C'est donc un terrain
 parfait pour la romancière Tracy Chevalier qui s'est lancée dans la 
 tâche d'imaginer les auteurs de la Dame à la Licorne.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -640,7 +602,6 @@ dans son célèbre livre Freakonomics. Donc, les ventes de pornographie
 en ligne sont aussi un sujet d'étude. Quel jour de la semaine y a t-il 
 le plus d'abonnements ? Dans quel état des États-Unis ? Ces achats 
 sont-ils corrélés à la pratique religieuse ? Au niveau de diplôme ?
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -658,7 +619,6 @@ il communique. On augmente ainsi les chances des connexion TCP de
 survivre aux longues coupures ou, au contraire, de détecter plus 
 rapidement la coupure du réseau.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -673,7 +633,6 @@ peu satisfaisants, notamment du point de vue des licences d'utilisation.
 Je suis donc repassé à ma première idée, un logiciel installé sur 
 le serveur. Il est désormais disponible depuis chaque page.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -684,7 +643,6 @@ Le tout nouveau moteur de recherche de ce blog (moteur-recherche.html)
 repose sur plusieurs techniques que j'apprécie, notamment WSGI 
 (wsgi.html), TAL (generer-html-avec-tal.html) et la recherche texte de 
 PostgreSQL.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -699,7 +657,6 @@ mode est d'installer un des innombrables environnements de
 développement et d'exécution, comme Django. Il existe encore une autre 
 solution, développer des applications en WSGI.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -711,7 +668,6 @@ domaine et pas des adresses IP pour contacter son maître, afin de lui
 demander des mises à jour, des listes d'actions à effectuer, etc. Mais 
 la nouvelle version, analysée il y a quelques jours, pousse cette 
 logique encore plus loin.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -728,7 +684,6 @@ extraterrestres retrouveront-ils quelque chose de nous ? C'est le point
 de départ de ce livre (ou, plus exactement, de cette série d'articles) 
 scientifico-journalistique.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -743,7 +698,6 @@ combinant une liste noire d'URL interdits et une liste blanche d'URL
 autorisés. Ces listes sont maintenues au petit bonheur la chance et 
 sont une grande source d'agacement pour les utilisateurs, comme le 
 montre le filtrage dans les bibliothèques parisiennes.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -764,7 +718,6 @@ plusieurs solutions à ce problème et notre RFC normalisait ODMR
 (On-demand mail relay), également appelé ATRN (Authenticated TURN). Il 
 n'a pas été un succès et reste très peu déployé aujourd'hui.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -774,7 +727,6 @@ Date: Tue Mar 10 00:00:00 UTC 2009
 Mettant à jour l'ancienne description, voici la nouvelle spécification 
 du protocole syslog, protocole de transmission d'informations sur les 
 événements observés par un système.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -788,7 +740,6 @@ Ce RFC normalise un transport des données authentifié et chiffré,
 grâce au protocole TLS, et permet donc de combler une des failles de 
 sécurité de syslog.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -799,7 +750,6 @@ L'Assemblée Nationale commence aujourd'hui l'examen du projet de loi
 Hadopi. Si elle est adoptée, cette loi innovera en droit pénal en 
 permettant des sanctions sans aucune procédure judiciaire.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -809,7 +759,6 @@ Date: Tue Mar 10 00:00:00 UTC 2009
 La nouvelle version du protocole syslog offre désormais le choix du 
 protocole de transport. Il y aura un RFC par transport et celui-ci 
 normalise le transport sur UDP.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -824,7 +773,6 @@ réseaux (cf. section 2 du RFC et le RFC 3410). Comment représenter une
 adresse ? La question est un peu plus difficile que cela ne parait et 
 méritait une norme.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -837,7 +785,6 @@ bien « authentique », qu'il a été validé et pas modifié ensuite.
 La technique la plus courante pour cela est la signature cryptographique 
 et ce nouveau RFC explique comment elle s'appliquera aux 
 Internet-Drafts.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -852,7 +799,6 @@ trace de ce que j'ai compris la dernière fois, le plus simple est
 encore d'en faire profiter l'univers en mettant quelques notes sur ce 
 blog.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -864,7 +810,6 @@ d'acheminement des paquets. Cette métrique est assez souple pour que,
 en pratique, plusieurs formules aient été utilisées. Ce RFC en 
 discute deux et précise leur usage.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -875,7 +820,6 @@ Une fois capturés et stockés sur disque (capture-paquets.html), au
 format pcap, les paquets doivent être disséqués pour trouver les 
 éléments intéressants. Quels sont les particularités de la 
 dissection de paquets DNS ?
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -891,7 +835,6 @@ comme on authentifie le DNS avec DNSSEC ? Il y a plusieurs raisons à
 cela, mais l'une est souvent oubliée : il n'y a pas de moyen facile de 
 « prouver » qu'on est bien le titulaire d'une ressource Internet, 
 par exemple une adresse IP.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -915,7 +858,6 @@ système de fichiers, stocke le type de chaque fichier sous forme d'un
 type de média. Logiquement, le nom officiel a donc changé et on ne 
 devrait plus dire type MIME mais « type du média ».
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -938,7 +880,6 @@ l'emporter facilement contre des concurrents compliqués à déployer et
 [1] 
 http://groups.google.com/group/comp.security.unix/msg/67079d812a19f499),
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -951,7 +892,6 @@ route inaccessible ? La norme traditionnelle est peu respectée et ce
 RFC explique pourquoi et documente la réaction la plus courante des 
 mises en œuvre de TCP.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -961,7 +901,6 @@ Date: Thu Feb 26 00:00:00 UTC 2009
 Cette norme modifie le protocole BGP (RFC 4271) pour ajouter une 
 nouvelle option, qui est plutôt une méta-option, permettant de 
 décrire des capacités optionnelles d'un pair BGP.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -979,7 +918,6 @@ ressources sont en effet des projets issus de la base, comme le
 wiktionnaire, pas des projets officiels). Mais peut-être y a t-il des 
 ressources pour le français que je ne connais pas ?
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -989,7 +927,6 @@ Date: Wed Feb 25 00:00:00 UTC 2009
 La déjà très longue série des RFC sur IMAP s'agrandit avec cette 
 norme pour le nommage de filtres IMAP. On peut désormais stocker ses 
 filtres sous un nom et les réutiliser plus tard.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -1008,7 +945,6 @@ disponible, ITAR (https://itar.iana.org/).[1]
 
 [1] https://itar.iana.org/).
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1026,7 +962,6 @@ par autoconfiguration (RFC 4862) ? Ou par des une des autres méthodes
 citées dans l'annexe A du RFC ? Dans ce cas, le logiciel doit prendre 
 garde à ne pas utiliser ces identificateurs notre RFC que réserve.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1038,7 +973,6 @@ paquets IP qui circulent, il peut injecter de faux paquets, avec une
 fausse adresse IP source, etc. Il existe des tas de façons d'aborder ce 
 problème et ce RFC décrit une des plus ambitieuses, une complète 
 architecture de sécurité pour IP, IPsec.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -1054,7 +988,6 @@ préférerait savoir le temps qu'il lui reste avant l'arrivée des
 copies de la dernière saison de Desperate Housewives. D'où la 
 définition formelle de ce débit, dans ce RFC.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1066,7 +999,6 @@ les jours. Depuis la norme originale, le RFC 3261, ce sont des dizaines
 de RFC que devrait lire l'implémenteur de SIP consciencieux. Pour lui 
 faciliter la vie, ce RFC résume les RFC pertinents sur SIP et les 
 classe en catégories.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -1083,7 +1015,6 @@ d'une expression anglophone intraduisible). Les BoF sont actives depuis
 de nombreuses années et le premier RFC qui les avait mentionnées 
 était le RFC 2418, dans sa section 2.4.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1094,7 +1025,6 @@ Le langage de description de filtres de courrier Sieve dispose d'une
 possibilité de notification. Avec ce RFC la notification peut utiliser 
 le protocole XMPP, ce qui intéressera surtout les utilisateurs de la 
 messagerie instantanée.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -1107,7 +1037,6 @@ normalisé dans le RFC 5435. Il se décline en plusieurs mécanismes,
 pour envoyer des SMS, des coups de téléphone, ou bien même, avec 
 notre RFC 5436, du courrier.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1118,7 +1047,6 @@ Le langage de filtrage du courrier Sieve se voit désormais doté d'une
 nouvelle fonction, la possibilité de prévenir lors de l'arrivée de 
 certains messages. Cette notification pourra se faire via plusieurs 
 protocoles, spécifiés dans d'autres RFC.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -1134,7 +1062,6 @@ d'éventuelles violations de la transparence du réseau, par exemple de
 la limitation de trafic BitTorrent.
 
 [1] http://www.measurementlab.net/),
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -1157,7 +1084,6 @@ par exemple pour apprendre des protocoles dont on n'a pas de mise en
 
 [1] http://www.pcapr.net
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1175,7 +1101,6 @@ fournir une réelle protection. Alors, que faire en attendant ? Ce RFC
 documente les mesures que devrait prendre un résolveur pour ne pas se 
 faire empoisonner.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1187,7 +1112,6 @@ numérique où les clés cryptographiques sont dérivées de l'identité
 (par exemple d'une adresse de courrier). Ce RFC normalise son 
 utilisation, notamment dans S/MIME.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1197,7 +1121,6 @@ Date: Sat Jan 24 00:00:00 UTC 2009
 Depuis au moins le 7 janvier, une série d'attaques DoS utilisant le DNS 
 a lieu. Parfois nommée ISPrime, du nom de la première victime, cette 
 attaque utilise une variante originale des attaques par amplification.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -1211,7 +1134,6 @@ structures de données les plus courantes en programmation, en partie à
 cause de leur simplicité. Sont-elles réservées aux langages de haut 
 niveau ? Et en C ?
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1222,7 +1144,6 @@ Le résolveur DNS le plus courant, dans le monde du logiciel libre, est
 BIND. Mais il est toujours bon qu'il existe des alternatives sérieuses, 
 pour faire face à toute éventualité. Le deuxième résolveur DNS le 
 plus utilisé est sans doute Unbound.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -1241,7 +1162,6 @@ connues. La thèse de Peter Daniels, exposée dans la section 1, est que
 l'écriture mérite une science à elle, qu'il nomme grammatologie, 
 distincte de la linguistique.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1256,7 +1176,6 @@ qu'à signer des clés, afin d'être moins exposées que les autres.
 Pour permettre de distinguer ces clés, un bit spécial est réservé 
 par ce RFC.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1270,7 +1189,6 @@ un programme écrit en C. Mais la plupart des exemples qu'on trouve en
 ligne ne concernent qu'IPv4. Son possible successeur, IPv6, est-il plus 
 ou moins difficile à analyser ?
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1280,7 +1198,6 @@ Date: Wed Jan 14 00:00:00 UTC 2009
 Quelle est la taille du plus célèbre des botnets, Storm ? Selon un 
 article de chercheurs à l'UCSD, elle serait moins importante 
 qu'annoncée.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -1302,7 +1219,6 @@ d'identité ».
 
 [1] http://www.fulbi.fr/spip.php?article40)
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1321,7 +1237,6 @@ renseigne pas car il a pu être modifié à d'autres endroits. Pourquoi
 tout le monde ne met-il pas la date de la modification lorsqu'il ajoute 
 un tel commentaire ?
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1336,7 +1251,6 @@ assez proche ? ». Pour comprendre pourquoi c'est une idée difficile
 à appliquer, prenons le cas d'un étranger qui demande son chemin à 
 Helsinki.
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1350,7 +1264,6 @@ ordinateurs ? Pourquoi n'y a t-il pas davantage de dessins sur ce
 blog ? Une des raisons est que je dessine très mal à la souris, je 
 préfère utiliser un langage de description de schémas, comme 
 Graphviz.
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -1373,7 +1286,6 @@ l'établissement préalable d'une connexion et cela prend du temps
 (trois trajets sont nécessaires, donc la latence est parfois 
 importante).
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1391,7 +1303,6 @@ vulnérabilité de TCP soit très générale, cette solution n'a été
 utilisée que pour BGP. Le résultat est un très court RFC, traitant - 
 assez mal - un problème très particulier.)
 
-
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
 ****************************************
@@ -1405,7 +1316,6 @@ en adhérant à un système d'échange de maisons comme Homelink
 (http://www.homelink.fr/).[1]
 
 [1] http://www.homelink.fr/).
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
@@ -1422,7 +1332,6 @@ Performance Metrics) a commencé par ce RFC 2330 qui essaie de définir
 un cadre solide pour parler de mesures de performances.
 
 [1] http://tools.ietf.org/wg/ippm)
-
 
 Feed: Blog de Stéphane Bortzmeyer
 <http://www.gnu.org/copyleft/fdl.html>
