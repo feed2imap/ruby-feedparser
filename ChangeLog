@@ -1,3 +1,10 @@
+Ruby-Feedparser 0.7 (10/05/2009)
+================================
+* Handled several creators per feed item
+* Fix bug with urls into tag attributes
+* Better item categories support
+* Reworked text output formatting
+
 Ruby-Feedparser 0.6 (23/07/2008)
 ================================
 * Moved to_human_readable from class Fixnum to class Integer.
