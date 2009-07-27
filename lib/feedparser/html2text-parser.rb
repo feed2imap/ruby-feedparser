@@ -399,7 +399,11 @@ module FeedParser
       "euro" => 8364
     }
     def unknown_entityref(ref)
-      if HTML_ENTITIES.has_key?(ref)
+      # hack to avoid considering &shy;, as it is misused by some blog software (dotclear2)
+      # see http://www.cs.tut.fi/~jkorpela/shy.html
+      if ref == 'shy'
+        handle_data('')
+      elsif HTML_ENTITIES.has_key?(ref)
         handle_data([HTML_ENTITIES[ref]].pack('U*'))
       else
         handle_data(ref)

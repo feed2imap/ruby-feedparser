@@ -1,9 +1,10 @@
-Ruby-Feedparser 0.7 (10/05/2009)
+Ruby-Feedparser 0.7 (27/07/2009)
 ================================
 * Handled several creators per feed item
 * Fix bug with urls into tag attributes
 * Better item categories support
 * Reworked text output formatting
+* Ignore &shy;, as some blog software (dotclear2) misuse it.
 
 Ruby-Feedparser 0.6 (23/07/2008)
 ================================
