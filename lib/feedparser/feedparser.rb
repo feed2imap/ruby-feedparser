@@ -34,6 +34,7 @@ module FeedParser
       # get feed info
       @encoding = doc.encoding
       @title,@link,@description,@creator = nil
+			@title = ""
       @items = []
       if doc.root.elements['channel'] || doc.root.elements['rss:channel']
         @type = "rss"
@@ -120,7 +121,7 @@ module FeedParser
   # an Item from a feed
   class FeedItem
     attr_accessor :title, :link, :content, :date, :creators, :subject,
-                  :cacheditem
+                  :cacheditem, :links
 
     # The item's categories/tags. An array of strings.
     attr_accessor :categories
@@ -137,9 +138,12 @@ module FeedParser
       @xml = item
       @feed = feed
       @title, @link, @content, @date, @subject = nil
+			@links = []
       @creators = []
       @categories = []
       @enclosures = []
+
+			@title = ""
       parse(item) if item
     end
 
@@ -261,8 +265,12 @@ module FeedParser
       end
       # Link
       item.each_element('link') do |e|
+
         if (h = e.attribute('href')) && h.value
           @link = h.value
+
+					@links << {:href => h.value, :type => e.attribute('type').value}
+
         end
       end
       # Content
