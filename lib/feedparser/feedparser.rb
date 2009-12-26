@@ -269,7 +269,11 @@ module FeedParser
         if (h = e.attribute('href')) && h.value
           @link = h.value
 
-					@links << {:href => h.value, :type => e.attribute('type').value}
+          if e.attribute('type')
+            @links << {:href => h.value, :type => e.attribute('type').value}
+          else
+            @links << {:href => h.value, :type => ''}
+          end
 
         end
       end
