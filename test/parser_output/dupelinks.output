@@ -1,0 +1,18 @@
+Type: atom
+Encoding: UTF-8
+Title: Blog de Stéphane Bortzmeyer
+Link: http://www.gnu.org/copyleft/fdl.html
+Description: 
+Creator: 
+
+--------------------------------
+Title: RFC 5511: Routing Backus-Naur Form (RBNF) : A Syntax Used to Form Encoding Rules in Various Routing Protocol Specifications
+Link: http://www.bortzmeyer.org/tests-disques-postgresql.html
+Date: Sun May 03 00:00:00 UTC 2009
+Creator: 
+Subject: 
+Content:
+Ceci
+		est un <a href='http://www.google.fr'>lien</a>. Ceci est un <a href='http://www.google.com'>autre lien</a>. Et <a href='http://www.google.fr'>encore un autre
+			lien</a>.<br/>
+		Et maintenant, <img src='http://foo.com/img.png'/>, <img src='http://foo.com/img2.png'/>, <img src='http://foo.com/img.png'/>.

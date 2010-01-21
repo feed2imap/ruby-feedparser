@@ -11,6 +11,7 @@ module FeedParser
       @pre = false
       @href = nil
       @links = []
+      @curlink = []
       @imgs = []
       @img_index = '@'
       super(verbose)
@@ -70,7 +71,14 @@ module FeedParser
           end
         end
         if @href
-          @links << @href.gsub(/^("|'|)(.*)("|')$/,'\2')
+          @href.gsub!(/^("|'|)(.*)("|')$/,'\2')
+          @curlink = @links.find_index(@href)
+          if @curlink.nil?
+            @links << @href
+            @curlink = @links.length
+          else
+            @curlink += 1
+          end
         end
       when 'img'
         # find src in args
@@ -81,8 +89,14 @@ module FeedParser
           end
         end
         if src
-          idx = next_img_index
-          @imgs << [ idx, src.gsub(/^("|'|)(.*)("|')$/,'\2') ]
+          src.gsub!(/^("|'|)(.*)("|')$/,'\2')
+          i = @imgs.index { |e| e[1] == src }
+          if i.nil?
+            idx = next_img_index
+            @imgs << [ idx, src ]
+          else
+            idx = @imgs[i][0]
+          end
           @savedata << "[#{idx}]"
         end
       else
@@ -125,7 +139,7 @@ module FeedParser
         @pre = false
       when 'a'
         if @href
-          @savedata << "[#{@links.length}]"
+          @savedata << "[#{@curlink}]"
           @href = nil
         end
       end

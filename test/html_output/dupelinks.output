@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Blog de Stéphane Bortzmeyer</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+</head>
+<body>
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed title:</b></td>
+<td width="100%"><a href="http://www.gnu.org/copyleft/fdl.html">
+<b>Blog de Stéphane Bortzmeyer</b>
+</a>
+</td></tr><tr><td align="right"><b>Type:</b></td>
+<td width="100%">atom</td></tr><tr><td align="right"><b>Encoding:</b></td>
+<td width="100%">UTF-8</td></tr></table></td></tr></table>
+
+<hr/><!-- *********************************** -->
+<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
+<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<tr><td align="right"><b>Feed:</b></td>
+<td width="100%"><a href="http://www.gnu.org/copyleft/fdl.html">
+<b>Blog de Stéphane Bortzmeyer</b>
+</a>
+</td></tr><tr><td align="right"><b>Item:</b></td>
+<td width="100%"><a href="http://www.bortzmeyer.org/tests-disques-postgresql.html"><b>RFC 5511: Routing Backus-Naur Form (RBNF) : A Syntax Used to Form Encoding Rules in Various Routing Protocol Specifications</b>
+</a>
+</td></tr></table></td></tr></table>
+
+<br/>
+Ceci
+		est un <a href='http://www.google.fr'>lien</a>. Ceci est un <a href='http://www.google.com'>autre lien</a>. Et <a href='http://www.google.fr'>encore un autre
+			lien</a>.<br/>
+		Et maintenant, <img src='http://foo.com/img.png'/>, <img src='http://foo.com/img2.png'/>, <img src='http://foo.com/img.png'/>.
+<hr width="100%"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun May 03 00:00:00 UTC 2009</font></td></tr>
+</table>
+
+</body></html>
