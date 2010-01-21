@@ -164,7 +164,7 @@ The logical conclusion is that cvs.debian.org should be deprecated in favor of A
 
 All in all, the debian-doc and debian-www folks are rather supportive of the move, but it requires adjustment to the build infrastructure, in particular to keep track of the status of translations. I have no answer from DSA and the buildd guys however.
 
-The web team started a wiki page[6] to evaluate the VCS that they would switch to. Volunteers would be welcome to organize the conversion of the repositories and to fix the build infrastructure accordingly. This a nice little project for new contributors that want to learn. [B]
+The web team started a wiki page[6] to evaluate the VCS that they would switch to. Volunteers would be welcome to organize the conversion of the repositories and to fix the build infrastructure accordingly. This a nice little project for new contributors that want to learn. [A]
 
 [1] https://rt.debian.org/Ticket/Display.html?id=146
 [2] http://lists.debian.org/debian-www/2007/08/msg00077.html
@@ -174,7 +174,6 @@ The web team started a wiki page[6] to evaluate the VCS that they would switch t
 [6] http://wiki.debian.org/WebsiteVCSEvaluation
 
 [A] http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif
-[B] http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif
 
 Feed: Planet Debian
 <http://planet.debian.org/>
@@ -785,9 +784,9 @@ The major changes in this release are all in the communication between APT and D
 
 Though better, HTTP/1.1 is not ideal for DebTorrent however, as a maximum of 10 outstanding requests is maintained by APT's http method, and files must still be returned in the order they were requested (which is not ideal for bittorrent-type downloading since downloads occur randomly).
 
-To further improve the APT communication I have modified APT's http method to create a debtorrent method. This new debtorrent transport for APT is packaged separately as apt-transport-debtorrent, and once installed APT can be told to use it by replacing "http://" with "debtorrent://" in your sources.list file. This method sends all requests it receives immediately to DebTorrent, and will receive responses from DebTorrent in any order. You can find this new method on the Alioth project[3], or in my personal repository[4] (only amd64 and i386 versions are currently available).
+To further improve the APT communication I have modified APT's http method to create a debtorrent method. This new debtorrent transport for APT is packaged separately as apt-transport-debtorrent, and once installed APT can be told to use it by replacing "http://" with "debtorrent://" in your sources.list file. This method sends all requests it receives immediately to DebTorrent, and will receive responses from DebTorrent in any order. You can find this new method on the Alioth project[1], or in my personal repository[3] (only amd64 and i386 versions are currently available).
 
-Unfortunately, the story doesn't end here. The APT code responsible for sending requests to the method also limits the maximum number of outstanding requests that it will send to the method to 10, which is not really necessary since all existing methods limit the requests they send out themselves. I have therefore patched the current APT code to increase this limit to 1000 (a one line change), and released this patched version as 0.7.6-0.1. You can find this patched version in my personal repository[5] (again, only for i386 and amd64). I have tested it with the other methods available and it causes no problems, and I hope to get the change included in the regular APT code soon.
+Unfortunately, the story doesn't end here. The APT code responsible for sending requests to the method also limits the maximum number of outstanding requests that it will send to the method to 10, which is not really necessary since all existing methods limit the requests they send out themselves. I have therefore patched the current APT code to increase this limit to 1000 (a one line change), and released this patched version as 0.7.6-0.1. You can find this patched version in my personal repository[3] (again, only for i386 and amd64). I have tested it with the other methods available and it causes no problems, and I hope to get the change included in the regular APT code soon.
 
 To sum up:
 
@@ -795,9 +794,9 @@ To sum up:
 - new DebTorrent with new apt-transport-debtorrent = faster
 - new DebTorrent with new apt-transport-debtorrent and a patched APT = fastest
 
-The last DebTorrent version (0.1.3.1) is currently in the NEW queue[6], and judging by the length of it, will be there for about another week. After DebTorrent is added to the archive, I will be upgrading it to this new version. I also hope to get the new apt-transport-debtorrent package into the NEW queue soon.
+The last DebTorrent version (0.1.3.1) is currently in the NEW queue[4], and judging by the length of it, will be there for about another week. After DebTorrent is added to the archive, I will be upgrading it to this new version. I also hope to get the new apt-transport-debtorrent package into the NEW queue soon.
 
-This brings to an end the Google Summer of Code[7] (which this project was created as a part of[8]), but development of DebTorrent will of course continue (probably a little slower). The next major change will be the addition of unique piece numbers[9], which is almost complete but needs to be extensively tested. I'd like to thank Anthony Towns, Steve McIntyre, and Michael Vogt for their help over the last 4 months, and also the many others who sent me encouraging emails or engaged in interesting discussions about this project. It's the people who make a project like this a fun and memorable thing to do.
+This brings to an end the Google Summer of Code[5] (which this project was created as a part of[6]), but development of DebTorrent will of course continue (probably a little slower). The next major change will be the addition of unique piece numbers[7], which is almost complete but needs to be extensively tested. I'd like to thank Anthony Towns, Steve McIntyre, and Michael Vogt for their help over the last 4 months, and also the many others who sent me encouraging emails or engaged in interesting discussions about this project. It's the people who make a project like this a fun and memorable thing to do.
 
 Here's the changelog for the new DebTorrent release:
 
@@ -817,13 +816,11 @@ Here's the changelog for the new DebTorrent release:
 
 [1] https://alioth.debian.org/frs/?group_id=31109
 [2] http://debtorrent.alioth.debian.org/
-[3] https://alioth.debian.org/frs/?group_id=31109
-[4] http://debian.camrdale.org/
-[5] http://debian.camrdale.org/
-[6] http://ftp-master.debian.org/new.html
-[7] http://code.google.com/soc/2007/
-[8] http://code.google.com/soc/2007/debian/appinfo.html?csaid=46454031B77ABCBA
-[9] http://wiki.debian.org/DebTorrent/UniquePieces
+[3] http://debian.camrdale.org/
+[4] http://ftp-master.debian.org/new.html
+[5] http://code.google.com/soc/2007/
+[6] http://code.google.com/soc/2007/debian/appinfo.html?csaid=46454031B77ABCBA
+[7] http://wiki.debian.org/DebTorrent/UniquePieces
 
 Feed: Planet Debian
 <http://planet.debian.org/>

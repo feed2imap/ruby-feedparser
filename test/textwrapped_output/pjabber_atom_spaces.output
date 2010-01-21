@@ -193,7 +193,7 @@ check out Daniel’s post[8] for details on the release.
 
 *SparkWeb 1.0.0 Beta 1*
 
-The first downloadable release of SparkWeb is now ready[9]. Over the 
+The first downloadable release of SparkWeb is now ready[7]. Over the 
 last week, we fixed support for Safari, did many UI tweaks and added 
 minor new features like emoticon support.
 
@@ -208,7 +208,6 @@ http://www.igniterealtime.org/builds/spark/docs/2.5.0.beta2/changelog.html
 http://www.igniterealtime.org/projects/wildfire/plugins-beta/gateway/changelog.html
 [7] http://www.igniterealtime.org/projects/wildfire/plugins-beta.jsp
 [8] http://www.igniterealtime.org/forum/thread.jspa?threadID=24503
-[9] http://www.igniterealtime.org/projects/wildfire/plugins-beta.jsp
 
 Feed: Planet Jabber
 <http://planet.jabber.org/>
@@ -268,13 +267,12 @@ Apps[1] (better read from Firefox to compare the examples). The
 rendering speed for a large three is 4400 ms in DHTML versus 650 ms in 
 XUL. Yes, it makes a real difference in term of usability.
 
-You can check it by yourself in OneTeam[2]. The beta test[3] for our XUL 
+You can check it by yourself in OneTeam[2]. The beta test[2] for our XUL 
 based Enterprise Instant Messaging has started and the demand is huge. 
 Please be patient, we are creating new accounts every day.
 
 [1] http://www.xml.com/pub/a/2007/01/31/xul-enhanced-web-apps.html
 [2] http://www.process-one.net/en/oneteam/
-[3] http://www.process-one.net/en/oneteam/
 
 Feed: Planet Jabber
 <http://planet.jabber.org/>

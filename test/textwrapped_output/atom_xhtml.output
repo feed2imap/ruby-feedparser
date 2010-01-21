@@ -275,7 +275,7 @@ Rails.” So, for example, how do we find out how fast MagLev will run
 Rails, without going through all the pain of making MagLev run Rails?
 
 Antonio Cangiano sensibly proposed Let’s create a Ruby Benchmark 
-Suite[5]; when Avi Bryant told me he’d tried my RX code on MagLev, it 
+Suite[4]; when Avi Bryant told me he’d tried my RX code on MagLev, it 
 occurred to me that it might be an interesting benchmark.
 
 RX refresher: It’s a pure automaton-based XML tokenizer whose 
@@ -310,7 +310,7 @@ unsigned-integer value of the last byte of a buffer, without processing
 through the whole (potentially large) buffer, with code that runs in 
 both Rubies?
 
-I poked around on IRC and Eric Hodel[6] managed to improve on my 
+I poked around on IRC and Eric Hodel[5] managed to improve on my 
 original suggestion. Read it and weep:
 
 def byte_at(s, i)
@@ -347,16 +347,15 @@ the failure with a small file containing that.
 -
 
 I asked Sam Ruby whether I should be surprised, and a glance at his 
-continuous-integration setup for 1.9[7] reveals that I shouldn’t, 
+continuous-integration setup for 1.9[6] reveals that I shouldn’t, 
 there are lots of tests failing.
 -
 
 There is quite a bit of disgruntlement about XML and Ruby right at this 
-point in time; see The Status of Ruby’s libxml[8] and My Frustrations 
+point in time; see The Status of Ruby’s libxml[7] and My Frustrations 
 with REXML: Ruby’s Standard Library for Reading/Writing XML; or, 
 Ruby’s Problem Is Its Type System, and Don’t Try to Tell Me 
-Otherwise[9] and Does Ruby's support for XML suck? I need your 
-input[10].
+Otherwise[8] and Does Ruby's support for XML suck? I need your input[9].
 -
 
 The issue is under discussion on the ruby-core mailing list.
@@ -370,15 +369,13 @@ other implementors want a whack at it?
 [3] /ongoing/When/200x/2006/11/23/RX-plus-YARV
 [4] 
 http://antoniocangiano.com/2008/06/01/help-me-create-the-ruby-benchmark-suite/
-[5] 
-http://antoniocangiano.com/2008/06/01/help-me-create-the-ruby-benchmark-suite/
-[6] http://segment7.net/
-[7] http://www.intertwingly.net/blog/2008/01/31/Ruby-CI-Efforts
-[8] 
+[5] http://segment7.net/
+[6] http://www.intertwingly.net/blog/2008/01/31/Ruby-CI-Efforts
+[7] 
 http://enfranchisedmind.com/blog/2008/05/27/the-status-of-rubys-libxml/
-[9] 
+[8] 
 http://enfranchisedmind.com/blog/2008/03/24/rexml-dynamic-typing-lose/
-[10] http://www.rubyflow.com/items/388
+[9] http://www.rubyflow.com/items/388
 
 Feed: ongoing
 Filed under: Technology/XML, Technology, XML, Technology/Ruby, Ruby
@@ -1009,7 +1006,7 @@ Bannister[4], and Erik Engbrecht[5]. (Unfortunately, given the test data
 we have, I don’t see us being able to follow Erik’s “non-ASCII” 
 suggestion).
 
-Of the suggestions on offer at the benchmark page[6], I prefer the last 
+Of the suggestions on offer at the benchmark page[2], I prefer the last 
 couple. Session statistics are a little trickier, and I suspect a bit 
 more resistant to a brute-force Map/Reduce approach. And the “normal 
 HTML report” idea is very much in the spirit of Wide Finder 1, only 
@@ -1027,7 +1024,6 @@ http://wikis.sun.com/display/WideFinder/The+Benchmark?focusedCommentId=25887354#
 http://wikis.sun.com/display/WideFinder/The+Benchmark?focusedCommentId=25887368#comment-25887368
 [5] 
 http://wikis.sun.com/display/WideFinder/The+Benchmark?focusedCommentId=25887443#comment-25887443
-[6] http://wikis.sun.com/display/WideFinder/The+Benchmark
 
 Feed: ongoing
 Filed under: Technology/Concurrency, Technology, Concurrency

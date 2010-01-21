@@ -153,7 +153,7 @@ Benchmarking
 
 There’s this problem in that there are a lot of plausible-looking Ruby implementations now (MRI, YARV, JRuby, Rubinius, IronRuby, MagLev) and it would be nice to compare performance. I was talking to some of the implementers about this and someone (Charles Nutter I think) said “Problem is, there’s this huge gap between running fib() and running Rails.” So, for example, how do we find out how fast MagLev will run Rails, without going through all the pain of making MagLev run Rails?
 
-Antonio Cangiano sensibly proposed Let’s create a Ruby Benchmark Suite[5]; when Avi Bryant told me he’d tried my RX code on MagLev, it occurred to me that it might be an interesting benchmark.
+Antonio Cangiano sensibly proposed Let’s create a Ruby Benchmark Suite[4]; when Avi Bryant told me he’d tried my RX code on MagLev, it occurred to me that it might be an interesting benchmark.
 
 RX refresher: It’s a pure automaton-based XML tokenizer whose performance is *totally* dependent on the efficiency of dereferencing integer arrays, and it turns out that mainstream Ruby really sucks at this.
 
@@ -167,7 +167,7 @@ Perhaps the single most visible difference between today’s Ruby and tomorrow�
 
 Here’s one of the detail issues, to give a feeling for the problems. Suppose you know that your input stream is in UTF-8 and you’ve read a buffer-full of data and you want to turn it into Unicode integer characters for the parser. The problem is that the buffer might end in the middle of a multi-byte UTF-8 character. Easy enough, a glance at the last byte will diagnose that. The problem is, how do you pull out the unsigned-integer value of the last byte of a buffer, without processing through the whole (potentially large) buffer, with code that runs in both Rubies?
 
-I poked around on IRC and Eric Hodel[6] managed to improve on my original suggestion. Read it and weep:
+I poked around on IRC and Eric Hodel[5] managed to improve on my original suggestion. Read it and weep:
 
 def byte_at(s, i)
 s[i, 1].unpack('C')[0]
@@ -192,10 +192,10 @@ In the stream mode, it apparently fell over while trying to handle an instance o
 In the DOM mode, it incorrectly reported an error on a CDATA section containing an XML declaration and DOCTYPE, but I couldn’t replicate the failure with a small file containing that.
 -
 
-I asked Sam Ruby whether I should be surprised, and a glance at his continuous-integration setup for 1.9[7] reveals that I shouldn’t, there are lots of tests failing.
+I asked Sam Ruby whether I should be surprised, and a glance at his continuous-integration setup for 1.9[6] reveals that I shouldn’t, there are lots of tests failing.
 -
 
-There is quite a bit of disgruntlement about XML and Ruby right at this point in time; see The Status of Ruby’s libxml[8] and My Frustrations with REXML: Ruby’s Standard Library for Reading/Writing XML; or, Ruby’s Problem Is Its Type System, and Don’t Try to Tell Me Otherwise[9] and Does Ruby's support for XML suck? I need your input[10].
+There is quite a bit of disgruntlement about XML and Ruby right at this point in time; see The Status of Ruby’s libxml[7] and My Frustrations with REXML: Ruby’s Standard Library for Reading/Writing XML; or, Ruby’s Problem Is Its Type System, and Don’t Try to Tell Me Otherwise[8] and Does Ruby's support for XML suck? I need your input[9].
 -
 
 The issue is under discussion on the ruby-core mailing list.
@@ -206,12 +206,11 @@ Well, there you go. By the way, in Ruby 1.9’s favor, it runs the (simplified d
 [2] /ongoing/When/200x/2006/11/15/RS-Redux
 [3] /ongoing/When/200x/2006/11/23/RX-plus-YARV
 [4] http://antoniocangiano.com/2008/06/01/help-me-create-the-ruby-benchmark-suite/
-[5] http://antoniocangiano.com/2008/06/01/help-me-create-the-ruby-benchmark-suite/
-[6] http://segment7.net/
-[7] http://www.intertwingly.net/blog/2008/01/31/Ruby-CI-Efforts
-[8] http://enfranchisedmind.com/blog/2008/05/27/the-status-of-rubys-libxml/
-[9] http://enfranchisedmind.com/blog/2008/03/24/rexml-dynamic-typing-lose/
-[10] http://www.rubyflow.com/items/388
+[5] http://segment7.net/
+[6] http://www.intertwingly.net/blog/2008/01/31/Ruby-CI-Efforts
+[7] http://enfranchisedmind.com/blog/2008/05/27/the-status-of-rubys-libxml/
+[8] http://enfranchisedmind.com/blog/2008/03/24/rexml-dynamic-typing-lose/
+[9] http://www.rubyflow.com/items/388
 
 Feed: ongoing
 Filed under: Technology/XML, Technology, XML, Technology/Ruby, Ruby
@@ -599,7 +598,7 @@ Date: Sat May 31 06:19:43 UTC 2008
 
 I particularly liked the comments from MenTaLguY[3], Preston Bannister[4], and Erik Engbrecht[5]. (Unfortunately, given the test data we have, I don’t see us being able to follow Erik’s “non-ASCII” suggestion).
 
-Of the suggestions on offer at the benchmark page[6], I prefer the last couple. Session statistics are a little trickier, and I suspect a bit more resistant to a brute-force Map/Reduce approach. And the “normal HTML report” idea is very much in the spirit of Wide Finder 1, only with a bit more computation involved, perhaps enough to keep it from being a pure parallel-I/O benchmark.
+Of the suggestions on offer at the benchmark page[2], I prefer the last couple. Session statistics are a little trickier, and I suspect a bit more resistant to a brute-force Map/Reduce approach. And the “normal HTML report” idea is very much in the spirit of Wide Finder 1, only with a bit more computation involved, perhaps enough to keep it from being a pure parallel-I/O benchmark.
 
 Your thoughts? I suppose I’m signed up to build a reference implementation for verifying output.
 
@@ -608,7 +607,6 @@ Your thoughts? I suppose I’m signed up to build a reference implementation for
 [3] http://wikis.sun.com/display/WideFinder/The+Benchmark?focusedCommentId=25887354#comment-25887354
 [4] http://wikis.sun.com/display/WideFinder/The+Benchmark?focusedCommentId=25887368#comment-25887368
 [5] http://wikis.sun.com/display/WideFinder/The+Benchmark?focusedCommentId=25887443#comment-25887443
-[6] http://wikis.sun.com/display/WideFinder/The+Benchmark
 
 Feed: ongoing
 Filed under: Technology/Concurrency, Technology, Concurrency

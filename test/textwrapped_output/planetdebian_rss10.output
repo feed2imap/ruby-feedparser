@@ -216,7 +216,7 @@ from DSA and the buildd guys however.
 The web team started a wiki page[6] to evaluate the VCS that they would 
 switch to. Volunteers would be welcome to organize the conversion of the 
 repositories and to fix the build infrastructure accordingly. This a 
-nice little project for new contributors that want to learn. [B]
+nice little project for new contributors that want to learn. [A]
 
 [1] https://rt.debian.org/Ticket/Display.html?id=146
 [2] http://lists.debian.org/debian-www/2007/08/msg00077.html
@@ -226,7 +226,6 @@ nice little project for new contributors that want to learn. [B]
 [6] http://wiki.debian.org/WebsiteVCSEvaluation
 
 [A] http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif
-[B] http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif
 
 Feed: Planet Debian
 <http://planet.debian.org/>
@@ -1479,7 +1478,7 @@ installed APT can be told to use it by replacing "http://" with
 "debtorrent://" in your sources.list file. This method sends all 
 requests it receives immediately to DebTorrent, and will receive 
 responses from DebTorrent in any order. You can find this new method on 
-the Alioth project[3], or in my personal repository[4] (only amd64 and 
+the Alioth project[1], or in my personal repository[3] (only amd64 and 
 i386 versions are currently available).
 
 Unfortunately, the story doesn't end here. The APT code responsible for 
@@ -1489,7 +1488,7 @@ really necessary since all existing methods limit the requests they send
 out themselves. I have therefore patched the current APT code to 
 increase this limit to 1000 (a one line change), and released this 
 patched version as 0.7.6-0.1. You can find this patched version in my 
-personal repository[5] (again, only for i386 and amd64). I have tested 
+personal repository[3] (again, only for i386 and amd64). I have tested 
 it with the other methods available and it causes no problems, and I 
 hope to get the change included in the regular APT code soon.
 
@@ -1500,16 +1499,16 @@ To sum up:
 - new DebTorrent with new apt-transport-debtorrent and a patched APT = 
 fastest
 
-The last DebTorrent version (0.1.3.1) is currently in the NEW queue[6], 
+The last DebTorrent version (0.1.3.1) is currently in the NEW queue[4], 
 and judging by the length of it, will be there for about another week. 
 After DebTorrent is added to the archive, I will be upgrading it to this 
 new version. I also hope to get the new apt-transport-debtorrent package 
 into the NEW queue soon.
 
-This brings to an end the Google Summer of Code[7] (which this project 
-was created as a part of[8]), but development of DebTorrent will of 
+This brings to an end the Google Summer of Code[5] (which this project 
+was created as a part of[6]), but development of DebTorrent will of 
 course continue (probably a little slower). The next major change will 
-be the addition of unique piece numbers[9], which is almost complete but 
+be the addition of unique piece numbers[7], which is almost complete but 
 needs to be extensively tested. I'd like to thank Anthony Towns, Steve 
 McIntyre, and Michael Vogt for their help over the last 4 months, and 
 also the many others who sent me encouraging emails or engaged in 
@@ -1537,14 +1536,12 @@ connected
 
 [1] https://alioth.debian.org/frs/?group_id=31109
 [2] http://debtorrent.alioth.debian.org/
-[3] https://alioth.debian.org/frs/?group_id=31109
-[4] http://debian.camrdale.org/
-[5] http://debian.camrdale.org/
-[6] http://ftp-master.debian.org/new.html
-[7] http://code.google.com/soc/2007/
-[8] 
+[3] http://debian.camrdale.org/
+[4] http://ftp-master.debian.org/new.html
+[5] http://code.google.com/soc/2007/
+[6] 
 http://code.google.com/soc/2007/debian/appinfo.html?csaid=46454031B77ABCBA
-[9] http://wiki.debian.org/DebTorrent/UniquePieces
+[7] http://wiki.debian.org/DebTorrent/UniquePieces
 
 Feed: Planet Debian
 <http://planet.debian.org/>
