@@ -18,9 +18,9 @@ module FeedParser
     end
 
     def next_img_index
-      n = @img_index[0] + 1
-      @img_index = " "
-      @img_index[0] = n
+      n = @img_index[0].ord
+      n += 1
+      @img_index = n.chr
       return @img_index
     end
 
