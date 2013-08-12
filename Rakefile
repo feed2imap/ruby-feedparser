@@ -1,6 +1,6 @@
 require 'rake/testtask'
-require 'rake/rdoctask'
-require 'rake/packagetask'
+require 'rdoc/task'
+require 'rubygems/package_task'
 require 'rake'
 require 'find'
 
@@ -19,7 +19,7 @@ end
 
 PKG_FILES.reject! { |f| f =~ /^test\/(source|.*_output)\// }
 
-task :default => [:package]
+task :default => [:test]
 
 Rake::TestTask.new do |t|
 	t.libs << "test"
@@ -61,8 +61,6 @@ end
 
 # "Gem" part of the Rakefile
 begin
-	require 'rake/gempackagetask'
-
 	spec = Gem::Specification.new do |s|
 		s.platform = Gem::Platform::RUBY
 		s.summary = "Ruby library to parse ATOM and RSS feeds"
@@ -75,7 +73,7 @@ begin
 		s.description = "Ruby library to parse ATOM and RSS feeds"
 	end
 
-	Rake::GemPackageTask.new(spec) do |pkg|
+	Gem::PackageTask.new(spec) do |pkg|
 		pkg.need_zip = true
 		pkg.need_tar = true
 	end
