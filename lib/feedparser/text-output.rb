@@ -1,4 +1,3 @@
-require 'feedparser'
 require 'feedparser/html2text-parser'
 require 'feedparser/filesizes'
 
