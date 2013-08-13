@@ -34,7 +34,7 @@
 <p><a href="http://www.tigase.org/node/250">read more</a></p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Feb 12 00:46:25 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-12 00:46:25 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">kobit</font></td></tr>
 </table>
 
@@ -94,7 +94,7 @@
 				shop.</p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Feb 09 15:49:30 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-09 15:49:30 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">ralphm</font></td></tr>
 </table>
 
@@ -113,7 +113,7 @@
 <p><a href="http://imified.com/">IMified</a> is a fun new service that enables you to keep to-do items and reminders, interact with Google Calendar, and so on -- all from the comfort of your Jabber client. It's well explained <a href="http://blog.siltala.net/post/2007/02/08/IMified-is-your-best-buddy">here</a> with pretty screenshots. Just add <a href="xmpp:imified@gmail.com">imified@gmail.com</a> to your roster and off you go. (I'm not sure how their bot will scale, but I suppose they'll figure it out ;-)</p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Feb 08 20:13:00 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-08 20:13:00 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Peter Saint-Andre</font></td></tr>
 </table>
 
@@ -133,7 +133,7 @@
 A new version of punjab has been released. Also, we left sourceforge for various reasons. The new url is <a href="http://www.butterfat.net/wiki/Projects/PunJab">http://www.butterfat.net/wiki/Projects/PunJab</a> <br /><br />This release has small bug fixes involving sessions and it now works with the newest versions of twisted and twisted.words.<br /><br />I got rid of the old demo too. I will put up a new one soon. If you want to demo what punjab is capable of you can visit <a href="http://chesspark.com">http://chesspark.com</a> The webclient uses punjab.
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Feb 08 17:15:55 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-08 17:15:55 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Christopher Zorn</font></td></tr>
 </table>
 
@@ -152,7 +152,7 @@ A new version of punjab has been released. Also, we left sourceforge for various
 <p>The generous volunteers who put on <a href="http://fosdem.org/2007/">FOSDEM</a> have published an <a href="http://fosdem.org/2007/interview/peter+saint-andre">interview</a> with yours truly, since I'll be a speaker at the conference (my topic is <a href="http://fosdem.org/2007/schedule/events/jabber">Secure Communications with Jabber</a>, be there on Sunday at 15:00 :-).</p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Thu Feb 08 16:44:00 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-08 16:44:00 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Peter Saint-Andre</font></td></tr>
 </table>
 
@@ -182,7 +182,7 @@ A new version of punjab has been released. Also, we left sourceforge for various
 </p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Feb 07 01:27:37 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-07 01:27:37 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">matt</font></td></tr>
 </table>
 
@@ -209,7 +209,7 @@ A new version of punjab has been released. Also, we left sourceforge for various
 </p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Feb 06 23:09:39 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-06 23:09:39 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">matt</font></td></tr>
 </table>
 
@@ -231,7 +231,7 @@ Pure Cross-browser application are targeting desktop like interfaces. However, p
 <p>You can check it by yourself in <a href="http://www.process-one.net/en/oneteam/">OneTeam</a>. The <a href="http://www.process-one.net/en/oneteam/">beta test</a> for our XUL based Enterprise Instant Messaging has started and the demand is huge. Please be patient, we are creating new accounts every day.</p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tue Feb 06 18:20:04 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-06 18:20:04 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mickaël Rémond</font></td></tr>
 </table>
 
@@ -250,7 +250,7 @@ Pure Cross-browser application are targeting desktop like interfaces. However, p
 <p>There are so many errors in <a href="http://www.tmcnet.com/sip/0107/feature_articles_simple_in_the_enterprise_0107.htm">this article</a> about <a href="http://www.ietf.org/html.charters/simple-charter.html">SIMPLE</a> in the enterprise that it would take me quite a while to correct them all. Maybe later this week I'll find the time...</p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Feb 05 23:25:00 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-05 23:25:00 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Peter Saint-Andre</font></td></tr>
 </table>
 
@@ -276,7 +276,7 @@ Pure Cross-browser application are targeting desktop like interfaces. However, p
 </blockquote>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mon Feb 05 22:51:00 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-05 22:51:00 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Peter Saint-Andre</font></td></tr>
 </table>
 
@@ -295,7 +295,7 @@ Pure Cross-browser application are targeting desktop like interfaces. However, p
 <p><a href="http://kismith.co.uk/">Kev</a> and I will be attending <a href="http://fosdem.org">FOSDEM</a> on February 24th and 25th, and we’ll be joining other XMPP developers at the <a href="http://wiki.jabber.org/index.php/Interop_Event">XMPP Interop Event and DevCon</a> the day after. So, if you want to meet up, or have some outstanding protocol issues with Psi, now is a good time to tell us <img alt=":)" class="wp-smiley" src="http://el-tramo.be/wordpress/wp-includes/images/smilies/icon_smile.gif" /></p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Feb 04 17:01:19 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-04 17:01:19 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Remko Tronçon</font></td></tr>
 </table>
 
@@ -314,7 +314,7 @@ Pure Cross-browser application are targeting desktop like interfaces. However, p
 <p>As Google released a new version of <a href="http://code.google.com/apis/talk/libjingle">libjingle</a> last friday, I decided to experiment with their file transfer implementation in Psi this weekend. I added some code that allows someone to accept files sent by Google Talk, and tested it with a few Google Talk contacts, with a perfect success rate (so far). For the brave who wish to experiment with this, see the instructions below. Note that this code is unofficial, untested, only uses a very rudimentary UI (there is no integration with the existing file transfers), still suffers from at least two bugs (on Mac OS X: one that segfaults when receiving images, and one where CPU skyrockets to 100% after a while, which we had with older libjingles as well), and has no support from the Psi developers whatsoever. Comments should therefore go directly to me.</p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sun Feb 04 16:14:30 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-04 16:14:30 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Remko Tronçon</font></td></tr>
 </table>
 
@@ -336,7 +336,7 @@ Pure Cross-browser application are targeting desktop like interfaces. However, p
 <p><a href="http://www.tigase.org/node/218">read more</a></p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Sat Feb 03 16:56:24 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-03 16:56:24 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">kobit</font></td></tr>
 </table>
 
@@ -359,7 +359,7 @@ Here are the slides from my talk given at the Solutions Linux Event in Paris (Fr
 <p>The slides are also available as PDF: <a href="http://www.process-one.net/images/uploads/XMPP_SL2007.pdf">XMPP/Jabber and XSF Presentation</a>.</p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Feb 02 09:14:17 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-02 09:14:17 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mickaël Rémond</font></td></tr>
 </table>
 
@@ -381,7 +381,7 @@ I have been presenting OneTeam yesterday at the Linux Solutions Event in Paris, 
 <p>The development is going at a fast pace those days. The first round of invitations for the beta test will be send during the week-end. It is still time to <a href="http://www.process-one.net/en/oneteam">register</a>. Expect more video preview soon <img alt="smile" height="19" src="http://www.process-one.net/images/smileys/smile.gif" width="19" /></p>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Fri Feb 02 08:13:53 UTC 2007</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-02-02 08:13:53 UTC</font></td></tr>
 <tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mickaël Rémond</font></td></tr>
 </table>
 

@@ -4,12 +4,31 @@ require 'feedparser/textconverters'
 require 'feedparser/rexml_patch'
 require 'feedparser/text-output'
 require 'base64'
+require 'magic'
 
 module FeedParser
 
   VERSION = "0.7"
 
   class UnknownFeedTypeException < RuntimeError
+  end
+
+  def self.recode(str)
+    encoding = nil
+    begin
+      encoding = Magic.guess_string_mime_encoding(str)
+    rescue Magic::Exception
+      # this happens when magic does not find any content at all, e.g. with
+      # strings that contain only whitespace. In these case it *should* be safe
+      # to assume UTF-8
+      encoding = Encoding::UTF_8
+    end
+    if encoding != 'unknown-8bit'
+      # assume UFT-8 with invalid data and strip that invalid data out
+      str.force_encoding(encoding)
+    end
+    str = str.chars.select { |c| c.valid_encoding? }.join
+    str.encode('UTF-8')
   end
 
   # an RSS/Atom feed
@@ -27,6 +46,8 @@ module FeedParser
     # Determines all the fields using a string containing an
     # XML document
     def parse(str)
+      str = FeedParser.recode(str)
+
       # Dirty hack: some feeds contain the & char. It must be changed to &amp;
       str.gsub!(/&(\s+)/, '&amp;\1')
       doc = REXML::Document.new(str)

@@ -293,12 +293,11 @@ module FeedParser
     end
 
     def handle_charref(name)
-      n = name.to_i
-      if !(0 <= n && n <= 255)
+      if name =~ /[0-9]+/
         unknown_charref(name)
-        return
+      else
+        handle_data(name)
       end
-      handle_data(n.chr)
     end
 
     def handle_entityref(name)

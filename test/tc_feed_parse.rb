@@ -1,4 +1,4 @@
-#!/usr/bin/ruby -w
+# encoding: UTF-8
 
 $:.unshift File.join(File.dirname(__FILE__), '..', 'lib')
 
@@ -114,4 +114,23 @@ class FeedParserTest < Test::Unit::TestCase
     # the third one should be removed because an enclosure should have an url, or it's useless.
     assert_equal([["url1", "1", "type1"], ["url2", nil, "type2"], ["url1", "1", nil]], ch.items[0].enclosures)
   end
+
+  def test_recode_utf8
+    assert_equal 'UTF-8', FeedParser.recode("áéíóú").encoding.name
+  end
+
+  def test_recode_iso88519
+    assert_equal 'UTF-8', FeedParser.recode("áéíóú".encode('iso-8859-1')).encoding.name
+  end
+
+  def test_recode_utf8_mixed_with_ASCIIBIT
+    recoded = FeedParser.recode("áé\x8Díóú")
+    assert_equal'UTF-8', recoded.encoding.name
+    assert_equal 'áéíóú', recoded
+  end
+
+  def test_recode_unicode_char
+    assert_equal "1280×1024", FeedParser.recode("1280×1024")
+  end
+
 end

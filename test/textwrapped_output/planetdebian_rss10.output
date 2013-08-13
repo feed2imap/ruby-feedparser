@@ -8,7 +8,7 @@ Creator:
 ****************************************
 Item: Peter Makholm: On handling email
 <http://peter.makholm.net/2007/08/21/on-handling-email/>
-Date: Tue Aug 21 17:47:54 UTC 2007
+Date: 2007-08-21 17:47:54 UTC
 Watching the popular Inbox Zero[1] video would probally improve my email 
 handling skills better. But this took less time and I wanted to play 
 around with Net::XMPP;
@@ -113,10 +113,10 @@ Feed: Planet Debian
 ****************************************
 Item: Miriam Ruiz: PiX Frogger: help the frog cross the street
 <http://www.miriamruiz.es/weblog/?p=99>
-Date: Tue Aug 21 17:25:22 UTC 2007
-Does the name “Frogger[1]” ring a bell? Introduced in 1981[2], 
-developed by Konami[3] and distributed by Sega[4]/Gremlin[5], it’s one 
-of the most classic from the earliest ages of computer videogames.
+Date: 2007-08-21 17:25:22 UTC
+Does the name “Frogger[1]” ring a bell? Introduced in 1981[2], developed 
+by Konami[3] and distributed by Sega[4]/Gremlin[5], it’s one of the most 
+classic from the earliest ages of computer videogames.
 
 PiX Frogger[6] is a clone of the classic game Frogger, in which you must 
 help a frog cross the street to avoid becoming roadkill by cars and 
@@ -128,8 +128,8 @@ PIX Frogger is on the way[7]. Implemented in Fénix[8], an interpreted
 script programming language, specially[9] designed to developing and 
 running 2D games and added to Debian repositories[10] some weeks ago, it 
 has really cute graphics and the visual layout has been nicely taken 
-care of. The game in itself is quite simple, so it shouldn’t be hard 
-for smaller kids to play, especially when they can compete against each 
+care of. The game in itself is quite simple, so it shouldn’t be hard for 
+smaller kids to play, especially when they can compete against each 
 other 4 at a time.
 
 For more grown-ups, I guess it’s so cool to have a version in Debian 
@@ -154,7 +154,7 @@ Feed: Planet Debian
 ****************************************
 Item: Martin F. Krafft: If you procmail, read this
 <http://blog.madduck.net/geek/2007.08.21_if-you-procmail-read-this.xhtml>
-Date: Tue Aug 21 16:43:00 UTC 2007
+Date: 2007-08-21 16:43:00 UTC
 I just had a hard time finding this excellent procmail resource[1] on 
 the web. I am thus blogging it for posterity, in case anyone is looking 
 for procmail documentation, tips, tricks, a how-to, or anything else 
@@ -175,7 +175,7 @@ Feed: Planet Debian
 ****************************************
 Item: Raphaël Hertzog: Deprecating cvs.debian.org in favor of Alioth
 <http://www.ouaza.com/wp/2007/08/21/deprecating-cvsdebianorg-in-favor-of-alioth/>
-Date: Tue Aug 21 14:00:37 UTC 2007
+Date: 2007-08-21 14:00:37 UTC
 It’s very difficult to discuss with DSA and make things evolve if none 
 of the DSA member express an interest in something related to your goal: 
 here comes an example of a story like another in my desperate quest to 
@@ -185,11 +185,11 @@ Last time gluck ran out of space, a few non-DSA people (me, taggart,
 Ganneff, and others I might have forgotten) contacted people to ask them 
 to clean their home directories. Following that discussion we discussed 
 a bit about the opportunity to move some services from gluck on another 
-host. Among the services on gluck, there’s cvs.debian.org. As an 
-Alioth administrator, it struck me that cvs.debian.org is the only VCS 
-service that’s handled by the DSA team. It seems logical to not 
-duplicate the administrative work and have all the VCS repositories 
-handled by the same team.
+host. Among the services on gluck, there’s cvs.debian.org. As an Alioth 
+administrator, it struck me that cvs.debian.org is the only VCS service 
+that’s handled by the DSA team. It seems logical to not duplicate the 
+administrative work and have all the VCS repositories handled by the 
+same team.
 
 The logical conclusion is that cvs.debian.org should be deprecated in 
 favor of Alioth. So I made the suggestion in RT ticket #146[1] (login 
@@ -200,11 +200,11 @@ cvs.debian.org:
 - webwml: the website team[2]
 - debian-doc: the Debian documentation project[3]
 - debian-admin: the DSA team (this was already suggested in April this 
-year in ticket #44[4], no response of course… except elmo saying me 
-that he’s in favor. On IRC I also discovered that neuro doesn’t like 
-bzr and is thus not in favor of such a move. Furthermore he visibly 
-wants to keep control on userdir-ldap, thus he probably has not much 
-interest in moving to a distributed system.)
+year in ticket #44[4], no response of course… except elmo saying me that 
+he’s in favor. On IRC I also discovered that neuro doesn’t like bzr and 
+is thus not in favor of such a move. Furthermore he visibly wants to 
+keep control on userdir-ldap, thus he probably has not much interest in 
+moving to a distributed system.)
 - buildd: the Packages-arch-specific[5] file is maintained in the dak 
 cvs…
 
@@ -232,7 +232,7 @@ Feed: Planet Debian
 ****************************************
 Item: Joey Schulze: PowerPC PReP Machines
 <http://www.infodrom.org/~joey/log/?200708211534>
-Date: Tue Aug 21 13:34:00 UTC 2007
+Date: 2007-08-21 13:34:00 UTC
 What to do with nice PowerPC PReP machines? The PReP sub-architecture is 
 not supported by the Linux kernel anymore and thus not in Debian either. 
 Therefore, such machines can not exactly be used anymore, until somebody 
@@ -248,7 +248,7 @@ Feed: Planet Debian
 ****************************************
 Item: Theodore Ts'o: Thoughts about the Palm Foleo
 <http://tytso.livejournal.com/30229.html>
-Date: Tue Aug 21 11:09:16 UTC 2007
+Date: 2007-08-21 11:09:16 UTC
 I looked at the Foleo and played with one while I was at Linux World a 
 few weeks ago, but it is so restrictive in what it can do that I was 
 completely unimpressed.
@@ -336,7 +336,7 @@ Feed: Planet Debian
 ****************************************
 Item: Jordi Mallach: Inbox Zero
 <http://oskuro.net/blog/stuff/inbox-zero-2007-08-21-12-26>
-Date: Tue Aug 21 10:26:00 UTC 2007
+Date: 2007-08-21 10:26:00 UTC
 jordi@nubol:~$ countmail
 SIX THOUSAND ONE HUNDRED EIGHTY-FOUR!
 
@@ -353,7 +353,7 @@ Feed: Planet Debian
 ****************************************
 Item: Joey Schulze: Interview
 <http://www.infodrom.org/~joey/log/?200708211222>
-Date: Tue Aug 21 10:22:00 UTC 2007
+Date: 2007-08-21 10:22:00 UTC
 Last week I gave an interview for Antennetux[1], a non-commercial radio 
 station targeting regional and Internet users. We spoke about the Debian 
 project and the Debian GNU/Linux distribution with special attention to 
@@ -374,7 +374,7 @@ Feed: Planet Debian
 ****************************************
 Item: Ross Burton: OpenMoko
 <http://www.burtonini.com/blog/computers/openmoko-2007-08-21-10-30>
-Date: Tue Aug 21 09:30:00 UTC 2007
+Date: 2007-08-21 09:30:00 UTC
 Sean Moss-Pultz from OpenMoko announces the new interface[1]: We went 
 back to the drawing board with OpenedHand -- lead by their vast 
 experience with GTK+, Matchbox, and mobile user interfaces -- and 
@@ -392,7 +392,7 @@ Feed: Planet Debian
 ****************************************
 Item: Ross Burton: Postr 0.8
 <http://www.burtonini.com/blog/computers/postr/postr-2007-08-21-10-10>
-Date: Tue Aug 21 09:10:00 UTC 2007
+Date: 2007-08-21 09:10:00 UTC
 Finally, a new Postr release. Nothing amazing here, just some internal 
 refactoring and better error handling. If an error occurs when talking 
 to Flickr a dialog box will popup, which will help a great deal.
@@ -408,7 +408,7 @@ Feed: Planet Debian
 ****************************************
 Item: Russell Coker: When to Use SE Linux
 <http://etbe.coker.com.au/2007/08/21/when-to-use-se-linux/>
-Date: Tue Aug 21 09:00:07 UTC 2007
+Date: 2007-08-21 09:00:07 UTC
 Recently someone asked on IRC whether they should use SE Linux on a web 
 server machine (that is being used for no other purpose) and then went 
 on to add “*since the webserver is installed as root anyway*“.
@@ -423,12 +423,12 @@ webserver runs as root. It was not made clear whether the entire service
 ran as root or whether the parent ran as root while child processes ran 
 as a different UID (a typical Apache configuration). In the case where 
 the child processes run as non-root it is still potentially possible for 
-a bug in Apache to be used to exploit the parent process and assume 
-it’s privileges. So it’s reasonable to consider that SE Linux will 
-protect the integrity of the base OS from a web server running as root - 
-even for the most basic configuration (without cgi-bin scripts). If a 
-root owned process that is confined by SE Linux is compromised then as 
-long as there is no kernel vulnerability the base OS should keep it’s 
+a bug in Apache to be used to exploit the parent process and assume it’s 
+privileges. So it’s reasonable to consider that SE Linux will protect 
+the integrity of the base OS from a web server running as root - even 
+for the most basic configuration (without cgi-bin scripts). If a root 
+owned process that is confined by SE Linux is compromised then as long 
+as there is no kernel vulnerability the base OS should keep it’s 
 integrity and the sys-admin should be able to login and discover what 
 happened.
 
@@ -465,7 +465,7 @@ Feed: Planet Debian
 ****************************************
 Item: David Welton: Hecl interview
 <http://journal.dedasys.com/articles/2007/08/21/hecl-interview>
-Date: Tue Aug 21 08:52:00 UTC 2007
+Date: 2007-08-21 08:52:00 UTC
 Roger Binkley, leader of Sun's Mobile and Embedded[1] community, 
 interviewed me after my talk at OSCON. It went ok, given how tired I 
 was:
@@ -481,7 +481,7 @@ Feed: Planet Debian
 ****************************************
 Item: Matt Brubeck: 21 Aug 2007
 <http://www.advogato.org/person/mbrubeck/diary.html?start=102>
-Date: Tue Aug 21 05:57:59 UTC 2007
+Date: 2007-08-21 05:57:59 UTC
 *Problems for shared desktop computers.*
 
 I share a home desktop computer with my wife. Our computer use is 
@@ -564,7 +564,7 @@ Feed: Planet Debian
 ****************************************
 Item: Manoj Srivastava: Arch Hook
 <http://www.golden-gryphon.com/blog/manoj//blog/2007/08/21/Arch_Hook.html>
-Date: Tue Aug 21 05:19:11 UTC 2007
+Date: 2007-08-21 05:19:11 UTC
 All the version control systems I am familiar with run scripts on 
 checkout and commit to take additional site specific actions, and arch 
 is no different. Well, actually, arch is perhaps different in the sense 
@@ -634,7 +634,7 @@ Feed: Planet Debian
 ****************************************
 Item: Ian Wienand: On incorrectly utilising "utilising"
 <http://www.technovelty.org/code/badcode/utilising.html>
-Date: Tue Aug 21 00:19:00 UTC 2007
+Date: 2007-08-21 00:19:00 UTC
 My supervisor pointed out a very annoying habit I had formed when 
 writing technical documents, best summed up below:
 
@@ -665,7 +665,7 @@ Feed: Planet Debian
 ****************************************
 Item: David Watson: It's about time
 <http://planetwatson.co.uk/blog/2007/08/20/its-about-time>
-Date: Mon Aug 20 21:58:13 UTC 2007
+Date: 2007-08-20 21:58:13 UTC
 I decided that I really needed to start making proper backups of the 
 data on my server this week. I did have a tape drive in the server at 
 one point but I never remembered to change the tape, or indeed ever test 
@@ -689,7 +689,7 @@ Feed: Planet Debian
 ****************************************
 Item: Russell Coker: Suggestions and Thanks
 <http://etbe.coker.com.au/2007/08/21/suggestions-and-thanks/>
-Date: Mon Aug 20 21:00:16 UTC 2007
+Date: 2007-08-20 21:00:16 UTC
 One problem with the blog space is that there is a lot of negativity. 
 Many people seem to think that if they don’t like a blog post then the 
 thing to do is to write a post complaining about it - or even worse a 
@@ -700,21 +700,21 @@ the blog author is unlikely to read - which would be a pointless whinge
 that benefits no-one.
 
 Of course an alternate way for the recipient to takeg such complaints as 
-suggested by Paul Graham[1] is “*you’re on the right track when 
-people complain that you’re unqualified, or that you’ve done 
-something inappropriate*” and “*if they’re driven to such empty 
-forms of complaint, that means you’ve probably done something good*” 
-(Paul was talking about writing essays not blogs, but I’m pretty sure 
-that he intended it to apply to blogs too). If you want to actually get 
-a blog author (or probably any author) to make a change in their 
-material in response to your comments then trying to avoid empty 
-complaints is a good idea. Another useful point Paul makes in the same 
-essay is “*“Inappropriate” is the null criticism. It’s merely 
-the adjective form of “I don’t like it.”*” - something that’s 
-worth considering given the common criticism of particular blog content 
-as being “inappropriate” for an aggregation feed that is syndicating 
-it. Before criticising blog posts you should consider that badly written 
-criticism may result in more of whatever it is that you object to.
+suggested by Paul Graham[1] is “*you’re on the right track when people 
+complain that you’re unqualified, or that you’ve done something 
+inappropriate*” and “*if they’re driven to such empty forms of 
+complaint, that means you’ve probably done something good*” (Paul was 
+talking about writing essays not blogs, but I’m pretty sure that he 
+intended it to apply to blogs too). If you want to actually get a blog 
+author (or probably any author) to make a change in their material in 
+response to your comments then trying to avoid empty complaints is a 
+good idea. Another useful point Paul makes in the same essay is 
+“*“Inappropriate” is the null criticism. It’s merely the adjective form 
+of “I don’t like it.”*” - something that’s worth considering given the 
+common criticism of particular blog content as being “inappropriate” for 
+an aggregation feed that is syndicating it. Before criticising blog 
+posts you should consider that badly written criticism may result in 
+more of whatever it is that you object to.
 
 If you find some specific objective problem in the content or 
 presentation of a blog the first thing to do is to determine the correct 
@@ -723,8 +723,8 @@ author to have an *about* page which either has a mailto URL or a web
 form for sending feedback, I have a mailto on my about page - (here’s 
 the link)[2]. Another possible method of contact is a comment on a blog 
 post, if it’s an issue for multiple posts on the blog then writing a 
-comment on the most recent post will do (unless of course it’s a 
-comment about the comment system being broken). For those who are new to 
+comment on the most recent post will do (unless of course it’s a comment 
+about the comment system being broken). For those who are new to 
 blogging, the blog author has full control over what happens to 
 comments. If they decide that your comment about the blog color scheme 
 doesn’t belong on a post about C programming then they can respond to 
@@ -763,8 +763,8 @@ topic could then remove the entry from the wish-list (maybe adding the
 URL to a list of satisfied requests). If the person who made the 
 original request wanted a more detailed post covering some specific area 
 they could then add such a request to the wish-list page. If I get 
-positive feedback on this idea I’ll create the wiki pages and add a 
-few requests for articles that would interest me to start it up.
+positive feedback on this idea I’ll create the wiki pages and add a few 
+requests for articles that would interest me to start it up.
 
 Finally to encourage the production of content that you enjoy reading I 
 suggest publicly thanking people who write posts that you consider to be 
@@ -775,10 +775,10 @@ include a periodic (I suggest monthly at most) links post that contains
 URLs of blog posts you like along with brief descriptions of the 
 content. If you really like a post then thank the author by not only 
 giving a links with a description (to encourage other people to read it) 
-but also describe why you think it’s a great post. Also if 
-recommending a blog make sure you give a feed URL so that anyone who 
-wants to subscribe can do it as easily as possible (particularly for the 
-blogs with a bad HTML layout).
+but also describe why you think it’s a great post. Also if recommending 
+a blog make sure you give a feed URL so that anyone who wants to 
+subscribe can do it as easily as possible (particularly for the blogs 
+with a bad HTML layout).
 
 Here are some recent blog posts that I particularly liked:
 
@@ -818,8 +818,8 @@ insightful posts about military strategy and tactics but some things
 about politics will offend most people who aren’t white Christian 
 conservatives.
 
-It’s a pity that there is not a more traditional blog feed for the 
-data, the individual archives contain all posts and there seems to be no 
+It’s a pity that there is not a more traditional blog feed for the data, 
+the individual archives contain all posts and there seems to be no 
 possibility of viewing the posts for the last month (for people who read 
 it regularly in a browser and don’t use an RSS feed) and no search 
 functionality built in.
@@ -836,9 +836,9 @@ amusement and insightful commentry not drawings. It’s yet another
 example of content beating presentation when there’s a level playing 
 field.
 
-Finally I don’t read it myself, but CuteOverload.com[26] is a good 
-site to refer people to when they claim that the Internet is too nasty 
-for children - the Internet has lots of pictures of cute animals!
+Finally I don’t read it myself, but CuteOverload.com[26] is a good site 
+to refer people to when they claim that the Internet is too nasty for 
+children - the Internet has lots of pictures of cute animals!
 
 Share This[27]
 
@@ -877,7 +877,7 @@ Feed: Planet Debian
 ****************************************
 Item: Joey Hess: inbox zero
 <http://kitenet.net/~joey/blog/entry/inbox_zero/>
-Date: Mon Aug 20 20:17:28 UTC 2007
+Date: 2007-08-20 20:17:28 UTC
 My inbox is empty. Holger[1] posted a link to this talk[2] which makes 
 some really simple suggestions about how to handle new mail, to avoid 
 letting it rot in the inbox.
@@ -909,7 +909,7 @@ Feed: Planet Debian
 ****************************************
 Item: Simon Richter: Non-standard compiler extensions
 <http://www.hogyros.de/?q=node/305>
-Date: Mon Aug 20 19:49:45 UTC 2007
+Date: 2007-08-20 19:49:45 UTC
 Normally I don't like them, because the people using them write 
 non-portable code.
 
@@ -927,13 +927,13 @@ Feed: Planet Debian
 ****************************************
 Item: Bastian Venthur: Deserializing SOAP replies with ZSI?
 <http://blog.venthur.de/2007/08/20/deserializing-soap-replies-with-zsi/>
-Date: Mon Aug 20 17:29:20 UTC 2007
+Date: 2007-08-20 17:29:20 UTC
 Dear Lazyweb,
 
 what is the most elegant way to read a SOAP reply containing a complex 
-type into an object using ZSI[1]? I’ve read the documentation[2] 
-several times and I guess there is an elegant way to solve this, but I 
-still don’t get it.
+type into an object using ZSI[1]? I’ve read the documentation[2] several 
+times and I guess there is an elegant way to solve this, but I still 
+don’t get it.
 
 I *guess* it should work like this:
 
@@ -944,8 +944,8 @@ object
 
 What I’m currently doing with soappy in rng[4] is rather crude: I take 
 the SOAP response which is a dictionary holding many interesting facts 
-about a bug report, take those elements I’m interested in and copy 
-them into a bug report object. Not very elegant, but it works.
+about a bug report, take those elements I’m interested in and copy them 
+into a bug report object. Not very elegant, but it works.
 
 While I’m moving away from soappy to ZSI I’d like to implement the 
 deserializion the ZSI way. Unfortunately I don’t understand their 
@@ -963,7 +963,7 @@ Feed: Planet Debian
 ****************************************
 Item: Romain Francoise: Cornflakes Heroes: "Lifeline" video
 <http://blog.orebokech.com/2007/08/cornflakes-heroes-lifeline-video.html>
-Date: Mon Aug 20 17:40:03 UTC 2007
+Date: 2007-08-20 17:40:03 UTC
 Cornflakes Heroes[1] (my sister's band) have released the video for 
 their new single Lifeline, check it out:
 
@@ -978,11 +978,11 @@ Author: Romain Francoise
 ****************************************
 Item: Kartik Mistry: TODOs
 <http://kartikmistry.org/blog/?p=352>
-Date: Mon Aug 20 14:33:36 UTC 2007
+Date: 2007-08-20 14:33:36 UTC
 * Debian:
 
-- Create pkg-festival at alioth, New ‘long pending’ upstream release 
-for Festival/Speech-tools
+- Create pkg-festival at alioth, New ‘long pending’ upstream release for 
+Festival/Speech-tools
 
 - Xosview[1] 1.8.3, Ayttm 0.5.0-6[2] (Yeah, its GTK2 Port[3] is out!!)
 
@@ -1019,7 +1019,7 @@ Author: Kartik Mistry
 ****************************************
 Item: Michal Čihař: Gammu stable version 1.13.0
 <http://blog.cihar.com/archives/2007/08/20/gammu_stable_version_1_13_0/>
-Date: Mon Aug 20 13:06:44 UTC 2007
+Date: 2007-08-20 13:06:44 UTC
 I just released new version of Gammu[1]. There are no big changes since 
 last testing release:
 
@@ -1036,7 +1036,7 @@ Feed: Planet Debian
 ****************************************
 Item: Jeff Bailey: Next stop: Buffalo
 <http://jbailey.livejournal.com/37143.html>
-Date: Mon Aug 20 12:21:48 UTC 2007
+Date: 2007-08-20 12:21:48 UTC
 Hey'all! We're still in transit on our great trans-continental 
 adventure! Sorry if you've emailed us and we've not gotten back, 
 Internet access is spotty at best on this trip, and who wants to spend 
@@ -1090,7 +1090,7 @@ Feed: Planet Debian
 ****************************************
 Item: David Welton: Hecl, DedaWiki updates
 <http://journal.dedasys.com/articles/2007/08/20/hecl-dedawiki-updates>
-Date: Mon Aug 20 12:03:00 UTC 2007
+Date: 2007-08-20 12:03:00 UTC
 I had a pretty good week last week in terms of doing some open source 
 work. I had the opportunity to do some consulting regarding Hecl[1], 
 which was pretty cool. Some of the work was fed back into Hecl itself, 
@@ -1136,10 +1136,10 @@ Feed: Planet Debian
 ****************************************
 Item: Russell Coker: Feedburner Item Link Clicks
 <http://etbe.coker.com.au/2007/08/20/feedburner-item-link-clicks/>
-Date: Mon Aug 20 09:00:12 UTC 2007
+Date: 2007-08-20 09:00:12 UTC
 For a while I used the Item Link Clicks feature in Feedburner[1]. For 
-those who aren’t aware Feedburner is a service that proxies access to 
-an RSS feed (you need to either publish the Feedburner URL as the 
+those who aren’t aware Feedburner is a service that proxies access to an 
+RSS feed (you need to either publish the Feedburner URL as the 
 syndication link or use a HTTP redirect to send the requests there - I 
 use a HTTP redirect). Then when people download the feed they get it 
 from Feedburner which is fast and reliable (unlike my blog on a bad day) 
@@ -1155,12 +1155,12 @@ the post in that they won’t know whether the URL is valid unless they
 visit it. So when (not if) people have misconfigured blogs that are 
 widely syndicated the people who cite them without verifying the links 
 could end up linking to invalid URLs. The problem for the person who is 
-cited is that such Feedburner redirects don’t seem to be counted as 
-part of the Technorati[3] ranking (which is a count of the number of 
-links to a blog in the last 6 months which give some rough approximation 
-of how important the blog is). The Technorati rating can sometimes be 
-used in negotiations with an advertiser and is often used when boasting 
-about how popular a blog is.
+cited is that such Feedburner redirects don’t seem to be counted as part 
+of the Technorati[3] ranking (which is a count of the number of links to 
+a blog in the last 6 months which give some rough approximation of how 
+important the blog is). The Technorati rating can sometimes be used in 
+negotiations with an advertiser and is often used when boasting about 
+how popular a blog is.
 
 To increase my Technorati ranking I have stopped using the Feedburner 
 URL rewriting feature. For people who view my blog directly or through a 
@@ -1194,7 +1194,7 @@ Feed: Planet Debian
 ****************************************
 Item: Martin F. Krafft: Pay three times as much and get zero brain power
 <http://blog.madduck.net/travel/2007.08.20_pay-three-times-as-much-and-get-zero-brain-power.xhtml>
-Date: Mon Aug 20 08:43:00 UTC 2007
+Date: 2007-08-20 08:43:00 UTC
 If you walk up to the Swiss railways customer service desk and tell them 
 that you're a group of six looking to travel from Zurich to Munich and 
 would thus like to make a reservation, they'll charge you 15 CHF (~ 
@@ -1205,10 +1205,10 @@ wanted.
 
 If you walk up to the German railways customer service desk and tell 
 them that you're a group of (now) eight looking to travel from Munich to 
-Zurich and would thus like to make a reservation, they'll charge you 
-28€ for a little piece of paper which documents that the guy behind 
-the desk does not have a brain or didn't bother to switch it on: instead 
-of two adjacent groups of four seats, we got four pairs of aisle seats.
+Zurich and would thus like to make a reservation, they'll charge you 28€ 
+for a little piece of paper which documents that the guy behind the desk 
+does not have a brain or didn't bother to switch it on: instead of two 
+adjacent groups of four seats, we got four pairs of aisle seats.
 
 Given that we mainly reserved to minimise the annoyance for the other 
 travellers while we kept up a conversation for the five hours of the 
@@ -1262,7 +1262,7 @@ Feed: Planet Debian
 ****************************************
 Item: Holger Levsen: Red Cross sued for using the red cross
 <http://layer-acht.org/blog/debian/#1-121>
-Date: Mon Aug 20 06:59:07 UTC 2007
+Date: 2007-08-20 06:59:07 UTC
 Various newspapers report that the health product giant Johnson & 
 Johnson is suing the Red Cross for using the red cross as a logo. 
 Johnson & Johnson registered the trademark in 1887, six years after the 
@@ -1275,7 +1275,7 @@ Feed: Planet Debian
 ****************************************
 Item: Manoj Srivastava: Mail Filtering with CRM114: Part 4
 <http://www.golden-gryphon.com/blog/manoj//blog/2007/08/20/Mail_Filtering_with_CRM114__58___Part_4.html>
-Date: Mon Aug 20 05:28:53 UTC 2007
+Date: 2007-08-20 05:28:53 UTC
 Training the Discriminators
 
 It has been a while since I posted on this category — actually, it has 
@@ -1289,8 +1289,8 @@ This post lays the groundwork for the training, and details how things
 are set up. The first part is setting up *Spamassassin*. One of the 
 things that bothered me about the default settings for *Spamassassin* 
 was how swiftly Bayes information was expired; indeed, it seems really 
-eager to dumb the Bayes information (don’t they trust their engine?). 
-I have spent some effort building a large corpus, and keeping ti clean, 
+eager to dumb the Bayes information (don’t they trust their engine?). I 
+have spent some effort building a large corpus, and keeping ti clean, 
 but *Spamassassin* would discard most of the information from the DB 
 after training over my corpus, and the decrease in accuracy was 
 palpable. To prevent this information from leeching away, I firstly 
@@ -1376,7 +1376,7 @@ Feed: Planet Debian
 ****************************************
 Item: Michael Janssen: Things That I Wish Remember The Milk Had
 <http://base0.net/archives/322-Things-That-I-Wish-Remember-The-Milk-Had.html>
-Date: Mon Aug 20 04:48:53 UTC 2007
+Date: 2007-08-20 04:48:53 UTC
 A little bit ago I blogged[1] about how I was using Remember The Milk[2] 
 in order to get some things done around the house and to remind me about 
 stuff that I want to do. Things have been going pretty well on that 
@@ -1440,7 +1440,7 @@ Author: Jamuraa
 ****************************************
 Item: Chris Lamb: “Eww”
 <http://www.chris-lamb.co.uk/2007/08/20/fred-ewww/>
-Date: Mon Aug 20 01:19:24 UTC 2007
+Date: 2007-08-20 01:19:24 UTC
 This[1] is not how to do HABTM (ie. “*many-many*“) database joins.
 
 [1] 
@@ -1451,7 +1451,7 @@ Feed: Planet Debian
 ****************************************
 Item: Cameron Dale: DebTorrent Release 0.1.4 (and apt-transport-debtorrent 0.1.0)
 <http://www.cs.sfu.ca/~camerond/personal/blog/posts/Aug-19-2007.html>
-Date: Mon Aug 20 00:56:46 UTC 2007
+Date: 2007-08-20 00:56:46 UTC
 The next release[1] of DebTorrent[2] is now available. This release 
 includes new functionality for communicating with APT using a new 
 transport method specifically designed for debtorrent, and many bug 
@@ -1548,7 +1548,7 @@ Feed: Planet Debian
 ****************************************
 Item: Russell Coker: Controlling a STONITH and Upgrading a Cluster
 <http://etbe.coker.com.au/2007/08/20/controlling-a-stonith-and-upgrading-a-cluster/>
-Date: Sun Aug 19 21:00:45 UTC 2007
+Date: 2007-08-19 21:00:45 UTC
 One situation that you will occasionally encounter when running a 
 Heartbeat cluster[1] is a need to prevent a STONITH of a node. As 
 documented in my previous post about testing STONITH[2] the ability to 
@@ -1613,7 +1613,7 @@ Feed: Planet Debian
 ****************************************
 Item: Mike Hommey: New WebKit snapshot (almost) in unstable
 <http://web.glandium.org/blog/?p=158>
-Date: Sun Aug 19 18:33:06 UTC 2007
+Date: 2007-08-19 18:33:06 UTC
 Along with a new epiphany release[1] using it as backend, I prepared a 
 new WebKit snapshot[2], which is now waiting in NEW for some ftp-master 
 attention. Unfortunately, while webkit now has the necessary symbols for 
@@ -1627,9 +1627,9 @@ the already existing git repository tracking upstream[4]. Note the
 don’t ship, and reduce the download size from 100MB+ to roughly 16MB. 
 I’ll write more about this filtering in a few days.
 
-Also, if you’re interested in webkit and/or want to give a hand, you 
-can subscribe to the pkg-webkit-maintainers mailing list[5]. Everything 
-is ready for team maintenance, so, don’t hesitate ;).
+Also, if you’re interested in webkit and/or want to give a hand, you can 
+subscribe to the pkg-webkit-maintainers mailing list[5]. Everything is 
+ready for team maintenance, so, don’t hesitate ;).
 
 If you want to track changes on the debian repo, there is also a 
 pkg-webkit-commits mailing list[6] where the post-receive hook sends the 
@@ -1649,7 +1649,7 @@ Feed: Planet Debian
 ****************************************
 Item: Romain Francoise: bzip2 compression in debs
 <http://blog.orebokech.com/2007/08/bzip2-compression-in-debs.html>
-Date: Sun Aug 19 18:28:19 UTC 2007
+Date: 2007-08-19 18:28:19 UTC
 During my previous adventures[1] with the Debian archive, I found that 
 two packages in the archive use bzip2 compression inside the .deb 
 instead of the traditional gzip compression, so I decided to try it out 
@@ -1687,7 +1687,7 @@ Author: Romain Francoise
 ****************************************
 Item: Adam Rosi-Kessel: Solid State Kitchen Linux Box
 <http://adam.rosi-kessel.org/weblog/2007/08/19/solid-state-kitchen-linux-box/>
-Date: Sun Aug 19 13:38:00 UTC 2007
+Date: 2007-08-19 13:38:00 UTC
 Dear LazyWeb:
 
 Our kitchen laptop is on its last legs. I’d like to replace it with a 
@@ -1696,9 +1696,9 @@ gigabytes of storage for the operating system (music and other data are
 stored on a server in the basement). Can someone point me in the right 
 direction? This is an instance where Google doesn’t provide an obvious 
 leading/consensus solution. Most searches for solid state computers 
-point to laptops, which isn’t what I want. The closest thing I’ve 
-found is the Zonbox[1], but I’m not interested in their 
-network/subscription storage model. Ideal specs:
+point to laptops, which isn’t what I want. The closest thing I’ve found 
+is the Zonbox[1], but I’m not interested in their network/subscription 
+storage model. Ideal specs:
 
 - Total cost less than $300 (preferably less than $200)
 - High-end Pentium III or lower-end Pentium IV, or equivalent. Should be 
@@ -1709,7 +1709,7 @@ applications like gaming or video editing.
 also be acceptable. Most data will be accessed via an NFS share on the 
 WAN.
 - 1GB or 2GB of Flash memory for storage.
-- Standard VGA out, preferably at least 1280�1024 (although 1024�768 
+- Standard VGA out, preferably at least 1280×1024 (although 1024×768 
 would be okay).
 - USB ports for keyboard, mouse, possibly external hard drive storage 
 when needed.
@@ -1728,15 +1728,15 @@ Feed: Planet Debian
 ****************************************
 Item: Kai Hendry: Sharing multimedia
 <http://natalian.org/archives/2007/08/19/sharing-multimedia/>
-Date: Sun Aug 19 13:08:16 UTC 2007
+Date: 2007-08-19 13:08:16 UTC
 [A][1] 
 
 Ok, I have the slug[2]. It’s great because it allows me to easily & 
 reliably share my multimedia collection. 
 
-So I’ve moved my multimedia collection to a massive hard drive 
-attached to the slug and now that hard drive is full. I could buy an 
-even bigger NAS, though wait a minute… 
+So I’ve moved my multimedia collection to a massive hard drive attached 
+to the slug and now that hard drive is full. I could buy an even bigger 
+NAS, though wait a minute… 
 
 I have GIGs of (wasted) free space across my (flat mate’s) machines. 
 
@@ -1751,12 +1751,12 @@ some remote friend’s music would be nice.
 fuse?) 
  
 
-I distantly recall mounting NFS shares of each of my (friend’s) 
-machines and then mounting them on the central slug and trying to 
-re-share them. I don’t think that works. 
+I distantly recall mounting NFS shares of each of my (friend’s) machines 
+and then mounting them on the central slug and trying to re-share them. 
+I don’t think that works. 
 
-I remember in University dorms (I’m not telling where!), students had 
-a massive multimedia share with Windows file sharing. It actually worked 
+I remember in University dorms (I’m not telling where!), students had a 
+massive multimedia share with Windows file sharing. It actually worked 
 quite well, including search. 
 
 Any tips lazyweb? Or are centralised services really the future?
@@ -1772,7 +1772,7 @@ Author: hendry
 ****************************************
 Item: Wouter Verhelst: "empty" LDAP addressbooks
 <http://www.grep.be/blog/en/computer/play/ldap_addressbooks>
-Date: Sun Aug 19 13:04:00 UTC 2007
+Date: 2007-08-19 13:04:00 UTC
 Bernhard R. Link blogs[1] about LDAP addressbooks in Thunderb^WIcedove, 
 and mentions: Also don't be confused by no records shown in the new 
 addressbook. I guess that is some measure against always loading a 
@@ -1795,7 +1795,7 @@ Feed: Planet Debian
 ****************************************
 Item: Holger Levsen: again
 <http://layer-acht.org/blog/debian/#1-120>
-Date: Sun Aug 19 12:45:08 UTC 2007
+Date: 2007-08-19 12:45:08 UTC
 Again I have 99 unread mails in my mailbox ;-)
 
 More than two weeks ago I watched Inbox zero[1], which I recommend you 
@@ -1811,16 +1811,16 @@ Feed: Planet Debian
 ****************************************
 Item: Biella Coleman: The Lingering Memories of War
 <http://healthhacker.org/satoroams/?p=814>
-Date: Sun Aug 19 12:22:09 UTC 2007
+Date: 2007-08-19 12:22:09 UTC
 As many readers of this blog know, I tend not to shy away from writing 
-about my mother’s struggle with Alzheimers. But in the last 6 months 
-and especially since I paid my last visit to my mother, I have found it 
-much harder to sit and write about her current state of affairs. If we 
-think of Alzheimers as a journey to a new place, she is almost at the 
-point of reaching that place of great loneliness and inhospitality, 
-which is not only new and different—both for her and those around 
-her—but is a virtual prison, for it rarely allows you to leave and 
-visit the places of your past.
+about my mother’s struggle with Alzheimers. But in the last 6 months and 
+especially since I paid my last visit to my mother, I have found it much 
+harder to sit and write about her current state of affairs. If we think 
+of Alzheimers as a journey to a new place, she is almost at the point of 
+reaching that place of great loneliness and inhospitality, which is not 
+only new and different—both for her and those around her—but is a 
+virtual prison, for it rarely allows you to leave and visit the places 
+of your past.
 
 More than ever, her memory and understanding of her life as she (as I 
 and many others), once knew it, is fading fast; Of course, this was to 
@@ -1836,8 +1836,8 @@ have the opportunity to seamlessly interact with him or her.
 
 In the last number of months, I have perhaps been more silent than usual 
 because there is only so much I can and want to think about when it 
-comes to my mother’s decline. I talk to her nearly every day and I 
-have decided for now, that is enough.
+comes to my mother’s decline. I talk to her nearly every day and I have 
+decided for now, that is enough.
 
 But I am retreating out of my silence after reading a refreshingly 
 honest, though still somewhat timid piece on Alzheimer in the NYTimes, 
@@ -1857,8 +1857,8 @@ On the whole, I try to go with the flow. For example, I recently
 returned from a visit and soon after I left, my mother forgot I was even 
 there. She started to ask me over and over again when I was coming home 
 for a visit and when I told her I was just there, her semi-humorous 
-reaction was “well, why didn’t anyone tell me?” (and then 
-proceeded to castigate her caretaker for not telling her!!).
+reaction was “well, why didn’t anyone tell me?” (and then proceeded to 
+castigate her caretaker for not telling her!!).
 
 Perhaps I did not stay long enough, or perhaps her lack of recall would 
 happen no matter what. To hear she forgot shook me hard and deeply. The 
@@ -1869,9 +1869,9 @@ clicked. She is still worried about money, so buying a refrigerator was
 enough to remind her I had spent a lot of money.
 
 But after it was clear that she felt quite bad about not remembering, I 
-knew that was the first and last time I would try to “jog” her 
-memory. Instead, I will merge and mold my reality to her reality, as 
-much as I can and assure her that I will soon visit.
+knew that was the first and last time I would try to “jog” her memory. 
+Instead, I will merge and mold my reality to her reality, as much as I 
+can and assure her that I will soon visit.
 (more…)[2]
 
 [1] 
@@ -1883,7 +1883,7 @@ Feed: Planet Debian
 ****************************************
 Item: Alexis Sukrieh: The road to libdevel-repl-perl, part 2
 <http://www.sukria.net/en/archives/2007/08/19/the-road-to-libdevel-repl-perl-part-2/>
-Date: Sun Aug 19 11:48:12 UTC 2007
+Date: 2007-08-19 11:48:12 UTC
 Thanks to Florian Ragwitz, who packaged libpadwalker-perl 1.5-1[1], 
 there is no blocker anymore that prevents libdevel-repl-perl from 
 entering sid:
@@ -1911,7 +1911,7 @@ Feed: Planet Debian
 ****************************************
 Item: Ross Burton: Mini PC Loveliness
 <http://www.burtonini.com/blog/computers/minipc-2007-08-19-12-00>
-Date: Sun Aug 19 11:00:00 UTC 2007
+Date: 2007-08-19 11:00:00 UTC
 I've just discovered the AOpen MP965-DR mini PC[1], and blimey it's 
 lovely. Does anyone out there run have one? If I got one it would be 
 under the television and always on, so heat and noise are important 
@@ -1924,7 +1924,7 @@ Feed: Planet Debian
 ****************************************
 Item: MJ Ray: Hamburg Classic
 <http://mjr.towers.org.uk/blog/2007/cycling#hhracing>
-Date: Sun Aug 19 10:47:00 UTC 2007
+Date: 2007-08-19 10:47:00 UTC
 NDR[1] are broadcasting the Hamburg Classic[2] in DVB (digital) and PAL 
 (analogue) at 19 east[3] at 11-14 GMT today, while ARD[4] at 19 east and 
 13 east[5] overlaps at 12.30-15.00 GMT, presumably including the closing 
@@ -1947,7 +1947,7 @@ Feed: Planet Debian
 ****************************************
 Item: Joerg Jaspert: UMTS?
 <http://blog.ganneff.de/blog/2007/08/19#umts>
-Date: Sun Aug 19 09:22:52 UTC 2007
+Date: 2007-08-19 09:22:52 UTC
 Im currently looking if a UMTS data connection (flatrate) is something 
 for me. Looking around it seems Vodafone has the best network for UMTS 
 with that HSDPA technology (3.6MBit/s max. instead of only 384kbit/s). 
@@ -1973,9 +1973,9 @@ Vodafone network. The hardware I need for it costs 99EUR when I order
 there. Its some PC Express Card[2] that comes with a PCMCIA Adapter.
 
 Now, has anyone out there reading this blog experiences to share? Using 
-google there is Marcs blog[3] which suggests it shouldn’t be too hard 
-to get it all running, but maybe there is something I missed to take 
-into account?
+google there is Marcs blog[3] which suggests it shouldn’t be too hard to 
+get it all running, but maybe there is something I missed to take into 
+account?
 
 Comments? Suggestions? Anything? Email me[4] or catch me on IRC, (no, my 
 blog doesnt have comments), and I summarize the results later. 
@@ -1994,7 +1994,7 @@ Feed: Planet Debian
 ****************************************
 Item: Bernhard R. Link: Using slapd as thunderbird/icedove addressbook
 <http://pcpool00.mathematik.uni-freiburg.de/~brl/blog/index.html#22>
-Date: Sun Aug 19 09:05:59 UTC 2007
+Date: 2007-08-19 09:05:59 UTC
 It&aposs been some time since I got this working, but I decided to now 
 also blog about it here now, as I was just asked it.
 
@@ -2047,7 +2047,7 @@ Feed: Planet Debian
 ****************************************
 Item: Andreas Metzler: those were the times
 <http://www.bebt.de/blog/debian/archives/2007/08/19/T09_03_50/index.html>
-Date: Sun Aug 19 09:03:50 UTC 2007
+Date: 2007-08-19 09:03:50 UTC
 Found at the exhibition /Play with Technology/ in Technisches Museum 
 Wien[1]:
 
@@ -2065,7 +2065,7 @@ Feed: Planet Debian
 ****************************************
 Item: Russell Coker: Colorado Software Summit 2007
 <http://etbe.coker.com.au/2007/08/19/colorado-software-summit-2007/>
-Date: Sun Aug 19 09:00:14 UTC 2007
+Date: 2007-08-19 09:00:14 UTC
 On about 5 years I attended the conference The Colorado Software 
 Summit[1]. The first one was the last conference under the old name 
 (ColoradOS/2) but then as OS/2 was rapidly losing market share and the 
@@ -2093,8 +2093,8 @@ advantage of the extra $100 discount you must include the code
 
 PS I have no financial interest in this matter. I like the conference 
 organisers, but that largely stems from the fact that they run great 
-conferences that I have enjoyed. I recommend the conference because 
-it’s really good.
+conferences that I have enjoyed. I recommend the conference because it’s 
+really good.
 
 Share This[2]
 
@@ -2106,7 +2106,7 @@ Feed: Planet Debian
 ****************************************
 Item: Simon Richter: Hacking
 <http://www.hogyros.de/?q=node/304>
-Date: Sun Aug 19 08:23:25 UTC 2007
+Date: 2007-08-19 08:23:25 UTC
 Some more hacking and the xcontrol aware "checkbuilddeps" command is 
 nearly done. I have no idea whether using apt to access the package 
 database was a good idea -- those bits that deal with it are hardly 
@@ -2124,7 +2124,7 @@ Feed: Planet Debian
 ****************************************
 Item: Peter Makholm: libcbtsysinfo_0
 <http://peter.makholm.net/2007/08/18/libcbtsysinfo_0/>
-Date: Sat Aug 18 19:04:09 UTC 2007
+Date: 2007-08-18 19:04:09 UTC
 While testing Debian Live[1] I suddenly discovered that something had 
 installed a library in my home directory: ~/cbt/lib/libcbtsysinfo_0.so.
 
@@ -2150,7 +2150,7 @@ Feed: Planet Debian
 ****************************************
 Item: Michael Janssen: Got a camera rolling on your back
 <http://base0.net/archives/321-Got-a-camera-rolling-on-your-back.html>
-Date: Sat Aug 18 18:35:51 UTC 2007
+Date: 2007-08-18 18:35:51 UTC
 For the last few weeks, I've been trying to participate in Project 
 365[1]. For those that don't know about it, it is the idea of taking one 
 picture a day in order to accomplish.. something. I'm mainly just doing 
@@ -2207,7 +2207,7 @@ Author: Jamuraa
 ****************************************
 Item: David Welton: Business Friendly
 <http://journal.dedasys.com/articles/2007/08/18/business-friendly>
-Date: Sat Aug 18 16:54:00 UTC 2007
+Date: 2007-08-18 16:54:00 UTC
 Growing up in Eugene, Oregon, which like Berkeley or Boulder could have 
 the label "People's Republic of" applied to it, I always thought of 
 "business friendly", as something along the lines of helping huge 
@@ -2277,7 +2277,7 @@ Feed: Planet Debian
 ****************************************
 Item: Gustavo R. Montesino: Final SoC releases
 <http://grmontesino.blogspot.com/2007/08/final-soc-releases.html>
-Date: Sat Aug 18 16:48:19 UTC 2007
+Date: 2007-08-18 16:48:19 UTC
 I've just finished releasing new versions of all modules related to my 
 Summer of Code project, the Bug Triage and Forward Tool. If my mentor 
 doesn't find any serious bug, these will be the last releases under the 
@@ -2319,7 +2319,7 @@ Author: Gustavo R. Montesino
 ****************************************
 Item: Daniel Stone: a fit of narcissism
 <http://www.fooishbar.org/blog/life/stonesCorollory-2007-08-18-17-12.html>
-Date: Sat Aug 18 14:21:46 UTC 2007
+Date: 2007-08-18 14:21:46 UTC
 Courtesy of an article in today's Guardian, I present Stone's Corollary 
 to Burton's Low[1]:
 As a discussion about the contribution of vehicles to climate change 
@@ -2336,7 +2336,7 @@ Feed: Planet Debian
 ****************************************
 Item: Erich Schubert: More (ranting) on Skype
 <http://blog.drinsama.de/erich/en/2007081701-skype.html>
-Date: Sat Aug 18 12:14:00 UTC 2007
+Date: 2007-08-18 12:14:00 UTC
 A couple of people have pointed me to the "Skype DoS exploit code" that 
 has been published. I had seen that, but I'm not convinced it works as 
 simple as that. Some of the information around it doesn't make 
@@ -2397,7 +2397,7 @@ Feed: Planet Debian
 ****************************************
 Item: Bdale Garbee: Conservation: It's in the Bag
 <http://www.gag.com/cgi-bin/blosxom/2007/08/18#2007.08.18>
-Date: Sat Aug 18 08:52:00 UTC 2007
+Date: 2007-08-18 08:52:00 UTC
 I was just reading the latest issue of Home Power[1] magazine, which is 
 celebrating 20 years of publication with this issue. One of the 
 articles, by Kathleen Jarschke-Schultze, talks about the value of 
@@ -2422,7 +2422,7 @@ Feed: Planet Debian
 ****************************************
 Item: Pete Nuttall: Firefox blocking
 <http://www.lupin.org.uk/blog/computing/blocking-firefox.html>
-Date: Sat Aug 18 04:59:42 UTC 2007
+Date: 2007-08-18 04:59:42 UTC
 The great thing about the internet is that people can use it to make a 
 fool of themselves in front of the whole world. Since this provides 
 everyone with entertainment, I try and do something silly every once in 
@@ -2441,7 +2441,7 @@ Feed: Planet Debian
 ****************************************
 Item: Eddy Petrișor: how did the Debian Games Team got rid of spam
 <http://ramblingfoo.blogspot.com/2007/08/how-did-debian-games-team-got-rid-of.html>
-Date: Sat Aug 18 03:33:11 UTC 2007
+Date: 2007-08-18 03:33:11 UTC
 How to get rid of most spam on Alioth mailing lists.
 
 Until some Debian developer implements this idea[1] in the BTS, the 
@@ -2500,7 +2500,7 @@ Author: eddyp
 ****************************************
 Item: Gunnar Wolf: Aggressive bug reports leading to a good answer (or so I hope)
 <http://www.gwolf.org/index.php/blog/show/Aggressive-bug-reports-leading-to-a-good-answer-or-so-I-hope.html>
-Date: Fri Aug 17 21:47:40 UTC 2007
+Date: 2007-08-17 21:47:40 UTC
 Joey complains about users filing aggressive or otherwise inappropriate 
 bug reports[1]. Well, in this case I must say I bit the bullet.
 Yesterday, somebody complained about the maintenance statuse[2] of 
@@ -2543,7 +2543,7 @@ Author: Gunnar Wolf
 ****************************************
 Item: Erich Schubert: Skype problems aren't solved, but just worked around?
 <http://blog.drinsama.de/erich/en/2007081701-skype-problems-not-solved-just-worked-around.html>
-Date: Fri Aug 17 20:55:00 UTC 2007
+Date: 2007-08-17 20:55:00 UTC
 Skype seems slowly to recover from yesterdays blackout.
 
 However, it doesn't look to me as if they've actually solved the 
@@ -2596,14 +2596,14 @@ Feed: Planet Debian
 ****************************************
 Item: Alexis Sukrieh: The road to libdevel-repl-perl, part 1
 <http://www.sukria.net/en/archives/2007/08/17/the-road-to-libdevel-repl-perl-part-1/>
-Date: Fri Aug 17 20:42:51 UTC 2007
+Date: 2007-08-17 20:42:51 UTC
 I decided to play with Devel::REPL which looks to be exactly what I need 
 to enhance my Perl Console. That module is not packaged in Debian, then 
 I started packaging it with the help of the Debian Perl Group (big 
 thanks go to Damyan Ivanov for his help).
 
-The day was pretty productive and we’re almost done now, as you can 
-see in this tomboy note:
+The day was pretty productive and we’re almost done now, as you can see 
+in this tomboy note:
 
 [A]
 
