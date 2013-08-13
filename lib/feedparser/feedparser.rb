@@ -34,7 +34,7 @@ module FeedParser
       # get feed info
       @encoding = doc.encoding
       @title,@link,@description,@creator = nil
-			@title = ""
+      @title = ""
       @items = []
       if doc.root.elements['channel'] || doc.root.elements['rss:channel']
         @type = "rss"
@@ -138,12 +138,12 @@ module FeedParser
       @xml = item
       @feed = feed
       @title, @link, @content, @date, @subject = nil
-			@links = []
+      @links = []
       @creators = []
       @categories = []
       @enclosures = []
 
-			@title = ""
+      @title = ""
       parse(item) if item
     end
 
