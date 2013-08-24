@@ -72,6 +72,7 @@ begin
 		s.files = PKG_FILES
 		s.description = "Ruby library to parse ATOM and RSS feeds"
 		s.authors = ['Lucas Nussbaum']
+		s.add_runtime_dependency 'magic'
 	end
 
 	Gem::PackageTask.new(spec) do |pkg|
