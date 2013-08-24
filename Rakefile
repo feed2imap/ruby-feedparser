@@ -6,7 +6,7 @@ require 'find'
 
 # Globals
 PKG_NAME = 'ruby-feedparser'
-PKG_VERSION = '0.7'
+PKG_VERSION = '0.8'
 
 PKG_FILES = [ 'ChangeLog', 'README', 'COPYING', 'LICENSE', 'setup.rb', 'Rakefile']
 Find.find('lib/', 'test/', 'tools/') do |f|
@@ -71,6 +71,7 @@ begin
 		s.autorequire = 'feedparser'
 		s.files = PKG_FILES
 		s.description = "Ruby library to parse ATOM and RSS feeds"
+		s.authors = ['Lucas Nussbaum']
 	end
 
 	Gem::PackageTask.new(spec) do |pkg|
