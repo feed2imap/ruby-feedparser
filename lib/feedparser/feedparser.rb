@@ -23,10 +23,19 @@ module FeedParser
       # to assume UTF-8
       encoding = Encoding::UTF_8
     end
-    if encoding != 'unknown-8bit'
-      # assume UFT-8 with invalid data and strip that invalid data out
-      str.force_encoding(encoding)
+    if encoding == 'unknown-8bit'
+      # find first substring with a valid encoding that is not us-ascii
+      length = 1 # has to start at 1, magic requires at least 2 bytes
+      while length < str.length && ['us-ascii', 'unknown-8bit'].include?(encoding)
+        encoding = Magic.guess_string_mime_encoding(str[0..length])
+        length = length + 1
+      end
+      # need to remove iso-8859-1 control characters
+      if encoding == 'iso-8859-1'
+        str = str.bytes.select { |c| c < 128 || c > 159 }.map(&:chr).join
+      end
     end
+    str.force_encoding(encoding)
     str = str.chars.select { |c| c.valid_encoding? }.join
     str.encode('UTF-8')
   end

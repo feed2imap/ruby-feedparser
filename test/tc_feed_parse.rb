@@ -133,4 +133,9 @@ class FeedParserTest < Test::Unit::TestCase
     assert_equal "1280×1024", FeedParser.recode("1280×1024")
   end
 
+  def test_almost_valid_iso88591
+    input = "Codifica\xE7\xE3o \x96 quase v\xE1lida"
+    assert_equal "Codificação  quase válida", FeedParser.recode(input)
+  end
+
 end
