@@ -16,10 +16,9 @@ class ParserTest < Test::Unit::TestCase
     raise 'source directory not found.'
   end
   Dir.foreach(SRCDIR) do |f|
+    next if f !~ /.xml$/
     testname = 'test_' + File.basename(f).gsub(/\W/, '_')
     define_method(testname) do
-      next if f !~ /.xml$/
-      next if ENV['SOURCE'] != nil and ENV['SOURCE'] != f
       str = File::read(SRCDIR + '/' + f)
       chan = FeedParser::Feed::new(str)
       chanstr = chan.to_s(false)
