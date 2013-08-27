@@ -19,12 +19,11 @@ class HTMLOutputTest < Test::Unit::TestCase
   else
     raise 'source directory not found.'
   end
-  def test_parser
-    allok = true
-    Dir.foreach(SRCDIR) do |f|
+  Dir.foreach(SRCDIR) do |f|
+    testname = 'test_' + File.basename(f).gsub(/\W/, '_')
+    define_method(testname) do
       next if f !~ /.xml$/
       next if ENV['SOURCE'] != nil and ENV['SOURCE'] != f
-      puts "Checking #{f}"
       str = File::read(SRCDIR + '/' + f)
       chan = FeedParser::Feed::new(str)
       chanstr = chan.to_html(false)
@@ -34,19 +33,21 @@ class HTMLOutputTest < Test::Unit::TestCase
           File::open(DSTDIR + '/' + f.gsub(/.xml$/, '.output.new'), "w") do |fd|
             fd.print(chanstr)
           end
-          puts "Test failed for #{f}."
-          puts "  Check: diff -u #{DSTDIR + '/' + f.gsub(/.xml$/, '.output')}{,.new}"
-          puts "  Commit: mv -f #{DSTDIR + '/' + f.gsub(/.xml$/, '.output')}{.new,}"
-          allok = false
+          assert(
+            false,
+            [
+              "Test failed for #{f}.",
+              "  Check: diff -u #{DSTDIR + '/' + f.gsub(/.xml$/, '.output')}{,.new}",
+              "  Commit: mv -f #{DSTDIR + '/' + f.gsub(/.xml$/, '.output')}{.new,}",
+            ].join("\n")
+          )
         end
       else
-        puts "Missing #{DSTDIR + '/' + f.gsub(/.xml$/, '.output')}. Writing it, but check manually!"
         File::open(DSTDIR + '/' + f.gsub(/.xml$/, '.output'), "w") do |f|
           f.print(chanstr)
         end
-        allok = false
+        assert(false, "Missing #{DSTDIR + '/' + f.gsub(/.xml$/, '.output')}. Writing it, but check manually!")
       end
     end
-    assert(allok)
   end
 end
