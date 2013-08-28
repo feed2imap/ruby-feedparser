@@ -227,6 +227,8 @@ module FeedParser
       return s
     end
 
+    attr_writer :link
+
     def link
       if @link
         uri = URI.parse(@link)
@@ -256,7 +258,7 @@ module FeedParser
           (e = item.elements['guid'] || item.elements['rss:guid'] and
           not (e.attribute('isPermaLink') and
           e.attribute('isPermaLink').value == 'false'))
-        @link = e.text.rmWhiteSpace!
+        self.link = e.text.rmWhiteSpace!
       end
       # Content
       if (e = item.elements['content:encoded']) ||
@@ -320,7 +322,7 @@ module FeedParser
       item.each_element('link') do |e|
 
         if (h = e.attribute('href')) && h.value
-          @link = h.value
+          self.link = h.value
 
           if e.attribute('type')
             @links << {:href => h.value, :type => e.attribute('type').value}

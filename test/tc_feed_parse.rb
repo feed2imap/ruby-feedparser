@@ -146,7 +146,7 @@ class FeedParserTest < Test::Unit::TestCase
   def test_item_origin
     feed = FeedParser::Feed.new(nil, 'http://foo.com/feed')
     item = FeedParser::FeedItem.new(nil, feed)
-    item.instance_variable_set('@link', '/foo/bar')
+    item.link = '/foo/bar'
     assert_equal 'http://foo.com/foo/bar', item.link
   end
 
