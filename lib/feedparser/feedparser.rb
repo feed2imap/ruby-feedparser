@@ -5,6 +5,7 @@ require 'feedparser/rexml_patch'
 require 'feedparser/text-output'
 require 'base64'
 require 'magic'
+require 'uri'
 
 module FeedParser
 
@@ -48,8 +49,9 @@ module FeedParser
     attr_reader :xml
 
     # parse str to build a Feed
-    def initialize(str = nil)
+    def initialize(str = nil, uri = nil)
       parse(str) if str
+      parse_origin(uri) if uri
     end
 
     # Determines all the fields using a string containing an
@@ -139,18 +141,27 @@ module FeedParser
       s += "Type: #{@type}\n"
       s += "Encoding: #{@encoding}\n"
       s += "Title: #{@title}\n"
-      s += "Link: #{@link}\n"
+      s += "Link: #{link}\n"
       s += "Description: #{@description}\n"
       s += "Creator: #{@creator}\n"
       s += "\n"
       @items.each { |i| s += i.to_s(localtime) }
       s
     end
+
+    def parse_origin(uri)
+      uri = URI.parse(uri)
+      if uri.hostname && uri.scheme
+        @origin = "#{uri.scheme}://#{uri.hostname}"
+      end
+    end
+
+    attr_reader :origin
   end
 
   # an Item from a feed
   class FeedItem
-    attr_accessor :title, :link, :content, :date, :creators, :subject,
+    attr_accessor :title, :content, :date, :creators, :subject,
                   :cacheditem, :links
 
     # The item's categories/tags. An array of strings.
@@ -194,7 +205,7 @@ module FeedParser
 
     def to_s(localtime = true)
       s = "--------------------------------\n" +
-        "Title: #{@title}\nLink: #{@link}\n"
+        "Title: #{@title}\nLink: #{link}\n"
       if localtime or @date.nil?
         s += "Date: #{@date.to_s}\n"
       else
@@ -215,6 +226,18 @@ module FeedParser
       end
       return s
     end
+
+    def link
+      if @link
+        uri = URI.parse(@link)
+        if uri.hostname && uri.scheme && feed.origin
+          @link
+        else
+          [feed.origin, @link].compact.join
+        end
+      end
+    end
+
   end
 
   class RSSItem < FeedItem

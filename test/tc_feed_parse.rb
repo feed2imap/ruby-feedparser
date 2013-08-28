@@ -138,4 +138,21 @@ class FeedParserTest < Test::Unit::TestCase
     assert_equal "Codificação  quase válida", FeedParser.recode(input)
   end
 
+  def test_feed_origin
+    feed = FeedParser::Feed.new(nil, 'http://foo.com/feed')
+    assert_equal "http://foo.com", feed.origin
+  end
+
+  def test_item_origin
+    feed = FeedParser::Feed.new(nil, 'http://foo.com/feed')
+    item = FeedParser::FeedItem.new(nil, feed)
+    item.instance_variable_set('@link', '/foo/bar')
+    assert_equal 'http://foo.com/foo/bar', item.link
+  end
+
+  def test_item_origin_no_link
+    item = FeedParser::FeedItem.new(nil, nil)
+    assert_nil item.link
+  end
+
 end
