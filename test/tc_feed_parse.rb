@@ -155,4 +155,10 @@ class FeedParserTest < Test::Unit::TestCase
     assert_nil item.link
   end
 
+  def test_item_no_feed
+    item = FeedParser::FeedItem.new(nil, nil)
+    item.link = '/foo/bar'
+    assert_equal '/foo/bar', item.link
+  end
+
 end

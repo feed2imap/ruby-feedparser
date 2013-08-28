@@ -232,10 +232,12 @@ module FeedParser
     def link
       if @link
         uri = URI.parse(@link)
-        if uri.hostname && uri.scheme && feed.origin
+        if uri.hostname && uri.scheme
           @link
-        else
+        elsif feed && feed.origin
           [feed.origin, @link].compact.join
+        else
+          @link
         end
       end
     end
