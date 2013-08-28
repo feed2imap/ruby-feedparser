@@ -60,7 +60,7 @@ module FeedParser
       if header
         s += "Item: "
         s += @title if @title
-        s += "\n<#{@link}>" if @link
+        s += "\n<#{link}>" if link
         if @date
           if localtime
             s += "\nDate: #{@date.to_s}"
@@ -70,7 +70,7 @@ module FeedParser
         end
         s += "\n"
       else
-        s += "<#{@link}>\n\n" if @link
+        s += "<#{link}>\n\n" if link
       end
       s += "#{@content.html2text(wrapto).chomp}\n" if @content
       if @enclosures and @enclosures.length > 0
@@ -88,7 +88,7 @@ module FeedParser
       if not header
         s += "\nItem: "
         s += @title if @title
-        s += "\n<#{@link}>" if @link
+        s += "\n<#{link}>" if link
         if @date
           if localtime
             s += "\nDate: #{@date.to_s}"
