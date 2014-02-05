@@ -231,7 +231,7 @@ module FeedParser
 
     def link
       if @link
-        uri = URI.parse(@link)
+        uri = URI.parse(URI.escape(@link))
         if uri.hostname && uri.scheme
           @link
         elsif feed && feed.origin
