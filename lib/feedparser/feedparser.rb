@@ -9,7 +9,7 @@ require 'uri'
 
 module FeedParser
 
-  VERSION = "0.7"
+  VERSION = "0.9.3"
 
   class UnknownFeedTypeException < RuntimeError
   end

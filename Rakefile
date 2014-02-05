@@ -6,7 +6,7 @@ require 'find'
 
 # Globals
 PKG_NAME = 'ruby-feedparser'
-PKG_VERSION = '0.9.2'
+PKG_VERSION = `ruby -Ilib -rfeedparser/feedparser -e 'puts FeedParser::VERSION'`.strip
 
 PKG_FILES = [ 'ChangeLog', 'README', 'COPYING', 'LICENSE', 'setup.rb', 'Rakefile']
 Find.find('lib/', 'test/', 'tools/') do |f|
