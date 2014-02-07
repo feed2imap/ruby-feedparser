@@ -8,7 +8,7 @@ Creator:
 ****************************************
 Item: Artur Hefczyc: Machines for tests
 <http://www.tigase.org/node/250>
-Date: Mon Feb 12 00:46:25 UTC 2007
+Date: 2007-02-12 00:46:25 UTC
 If you look at the test page[1] you may notice that stability tests are 
 missing for a few last releases.
 
@@ -41,14 +41,14 @@ Author: kobit
 ****************************************
 Item: Ralph Meijer: FOSDEM 2007 Jabber devroom schedule published
 <http://ralphm.net/blog/2007/02/09/fosdem_2007_devroom>
-Date: Fri Feb 09 15:49:30 UTC 2007
+Date: 2007-02-09 15:49:30 UTC
 Back in November I[1] posted[2] a call for presence (haha) for the 
 Jabber developer room[3] at FOSDEM 2007. But this year, with the help of 
-Peter Saint-André[4], the hunt for speakers has been far more 
-aggressive than previous editions. I must say that this has resulted in 
-a great, packed, line-up and I am sure that many people (currently) from 
-outside the will be interested in what will be presented. Loki has put 
-the schedule online earlier today.
+Peter Saint-André[4], the hunt for speakers has been far more aggressive 
+than previous editions. I must say that this has resulted in a great, 
+packed, line-up and I am sure that many people (currently) from outside 
+the will be interested in what will be presented. Loki has put the 
+schedule online earlier today.
 
 To give a quick overview, on Saturday Peter will kick off with a Jabber 
 101[5], targetted at getting developers acquainted with Jabber 
@@ -74,9 +74,9 @@ to speed on rich media streaming, and proceed with Mickaël Rémond of
 ejabberd fame on OneTeam[13], a Mozilla/XUL based Jabber client 
 application. Mika Raento takes us to the mobile world with his talk on 
 Jaiku[14], that combines rich presence and group messaging on the web 
-and on the mobile. Then we close the room to go Peter Saint-André's 
-talk in the huge Janson room on secure communications[15]. Be sure to 
-check out the interview[16]. To allow for some extra time for answering 
+and on the mobile. Then we close the room to go Peter Saint-André's talk 
+in the huge Janson room on secure communications[15]. Be sure to check 
+out the interview[16]. To allow for some extra time for answering 
 questions after that talk, we reopen the developers' room for a Q&A[17] 
 session, and possibly a few 5 min. lightning talks, and then close up 
 shop.
@@ -105,7 +105,7 @@ Author: ralphm
 ****************************************
 Item: Peter Saint-Andre: Getting IMified
 <http://www.saint-andre.com/blog/2007-02.html#2007-02-08T13:13>
-Date: Thu Feb 08 20:13:00 UTC 2007
+Date: 2007-02-08 20:13:00 UTC
 IMified[1] is a fun new service that enables you to keep to-do items and 
 reminders, interact with Google Calendar, and so on -- all from the 
 comfort of your Jabber client. It's well explained here[2] with pretty 
@@ -123,7 +123,7 @@ Author: Peter Saint-Andre
 ****************************************
 Item: Christopher Zorn: Punjab release
 <http://thetofu.livejournal.com/67429.html>
-Date: Thu Feb 08 17:15:55 UTC 2007
+Date: 2007-02-08 17:15:55 UTC
 A new version of punjab has been released. Also, we left sourceforge for 
 various reasons. The new url is 
 http://www.butterfat.net/wiki/Projects/PunJab[1]
@@ -144,7 +144,7 @@ Author: Christopher Zorn
 ****************************************
 Item: Peter Saint-Andre: FOSDEM Interview
 <http://www.saint-andre.com/blog/2007-02.html#2007-02-08T09:44>
-Date: Thu Feb 08 16:44:00 UTC 2007
+Date: 2007-02-08 16:44:00 UTC
 The generous volunteers who put on FOSDEM[1] have published an 
 interview[2] with yours truly, since I'll be a speaker at the conference 
 (my topic is Secure Communications with Jabber[3], be there on Sunday at 
@@ -160,7 +160,7 @@ Author: Peter Saint-Andre
 ****************************************
 Item: Ignite Realtime Blog: Releases: Second Wave
 <http://www.igniterealtime.org/blog/2007/02/06/releases-second-wave/>
-Date: Wed Feb 07 01:27:37 UTC 2007
+Date: 2007-02-07 01:27:37 UTC
 Just one week later, I’m pleased to announce the second wave of 
 releases:
 
@@ -175,9 +175,8 @@ details.
 
 *Spark 2.5.0 Beta 2*
 
-We’ve incorporated[3] a number of bug fixes and minor improvements 
-since the first beta. Grab the download from the new beta area[4] of the 
-site.
+We’ve incorporated[3] a number of bug fixes and minor improvements since 
+the first beta. Grab the download from the new beta area[4] of the site.
 
 *Smack 3.0.0 Beta 1*
 
@@ -215,7 +214,7 @@ Author: matt
 ****************************************
 Item: Ignite Realtime Blog: Smack 3.0 Beta
 <http://www.igniterealtime.org/blog/2007/02/06/smack-30-beta/>
-Date: Tue Feb 06 23:09:39 UTC 2007
+Date: 2007-02-06 23:09:39 UTC
 A new beta of Smack (3.0.0 Beta 1) was released[1] today. It’s been a 
 *long* time since the last release, which is easy to tell by the length 
 of the changelog[2]. The beta represents major new functionality. Some 
@@ -226,19 +225,19 @@ re-connect after a dropped connection.
 - Many new XEP’s supported and better XMPP RFC compliance.
 - Major re-factoring of how chats work.
 
-All this is very good news. The bad news is that this new release 
-isn’t a drop-in replacement for the old version of Smack. We had to 
-make API changes in order to support the features above and we decided 
-to make the move to Java 5 at the same time (might as well break a lot 
-if you’re going to break a little). The switch to Java 5 in particular 
-will be a deal-breaker for some. We’ll likely continue making bug 
-fixes in the 2.x branch as compensation.
+All this is very good news. The bad news is that this new release isn’t 
+a drop-in replacement for the old version of Smack. We had to make API 
+changes in order to support the features above and we decided to make 
+the move to Java 5 at the same time (might as well break a lot if you’re 
+going to break a little). The switch to Java 5 in particular will be a 
+deal-breaker for some. We’ll likely continue making bug fixes in the 2.x 
+branch as compensation.
 
 All these changes have been driven by work being done on Spark. In fact, 
 Jingle support should officially land in Smack before the 3.0 beta 
 period is up (you may have seen Jingle in the roadmap[3] already). Let 
-us know what you think of the beta. We’d also love your feedback on 
-what we can do to make the transition smoother.
+us know what you think of the beta. We’d also love your feedback on what 
+we can do to make the transition smoother.
 
 [1] http://www.igniterealtime.org/downloads/beta.jsp
 [2] 
@@ -251,7 +250,7 @@ Author: matt
 ****************************************
 Item: Process One: OneTeam performance versus pure Multibrowsers Ajax Clients
 <http://www.process-one.net/en/blogs/article/oneteam_performance_versus_pure_multibrowsers_ajax_clients/>
-Date: Tue Feb 06 18:20:04 UTC 2007
+Date: 2007-02-06 18:20:04 UTC
 Pure Cross-browser application are targeting desktop like interfaces. 
 However, performance improvements is radical in the XUL version of an 
 application. This is why OneTeam offer a desktop-like feeling.
@@ -280,7 +279,7 @@ Author: Mickaël Rémond
 ****************************************
 Item: Peter Saint-Andre: Simply Wrong
 <http://www.saint-andre.com/blog/2007-02.html#2007-02-05T16:25>
-Date: Mon Feb 05 23:25:00 UTC 2007
+Date: 2007-02-05 23:25:00 UTC
 There are so many errors in this article[1] about SIMPLE[2] in the 
 enterprise that it would take me quite a while to correct them all. 
 Maybe later this week I'll find the time...
@@ -295,7 +294,7 @@ Author: Peter Saint-Andre
 ****************************************
 Item: Peter Saint-Andre: OSCON Proposal
 <http://www.saint-andre.com/blog/2007-02.html#2007-02-05T15:51>
-Date: Mon Feb 05 22:51:00 UTC 2007
+Date: 2007-02-05 22:51:00 UTC
 I just submitted a proposal to speak at OSCON 2007[1], the brief version 
 is:
 
@@ -333,7 +332,7 @@ Author: Peter Saint-Andre
 ****************************************
 Item: Remko Tronçon: Psi @ FOSDEM
 <http://el-tramo.be/blog/psi-fosdem>
-Date: Sun Feb 04 17:01:19 UTC 2007
+Date: 2007-02-04 17:01:19 UTC
 Kev[1] and I will be attending FOSDEM[2] on February 24th and 25th, and 
 we’ll be joining other XMPP developers at the XMPP Interop Event and 
 DevCon[3] the day after. So, if you want to meet up, or have some 
@@ -352,7 +351,7 @@ Author: Remko Tronçon
 ****************************************
 Item: Remko Tronçon: Receiving Google Talk files with libjingle
 <http://el-tramo.be/blog/psi-googleft>
-Date: Sun Feb 04 16:14:30 UTC 2007
+Date: 2007-02-04 16:14:30 UTC
 As Google released a new version of libjingle[1] last friday, I decided 
 to experiment with their file transfer implementation in Psi this 
 weekend. I added some code that allows someone to accept files sent by 
@@ -374,7 +373,7 @@ Author: Remko Tronçon
 ****************************************
 Item: Artur Hefczyc: 2.5.0 version of Tigase server available
 <http://www.tigase.org/node/218>
-Date: Sat Feb 03 16:56:24 UTC 2007
+Date: 2007-02-03 16:56:24 UTC
 This time changes are very small but also very significant.
 
 Following suggestions from Jabber/XMPP community I changed the policy 
@@ -396,7 +395,7 @@ Author: kobit
 ****************************************
 Item: Process One: Slides of the talk “Jabber, XMPP and the XSF”
 <http://www.process-one.net/en/blogs/article/slides_of_the_talk_jabber_xmpp_and_the_xsf/>
-Date: Fri Feb 02 09:14:17 UTC 2007
+Date: 2007-02-02 09:14:17 UTC
 Here are the slides from my talk given at the Solutions Linux Event in 
 Paris (France). The talk is about Jabber, XMPP and the XMPP Standards 
 Foundation.
@@ -422,7 +421,7 @@ Author: Mickaël Rémond
 ****************************************
 Item: Process One: OneTeam Enterprise IM Client Video Preview
 <http://www.process-one.net/en/blogs/article/oneteam_enterprise_im_client_video_preview/>
-Date: Fri Feb 02 08:13:53 UTC 2007
+Date: 2007-02-02 08:13:53 UTC
 I have been presenting OneTeam yesterday at the Linux Solutions Event in 
 Paris, in the Mozilla track. Here is the video preview from my talk.
 

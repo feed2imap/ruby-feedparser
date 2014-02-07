@@ -13,15 +13,14 @@ module FeedParser
       @links = []
       @curlink = []
       @imgs = []
-      @img_index = '@'
+      @img_index = 'A'
       super(verbose)
     end
 
     def next_img_index
-      n = @img_index[0].ord
-      n += 1
-      @img_index = n.chr
-      return @img_index
+      idx = @img_index
+      @img_index = @img_index.next
+      idx
     end
 
     def handle_data(data)
@@ -30,7 +29,8 @@ module FeedParser
         data.gsub!(/\n/, ' ') 
         data.gsub!(/( )+/, ' ')
       end
-      @savedata << data
+      data = FeedParser.recode(data)
+      @savedata << data.encode(Encoding::UTF_8)
     end
 
     def unknown_starttag(tag, attrs)

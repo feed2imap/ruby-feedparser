@@ -80,13 +80,13 @@ module FeedParser
       s += (headline % ["Feed:", r])
 
       r = ""
-      r += "<a href=\"#{@link}\">" if @link
+      r += "<a href=\"#{link}\">" if link
       if @title
         r += "<b>#{@title.escape_html}</b>\n"
-      elsif @link
-        r += "<b>#{@link.escape_html}</b>\n"
+      elsif link
+        r += "<b>#{link.escape_html}</b>\n"
       end
-      r += "</a>\n" if @link
+      r += "</a>\n" if link
       s += (headline % ["Item:", r])
       s += "</table></td></tr></table>\n"
       s += "\n"

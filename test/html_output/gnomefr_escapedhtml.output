@@ -32,7 +32,7 @@ Planète GNOME-FR - http://planete.gnomefr.org/
 </div>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Sep 14 20:21:47 UTC 2005</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-09-14 20:21:47 UTC</font></td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
@@ -55,7 +55,7 @@ Planète GNOME-FR - http://planete.gnomefr.org/
 <br />Everything is there : the "places" (vertical in nautilus and horizontal in GWorkspace), the path bar (thankfully scaled down, but the idea is the same), the icon/list views... Of course, I guess inspiration mostly comes from the MacOS X rework of GWorkspace, but it's weird to think that this UI has been there for years, just waiting for somebody to pimp it up.<br />Now there is just the <a href="http://actsofvolition.com/images/screenshots/next-column-view.png">column view</a> left to implement, and we'll be at 1:1 features ratio (although with good drag-n-drop management the current path bar could replace that view in most of the cases).</div>
 <hr width="100%"/>
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Wed Sep 14 19:15:01 UTC 2005</font></td></tr>
+<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-09-14 19:15:01 UTC</font></td></tr>
 </table>
 
 </body></html>

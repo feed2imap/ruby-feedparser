@@ -1,12 +1,12 @@
 require 'rake/testtask'
-require 'rake/rdoctask'
-require 'rake/packagetask'
+require 'rdoc/task'
+require 'rubygems/package_task'
 require 'rake'
 require 'find'
 
 # Globals
 PKG_NAME = 'ruby-feedparser'
-PKG_VERSION = '0.7'
+PKG_VERSION = `ruby -Ilib -rfeedparser/feedparser -e 'puts FeedParser::VERSION'`.strip
 
 PKG_FILES = [ 'ChangeLog', 'README', 'COPYING', 'LICENSE', 'setup.rb', 'Rakefile']
 Find.find('lib/', 'test/', 'tools/') do |f|
@@ -19,7 +19,7 @@ end
 
 PKG_FILES.reject! { |f| f =~ /^test\/(source|.*_output)\// }
 
-task :default => [:package]
+task :default => [:test]
 
 Rake::TestTask.new do |t|
 	t.libs << "test"
@@ -61,8 +61,6 @@ end
 
 # "Gem" part of the Rakefile
 begin
-	require 'rake/gempackagetask'
-
 	spec = Gem::Specification.new do |s|
 		s.platform = Gem::Platform::RUBY
 		s.summary = "Ruby library to parse ATOM and RSS feeds"
@@ -73,9 +71,11 @@ begin
 		s.autorequire = 'feedparser'
 		s.files = PKG_FILES
 		s.description = "Ruby library to parse ATOM and RSS feeds"
+		s.authors = ['Lucas Nussbaum']
+		s.add_runtime_dependency 'magic'
 	end
 
-	Rake::GemPackageTask.new(spec) do |pkg|
+	Gem::PackageTask.new(spec) do |pkg|
 		pkg.need_zip = true
 		pkg.need_tar = true
 	end

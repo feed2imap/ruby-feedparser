@@ -4,12 +4,41 @@ require 'feedparser/textconverters'
 require 'feedparser/rexml_patch'
 require 'feedparser/text-output'
 require 'base64'
+require 'magic'
+require 'uri'
 
 module FeedParser
 
-  VERSION = "0.7"
+  VERSION = "0.9.3"
 
   class UnknownFeedTypeException < RuntimeError
+  end
+
+  def self.recode(str)
+    encoding = nil
+    begin
+      encoding = Magic.guess_string_mime_encoding(str)
+    rescue Magic::Exception
+      # this happens when magic does not find any content at all, e.g. with
+      # strings that contain only whitespace. In these case it *should* be safe
+      # to assume UTF-8
+      encoding = Encoding::UTF_8
+    end
+    if encoding == 'unknown-8bit'
+      # find first substring with a valid encoding that is not us-ascii
+      length = 1 # has to start at 1, magic requires at least 2 bytes
+      while length < str.length && ['us-ascii', 'unknown-8bit'].include?(encoding)
+        encoding = Magic.guess_string_mime_encoding(str[0..length])
+        length = length + 1
+      end
+      # need to remove iso-8859-1 control characters
+      if encoding == 'iso-8859-1'
+        str = str.bytes.select { |c| c < 128 || c > 159 }.map(&:chr).join
+      end
+    end
+    str.force_encoding(encoding)
+    str = str.chars.select { |c| c.valid_encoding? }.join
+    str.encode('UTF-8')
   end
 
   # an RSS/Atom feed
@@ -20,13 +49,16 @@ module FeedParser
     attr_reader :xml
 
     # parse str to build a Feed
-    def initialize(str = nil)
+    def initialize(str = nil, uri = nil)
       parse(str) if str
+      parse_origin(uri) if uri
     end
 
     # Determines all the fields using a string containing an
     # XML document
     def parse(str)
+      str = FeedParser.recode(str)
+
       # Dirty hack: some feeds contain the & char. It must be changed to &amp;
       str.gsub!(/&(\s+)/, '&amp;\1')
       doc = REXML::Document.new(str)
@@ -34,7 +66,7 @@ module FeedParser
       # get feed info
       @encoding = doc.encoding
       @title,@link,@description,@creator = nil
-			@title = ""
+      @title = ""
       @items = []
       if doc.root.elements['channel'] || doc.root.elements['rss:channel']
         @type = "rss"
@@ -109,18 +141,27 @@ module FeedParser
       s += "Type: #{@type}\n"
       s += "Encoding: #{@encoding}\n"
       s += "Title: #{@title}\n"
-      s += "Link: #{@link}\n"
+      s += "Link: #{link}\n"
       s += "Description: #{@description}\n"
       s += "Creator: #{@creator}\n"
       s += "\n"
       @items.each { |i| s += i.to_s(localtime) }
       s
     end
+
+    def parse_origin(uri)
+      uri = URI.parse(uri)
+      if uri.hostname && uri.scheme
+        @origin = "#{uri.scheme}://#{uri.hostname}"
+      end
+    end
+
+    attr_reader :origin
   end
 
   # an Item from a feed
   class FeedItem
-    attr_accessor :title, :link, :content, :date, :creators, :subject,
+    attr_accessor :title, :content, :date, :creators, :subject,
                   :cacheditem, :links
 
     # The item's categories/tags. An array of strings.
@@ -138,12 +179,12 @@ module FeedParser
       @xml = item
       @feed = feed
       @title, @link, @content, @date, @subject = nil
-			@links = []
+      @links = []
       @creators = []
       @categories = []
       @enclosures = []
 
-			@title = ""
+      @title = ""
       parse(item) if item
     end
 
@@ -164,7 +205,7 @@ module FeedParser
 
     def to_s(localtime = true)
       s = "--------------------------------\n" +
-        "Title: #{@title}\nLink: #{@link}\n"
+        "Title: #{@title}\nLink: #{link}\n"
       if localtime or @date.nil?
         s += "Date: #{@date.to_s}\n"
       else
@@ -185,6 +226,22 @@ module FeedParser
       end
       return s
     end
+
+    attr_writer :link
+
+    def link
+      if @link
+        uri = URI.parse(URI.escape(@link))
+        if uri.hostname && uri.scheme
+          @link
+        elsif feed && feed.origin
+          [feed.origin, @link].compact.join
+        else
+          @link
+        end
+      end
+    end
+
   end
 
   class RSSItem < FeedItem
@@ -203,7 +260,7 @@ module FeedParser
           (e = item.elements['guid'] || item.elements['rss:guid'] and
           not (e.attribute('isPermaLink') and
           e.attribute('isPermaLink').value == 'false'))
-        @link = e.text.rmWhiteSpace!
+        self.link = e.text.rmWhiteSpace!
       end
       # Content
       if (e = item.elements['content:encoded']) ||
@@ -267,7 +324,7 @@ module FeedParser
       item.each_element('link') do |e|
 
         if (h = e.attribute('href')) && h.value
-          @link = h.value
+          self.link = h.value
 
           if e.attribute('type')
             @links << {:href => h.value, :type => e.attribute('type').value}

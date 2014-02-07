@@ -8,7 +8,7 @@ Creator:
 ****************************************
 Item: (In)security at the University of Birmingham
 <http://www.lightbluetouchpaper.org/2007/02/25/insecurity-at-the-university-of-birmingham/>
-Date: Sun Feb 25 15:15:34 UTC 2007
+Date: 2007-02-25 15:15:34 UTC
 I travelled to the University of Birmingham[1] on Friday to give a guest 
 lecture to their undergraduates on Anonymity and Traceability[2]. It was 
 given in a smart new lecture theatre, which had what Birmingham 
@@ -25,14 +25,14 @@ for using this PC:
 The text (apologies for a rather fuzzy photo) says: "Username=user" and 
 "Password=user&2006".
 
-With a little thought, it can be seen that most likely this isn’t 
-really a security issue at all, but a software design issue. I rather 
-suspect that there just isn’t a way of turning off the login function, 
-and the PC can’t be used to access any other important systems — and 
-no-one wants to see lectures delayed if the password isn’t to hand. 
-That’s undoubtedly why they’ve used proper Dymo[6]-style tape for 
-the information, rather than relying on the traditional[7] yellow 
-sticky[8], which could get lost!
+With a little thought, it can be seen that most likely this isn’t really 
+a security issue at all, but a software design issue. I rather suspect 
+that there just isn’t a way of turning off the login function, and the 
+PC can’t be used to access any other important systems — and no-one 
+wants to see lectures delayed if the password isn’t to hand. That’s 
+undoubtedly why they’ve used proper Dymo[6]-style tape for the 
+information, rather than relying on the traditional[7] yellow sticky[8], 
+which could get lost!
 
 [1] http://www.cs.bham.ac.uk/
 [2] http://www.cl.cam.ac.uk/~rnc1/talks/070223-anontrace.pdf
@@ -54,31 +54,30 @@ Author: Richard Clayton
 ****************************************
 Item: SOCA: we just want your money?
 <http://www.lightbluetouchpaper.org/2007/02/11/soca-we-just-want-your-money/>
-Date: Sun Feb 11 16:56:09 UTC 2007
+Date: 2007-02-11 16:56:09 UTC
 Just over a year ago I wrote about the, then upcoming, Serious Organised 
 Crime Agency (SOCA), reporting that their aim in tackling “level 3″ 
 crime was to be “mysterious and menacing[1]“. I pointed out how they 
 were going to be absorbing the National High Tech Crime Unit (NHTCU) and 
 that this would leave a large gap, in that there would apparently be no 
-police organisation dealing with “level 2″ eCrime — crime which is 
-not local to a single police force area, but that is not sufficiently 
+police organisation dealing with “level 2″ eCrime — crime which is not 
+local to a single police force area, but that is not sufficiently 
 serious or organised to be dealt with by SOCA.
 
 In fact, I’ve since learnt that the inability to deal with level 2 
 criminality is not just an eCrime issue. In 2005 Her Majesty’s 
-Inspectorate of Constabulary (HMIC) published “Closing the Gap - 
-Review of the ‘Fitness for Purpose’ of the Current Structure of 
-Policing in England and Wales[2]“, which found that the failure to 
-deal with “level 2″ criminality was an issue across a very wide 
-range of different crimes (the whole report makes its points without 
-once mentioning eCrime or the Internet). This led to the, now 
-abandoned[3], proposals to compulsorily merge 43 police forces into 17 
-larger units. No further generic policy initiative appears to be 
-forthcoming.
+Inspectorate of Constabulary (HMIC) published “Closing the Gap - Review 
+of the ‘Fitness for Purpose’ of the Current Structure of Policing in 
+England and Wales[2]“, which found that the failure to deal with “level 
+2″ criminality was an issue across a very wide range of different crimes 
+(the whole report makes its points without once mentioning eCrime or the 
+Internet). This led to the, now abandoned[3], proposals to compulsorily 
+merge 43 police forces into 17 larger units. No further generic policy 
+initiative appears to be forthcoming.
 
 However, as I wrote in October, there is some thought going into eCrime 
-and the current proposal is “mainstreaming[4]“, viz: not treating it 
-as anything special.
+and the current proposal is “mainstreaming[4]“, viz: not treating it as 
+anything special.
 
 Additionally, the Met Police have been floating the idea of an national 
 coordination centre for eCrime reports, as hinted at in this January 
@@ -96,20 +95,20 @@ But, I’m digressing, so back to SOCA[10]…
 Last month I, and a couple of other eCrime policy opinion formers (!), 
 were invited down to Docklands for the proverbial “free lunch” and 
 several hours of presentations on what SOCA is doing about “level 3″ 
-criminality. It’s a little tricky to report on the detail, because 
-they asked us to treat some of the material in confidence. However, two 
-clear messages stood out:
+criminality. It’s a little tricky to report on the detail, because they 
+asked us to treat some of the material in confidence. However, two clear 
+messages stood out:
 
 The first is that the absorbed NHTCU is now significantly bigger, 
-significantly better resourced, and with the hiving off of “child 
-abuse image” issues to CEOP[11], is not being forever distracted into 
-chasing down individual paedophiles (if there’s one child at risk, or 
-an 420-million dollar bank hack[12] to investigate, the former tended to 
+significantly better resourced, and with the hiving off of “child abuse 
+image” issues to CEOP[11], is not being forever distracted into chasing 
+down individual paedophiles (if there’s one child at risk, or an 
+420-million dollar bank hack[12] to investigate, the former tended to 
 get all the resource). This is basically a Good Thing, so far as it 
 goes.
 
-The second message is that SOCA is a “harm reduction agency” and is 
-not just concentrating on detective work and prosecutions. They are also 
+The second message is that SOCA is a “harm reduction agency” and is not 
+just concentrating on detective work and prosecutions. They are also 
 looking at a whole range of other interventions, from offender 
 management (serious, organised criminals have a very high recidivism 
 rate) through diligent application of the Proceeds of Crime[13] 
@@ -118,28 +117,26 @@ opportunities.
 
 They have a Bill before parliament at present (the Serious Crime 
 Bill[14]) which will give them sweeping new powers to create 
-“gangster-ASBOs” to restrict the lives of convicted organised 
-criminals, and will permit the wholesale swapping of data for the 
-prevention of fraud, without infringement of the Data Protection Act. 
-The Bill also reworks the framework for “inchoate” offences, viz: 
-incitement to commit crimes or assisting with them — of which perhaps 
-more on another occasion, since poor wording for the offences could make 
-many security research activities problematic.
+“gangster-ASBOs” to restrict the lives of convicted organised criminals, 
+and will permit the wholesale swapping of data for the prevention of 
+fraud, without infringement of the Data Protection Act. The Bill also 
+reworks the framework for “inchoate” offences, viz: incitement to commit 
+crimes or assisting with them — of which perhaps more on another 
+occasion, since poor wording for the offences could make many security 
+research activities problematic.
 
-Looking back, it is this strong emphasis on SOCA’s approach to 
-ensuring “crime doesn’t pay” that remains with me most strongly. 
-This isn’t just the approach of locking Al Capone up for tax 
-evasion[15] because nothing else could be made to stick (though Capone 
-actually served time for several other offences). This is all about SOCA 
-developing an effective way of stripping criminals of their ill-gotten 
-gains.
+Looking back, it is this strong emphasis on SOCA’s approach to ensuring 
+“crime doesn’t pay” that remains with me most strongly. This isn’t just 
+the approach of locking Al Capone up for tax evasion[15] because nothing 
+else could be made to stick (though Capone actually served time for 
+several other offences). This is all about SOCA developing an effective 
+way of stripping criminals of their ill-gotten gains.
 
-I’m reminded of Sir Alan Sugar[16] giving a lecture about management 
-way back in the 1980’s. He was mocking the 
-catch-phrase/mission-statement culture, memorably saying, “‘Pan Am 
-takes good care of you’, ‘Marks and Spencer loves you’, 
-‘Securicor cares’ . . . at Amstrad, ‘We just want your 
-money’[17]“. Twenty years on, that seems a rather apt phrase for a 
+I’m reminded of Sir Alan Sugar[16] giving a lecture about management way 
+back in the 1980’s. He was mocking the catch-phrase/mission-statement 
+culture, memorably saying, “‘Pan Am takes good care of you’, ‘Marks and 
+Spencer loves you’, ‘Securicor cares’ . . . at Amstrad, ‘We just want 
+your money’[17]“. Twenty years on, that seems a rather apt phrase for a 
 significant slice of SOCA’s activities.
 
 [1] 
@@ -171,7 +168,7 @@ Author: Richard Clayton
 ****************************************
 Item: Financial Ombudsman on Chip & PIN infallibility
 <http://www.lightbluetouchpaper.org/2007/02/08/financial-ombudsman-on-chip-pin-infallibility/>
-Date: Thu Feb 08 18:25:56 UTC 2007
+Date: 2007-02-08 18:25:56 UTC
 The Financial Ombudsman Service[1] offers to adjudicate disputes between 
 banks and their customers who claim to have been treated unfairly. We 
 were forwarded a letter written by the Ombudsman[2] concerning a 
@@ -198,9 +195,9 @@ cannot do the same. Although the Financial Ombudsman service can review
 the evidence, giving it to the customer would allow them to pursue 
 further investigation on their own.
 
-The Firm has provided an ‘audit trail’ of the transactions disputed 
-by you. This shows the location and times of the transactions any 
-evidences that the card used was ‘CHIP’ read.
+The Firm has provided an ‘audit trail’ of the transactions disputed by 
+you. This shows the location and times of the transactions any evidences 
+that the card used was ‘CHIP’ read.
 
 Without access to the audit trail and information concerning how it was 
 produced, it is almost impossible for the customer to know the precise 
@@ -209,9 +206,9 @@ a number of important unanswered questions. For example: Was the card in
 question SDA or DDA? SDA cards can be cloned[4] to produce *yes cards*, 
 which will accept any PIN and still work in *offline* transactions, 
 where the terminal or ATM does not contact the bank. This type of fraud 
-has been seen in France[5] (pp. 5–10). Was the ATM online or offline 
-at the time of the transaction? Although ATMs are generally online, if 
-Chip & PIN terminals fail to dial up the bank they may continue to work 
+has been seen in France[5] (pp. 5–10). Was the ATM online or offline at 
+the time of the transaction? Although ATMs are generally online, if Chip 
+& PIN terminals fail to dial up the bank they may continue to work 
 offline and so accept SDA clones. Could this have happened with this 
 ATM? What was the application cryptogram presented in this transaction? 
 When a Chip & PIN card authorises a transaction, it produces an 
@@ -282,23 +279,23 @@ Author: Steven J. Murdoch
 ****************************************
 Item: Chip & PIN relay attacks
 <http://www.lightbluetouchpaper.org/2007/02/06/chip-pin-relay-attacks/>
-Date: Tue Feb 06 09:36:58 UTC 2007
+Date: 2007-02-06 09:36:58 UTC
 Saar Drimer and myself have shown that the Chip & PIN system[1], used 
 for card payments in the UK, is vulnerable to a new kind of fraud. By 
 “relaying” information from a genuine card, a Chip & PIN terminal in 
 another shop, can be made to accept a counterfeit card. We previously 
-discussed this possibility in “Chip & Spin”[2] but it was not until 
-now that we implemented and tested the attack.
+discussed this possibility in “Chip & Spin”[2] but it was not until now 
+that we implemented and tested the attack.
 
 A fraudster sets up a fake terminal[3] in a busy shop or restaurant. 
 When a genuine customer inserts their card into this terminal, the 
-fraudster’s accomplice, in another shop, inserts their counterfeit 
-card into the merchant’s terminal. The fake terminal reads details 
-from the genuine card, and relays them to the counterfeit card, so that 
-it will be accepted. The PIN is recorded by the fake terminal and sent 
-to the accomplice for them to enter, and they can then walk off with the 
-goods. To the victim, everything was normal, but when their statement 
-arrives, they will find that they have been defrauded.
+fraudster’s accomplice, in another shop, inserts their counterfeit card 
+into the merchant’s terminal. The fake terminal reads details from the 
+genuine card, and relays them to the counterfeit card, so that it will 
+be accepted. The PIN is recorded by the fake terminal and sent to the 
+accomplice for them to enter, and they can then walk off with the goods. 
+To the victim, everything was normal, but when their statement arrives, 
+they will find that they have been defrauded.
 
 [A]
 
@@ -346,9 +343,9 @@ Author: Steven J. Murdoch
 ****************************************
 Item: Human Rights and Biophysics (strange similarities)
 <http://www.lightbluetouchpaper.org/2007/01/07/human-rights-and-biophysics-strange-similarities/>
-Date: Sun Jan 07 21:21:15 UTC 2007
-I recently received an email from “Daniel” at the “European Human 
-Rights Centre”.
+Date: 2007-01-07 21:21:15 UTC
+I recently received an email from “Daniel” at the “European Human Rights 
+Centre”.
 
 I came across your site while searching the net for
 some quality websites. I think you did a great job
@@ -388,7 +385,7 @@ Author: Richard Clayton
 ****************************************
 Item: Chip & PIN terminal playing Tetris
 <http://www.lightbluetouchpaper.org/2006/12/24/chip-pin-terminal-playing-tetris/>
-Date: Sun Dec 24 21:08:24 UTC 2006
+Date: 2006-12-24 21:08:24 UTC
 Many discussions over the security of Chip & PIN have focused on the 
 tamper-resistance of terminals (for example in the aftermath of the 
 Shell Chip & PIN fraud[1]). It is important to remember, however, that 
@@ -414,11 +411,10 @@ in action. Have a merry Christmas and happy New Year [A]
 APACS, the payments organisation representing high street banks, said 
 the Cambridge breakthrough could be a threat.
 
-‘People could, in theory, use this to steal account details from 
-cards,’ said Sandra Quinn of APACS. ‘Our experts are in discussion 
-with the manufacturers of terminals to see what can be done. Essentially 
-what these people have done is replace the innards of a chip and Pin 
-machine.
+‘People could, in theory, use this to steal account details from cards,’ 
+said Sandra Quinn of APACS. ‘Our experts are in discussion with the 
+manufacturers of terminals to see what can be done. Essentially what 
+these people have done is replace the innards of a chip and Pin machine.
 
 ‘However, we would say that this has only been seen in a laboratory so 
 far. People would not be able to create counterfeit chip and Pin cards, 
@@ -440,20 +436,20 @@ Author: Saar Drimer
 ****************************************
 Item: Health database optout - latest news
 <http://www.lightbluetouchpaper.org/2006/12/18/health-database-optout-latest-news/>
-Date: Mon Dec 18 10:10:58 UTC 2006
-This morning I debated health privacy on Radio 4’s Today programme 
-with health minister Lord Warner. You can listen to the debate here[1], 
-and there is an earlier comment by Michael Summers of the Patients’ 
+Date: 2006-12-18 10:10:58 UTC
+This morning I debated health privacy on Radio 4’s Today programme with 
+health minister Lord Warner. You can listen to the debate here[1], and 
+there is an earlier comment by Michael Summers of the Patients’ 
 Association here[2].
 
 I support a campaign by TheBigOptOut.org[3] which has so far persuaded 
 thousands of people to write to their GPs forbidding the upload of their 
-patient records to central systems. Once they are uploaded, you’ll 
-have to prove ’substantial mental distress’ to the government (as 
-Lord Warner says) to get them removed or restricted. It is much simpler 
-to tell your GP not to upload them in the first place (and you can 
-always change your mind later if the Government delivers on its claims 
-about safety and privacy).
+patient records to central systems. Once they are uploaded, you’ll have 
+to prove ’substantial mental distress’ to the government (as Lord Warner 
+says) to get them removed or restricted. It is much simpler to tell your 
+GP not to upload them in the first place (and you can always change your 
+mind later if the Government delivers on its claims about safety and 
+privacy).
 
 For more, see TheBigOptOut.org[3], nhs-it.info[4] and my previous blog 
 posts here[5], here[6] and here[7], and our work on children’s 
@@ -480,47 +476,45 @@ Author: Ross Anderson
 ****************************************
 Item: 23rd Chaos Communication Congress
 <http://www.lightbluetouchpaper.org/2006/12/12/23rd-chaos-communication-congress/>
-Date: Tue Dec 12 11:13:44 UTC 2006
+Date: 2006-12-12 11:13:44 UTC
 [A]The 23rd Chaos Communication Congress[1] will be held later this 
-month in Berlin, Germany on 27–30 December. I will be attending to 
-give a talk[2] on Hot or Not: Revealing Hidden Services by their Clock 
+month in Berlin, Germany on 27–30 December. I will be attending to give 
+a talk[2] on Hot or Not: Revealing Hidden Services by their Clock 
 Skew[3]. Another contributor to this blog, George Danezis[4], will be 
 talking on An Introduction to Traffic Analysis[5].
 
 This will be my third time speaking at the CCC (I previously talked on 
 Hidden Data in Internet Published Documents[6] and The Convergence of 
 Anti-Counterfeiting and Computer Security[7] in 2004 then Covert 
-channels in TCP/IP: attack and defence[8] in 2005) and I’ve always had 
-a great time but this year looks to be the best yet. Here are a few 
+channels in TCP/IP: attack and defence[8] in 2005) and I’ve always had a 
+great time but this year looks to be the best yet. Here are a few 
 highlights from the draft programme[9], although I am sure there are 
 many great talks I have missed.
 
-- Bernd R. Fix on A not so smart card[10] — one of the rare cases 
-where key length (320 bit RSA) *was* the major weakness in a security 
-system
+- Bernd R. Fix on A not so smart card[10] — one of the rare cases where 
+key length (320 bit RSA) *was* the major weakness in a security system
 - Caspar Bowden, Chief Privacy Advisor, Microsoft EMEA (and former 
 director of FIPR[11]) on Transparency and Privacy[12], covering Kim 
 Cameron’s 7 laws of identity[13]
 - Ilja (who has an amazing ability to exploit seemingly unexploitable 
 bugs) on Unusual bugs[14] and You can’t make this stuff up[15]
-- Jacob Appelbaum and Ralf-Philipp Weinmann on Unlocking FileVault[16] 
-— Jacob was at the CCC last year giving a summary of disk encryption 
+- Jacob Appelbaum and Ralf-Philipp Weinmann on Unlocking FileVault[16] — 
+Jacob was at the CCC last year giving a summary of disk encryption 
 systems; now he is back to go into more detail on the one from MacOS X
 - Joanna Rutkowska, author of the Nushu TCP/IP steganography scheme[17] 
 (which I discussed in my paper[18] on this topic) and the Blue Pill 
 virtualization based rootkit[19], will be talking on Stealth malware — 
 can good guys win?[20]
 - Melanie Rieback on A Hacker’s Toolkit for RFID Emulation and 
-Jamming[21] — covering the RFID Guardian[22], as featured on 
-Schneier’s blog[23], Boing Boing[24] and Slashdot[25]. Melanie gave a 
-talk on an early version of this project at the International Workshop 
-on Security Protocols[26] so I will be interested to see how it has 
-progressed
+Jamming[21] — covering the RFID Guardian[22], as featured on Schneier’s 
+blog[23], Boing Boing[24] and Slashdot[25]. Melanie gave a talk on an 
+early version of this project at the International Workshop on Security 
+Protocols[26] so I will be interested to see how it has progressed
 - Roger Dingledine (co-designer of Tor[27]) on Tor and China[28] — 
 censorship resistance has been a major interest of mine, particularly 
 since I started working for the OpenNet Initiative[29]
-- Rop Gonggrijp on We don’t trust voting computers[30] — from the 
-team who made a Dutch voting computer play chess[31]
+- Rop Gonggrijp on We don’t trust voting computers[30] — from the team 
+who made a Dutch voting computer play chess[31]
 
 It’s looking like a great line-up, so I hope many of you can make it. 
 See you there!
@@ -568,7 +562,7 @@ Author: Steven J. Murdoch
 ****************************************
 Item: Health privacy … breaking news …
 <http://www.lightbluetouchpaper.org/2006/12/01/health-privacy-breaking-news/>
-Date: Fri Dec 01 15:29:31 UTC 2006
+Date: 2006-12-01 15:29:31 UTC
 The Chief Medical Officer, Sir Liam Donaldson, has written a letter[1] 
 to all GPs and hospital medical directors telling them that if patients 
 try to opt out of the central collection of their medical data, the 
@@ -583,8 +577,8 @@ entirely up to the patient to decide whether to send an opt-out letter
 to their GP, to Ms Hewitt, or to both. It is not for a civil servant - 
 even a very grand one like Sir Liam - to unilaterally override the 
 wishes of those patients who decide to write to their GP but not to Ms 
-Hewitt. (It’s also somewhat amusing as, only a month ago, officials 
-were telling patients who tried to opt out that their GPs would decide 
+Hewitt. (It’s also somewhat amusing as, only a month ago, officials were 
+telling patients who tried to opt out that their GPs would decide 
 whether to upload data[6].)
 
 Developing …
@@ -604,7 +598,7 @@ Author: Ross Anderson
 ****************************************
 Item: Developments on health privacy…
 <http://www.lightbluetouchpaper.org/2006/11/27/developments-on-health-privacy/>
-Date: Mon Nov 27 23:08:23 UTC 2006
+Date: 2006-11-27 23:08:23 UTC
 The Register[1] reports a leaked document[2] from the NHS which 
 concludes that sensitive patient records would probably be safer held 
 locally, rather than stored on a national database as the Government 

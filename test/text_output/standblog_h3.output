@@ -8,7 +8,7 @@ Creator:
 ****************************************
 Item: C'est la St Pascal Nègre !
 <http://standblog.org/blog/post/2007/01/28/Cest-la-St-Pascal-Negre>
-Date: Mon Jan 29 08:43:00 UTC 2007
+Date: 2007-01-29 08:43:00 UTC
 Encore une sortie malheureuse du pauvre Pascal Nègre (pauvre par la réputation, mais riche financièrement) sur BFM...
 
 Je ne sais pas si vous avez une voiture, mais si vous avez une voiture, elle roule soit à l'essence, soit au gazole , eh bien votre moteur n'est pas interopérable. Vous pouvez pas mettre du gazole dans un moteur à essence. " ou encore "Le mec qui achète une PlayStation ne va pas acheter des jeux Nintendo. C'est la même chose pour la musique
@@ -41,7 +41,7 @@ Filed under: Dangers des DRM, drm
 ****************************************
 Item: En vrac, en retard, et copieux !
 <http://standblog.org/blog/post/2007/01/28/En-vrac-en-retard-et-copieux>
-Date: Sun Jan 28 18:13:00 UTC 2007
+Date: 2007-01-28 18:13:00 UTC
 - Voici une des raisons je vais me précipiter à Solution Linux[1] : la présentation en France du portable à 100$[2], à base de logiciels Libres (dont Firefox). On regrettera l'absence d'Eben Moglen, le juriste de la FSF, dont on annonçait la venue ;
 - Retard inquiétant du RGI. Qui est-ce qui le bloque ?[3]. Voilà le genre de question que je verrais bien abordée par le Canard Enchaîné...
 - Accessibilité : petit à petit, l'oiseau fait son nid :
@@ -112,7 +112,7 @@ Filed under: En vrac
 ****************************************
 Item: Ce qu'on ne vous a pas dit à propos de Windows Vista
 <http://standblog.org/blog/post/2007/01/25/Ce-quon-ne-vous-a-pas-dit-a-propos-de-Windows-Vista>
-Date: Fri Jan 26 13:45:00 UTC 2007
+Date: 2007-01-26 13:45:00 UTC
 Windows Vista sort la semaine prochaine, et la machine de marketing et relations presse de Microsoft tourne déjà à plein régime. Pourquoi en parler alors que toute la presse attend le 31 janvier pour se déchaîner sur le sujet ?
 
 C'est en lisant un article de CNet relativement impartial à propos de Windows Vista[1] que je me suis dit qu'un décodage ne serait pas de trop[1[2]]. Commençons par la conclusion de l'article de CNet :
@@ -215,7 +215,7 @@ Filed under: Technologie, Microsoft, Vista
 ****************************************
 Item: Le nouveautés de Thunderbird 2
 <http://standblog.org/blog/post/2007/01/25/Le-nouveautes-de-Thunderbird-2>
-Date: Thu Jan 25 20:15:00 UTC 2007
+Date: 2007-01-25 20:15:00 UTC
 Je suis allé pêcher dans les notes de version de Thunderbird 2 Beta 2[1] ce qu'il y a de nouveau dans cette version qui s'avère bigrement tentante :
 
 - **Tags* pour les messages* : il est possible de créer des *tags* (étiquettes) en vue d'organiser les messages. Il est possible d'assigner plusieurs *tags* à un même message. Il est possible d'utiliser cette fonctionnalité avec les recherches enregistrées et les vues sur les messages pour mieux organiser sa messagerie ;
@@ -248,7 +248,7 @@ Filed under: Mozilla-Europe
 ****************************************
 Item: Actu Mozilla
 <http://standblog.org/blog/post/2007/01/25/Actu-Mozilla>
-Date: Thu Jan 25 08:55:00 UTC 2007
+Date: 2007-01-25 08:55:00 UTC
 Il se passe pleins de choses dans l'écosystème Mozillien ces jours-ci. Voici un bref récapitulatif :
 
 - Thunderbird 2 Beta 2 vient de sortir[1]. Le nouveau thème pour Mac est un vrai progrès, j'adore les différentes vues sur les dossiers (récents, préférés, non-lus, tous) et les tags. Ils en parlent :
@@ -297,7 +297,7 @@ Filed under: Mozilla-Europe
 ****************************************
 Item: En vrac
 <http://standblog.org/blog/post/2007/01/24/En-vrac>
-Date: Wed Jan 24 16:42:00 UTC 2007
+Date: 2007-01-24 16:42:00 UTC
 - Excellente interview de Richard Cazenave, le député à l'origine du passage de l'Assemblée Nationale aux logiciels Libres[1] (Linux + OOo + Firefox + Thunderbird) ;
 - Lancement de l'Observation du Logiciel Libre[2], qui mesure l'adoption du logiciel Libre dans les entreprises et administration. traditionnellement, une telle mesure était difficile car elle a le plus souvent reposé sur le chiffre d'affaire des ventes de licences, qui ne s'applique pas ou peu au logiciel Libre, dont le coût est réduit ou nul. D'où cette initiative qui consiste à *mesure les demandes en terme de formation*. Et là, on voit des chiffres qui sont très intéressants en 2006 :
 
@@ -329,7 +329,7 @@ Filed under: En vrac
 ****************************************
 Item: Quote of the day, by Richard Cazenave
 <http://standblog.org/blog/post/2007/01/24/Quote-of-the-day-by-Richard-Cazenave>
-Date: Wed Jan 24 15:10:00 UTC 2007
+Date: 2007-01-24 15:10:00 UTC
 Richard Cazenave[1] (Congressman, UMP, right wing), is the French congressman who has managed to prepare the switch from Windows to Linux of the French Congress (*Assemblée Nationale*). He is interviewed by TicNews[2] :
 
 I personally use OpenOffice.org, Firefox, Thunderbird, Sunbird and VLC on my laptop, running Windows ME (it's a bit too old to migrate it to Linux). But my wife's computer – like the ones of my team – run Xubuntu! Experience has taught me that it's easy to switch to a new Operating System when the applications that you are used to use daily are the same or very close to the ones you'll have on the new platform. I think that OpenOffice.org, Firefox and Thunderbird, because they are easy to use and available under Windows, Mac OS and Linux, can help people move to another Operating System.
@@ -348,7 +348,7 @@ Filed under: en, cazenave, france, mozilla
 ****************************************
 Item: Actu des DRM et campagne 'DRM de merde'
 <http://standblog.org/blog/post/2007/01/24/Actu-des-DRM-et-campagne-DRM-de-merde>
-Date: Wed Jan 24 13:30:00 UTC 2007
+Date: 2007-01-24 13:30:00 UTC
 - Les Big Brother awards France[1] viennent de publier leur palmarès 2006[2]. Parmi les membres du jury, l'excellent maître Eolas[3]. On reconnaîtra avec plaisir que les DRM sont largement représentés :
 
 - Sony-BMG a obtenu le prix *Orwell-Entreprises*, pour son infâme Rootkit[4], qui avait fait scandale à l'époque.
@@ -374,7 +374,7 @@ Filed under: Dangers des DRM, drm, orwell, rootkit
 ****************************************
 Item: A propos de Nicolas Hulot
 <http://standblog.org/blog/post/2007/01/24/A-propos-de-Nicolas-Hulot>
-Date: Wed Jan 24 13:20:00 UTC 2007
+Date: 2007-01-24 13:20:00 UTC
 Ainsi, Nicolas Hulot s'est retiré de la course à la présidence de la République, avec un soulagement à la fois visible et prévisible. Il aura réussi à donner plus de visibilité à la protection de l'environnement, et c'est une excellente chose. J'ai signé le pacte écologique[1], et je vous encourage à faire de même, dès maintenant : il faut montrer aux politiques de tous bords l'importance de ce sujet, et pour cela il faut montrer qu'il tient à coeur pour des millions d'électeurs ! J'en profite pour mettre un lien vers un article tout en tendresse, par l'ami Vinvin[2], le pied de Nicolas Hulot[3].
 
 [1] http://www.pacte-ecologique-2007.org/declaration/index.html
@@ -388,7 +388,7 @@ Filed under: Environnement, hulot, pacte-ecologique, vinvin
 ****************************************
 Item: Mozilla Europe au salon Solutions Linux
 <http://standblog.org/blog/post/2007/01/24/Mozilla-Europe-au-salon-Solutions-Linux>
-Date: Wed Jan 24 10:15:00 UTC 2007
+Date: 2007-01-24 10:15:00 UTC
 Comme chaque année, Mozilla Europe sera au salon Solutions Linux[1], dans le village des associations. Nous seront présents sur le stand avec nos amis de Geckozone[2], XULfr[3] et FrenchMozilla[4] et les membres de la communauté.
 
 Pour ma part, je participerai à la conférence sur Mozilla et XUL[5] le mardi à partir de 14h30, (dont l'entrée est gratuite !) avec plein de beau monde, dont ceux qui participent en France à l'écosystème Mozillien. Mon petit doigt me dit qu'on devrait voir des nouveautés [A]
@@ -413,7 +413,7 @@ Filed under: Mozilla-Europe
 ****************************************
 Item: En vrac
 <http://standblog.org/blog/post/2007/01/22/En-vrac>
-Date: Mon Jan 22 17:45:00 UTC 2007
+Date: 2007-01-22 17:45:00 UTC
 - Quand la loi hollandaise sur l'accessibilité favorise le respect des standards[1], via WaSP[2] ;
 - Pas facile de tomber sur un journaliste qui pose les questions qui fâchent à la place de s'empiffrer de petits-fours[3] (quoique, dans le cas présent, je suis à peu certain que les petits fours ont payé pour l'absence de réponse de Jean-François Coppé [A]
 - 10 ans d'évolution des interfaces web au service de l'expérience utilisateur[4], pour comprendre la différence entre RIA et RDA ;
@@ -454,7 +454,7 @@ Filed under: En vrac
 ****************************************
 Item: DRM de merde !
 <http://standblog.org/blog/post/2007/01/22/DRM-de-merde>
-Date: Mon Jan 22 16:34:00 UTC 2007
+Date: 2007-01-22 16:34:00 UTC
 Ca n'est pas moi qui le dit. Ou plutôt, ça n'est pas que moi. J'en veux pour preuve l'excellent billet rageur de Philippe Astor, qui blogue chez ZDNet.fr : DRM de merde[1].
 
 Il enrage de ne plus pouvoir lire la musique qu'il a acheté légalement sur un baladeur équipe du défun DRM de Microsoft, PlaysForSure[1[2]]. Sa conclusion devrait faire réfléchir les *Majors* qui boivent des coups au Midem :
@@ -476,7 +476,7 @@ Filed under: Dangers des DRM
 ****************************************
 Item: New XUL apps: Joost and Moulin
 <http://standblog.org/blog/post/2007/01/22/New-XUL-apps%3A-Joost-and-Moulin>
-Date: Mon Jan 22 15:44:00 UTC 2007
+Date: 2007-01-22 15:44:00 UTC
 Joost is another XULrunner App[1], and many people have already heard about it already, at least in its former name, *The Venice Project*. I'd love to share with my 2 readers a great piece of software I've been told about: MoulinWiki[2]. Moulin[3] is a great tool to spread encyclopedia knowledge to people without Internet connectivity. Very basically, it's an off-line version of Wikipedia with a specific interface, actually based on XULRunner, all running on a CD-ROM.
 
 For now, this public preview (released yesterday) is only available in French, but other versions are in the works, including English, Spanish, Portuguese, Chinese and German. I already have submitted my first RFEs to the team, as I plan to give this CD-ROM to my son Robin (10 years today[1[4]]) so he can read Wikipedia on his old, not connected PC. However, Moulin[3] is meant to be deployed in African schools were there are a few PCs with CD-ROM drives, but without Internet access. There are already places in Mali where Moulin has been deployed[5] ! I love the fact that Mozilla technology is used with Wikipedia content in order to share culture and knowledge in remote places (including my son's desk [A] )
@@ -501,7 +501,7 @@ Filed under: en
 ****************************************
 Item: Actu Microsoft
 <http://standblog.org/blog/post/2007/01/22/Actu-Microsoft>
-Date: Mon Jan 22 14:25:00 UTC 2007
+Date: 2007-01-22 14:25:00 UTC
 - Je parlais récemment du coût de la protection de contenu de Windows Vista[1]. L'un de ces coûts est lié à la certification (et à la possible répudiation) de pilotes de périphériques touchant de près ou de loin au contenu numérique. On pourrait croire que c'est un cas d'école, alors que Vista n'est pas encore dispo pour le grand public. Voilà le premier exemple francophone : Bravo Creative Labs[2], où un utilisateur légitime de matériel et de logiciel ne peut pas faire fonctionner les deux essemble. Rien d'exotique pourtant : mais les pilotes de sa carte son se périment et Vista ne peut donc pas (comme prévu) les utiliser. Si l'utilisateur était resté sous XP, sa configuration fonctionnerait correctement ;
 - *Wall Street Journal* : Vista : bien, mais pas du tout excitant[3], ce qui fait titrer à GMSV Windows Vista, le Zune des systèmes d'exploitation[4] (l'article est aussi creux que le titre est drôle) ;
 - Microsoft made the Zune because partner hardware "sucks"[5]...pour finalement faire... ce qu'on connaît (avec un nouveau DRM pour faire bonne mesure) ;
@@ -524,7 +524,7 @@ Filed under: Technologie
 ****************************************
 Item: Le logiciel Libre, une chance pour l'Europe, explique un rapport
 <http://standblog.org/blog/post/2007/01/22/Le-logiciel-Libre-une-chance-pour-lEurope-explique-un-rapport>
-Date: Mon Jan 22 14:03:00 UTC 2007
+Date: 2007-01-22 14:03:00 UTC
 Le logiciel Libre est présenté comme une chance pour l'Europe, d'après rapport (format PDF)[1] remis à la Commission Européenne. J'ai parcouru le document (224 pages sans compter les annexes !) et lu le résumé (pages 9 à 12). Une traduction en français serait en cours, suite à la demande de certains libristes. Forcément, ces conclusions font du bruit dans la presse :
 
 - *LMI* : La Commission européenne dévoile son rapport à la gloire du logiciel libre[2] ;
@@ -545,7 +545,7 @@ Filed under: Technologie
 ****************************************
 Item: L'industrie du disque s'interroge sur les DRM à l'occasion du MIDEM
 <http://standblog.org/blog/post/2007/01/22/Lindustrie-du-disque-sinterroge-sur-les-DRM-a-loccasion-du-MIDEM>
-Date: Mon Jan 22 07:41:00 UTC 2007
+Date: 2007-01-22 07:41:00 UTC
 On vient de m'envoyer un lien vers un bon papier de Libé, L'industrie du disque en plein jeu de pistes[1]. Il y apparaît que beaucoup de producteurs de disques commencent à réaliser à quel point les DRM sont pénibles. Un représentant de l'industrie électronique se risque à dire la vérité : "Il serait normal que les gens puissent utiliser comme ils le souhaitent les contenus qu'ils ont légalement acquis". Seul le patron de la RIAA (équivalent américain de la SACEM) rame à contre-courant (mais bon, il est payé pour). "Si les majors n'ont jamais semblé aussi proches de se convertir au format ouvert MP3, elles craignent de voir la filière passer sous le contrôle des groupes comme Microsoft ou Apple, détenteurs des technologies de distribution en ligne", écrit Christophe Alix. Tiens, j'ai déjà lu ça quelque part[2] ! [A]
 
 [1] http://www.liberation.fr/actualite/economie/230039.FR.php
@@ -560,7 +560,7 @@ Filed under: Dangers des DRM
 ****************************************
 Item: Actu des navigateurs
 <http://standblog.org/blog/post/2007/01/20/Actu-des-navigateurs>
-Date: Sat Jan 20 16:25:00 UTC 2007
+Date: 2007-01-20 16:25:00 UTC
 - Malgré ses 100 millions d'installations, le navigateur de Microsoft continue de perdre du terrain[1]. Je voulais vous en parler, lui donner un peu plus de visibilité. Mais Digg.com[2] et Slashdot[3] m'ont précédé !
 
 - PCInpact reprend l'info[4] mais oublie de dire qu'en Europe, le phénomène est encore plus accentué, avec des parts de marché de Firefox qui ont dépassé 23% fin 2006[5] ;
@@ -609,7 +609,7 @@ Filed under: Navigateurs, firefox, ie, opera, sécurité
 ****************************************
 Item: En vrac et en retard, encore !
 <http://standblog.org/blog/post/2007/01/19/En-vrac-et-en-retard-encore>
-Date: Fri Jan 19 14:19:00 UTC 2007
+Date: 2007-01-19 14:19:00 UTC
 - Voilà à quoi ressemble parfois la blogosphère dans ce qu'elle a de plus vaniteux...[1] (le dessin, pas le texte). J'ai trouvé ce dessin de Hugh Macleod[2] particulièrement bien vu. Même le texte est bien vu : "21. Il se passe rarement une semaine sans que j'envisage de fermer les commentaires de façon permanente". (via Sam Sethi[3]) ;
 - Chez Netscape, on croit que l'hébergement des DTD est temporaire[4], et ça fait peur [A]
 - Apparition de nouvelles îles... en Arctique[5], suite au réchauffement climatique. Ces îles étaient auparavant couvertes de glaces. Elles sont maintenant à plusieurs kilomètres au large des cotes du Groenland à cause de la fonte des glaces. L'une de ces îles s'appelle maintenant *Uunartoq Qeqertoq*, ce qui signifie en inuit l'île du réchauffement[6] ;
@@ -642,7 +642,7 @@ Filed under: En vrac
 ****************************************
 Item: Meilleurs voeux pour 2007
 <http://standblog.org/blog/post/2007/01/17/Meilleurs-voeux-pour-2007>
-Date: Wed Jan 17 17:18:00 UTC 2007
+Date: 2007-01-17 17:18:00 UTC
 Ah, on pourra dire qu'en présentant mes voeux un 17 janvier, et par blog interposé, je en fais pas de zèle ! Certes. Mais c'est en voulant faire trop bien que je fais mal, comme souvent. En effet, je voulais faire un billet par catégorie sur le Standblog, avec des voeux 2007 spécifique à chaque catégorie. Comme je manque terriblement de temps, je vais quand même faire un rapide billet dans cette optique, quitte à laisser de coté plusieurs catégories. Allez, c'est parti !
 
 A vous, chers lecteurs
@@ -703,7 +703,7 @@ Filed under: StandBlog et blogs
 ****************************************
 Item: L'étonnant parallèle entre Frankenstein et les DRM
 <http://standblog.org/blog/post/2007/01/17/Letonnant-parallele-entre-Frankenstein-et-les-DRM>
-Date: Wed Jan 17 15:15:00 UTC 2007
+Date: 2007-01-17 15:15:00 UTC
 Ah, il s'en passe des choses dans le monde tumultueux du contenu numérique ! D'un coté on se rend compte que les DRM gênent les ventes, mais que d'un autre coté, on redoute plus que tout le piratage. Ca me rappelle mes leçons de physique sur les systèmes oscillants ! J'ai compilé ci-dessous quelques liens révélateurs de ce mécanisme. Il y a toutefois quelque chose qui m'amuse et m'inquiète à la fois, c'est que l'industrie du disque jouent avec le feu quand il s'agit de promouvoir les DRM. Je m'explique :
 
 Les *majors* du disque ont réalisé trop tard l'erreur phénoménale qu'ils ont commise en laissant dans les mains des utilisateurs des enregistrement numériques duplicables à l'infini. Ils ont tenté de faire des magasins en ligne pour vendre de la musique, sans succès. C'est alors qu'Apple leur a proposé de faire l'iTunes Music Store (iTMS) : vendre de la musique en ligne avec un DRM "maison" fait par Apple et appelé *FairPlay*. Ce DRM fonctionnerait depuis iTMS jusqu'à l'iPod, en passant par le logiciel sur le Mac (puis le PC), iTunes. Vu le succès de l'iPod, les *majors* ont tenté l'expérience. Résultat, avec presque deux milliards de chansons vendues, iTMS est de loin le *leader* mondial du marché. le deuxièmes est eMusic[1[1]], avec 100 millions de téléchargement (20 fois moins).

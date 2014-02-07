@@ -1,4 +1,4 @@
-#!/usr/bin/ruby -w
+# encoding: UTF-8
 
 $:.unshift File.join(File.dirname(__FILE__), '..', 'lib')
 
@@ -114,4 +114,51 @@ class FeedParserTest < Test::Unit::TestCase
     # the third one should be removed because an enclosure should have an url, or it's useless.
     assert_equal([["url1", "1", "type1"], ["url2", nil, "type2"], ["url1", "1", nil]], ch.items[0].enclosures)
   end
+
+  def test_recode_utf8
+    assert_equal 'UTF-8', FeedParser.recode("áéíóú").encoding.name
+  end
+
+  def test_recode_iso88519
+    assert_equal 'UTF-8', FeedParser.recode("áéíóú".encode('iso-8859-1')).encoding.name
+  end
+
+  def test_recode_utf8_mixed_with_ASCIIBIT
+    recoded = FeedParser.recode("áé\x8Díóú")
+    assert_equal'UTF-8', recoded.encoding.name
+    assert_equal 'áéíóú', recoded
+  end
+
+  def test_recode_unicode_char
+    assert_equal "1280×1024", FeedParser.recode("1280×1024")
+  end
+
+  def test_almost_valid_iso88591
+    input = "Codifica\xE7\xE3o \x96 quase v\xE1lida"
+    assert_equal "Codificação  quase válida", FeedParser.recode(input)
+  end
+
+  def test_feed_origin
+    feed = FeedParser::Feed.new(nil, 'http://foo.com/feed')
+    assert_equal "http://foo.com", feed.origin
+  end
+
+  def test_item_origin
+    feed = FeedParser::Feed.new(nil, 'http://foo.com/feed')
+    item = FeedParser::FeedItem.new(nil, feed)
+    item.link = '/foo/bar'
+    assert_equal 'http://foo.com/foo/bar', item.link
+  end
+
+  def test_item_origin_no_link
+    item = FeedParser::FeedItem.new(nil, nil)
+    assert_nil item.link
+  end
+
+  def test_item_no_feed
+    item = FeedParser::FeedItem.new(nil, nil)
+    item.link = '/foo/bar'
+    assert_equal '/foo/bar', item.link
+  end
+
 end
