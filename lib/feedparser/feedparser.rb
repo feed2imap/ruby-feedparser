@@ -18,7 +18,7 @@ module FeedParser
     encoding = nil
     begin
       encoding = Magic.guess_string_mime_encoding(str)
-    rescue Magic::Exception
+    rescue Magic::Error
       # this happens when magic does not find any content at all, e.g. with
       # strings that contain only whitespace. In these case it *should* be safe
       # to assume UTF-8
