@@ -119,6 +119,10 @@ class FeedParserTest < Test::Unit::TestCase
     assert_equal 'UTF-8', FeedParser.recode("áéíóú").encoding.name
   end
 
+  def test_recode_blank
+    assert_equal 'UTF-8', FeedParser.recode('').encoding.name
+  end
+
   def test_recode_iso88519
     assert_equal 'UTF-8', FeedParser.recode("áéíóú".encode('iso-8859-1')).encoding.name
   end
