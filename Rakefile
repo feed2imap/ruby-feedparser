@@ -87,5 +87,5 @@ task :release => :repackage do
   sh 'git', 'tag', 'v' + PKG_VERSION
   sh 'git', 'push'
   sh 'git', 'push', '--tags'
-  sh 'gem' 'push', Dir['pkg/*.gem']
+  sh 'gem' 'push', Dir['pkg/*.gem'].first
 end
