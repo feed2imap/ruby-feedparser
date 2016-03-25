@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+  <id>tag:linuxfr.org,2005:/news</id>
+  <link rel="alternate" type="text/html" href="http://linuxfr.org/news"/>
+  <link rel="self" type="application/atom+xml" href="http://linuxfr.org/news.atom"/>
+  <title>LinuxFr.org : les dépêches</title>
+  <updated>2013-05-07T16:36:17+02:00</updated>
+  <icon>/favicon.png</icon>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34186</id>
+    <published>2013-05-07T15:35:05+02:00</published>
+    <updated>2013-05-07T15:35:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/atelier-formation-debian-wheezy-et-le-bureau-xfce-a-paris-le-18-mai"/>
+    <title>Atelier-Formation Debian Wheezy et le bureau XFCE à Paris le 18 mai</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;Pour fêter l'&lt;a href="http://linuxfr.org/news/debian-episode-vii"&gt;officialisation de la nouvelle version de Debian, Wheezy&lt;/a&gt;, l'association StarinuX (GNU/Linux et Logiciels OpenSource), dans le cadre de ses formations mensuelles, organise l'atelier-formation « Prise en main de Wheezy et du bureau XFCE » : installation, configuration &amp;#8230; une formation concrète et pratique. Découvrez la qualité de la distribution Debian et du bureau XFCE, léger et efficace. Une pierre deux coups !&lt;/p&gt;
+
+&lt;p&gt;Elle se tiendra le samedi 18 mai 2013 de 14h à 18h30 au 177 Rue de Charonne à 75011 Paris, dans la salle AGECA.&lt;/p&gt;
+
+&lt;p&gt;Jean-Luc Chopin sera notre formateur et un polycopié de la formation sera remis aux participants.&lt;br /&gt;
+Une participation annuelle de 15 &amp;#8364; (7,5 &amp;#8364; en tant que demandeur d'emploi) est requise.&lt;/p&gt;
+
+&lt;p&gt;Infos : contact CHEZ starinux.org&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86259" hreflang="fr" title="http://www.starinux.org"&gt;Le site de StarinuX&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86260" hreflang="fr" title="http://www.starinux.org/ateliers-sx.php"&gt;Inscription&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/atelier-formation-debian-wheezy-et-le-bureau-xfce-a-paris-le-18-mai#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>antoinesx</name>
+    </author>
+    <author>
+      <name>Florent Zara</name>
+    </author>
+    <author>
+      <name>Benoît Sibaud</name>
+    </author>
+    <category term="Debian"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98231/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34185</id>
+    <published>2013-05-07T12:00:41+02:00</published>
+    <updated>2013-05-07T12:00:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/18-mai-presentation-d-openstreetmap-a-perpignan"/>
+    <title>18 mai : présentation d’OpenStreetMap à Perpignan</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;Le samedi 18 mai à partir de 9h30 une présentation d&amp;#8217;OpenStreetMap aura lieu à Perpignan(66) en collaboration avec le GULL Perpinux. Cette présentation, assurée par les contributeurs de Catalogne Nord, a pour but de mieux faire connaître cet outil de cartographie libre et collaboratif. La présentation aborde les parties théoriques concernant le projet, les différentes utilisations des cartes et les outils pour mettre à jour la base de données OpenStreetMap. L'organisation de la cartopartie du 1er juin sera aussi abordée lors de cette matinée.&lt;/p&gt;
+
+&lt;p&gt;OpenStreetMap est un outil en ligne, libre et collaboratif, fondée en 2004 dans le but de réaliser une cartographie du monde. De nombreux outils et logiciels permettent de réaliser et d&amp;#8217;imprimer des cartes à partir de la base de données OpenStreetMap. Ces cartes peuvent être thématiques (pistes cyclables, accessibilités des lieux publics, etc.) ou généralistes. OpenStreetMap est devenu célèbre en 2010 lors du tremblement de terre à Haïti, de nombreux contributeurs ayant participé à la réalisation de la carte de Port aux Princes en quelques jours. Cette carte a pu alors être utilisée par les associations humanitaires sur place.&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86257" hreflang="fr" title="http://www.perpinux.org"&gt;Perpinux&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86258" hreflang="fr" title="http://openstreetmap.fr/"&gt;Openstreetmap France&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/18-mai-presentation-d-openstreetmap-a-perpignan#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Nÿco</name>
+    </author>
+    <author>
+      <name>draconis</name>
+    </author>
+    <author>
+      <name>Xavier Teyssier</name>
+    </author>
+    <author>
+      <name>tuiu pol</name>
+    </author>
+    <category term="Communauté"/>
+    <category term="découverte"/>
+    <category term="présentation"/>
+    <category term="openstreetmap"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98230/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34151</id>
+    <published>2013-05-07T11:27:41+02:00</published>
+    <updated>2013-05-07T11:27:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/tempete-dans-les-nuages-openstack-et-le-bazar-des-api"/>
+    <title>Tempête dans les nuages : OpenStack et le bazar des API</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;Un des débats qui fait rage parmi les développeurs d'OpenStack réside dans le choix d'un framework commun pour le développement de leurs API. Pour information ou rappel, &lt;a href="http://fr.wikipedia.org/wiki/OpenStack" title="Définition Wikipédia"&gt;OpenStack&lt;/a&gt; est un moteur de &lt;em&gt;cloud&lt;/em&gt; (informatique en nuage) de type &lt;a href="http://fr.wikipedia.org/wiki/IaaS" title="Définition Wikipédia"&gt;IaaS&lt;/a&gt; (Infrastructure as a Service) issu de la fusion de la plateforme de cloud de la NASA (projet Nebula) et de Cloud Files de Rackspace (cloud storage), la société texane d'hébergement. Cette pile de logiciels libres est écrite en Python sous licence Apache et s'appuie sur la norme &lt;a href="http://fr.wikipedia.org/wiki/WSGI" title="Définition Wikipédia"&gt;WSGI&lt;/a&gt; pour exposer ses APIs.&lt;/p&gt;
+
+&lt;p&gt;Pour reprendre une définition donnée par &lt;a href="http://linuxfr.org/news/ubuntu-13-04-raring-ringtail#comment-1447662"&gt;misc&lt;/a&gt; : « &lt;em&gt;OpenStack, c'est beaucoup de choses, c'est un groupe de logiciels visant à gérer un nombre massif de machines virtuelles. En gros, tu rajoutes des serveurs, et OpenStack va faire tout seul le fait de rajouter des VM à la demande, via une API. API qu'on peut donc utiliser dans une interface web, ou via un script.&lt;/em&gt; » OpenStack se veut le concurrent open source de la plateforme propriétaire Amazon Web Services.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f342f34632f4f70656e537461636b2e706e672f31373070782d4f70656e537461636b2e706e67/170px-OpenStack.png" alt="OpenStack" title="Source : http://upload.wikimedia.org/wikipedia/en/thumb/4/4c/OpenStack.png/170px-OpenStack.png" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;La dernière version d'OpenStack (nom de code : Grizzly) a été publié le 4 avril 2013 et offrait les composants suivants :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Nova : gestion d'instances de calculs&lt;/li&gt;
+&lt;li&gt;Swift : stockage d'objets&lt;/li&gt;
+&lt;li&gt;Cinder : gestion de volumes blocs&lt;/li&gt;
+&lt;li&gt;Keystone : authentification&lt;/li&gt;
+&lt;li&gt;Quantum : gestion de réseaux virtualisés&lt;/li&gt;
+&lt;li&gt;Dashboard : framework fournissant une interface d'administration web extensible basé sur Django&lt;/li&gt;
+&lt;li&gt;Ceilometer : collecte de métriques&lt;/li&gt;
+&lt;li&gt;Heat : orchestration&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86232" hreflang="en" title="http://www.openstack.org/"&gt;Projet OpenStack&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2 id="sommaire"&gt;Sommaire&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_0"&gt;Les API : un point clé&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_1"&gt;Les frameworks actuellement en compétition&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_2"&gt;Falcon&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_3"&gt;Pecan et WSME&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_4"&gt;État des lieux&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_5"&gt;OpenStack, Bazar et retours d'expériences&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_6"&gt;Éléments requis&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_7"&gt;Possibilités&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_8"&gt;Tempête de cerveaux&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_0"&gt;Les API : un point clé&lt;/h3&gt;
+
+&lt;p&gt;À l'heure actuelle, tous ces composants proposent une API REST native ainsi qu'une API offrant une compatibilité plus ou moins complète avec le leader du marché&amp;#8239;: Amazon Web Services.&lt;/p&gt;
+
+&lt;p&gt;Les API sont un point crucial pour le projet OpenStack, elles sont massivement utilisées à la fois en interne et par les utilisateurs finaux comme on peut le voir dans le diagramme ci-dessous.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f646f63732e6f70656e737461636b2e6f72672f666f6c736f6d2f6f70656e737461636b2d636f6d707574652f61646d696e2f636f6e74656e742f666967757265732f6f70656e737461636b2d6c6f676963616c2d617263682d666f6c736f6d2e6a7067/openstack-logical-arch-folsom.jpg" alt="Architecture OpenStack" title="Source : http://docs.openstack.org/folsom/openstack-compute/admin/content/figures/openstack-logical-arch-folsom.jpg" /&gt;
+&lt;/p&gt;
+&lt;h3 id="toc_1"&gt;Les frameworks actuellement en compétition&lt;/h3&gt;
+
+&lt;p&gt;Deux compétiteurs sont actuellement en cours de &lt;a href="http://lists.openstack.org/pipermail/openstack-dev/2013-April/007748.html"&gt;discussions sur la liste&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id="toc_2"&gt;Falcon&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href="http://falconframework.org"&gt;Falcon&lt;/a&gt; développé par Kurt Griffiths de Rackspace et annoncé comme étant un &lt;em&gt;micro-framework pour développer des API supersonique pour le cloud&lt;/em&gt; (rien de moins que ça !). Il est utilisé dans le projet &lt;a href="https://github.com/stackforge/marconi"&gt;Marconi&lt;/a&gt; qui vise à fournir un service de messages queueing dans OpenStack.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f696d616765736861636b2e75732f612f696d673139392f3332322f6f70656e737461636b66616c636f6e736d616c6c2e706e67/openstackfalconsmall.png" alt="Falcon" title="Source : http://imageshack.us/a/img199/322/openstackfalconsmall.png" /&gt;
+&lt;/p&gt;
+&lt;h4 id="toc_3"&gt;Pecan et WSME&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href="http://pecanpy.org/"&gt;Pecan&lt;/a&gt; &amp;amp; &lt;a href="http://pythonhosted.org/WSME/"&gt;WSME&lt;/a&gt; proposé par Doug Hellman, mainteneur du projet Ceilometer.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f696d616765736861636b2e75732f612f696d673731362f393736322f6f70656e737461636b706563616e736d616c6c2e706e67/openstackpecansmall.png" alt="pecan" title="Source : http://imageshack.us/a/img716/9762/openstackpecansmall.png" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f696d616765736861636b2e75732f612f696d6739362f393937312f6f70656e737461636b77736d656c6f676f2e706e67/openstackwsmelogo.png" alt="WSME" title="Source : http://imageshack.us/a/img96/9971/openstackwsmelogo.png" /&gt;
+&lt;/p&gt;
+&lt;h3 id="toc_4"&gt;État des lieux&lt;/h3&gt;
+
+&lt;p&gt;Actuellement, Nova utilise &lt;a href="http://eventlet.net"&gt;eventlet&lt;/a&gt; pour la partie réseau et &lt;a href="http://webob.org"&gt;Webob&lt;/a&gt; pour gérer les objets requêtes/réponses HTTP.&lt;br /&gt;&lt;a href="https://github.com/openstack/nova/blob/master/nova/wsgi.py"&gt;code middleware WSGI dans Nova&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Swift quant à lui redéfinit ses propres objets requêtes/réponses HTTP.&lt;br /&gt;&lt;a href="https://github.com/openstack/swift/blob/master/swift/common/wsgi.py"&gt;code middleware WSGI dans Swift&lt;/a&gt;&lt;br /&gt;&lt;a href="https://github.com/openstack/swift/blob/master/swift/common/swob.py"&gt;code Requêtes/Réponses WSGI: SWOB&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ceilometer utilisait &lt;a href="http://flask.pocoo.org"&gt;Flask&lt;/a&gt; pour la version 1 de son API puis Pecan/WSME pour la version 2&lt;br /&gt;&lt;a href="https://github.com/openstack/ceilometer/blob/master/ceilometer/api/v1/app.py"&gt;code de l'API v1&lt;/a&gt;&lt;br /&gt;&lt;a href="https://github.com/openstack/ceilometer/blob/master/ceilometer/api/controllers/v2.py"&gt;code l'API v2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On notera que pour des raisons de stabilité, quelque soit la solution choisie au final, les API existantes ne seront pas réécrites. Par exemple, dans le cas de Ceilometer, si Falcon était choisi, la v1 continuerait à utiliser Flask, la v2 Pecan/WSME, la v3 utiliserait Falcon. Les versions 1 &amp;amp; 2 continueraient à être distribuées pendant un certain temps.&lt;/p&gt;
+&lt;h3 id="toc_5"&gt;OpenStack, Bazar et retours d'expériences&lt;/h3&gt;
+
+&lt;p&gt;Bref, OpenStack est un vrai projet Bazar. La publication par Rackspace de Falcon &lt;a href="http://lists.openstack.org/pipermail/openstack-dev/2013-April/007709.html"&gt;a relancé le débat&lt;/a&gt;. Un point extrêmement intéressant est &lt;a href="https://etherpad.openstack.org/grizzly-common-wsgi-frameworks"&gt;le retour d'expérience sur les différents frameworks WSGI dans des configurations massivement parallèles&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="toc_6"&gt;Éléments requis&lt;/h3&gt;
+
+&lt;p&gt;Pour OpenStack, plusieurs critères comptent :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;performance&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;listes de dépendances maitrisable;&lt;/li&gt;
+&lt;li&gt;prise en charge de Python 3&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;possibilité de configurer les API sans trop de difficultés.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_7"&gt;Possibilités&lt;/h3&gt;
+
+&lt;p&gt;Falcon a été développé dans cette optique-là, la suite de benchmarks publiée montre qu'il bat à plate couture l'ensemble des frameworks existants (et ce, sans extensions natives). Il ne requiert que l'interpréteur Python et le package &lt;em&gt;six&lt;/em&gt; permettant la prise en charge de Python 2.7 &amp;amp; 3.3+ à l'aide d'une même base de code. Néanmoins, il a pour inconvénient d'être justement trop léger au niveau des fonctionnalités pour développer une API REST de manière confortable.&lt;/p&gt;
+
+&lt;p&gt;Pecan est quant à lui un micro-framework WSGI encore peu connu, mais qui évolue très rapidement. Il a été créé pour faciliter le développement d'application RESTful sans fioritures. Il s'inspire ouvertement de CherryPy/TurboGears 1 et a le bon goût de s'appuyer sur WebOb qui pour le moment semble faire l'unanimité autour de lui (même l'exception SWOB s'en inspire ouvertement).&lt;/p&gt;
+
+&lt;p&gt;Quant à WSME c'est une réimplémentation des contrôleurs REST de TurboGears 1 (un des points forts de ce vénérable framework) destinée à être intégrée à d'autres frameworks (Pecan, Flask, Bottle, Pyramid via l'excellente extension Cornice, etc.). Le combo est relativement jeune mais tire profit de plusieurs années de retour d'expérience. L'inconvénient est que c'est une solution relativement intrusive qui, de l'aveu de Doug Hellman, peut difficilement être réalisée de manière incrémentale, elle influencera également la manière dont sont conçues les API.&lt;/p&gt;
+
+&lt;p&gt;L'apparition de Falcon a été également l'&lt;a href="http://lists.openstack.org/pipermail/openstack-dev/2013-April/007962.html"&gt;occasion de redonner un coup de fouet à la quête de performances pour Pecan&lt;/a&gt;. Ryan Petrello (DreamHost) a pu améliorer de 30% les résultats de Pecan par rapport aux benchmarks publiés par Falcon en quelques heures de travail.&lt;/p&gt;
+&lt;h3 id="toc_8"&gt;Tempête de cerveaux&lt;/h3&gt;
+
+&lt;p&gt;Pour le moment rien n'est décidé, le &lt;a href="http://lists.openstack.org/pipermail/openstack-dev/2013-May/008329.html"&gt;débat continue encore sur la liste openstack-dev&lt;/a&gt; à propos de l'implémentation de la &lt;a href="https://etherpad.openstack.org/grizzly-nova-api"&gt;nouvelle API de Nova&lt;/a&gt;.&lt;br /&gt;
+Doug Hellman s'appuie sur les acquis du projet Ceilometer pour promouvoir l'utilisation de Pecan/WSME, et Kurt Griffiths a pour lui l'appui de Rackspace, fondateur du projet. &lt;/p&gt;
+
+&lt;p&gt;Une affaire à suivre&amp;#8230;&lt;/p&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/tempete-dans-les-nuages-openstack-et-le-bazar-des-api#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Nÿco</name>
+    </author>
+    <author>
+      <name>GeneralZod</name>
+    </author>
+    <author>
+      <name>Benoît</name>
+    </author>
+    <author>
+      <name>Xavier Teyssier</name>
+    </author>
+    <author>
+      <name>Katyucha</name>
+    </author>
+    <author>
+      <name>Zarmakuizz</name>
+    </author>
+    <author>
+      <name>Jean Gabes</name>
+    </author>
+    <author>
+      <name>Florent Zara</name>
+    </author>
+    <author>
+      <name>Christophe Guilloux</name>
+    </author>
+    <author>
+      <name>lamiricore</name>
+    </author>
+    <category term="Internet"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98144/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34173</id>
+    <published>2013-05-07T11:19:25+02:00</published>
+    <updated>2013-05-07T11:19:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/openstreetmap-pourquoi-vous-devriez-l-utiliser"/>
+    <title>OpenStreetMap : pourquoi vous devriez l'utiliser</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;OpenStreetMap (OSM), souvent appelé « la Wikipédia des cartes », gagnerait à être plus connu parmi les libristes. Je suis moi-même un contributeur récent, puisque j'ai appris à contribuer à OpenStreetMap grâce à une sympathique personne qui animait le stand OSM au &lt;a href="https://fosdem.org/2013/"&gt;FOSDEM 2013&lt;/a&gt;&amp;#8230; et je suis devenu, depuis cette date, un contributeur assidu.&lt;/p&gt;
+
+&lt;p&gt;Nous vous laissons découvrir ce retour d'expérience dans la suite de la dépêche.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Note des modérateurs"&gt;NdM&lt;/abbr&gt; : &lt;em&gt;merci à Alexis de Lattre pour son journal.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86197" hreflang="fr" title="http://linuxfr.org/users/sixela/journaux/openstreetmap-pourquoi-vous-devriez-l-utiliser"&gt;Journal à l&amp;#x27;origine de la dépêche&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86228" hreflang="fr" title="http://www.openstreetmap.fr"&gt;Site de l&amp;#x27;association OpenStreetMap française&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°3 : &lt;a href="http://linuxfr.org/redirect/86238" hreflang="fr" title="http://www.openstreetmap.org/"&gt;Site OpenStreetMap.org&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°4 : &lt;a href="http://linuxfr.org/redirect/86239" hreflang="en" title="http://www.osmand.net/"&gt;OsmAnd, une application OSM libre pour Android&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°5 : &lt;a href="http://linuxfr.org/redirect/86242" hreflang="fr" title="http://www.sig-la-lettre.com/?OSM-met-la-gomme"&gt;Une première carte Michelin basée sur OSM&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2 id="sommaire"&gt;Sommaire&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_0"&gt;Base de données et moteurs de rendu&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_1"&gt;OpenStreetMap, l'Île de Mann&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_2"&gt;OpenPisteMap, Chamonix&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_3"&gt;OpenCycleMap, La Haie&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_4"&gt;Hors ligne et points d'intérêt&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_5"&gt;Applications mobiles&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_6"&gt;La consécration : une première carte Michelin basée sur OpenStreetMap !&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_7"&gt;Contribution&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_8"&gt;Autres outils&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_0"&gt;Base de données et moteurs de rendu&lt;/h3&gt;
+
+&lt;p&gt;Tout d'abord, il faut bien comprendre qu'OpenStreetMap en lui-même n'est que la base de données d'informations géographique (330 &lt;a href="http://fr.wikipedia.org/wiki/Gibioctet#Multiples_normalis.C3.A9s"&gt;Gio&lt;/a&gt; sans compression et 20 Gio avec une &lt;a href="http://wiki.openstreetmap.org/wiki/PBF"&gt;compression PBF&lt;/a&gt;) et non un moteur de rendu ou de navigation. Le site &lt;a href="http://www.openstreetmap.org"&gt;openstreetmap.org&lt;/a&gt; n'est qu'un exemple de rendu proposé par le projet, et je le trouve d'ailleurs assez mauvais car on ne peut pas faire de recherche par point d'intérêt et il ne tolère aucune erreur de frappe sur les adresses. Il existe par exemple des moteurs de rendu thématiques comme &lt;a href="http://www.opencyclemap.org/"&gt;OpenCycleMap&lt;/a&gt;, qui offre un rendu étudié pour les cyclistes, ou &lt;a href="http://openpistemap.org/"&gt;OpenPisteMap&lt;/a&gt; et &lt;a href="http://www.opensnowmap.org/"&gt;OpenSnowMap&lt;/a&gt; qui sont spécialisés pour les skieurs. Il existe aussi des cartes éditées par des associations pour mettre en avant les aménagements cyclables d'une ville, voici celle de &lt;a href="http://carte.lavilleavelo.org/"&gt;Lyon&lt;/a&gt; par exemple, proposée par l'association &lt;em&gt;la ville à vélo&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Il existe également un rendu francisé d'OpenStreetMap, disponible sur &lt;a href="http://tile.openstreetmap.fr/"&gt;tile.openstreetmap.fr&lt;/a&gt;, où les boulangeries sont représentées par une baguette de pain au lieu d'un &lt;a href="http://fr.wikipedia.org/wiki/Bretzel"&gt;bretzel&lt;/a&gt;, où le logo des bureaux de Poste est sur fond jaune et où le logo des stations de métro est celui de l'opérateur de transport en commun de la ville !&lt;/p&gt;
+&lt;h4 id="toc_1"&gt;OpenStreetMap, l'Île de Mann&lt;/h4&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f696d616765736861636b2e75732f612f696d673834392f383739352f6f70656e7374726565746d61706c696e75786672696c652e706e67/openstreetmaplinuxfrile.png" alt="OpenStreetMap, l'Île de Mann" title="Source : http://imageshack.us/a/img849/8795/openstreetmaplinuxfrile.png" /&gt;
+&lt;/p&gt;
+&lt;h4 id="toc_2"&gt;OpenPisteMap, Chamonix&lt;/h4&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f696d616765736861636b2e75732f612f696d673639342f393135392f6f70656e70697374656d61706c696e757866726368616d2e706e67/openpistemaplinuxfrcham.png" alt="OpenPisteMap, Chamonix" title="Source : http://imageshack.us/a/img694/9159/openpistemaplinuxfrcham.png" /&gt;
+&lt;/p&gt;
+&lt;h4 id="toc_3"&gt;OpenCycleMap, La Haie&lt;/h4&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f696d616765736861636b2e75732f612f696d673731332f383639312f6f70656e6379636c656d61706c696e757866726c6168612e706e67/opencyclemaplinuxfrlaha.png" alt="OpenCycleMap, La Haie" title="Source : http://imageshack.us/a/img713/8691/opencyclemaplinuxfrlaha.png" /&gt;
+&lt;/p&gt;
+&lt;h3 id="toc_4"&gt;Hors ligne et points d'intérêt&lt;/h3&gt;
+
+&lt;p&gt;Mais, là où je trouve qu'OpenStreetMap fait vraiment la différence, c'est quand je l'utilise sur mon téléphone mobile avec l'application Android &lt;a href="http://www.osmand.net/"&gt;OsmAnd&lt;/a&gt; (OpenStreetMap Android), disponible sous licence GPL. Les deux fonctionnalités qui font la différence sont :&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;la possibilité de télécharger la carte en local sur son téléphone au format vectoriel et de pouvoir l'utiliser hors ligne. En France, il y a une carte par région à télécharger. Cela permet d'utiliser la carte de façon fluide même quand la couverture réseau est mauvaise. Cela permet aussi d'utiliser la carte à l'étranger sans se ruiner à cause de l'itinérance de données !&lt;/li&gt;
+&lt;li&gt;la classification stricte des points d'intérêts. Envie d'un croissant ? Vous pouvez demander à l'application de vous donner la liste de toutes les boulangeries dans un rayon donné. Pas d'argent pour le payer ? Demandez-lui la liste de tous les distributeurs de billets les plus proches. Le réfrigérateur est vide ? Il vous fournira la liste de tous les supermarchés à proximité. Un besoin pressant ? Il a la liste de toutes les toilettes publiques. Une soif soudaine et pas un sou en poche ? Il vous donnera toutes les fontaines d'eau potable des environs. Une lettre à poster ? Il sait vous afficher la liste des boites-aux-lettres de La Poste ! Sachez qu'il y a un peu de paramétrage à faire pour obtenir ces filtres très précis. Par exemple, pour créer un filtre pour les distributeurs de billets, il faut aller dans le menu « Rechercher », puis « Filtre Personnalisé » puis « Autre », cochez « Distributeur Automatique » puis « Fermer » et enregistrez votre filtre via le logo représentant une disquette.&lt;/li&gt;
+&lt;/ol&gt;&lt;h3 id="toc_5"&gt;Applications mobiles&lt;/h3&gt;
+
+&lt;p&gt;Sur Google Play, OSMand est disponible en version gratuite limitée à 10 téléchargements de cartes ou en version payante (6 &amp;#8364;) sans limite quant au nombre de téléchargements. La version disponible sur &lt;a href="http://f-droid.org"&gt;F-droid&lt;/a&gt; n'a pas de limitations mais est très ancienne. Ces deux raisons font qu'aujourd'hui j'utilise plus souvent OpenStreetMap que Google Map sur mon téléphone portable. Si vous connaissez d'autres bonnes applications OSM pour téléphone mobile, indiquez-les en commentaire de la dépêche !&lt;/p&gt;
+
+&lt;p&gt;Il est possible de charger des cartes OpenStreetMap dans certains GPS de voiture, notamment les GPS Garmins (voir &lt;a href="http://wiki.openstreetmap.org/wiki/OSM_Map_On_Garmin"&gt;ces instructions&lt;/a&gt;). Adieu les mises-à-jour de carte payantes&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;OsmAnd&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f696d67392e696d616765736861636b2e75732f696d67392f393933312f6f736d616e64686f6d65736d616c6c2e706e67/osmandhomesmall.png" alt="OsmAnd" title="Source : http://img9.imageshack.us/img9/9931/osmandhomesmall.png" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;OsmAnd, Bois de Vincennes, Paris&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f696d6731302e696d616765736861636b2e75732f696d6731302f363232332f6f736d616e64626f6973646576696e63656e6e6573736d2e706e67/osmandboisdevincennessm.png" alt="OsmAnd, Bois de Vincennes, Paris" title="Source : http://img10.imageshack.us/img10/6223/osmandboisdevincennessm.png" /&gt;
+&lt;/p&gt;
+&lt;h3 id="toc_6"&gt;La consécration : une première carte Michelin basée sur OpenStreetMap !&lt;/h3&gt;
+
+&lt;p&gt;Michelin a édité il y a quelques mois une carte de Clermont-Ferrand et de ses environs basée sur les données d'OpenStreetMap ! Cette carte est en vente ; on peut l'acheter en ligne sur &lt;a href="http://livre.fnac.com/a5152703/Collectif-Clermont-Ferrand#ficheResume"&gt;fnac.com&lt;/a&gt; par exemple. Le rendu des données d'OpenStreetMap a été réalisé par Michelin : le style et les couleurs sont donc identiques aux autres cartes Michelin de la même série.&lt;/p&gt;
+
+&lt;p&gt;Pour réaliser cette carte, Michelin a dû compléter les données présentes dans OpenStreetMap à certains endroits (ajout de rues manquantes, sens uniques, etc.) et a donc contribué à OpenStreetMap. Vous trouverez plus d'informations sur cette carte Michelin unique en son genre dans cet article intitulé &lt;a href="http://www.sig-la-lettre.com/?OSM-met-la-gomme"&gt;OSM met la gomme&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="toc_7"&gt;Contribution&lt;/h3&gt;
+
+&lt;p&gt;Mais ne vous contentez pas d'être un simple utilisateur alors qu'il est si facile de monter en grade et de devenir contributeur ! Pour cela, il vous suffit d'ouvrir un compte sur le site &lt;a href="http://www.openstreetmap.org"&gt;openstreetmap.org&lt;/a&gt; puis d'utiliser l'application de votre choix pour contribuer à la carte. L'application de référence pour contribuer s'appelle &lt;a href="http://josm.openstreetmap.de/"&gt;jOSM&lt;/a&gt;. Elle est codée en Java donc ça tourne sur n'importe quel système. Elle est présente dans toutes les bonnes distributions Linux. Ce n'est pas très compliqué à utiliser, mais vous gagnerez beaucoup de temps d'apprentissage si vous demandez à un connaisseur de vous en montrer le fonctionnement, et que vous faites votre première contribution avec lui. Il est aussi possible de contribuer à la carte directement depuis le site &lt;a href="http://www.openstreetmap.org/"&gt;openstreetmap.org&lt;/a&gt; sans installer d'application dédiée, grâce à une interface en Flash dénommée &lt;a href="http://wiki.openstreetmap.org/wiki/Potlatch_2"&gt;Potlatch 2&lt;/a&gt; qui se lance via le bouton &lt;em&gt;Modifier&lt;/em&gt; en haut à gauche de la page. Une interface alternative en HTML5, dénommée iD, est en cours de développement ; vous pouvez voir une vidéo très prometteuse sur la &lt;a href="http://ideditor.com/"&gt;page d'accueil&lt;/a&gt; du projet.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f696d616765736861636b2e75732f612f696d673833322f363238372f6a6f736d6275726a616c6172616264756261692e706e67/josmburjalarabdubai.png" alt="jOSM, Burj al Arab, Dubaï" title="Source : http://imageshack.us/a/img832/6287/josmburjalarabdubai.png" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Ce qui est génial quand on contribue à OpenStreetMap, c'est que, quand on soumet une amélioration pour la carte, cette amélioration est visible sur le site &lt;a href="http://www.openstreetmap.org"&gt;openstreetmap.org&lt;/a&gt; cinq minutes après (en tout cas pour le niveau de zoom maximal ; il faut attendre un peu plus longtemps pour les niveaux de zoom inférieurs) !&lt;/p&gt;
+
+&lt;p&gt;Autre chose à savoir : pas besoin d'enregistrer une trace GPS pour contribuer à OpenStreetMap ! En effet, OpenStreetMap a &lt;a href="http://www.bing.com/blogs/site_blogs/b/maps/archive/2010/11/23/bing-engages-open-maps-community.aspx"&gt;un accord avec Microsoft&lt;/a&gt; qui lui permet de bénéficier des images satellites de Bing pour contribuer à la carte. Concrètement, pour ajouter une rue manquante dans OpenStreetMap, il suffit de la décalquer de l'image satellite ! Si vous savez faire un décalquage, alors vous avez toutes les qualités requises pour devenir contributeur OpenStreetMap !&lt;/p&gt;
+
+&lt;p&gt;En ce qui concerne la qualité de la carte d'OpenStreetMap, il faut savoir qu'elle est variable d'un endroit à l'autre en fonction de la densité de contributeurs. Concrètement, les grandes villes sont généralement très bien cartographiées (beaucoup mieux que des cartes commerciales d'ailleurs), alors qu'à la campagne la qualité varie selon les endroits.&lt;/p&gt;
+
+&lt;p&gt;Contribuer à OpenStreetMap est assez amusant, et toute la famille peut participer. On imprime une carte OpenStreetMap papier depuis le site &lt;a href="http://walking-papers.org/"&gt;Walking-papers&lt;/a&gt; et on part se balader en notant tous les éléments manquants sur la carte papier (les noms des rues, les sens uniques, les commerces, les boites aux lettres, les numéros des maisons, etc.). De retour à la maison après ce bon bol d'air, on se remet devant son écran, on lance jOSM et on ajoute/corrige tout ce qu'on a noté sur la carte papier. Un vrai jeu d'enfant !&lt;/p&gt;
+
+&lt;p&gt;J'espère vous avoir convaincu de contribuer à OpenStreetMap ! Vous pouvez commencer par améliorer la carte de votre quartier, puis celle autour de votre boulot, puis celle de votre lieu de vacances&amp;#8230;&lt;/p&gt;
+&lt;h3 id="toc_8"&gt;Autres outils&lt;/h3&gt;
+
+&lt;p&gt;Quelques outils tournant autour d'OSM :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://openrouteservice.org/"&gt;http://openrouteservice.org/&lt;/a&gt; ou &lt;a href="http://www.mapquest.fr/"&gt;http://www.mapquest.fr/&lt;/a&gt; pour calculer un itinéraires à partir des données OpenStreetMap&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://maposmatic.org/"&gt;http://maposmatic.org/&lt;/a&gt; pour produire un plan de ville avec un index des rues, avec choix du format (carte ou livret)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://tools.geofabrik.de/mc/"&gt;http://tools.geofabrik.de/mc/&lt;/a&gt; pour comparer le rendu entre OpenStreetMap et d'autres services similaires (Google Map, Bing&amp;#8230;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://tools.geofabrik.de/osmi/"&gt;http://tools.geofabrik.de/osmi/&lt;/a&gt; , &lt;a href="http://osmose.openstreetmap.fr/fr/map/"&gt;http://osmose.openstreetmap.fr/fr/map/&lt;/a&gt; et 
+&lt;a href="http://keepright.ipax.at/"&gt;http://keepright.ipax.at/&lt;/a&gt; , trois sites qui permettent de voir les erreurs et d'améliorer la qualité d'OpenStreetMap&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://resultmaps.neis-one.org/"&gt;http://resultmaps.neis-one.org/&lt;/a&gt; divers outils pour connaître les contributeurs qui nous entourent, nos statistiques&amp;#8230;&lt;/li&gt;
+&lt;li&gt;Et si vous êtes plus marin que terrien : &lt;a href="http://www.openseamap.org"&gt;http://www.openseamap.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/openstreetmap-pourquoi-vous-devriez-l-utiliser#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Alexis de Lattre</name>
+    </author>
+    <author>
+      <name>Nÿco</name>
+    </author>
+    <author>
+      <name>Jiehong</name>
+    </author>
+    <author>
+      <name>L@ur3nt</name>
+    </author>
+    <author>
+      <name>fravashyo</name>
+    </author>
+    <author>
+      <name>Nonolapéro</name>
+    </author>
+    <author>
+      <name>Florent Zara</name>
+    </author>
+    <author>
+      <name>Nicolas Casanova</name>
+    </author>
+    <author>
+      <name>TBTB</name>
+    </author>
+    <author>
+      <name>djabal</name>
+    </author>
+    <author>
+      <name>Xavier Teyssier</name>
+    </author>
+    <category term="Open Data"/>
+    <category term="hfi"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98202/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34145</id>
+    <published>2013-05-07T10:59:27+02:00</published>
+    <updated>2013-05-07T11:59:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/x-org-est-mort-vive-wayland-2"/>
+    <title> X.Org est mort, vive Wayland ! (2)</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;L&amp;#8217;activité du projet Wayland, projet visant à remplacer le vieillissant X.Org, a été très importante ces derniers mois. En voici les principaux faits marquants.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f7761796c616e642e667265656465736b746f702e6f72672f7761796c616e642e706e67/wayland.png" alt="Wayland" title="Source : http://wayland.freedesktop.org/wayland.png" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Merci à &lt;a href="/users/bayo"&gt;&lt;em&gt;bayo&lt;/em&gt;&lt;/a&gt;, &lt;a href="/users/nyco"&gt;&lt;em&gt;Nÿco&lt;/em&gt;&lt;/a&gt; et &lt;a href="/users/antistress"&gt;&lt;em&gt;antistress&lt;/em&gt;&lt;/a&gt; pour leur contribution.&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86102" hreflang="en" title="http://lists.freedesktop.org/archives/wayland-devel/2013-April/008631.html"&gt;Annonce de la version 1.1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86103" hreflang="fr" title="http://linuxfr.org/news/petites-breves-autour-de-wayland"&gt;Petites brèves autour de Wayland&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°3 : &lt;a href="http://linuxfr.org/redirect/86104" hreflang="fr" title="http://linuxfr.org/news/x-org-est-mort-vive-wayland"&gt;Sortie de la version 1.0&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°4 : &lt;a href="http://linuxfr.org/redirect/86105" hreflang="fr" title="http://linuxfr.org/news/mir-un-serveur-d-affichage-de-trop"&gt;Mir un concurrent made in Canonical&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2 id="sommaire"&gt;Sommaire&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_0"&gt;Avancement&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_1"&gt;Wayland 1.1&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_2"&gt;Wayland 1.2&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_3"&gt;Les applications arrivent&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_4"&gt;Bibliothèques logiciels&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_5"&gt;Environnements de bureau&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_6"&gt;Applications notables&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_7"&gt;Les ennuis commencent&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_8"&gt;Mir&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_9"&gt;Northfield/Norwood&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_10"&gt;La mort de X en 2014&amp;#8239;?&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_11"&gt;Il n&amp;#8217;y a pas que Linux dans la vie&amp;#8239;!&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="toc_0"&gt;Avancement&lt;/h2&gt;
+&lt;h3 id="toc_1"&gt;Wayland 1.1&lt;/h3&gt;
+
+&lt;p&gt;Six mois après la très symbolique version 1, le projet Wayland sort une nouvelle version majeure. Plus de 400 modifications ont été introduites entre les versions 1.0 et 1.1.&lt;/p&gt;
+
+&lt;p&gt;En voici les &lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2013-April/008631.html"&gt;principales avancées&lt;/a&gt; :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;possibilité d&amp;#8217;installer Weston (le compositeur de référence de Wayland) sur le &lt;a href="http://fr.wikipedia.org/wiki/Raspberry_Pi"&gt;Raspberry Pi&lt;/a&gt; (voir &lt;a href="http://wayland.freedesktop.org/raspberrypi.html"&gt;&lt;em&gt;ici&lt;/em&gt;&lt;/a&gt; pour son installation). &lt;a href="http://ppaalanen.blogspot.fr/"&gt;Pekka Paalanen&lt;/a&gt; a travaillé sur le sujet (voir &lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2012-November/006133.html"&gt;son correctif&lt;/a&gt;)&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;prise en charge du &lt;a href="http://fr.wikipedia.org/wiki/Remote_Desktop_Protocol"&gt;protocole RDP&lt;/a&gt; (&lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2013-March/007740.html"&gt;modif&lt;/a&gt;), il est compatible avec le protocole de Microsoft RDP 7.1. Le protocole RDP permet d&amp;#8217;accéder à un Windows distant en utilisant GNU/Linux (exemples de clients populaires : rdesktop, Remmina)&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;prise en charge du tampon de trame &lt;a href="http://fr.wikipedia.org/wiki/Framebuffer_Linux"&gt;&lt;em&gt;&amp;#8212; Framebuffer &amp;#8212;&lt;/em&gt;&lt;/a&gt; qui permet d&amp;#8217;afficher des images en console&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;prise en charge des systèmes sans écrans _&amp;#8212; headless &amp;#8212;,_ dans le but de tests (&lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2012-October/006032.html"&gt;la modif&lt;/a&gt;)&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;dépendance à la bibliothèque &lt;a href="http://www.nongnu.org/libunwind/"&gt;&lt;em&gt;libunwind&lt;/em&gt;&lt;/a&gt; pour avoir &lt;a href="http://www.mail-archive.com/xorg-devel@lists.x.org/msg34729.html"&gt;de meilleurs vidages mémoire après plantage qu&amp;#8217;avec glibc&lt;/a&gt;&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;utilisation de &lt;em&gt;EGL_EXT_buffer_age&lt;/em&gt; dans &lt;a href="http://fr.wikipedia.org/wiki/Kernel-based_mode-setting"&gt;KMS&lt;/a&gt; (voir &lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2013-March/007784.html"&gt;la modif de Ander Conselvan de Oliveira&lt;/a&gt;). Si ce dernier n&amp;#8217;est pas présent dans KMS, il est aussi possible de &lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2013-March/008078.html"&gt;compiler Weston&lt;/a&gt;&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;optimisation de la façon d&amp;#8217;endommager quand on bouge des surfaces à l&amp;#8217;intérieur et à l&amp;#8217;extérieur des plans (&lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2012-November/006292.html"&gt;la modif&lt;/a&gt;)&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;prise en charge du balayage d&amp;#8217;un tampon mémoire vidéo en plein écran lors d&amp;#8217;une rotation (&lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2012-November/006450.html"&gt;la modif&lt;/a&gt;)&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;gestion des surfaces en fenêtres surgissantes &lt;em&gt;&amp;#8212; popup &amp;#8212;&lt;/em&gt; (&lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2013-March/007965.html"&gt;la modif&lt;/a&gt;)&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;outil pour calibrer les écrans tactiles (&lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2012-December/006574.html"&gt;la modif&lt;/a&gt;)&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;outil de restitution pour la manipulation de pixels ou &lt;em&gt;pixman renderer&lt;/em&gt; (&lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2013-January/006889.html"&gt;la mofif&lt;/a&gt;)&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;kit de développement logiciel pour les modules non officiels (&lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2013-February/007418.html"&gt;l&amp;#8217;annonce&lt;/a&gt;)&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;amélioration de la &lt;a href="http://wayland.freedesktop.org/docs/html/"&gt;documentation&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_2"&gt;Wayland 1.2&lt;/h3&gt;
+
+&lt;p&gt;Kristian Høgsberg, le créateur et développeur principal de Wayland, a annoncé sa &lt;a href="http://lwn.net/Articles/548879/"&gt;feuille de route pour les prochaines versions&lt;/a&gt;. Le rythme de développement va s&amp;#8217;accélérer : une version tous les trimestres. Ainsi, la prochaine version sera pour la fin juin.&lt;/p&gt;
+&lt;h2 id="toc_3"&gt;Les applications arrivent&lt;/h2&gt;
+
+&lt;p&gt;Pendant que Wayland et Weston continuent à avoir de nouvelles fonctionnalités. Les logiciels progressent au niveau de leur compatibilité.&lt;/p&gt;
+&lt;h3 id="toc_4"&gt;Bibliothèques logiciels&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;EFL offre une &lt;a href="http://www.chaosreigns.com/wiki/Wayland_State#The_state_of_Wayland.2C_2013-01-26"&gt;prise en charge complète de Wayland, à part pour la sélection&lt;/a&gt;&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;GTK+ avance à grands pas pour la &lt;a href="https://live.gnome.org/Wayland/GTK+"&gt;prise en charge complète de Wayland&lt;/a&gt; avec la version 3.8 (voir aussi ce &lt;a href="http://blogs.gnome.org/mclasen/2013/03/26/adventures-in-wayland/"&gt;&lt;em&gt;blog&lt;/em&gt;&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_5"&gt;Environnements de bureau&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;on peut donc être optimiste sur GNOME&amp;#8239;3 qui se base sur GTK+&amp;#8239;3, il cependant faudra attendre &lt;a href="https://live.gnome.org/Wayland#Porting_GNOME_to_Wayland"&gt;GNOME 3.12&lt;/a&gt;&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;pour XFCE, la prochaine &lt;a href="http://wiki.xfce.org/releng/4.12/roadmap/gtk3"&gt;version 4.12 commencera à utiliser GTK+&amp;#8239;3&lt;/a&gt;, mais il faudra probablement attendre la version suivante pour avoir une utilisation complète&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;concernant KDE, la difficulté est de migrer KDE vers la bibliothèque Qt&amp;#8239;5&amp;#8239;; cette migration se fera progressivement. En tout cas, il n&amp;#8217;y a &lt;a href="http://vizzzion.org/blog/2013/01/the-road-to-kde-frameworks-5-and-plasma-2/"&gt;pas de plan à court terme pour se passer de X&lt;/a&gt;&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;du côté d&amp;#8217;Enlightenment, d&amp;#8217;après le &lt;a href="http://trac.enlightenment.org/e/wiki/Wayland"&gt;site officiel&lt;/a&gt;, il prend on charge Wayland, mais en utilisant X11. Le travail est consacré maintenant à utiliser Wayland sans X11. &lt;a href="http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTMzMDI"&gt;Une vidéo&lt;/a&gt; de la prise en charge de l&amp;#8217;émulateur de terminal graphique sous Wayland a circulé.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_6"&gt;Applications notables&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;en attendant la prise en charge par Firefox (qui doit d&amp;#8217;abord passer &lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=627699"&gt;de GTK+&amp;#8239;2 à GTK+&amp;#8239;3&lt;/a&gt; et &lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=788319"&gt;de GLX à EGL&lt;/a&gt; &lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=635134"&gt;pour cela&lt;/a&gt;), &lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2013-April/008843.html"&gt;le navigateur Web Midori fonctionne désormais avec Wayland&lt;/a&gt;&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://smspillaz.wordpress.com/2013/02/27/hello-from-xbmc-on-wayland/"&gt;Sam Spilsbury&lt;/a&gt;, le développeur originel de Compiz, a réussi à utiliser le logiciel multimédia &lt;a href="http://fr.wikipedia.org/wiki/XBMC_Media_Center"&gt;XBMC&lt;/a&gt; avec Wayland.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="toc_7"&gt;Les ennuis commencent&lt;/h2&gt;
+
+&lt;p&gt;Il semblait acquis pour toute la communauté du libre que Wayland allait remplacer &lt;em&gt;ipso facto&lt;/em&gt; X à long terme. Malheureusement cette prophétie est semé d&amp;#8217;embûches. Voyons cela de plus près&amp;#8230;&lt;/p&gt;
+&lt;h3 id="toc_8"&gt;Mir&lt;/h3&gt;
+
+&lt;p&gt;Le serveur d&amp;#8217;affichage Mir, créé par Canonical (Ubuntu), a déjà fait couler beaucoup d&amp;#8217;encre sur la toile et notamment sur &lt;a href="http://linuxfr.org/news/mir-un-serveur-d-affichage-de-trop"&gt;&lt;em&gt;LinuxFr.org&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Maintenant que la polémique est un peu retombée, il est intéressant de voir qui travaille derrière Mir : ce sont principalement deux développeurs qui ont été embauchés il y a juste un an (date de création de leurs comptes Launchpad) &lt;a href="https://launchpad.net/~ps-jenkins"&gt;P.&amp;#8239;S. Jenkins&lt;/a&gt; et &lt;a href="https://launchpad.net/~alan-griffiths"&gt;Alan Griffiths&lt;/a&gt;. Autour, il y a  &lt;a href="https://launchpad.net/~robert-ancell"&gt;Robert Ancell&lt;/a&gt; (&lt;a href="http://bobthegnome.blogspot.fr/"&gt;son blog&lt;/a&gt;), &lt;a href="https://launchpad.net/~afrantzis"&gt;Alexandros Frantzis&lt;/a&gt;, &lt;a href="https://launchpad.net/~kdub"&gt;Kevin DuBois&lt;/a&gt; (&lt;a href="http://kdubois.net/"&gt;son blog&lt;/a&gt;), &lt;a href="https://launchpad.net/~vanvugt"&gt;Daniel van Vugt&lt;/a&gt; et &lt;a href="https://launchpad.net/~robertcarr"&gt;Robert Carr&lt;/a&gt;. Ce qui fait sept développeurs actifs, contre huit développeurs qui ont été actifs pour la version 1.1 de Wayland. Ainsi, en nombre, Mir n&amp;#8217;est pas ridicule face à Wayland. Il reste à voir s&amp;#8217;ils respectent la &lt;a href="https://wiki.ubuntu.com/Mir/Spec#Roadmap"&gt;feuille de route&lt;/a&gt; qu&amp;#8217;ils se sont fixés, avec pour objectif d&amp;#8217;avoir une version utilisable pour avril 2014.&lt;/p&gt;
+
+&lt;p&gt;Espérons que Mir crée une émulation du côté de Red&amp;#8239;Hat et Intel, pour sortir rapidement Weston sous une forme utilisable par Madame Michu.&lt;/p&gt;
+&lt;h3 id="toc_9"&gt;Northfield/Norwood&lt;/h3&gt;
+
+&lt;p&gt;Un développeur isolé de Wayland et Weston, Scott Moreau, a annoncé des &lt;a href="http://lists.freedesktop.org/archives/wayland-devel/2013-March/008121.html"&gt;divergences &amp;#8212; forks &amp;#8212; de ces derniers&lt;/a&gt; baptisées respectivement : &lt;a href="https://github.com/soreau/northfield"&gt;Northfield&lt;/a&gt; et &lt;a href="https://github.com/soreau/norwood"&gt;Norwood&lt;/a&gt;. La raison de ces divergences est qu&amp;#8217;il ne trouve pas Weston assez sexy pour l&amp;#8217;utilisateur lambda, qui ne peut pas s&amp;#8217;amuser comme il le pouvait avec Compiz.&lt;/p&gt;
+
+&lt;p&gt;Un développeur qui quitte un projet libre pour en créer une nouvelle branche parce qu&amp;#8217;il ne lui convient plus, ce n&amp;#8217;est pas rare. De plus, si l&amp;#8217;on regarde le nombre de modifications depuis un mois sur Northfield et Norwood, il est quasiment nul&amp;#8239;!&lt;/p&gt;
+
+&lt;p&gt;Curieusement, le site Web &lt;em&gt;Phoronix&lt;/em&gt; avait fait des &lt;a href="http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTMzNTY"&gt;tonnes&lt;/a&gt;, des &lt;a href="http://www.phoronix.com/scan.php?page=article&amp;amp;item=wayland_weston_fork"&gt;tonnes&lt;/a&gt; et des &lt;a href="http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTM0MTM"&gt;tonnes&lt;/a&gt; sur le sujet, mais maintenant plus rien.&lt;/p&gt;
+&lt;h2 id="toc_10"&gt;La mort de X en 2014&amp;#8239;?&lt;/h2&gt;
+
+&lt;p&gt;Red&amp;#8239;Hat a annoncé que &lt;a href="http://lists.fedoraproject.org/pipermail/devel/2013-March/180546.html"&gt;Fedora&amp;#8239;21&lt;/a&gt; sera livrée par défaut avec Wayland (avec &lt;a href="https://live.gnome.org/Wayland#Porting_GNOME_to_Wayland"&gt;GNOME 3.12&lt;/a&gt;). Il y a environ une version de Fedora tous les 6 mois. &lt;a href="http://fedoraproject.org/wiki/Schedule"&gt;Fedora&amp;#8239;19 est prévue pour &lt;s&gt;juin&lt;/s&gt; juillet&lt;/a&gt;. Donc, Fedora&amp;#8239;21 sortira fin 2014, si l&amp;#8217;on suppose qu&amp;#8217;il y a du retard.&lt;/p&gt;
+
+&lt;p&gt;Du côté de chez Canonical, on annonce la version d&amp;#8217;Ubuntu avec Mir pour avril 2014.&lt;/p&gt;
+
+&lt;p&gt;Pour &lt;a href="http://fr.wikipedia.org/wiki/Tizen"&gt;Tizen&lt;/a&gt; (soutenu par Samsung), il faut aller &lt;a href="https://wiki.tizen.org/wiki/IVI#Looking_Ahead_to_the_Next_Tizen_IVI_Milestone"&gt;voir ici&lt;/a&gt; pour savoir où en est le projet. Wayland serait pris en charge fin 2013.&lt;/p&gt;
+
+&lt;p&gt;Pour l&amp;#8217;anecdote, &lt;a href="http://sourceforge.net/projects/rebeccablackos/?source=navbar"&gt;&lt;em&gt;Rebecca Black OS&lt;/em&gt;&lt;/a&gt; (une distribution basée sur Ubuntu permettant de tester Wayland) a été mise à jour fin avril 2013.&lt;/p&gt;
+&lt;h3 id="toc_11"&gt;Il n&amp;#8217;y a pas que Linux dans la vie&amp;#8239;!&lt;/h3&gt;
+
+&lt;p&gt;Concernant les systèmes BSD, cela bouge aussi pas mal. La principale difficulté du passage à Wayland est la &lt;a href="http://linuxfr.org/news/x-org-est-mort-vive-wayland#toc_8"&gt;dépendance obligatoire du noyau à KMS&lt;/a&gt;. Les &lt;a href="http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTM0NDU"&gt;pilotes Intel prennent maintenant en charge KMS pour OpenBSD&lt;/a&gt;. Les &lt;a href="http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTMwNzA"&gt;pilotes Radeon sont en train d&amp;#8217;être portés sur FreeBSD&lt;/a&gt; (on peut trouver &lt;a href="https://wiki.freebsd.org/AMD_GPU"&gt;&lt;em&gt;ici&lt;/em&gt;&lt;/a&gt; le statut du pilote). Rappelons que depuis FreeBSD 9.1, le &lt;a href="http://www.freebsd.org/releases/9.1R/announce.html"&gt;pilote Intel prend en charge KMS&lt;/a&gt;. Enfin, Solaris&amp;#8239;11 prend KMS en charge pour Intel, et offrira une prise en charge de Radeon pour la version 12. Un bon résumé sur les systèmes BSD dans &lt;a href="http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTI5Njk"&gt;cet article&lt;/a&gt; de &lt;em&gt;Phoronix&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;On peut donc supposer que 2014 signera l&amp;#8217;amorce du déclin de X sous GNU/Linux, et sous UNIX en général.&lt;/p&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/x-org-est-mort-vive-wayland-2#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Jarvis</name>
+    </author>
+    <author>
+      <name>Davy Defaud</name>
+    </author>
+    <author>
+      <name>Jiehong</name>
+    </author>
+    <author>
+      <name>bayo</name>
+    </author>
+    <author>
+      <name>antistress</name>
+    </author>
+    <author>
+      <name>Nÿco</name>
+    </author>
+    <author>
+      <name>Xavier Claude</name>
+    </author>
+    <category term="X"/>
+    <category term="wayland"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98131/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34182</id>
+    <published>2013-05-06T17:06:40+02:00</published>
+    <updated>2013-05-06T17:06:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/revue-de-presse-de-l-april-pour-la-semaine-18-de-l-annee-2013"/>
+    <title>Revue de presse de l'April pour la semaine 18 de l'année 2013</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;La revue de presse de l'April est régulièrement éditée par les membres de l'association. Elle couvre l'actualité de la presse en ligne, liée au logiciel libre. Il s'agit donc d'une sélection d'articles de presse et non de prises de position de l'association de promotion et de défense du logiciel libre.&lt;/p&gt;
+&lt;h2 id="toc_0"&gt;Sommaire&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://lentreprise.lexpress.fr/developpement-et-innover/oui-share-premier-festival-de-l-economie-collaborative-les-2-et-3-mai-a-paris_40616.html"&gt;[L'Entreprise.com] L'économie collaborative, une nouvelle ruée vers l'or&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youphil.com/fr/article/06435-agriculture-open-source-internet-marcin-jakubowski"&gt;[Youphil] Quand l'open source permet de fabriquer soi-même son tracteur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://techno.lapresse.ca/nouvelles/internet/201304/29/01-4645511-comment-internet-nous-espionne-notre-cyberprison.php"&gt;[La Presse] Comment internet nous espionne: notre cyberprison&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://joinup.ec.europa.eu/community/osor/news/spains-extremadura-starts-switch-40000-government-pcs-open-source"&gt;[Joinup] Spain's Extremadura starts switch of 40,000 government PCs to open source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.zdnet.fr/actualites/l-integration-du-droit-d-auteur-au-traite-tafta-fait-polemique-39789909.htm"&gt;[ZDNet] L&amp;#8217;intégration du droit d&amp;#8217;auteur au traité TAFTA fait polémique&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.numerama.com/magazine/25870-la-journee-mondiale-2013-contre-les-drm-c-est-aujourd-hui.html"&gt;[Numerama] La journée mondiale 2013 contre les DRM, c'est aujourd'hui&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86244" hreflang="fr" title="http://april.org"&gt;April&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86245" hreflang="fr" title="http://www.april.org/revue-de-presse"&gt;Revue de presse de l&amp;#x27;April&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°3 : &lt;a href="http://linuxfr.org/redirect/86246" hreflang="fr" title="https://linuxfr.org/news/revue-de-presse-de-l-april-pour-la-semaine-17-de-l-année-2013"&gt;Revue de presse de la semaine précédente&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°4 : &lt;a href="http://linuxfr.org/redirect/86247" hreflang="fr" title="http://audio.april.org"&gt;Podcast&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°5 : &lt;a href="http://linuxfr.org/redirect/86248" hreflang="fr" title="http://www.divergence-fm.org/-Divergence-numerique-.html"&gt;Divergence Numérique&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;
+&lt;strong&gt;[L'Entreprise.com] L'économie collaborative, une nouvelle ruée vers l'or&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Par &lt;em&gt;Etienne Gless&lt;/em&gt;, le jeudi 2 mai 2013. Extrait:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Je partage, tu consommes, nous produisons&amp;#8230; Bienvenue dans un monde "open" où partage et contribution sont la règle. L'économie contributive mise sur la force des communautés pour produire, consommer et travailler autrement. Bienvenue dans un monde nouveau qui selon certains préfigure une nouvelle révolution industrielle! &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lien vers l'article original: &lt;a href="http://lentreprise.lexpress.fr/developpement-et-innover/oui-share-premier-festival-de-l-economie-collaborative-les-2-et-3-mai-a-paris_40616.html"&gt;http://lentreprise.lexpress.fr/developpement-et-innover/oui-share-premier-festival-de-l-economie-collaborative-les-2-et-3-mai-a-paris_40616.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;
+&lt;strong&gt;[Youphil] Quand l'open source permet de fabriquer soi-même son tracteur&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Par &lt;em&gt;la rédaction&lt;/em&gt;, le lundi 29 avril 2013. Extrait:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Un agriculteur américain crée ses propres machines agricoles et partage ses plans librement sur internet. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lien vers l'article original: &lt;a href="http://www.youphil.com/fr/article/06435-agriculture-open-source-internet-marcin-jakubowski"&gt;http://www.youphil.com/fr/article/06435-agriculture-open-source-internet-marcin-jakubowski&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;
+&lt;strong&gt;[La Presse] Comment internet nous espionne: notre cyberprison&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Par &lt;em&gt;Rudy Le Cours&lt;/em&gt;, le lundi 29 avril 2013. Extrait:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;L'attaque terroriste au marathon de Boston et le complot déjoué pour faire sauter un train au-dessus de la rivière Niagara ont fait ressortir à quel point la surveillance policière dispose désormais de moyens très puissants. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lien vers l'article original: &lt;a href="http://techno.lapresse.ca/nouvelles/internet/201304/29/01-4645511-comment-internet-nous-espionne-notre-cyberprison.php"&gt;http://techno.lapresse.ca/nouvelles/internet/201304/29/01-4645511-comment-internet-nous-espionne-notre-cyberprison.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;
+&lt;strong&gt;[Joinup] Spain's Extremadura starts switch of 40,000 government PCs to open source&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Par &lt;em&gt;Gijs Hillenius&lt;/em&gt;, le lundi 29 avril 2013. Extrait:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(Le gouvernement de la région Espagnole "Estrémadure" a démarré le passage en open source de ses 40 000 PC) The government of Spain's autonomous region of Extremadura has begun the switch to open source of it desktop PCs. The government expects the majority of its 40,000 PCs to be migrated this year, the region's CIO Theodomir Cayetano announced on 18 April. Extremadura estimates that the move to open source will help save 30 million euro per year. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lien vers l'article original: &lt;a href="https://joinup.ec.europa.eu/community/osor/news/spains-extremadura-starts-switch-40000-government-pcs-open-source"&gt;https://joinup.ec.europa.eu/community/osor/news/spains-extremadura-starts-switch-40000-government-pcs-open-source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;
+&lt;strong&gt;[ZDNet] L&amp;#8217;intégration du droit d&amp;#8217;auteur au traité TAFTA fait polémique&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Par &lt;em&gt;Thierry Noisette&lt;/em&gt;, le lundi 29 avril 2013. Extrait:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;La question de la protection des droits d&amp;#8217;auteur, des brevets et des marques va être discutée dans le cadre des négociations du TAFTA (Transatlantic Free Trade Agreement). &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lien vers l'article original: &lt;a href="http://www.zdnet.fr/actualites/l-integration-du-droit-d-auteur-au-traite-tafta-fait-polemique-39789909.htm"&gt;http://www.zdnet.fr/actualites/l-integration-du-droit-d-auteur-au-traite-tafta-fait-polemique-39789909.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;
+&lt;strong&gt;[Numerama] La journée mondiale 2013 contre les DRM, c'est aujourd'hui&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Par &lt;em&gt;Julien L.&lt;/em&gt;, le vendredi 3 mai 2013. Extrait:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Comme chaque année, la FSF et l'APRIL se mobilisent contre les menottes numériques. Les deux organisations animent une journée mondiale contre les DRM, afin de sensibiliser le public sur leurs effets. L'édition 2013 se déroule toutefois dans une cadre spécifique, car le W3C envisage d'introduire ces verrous numériques dans la charpente même du web, en les autorisant dans le HTML5. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lien vers l'article original: &lt;a href="http://www.numerama.com/magazine/25870-la-journee-mondiale-2013-contre-les-drm-c-est-aujourd-hui.html"&gt;http://www.numerama.com/magazine/25870-la-journee-mondiale-2013-contre-les-drm-c-est-aujourd-hui.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Et aussi:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.itespresso.fr/drm-veto-w3c-specification-eme-64280.html"&gt;[ITespresso] DRM: vers un veto du W3C sur la spécification EME?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.silicon.fr/drm-w3c-eme-85727.html"&gt;[Silicon.fr] DRM: le W3C va-t-il rejeter la spécification EME?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/revue-de-presse-de-l-april-pour-la-semaine-18-de-l-annee-2013#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>echarp</name>
+    </author>
+    <category term="Internet"/>
+    <category term="presse"/>
+    <category term="revue"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98221/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34180</id>
+    <published>2013-05-06T09:34:05+02:00</published>
+    <updated>2013-05-06T09:34:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/paperwork-besoin-de-testeurs"/>
+    <title>Paperwork : besoin de testeurs</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;a href="https://github.com/jflesch/paperwork#readme"&gt;Paperwork&lt;/a&gt; est un outil pour faciliter la gestion de la paperasse de tous les jours. Il a été conçu pour les flemmards désorganisés comme moi, dans une optique de « scan &amp;amp; forget » : vous devriez pouvoir juste scanner un document, l'enterrer dans une pile de papiers quelconque, et quand même le retrouver le jour où vous en avez besoin. Après tout, trier est un travail de machine.&lt;/p&gt;
+
+&lt;p&gt;À chaque scan, Paperwork se charge de passer un coup d'&lt;a href="http://fr.wikipedia.org/wiki/OCR" title="Définition Wikipédia"&gt;OCR&lt;/a&gt; sur le document et de l'indexer. Comme l'OCR est imparfaite, il est aussi possible de mettre des labels sur le document. Aujourd'hui, la dernière fonctionnalité voulue pour Paperwork 0.1 a été implémentée. Maintenant, avant de faire une première release, il reste à tester tout ça. C'est là que votre aide sera précieuse : il faut des testeurs.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Note des modérateurs"&gt;NdM&lt;/abbr&gt; : &lt;em&gt;merci à Jérôme Flesch pour son journal.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86236" hreflang="fr" title="http://linuxfr.org/users/jflesch/journaux/paperwork-besoin-de-testeurs"&gt;Journal à l&amp;#x27;origine de la dépêche&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86237" hreflang="en" title="https://github.com/jflesch/paperwork#readme"&gt;Paperwork&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Pour devenir testeur, il faut les choses suivantes :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Une distribution GNU/Linux&lt;/li&gt;
+&lt;li&gt;Un scanner compatible Sane&lt;/li&gt;
+&lt;li&gt;Savoir remplir un &lt;a href="https://github.com/jflesch/paperwork/issues"&gt;rapport de bug&lt;/a&gt; (en anglais de préférence)&lt;/li&gt;
+&lt;li&gt;Du temps à tuer&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Attention, la branche Git à tester est la branche "testing" (branche par défaut). La branche "unstable" est celle où va commencer le développement de la 0.2.&lt;/p&gt;
+
+&lt;p&gt;Pour mettre l'eau à la bouche de ceux qui ne l'auraient pas déjà testé, voici une jolie capture d'écran pas-complètement-à-jour :&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f6a666c657363682e6b7761696e2e6e65742f7e6a666c657363682f7061706572776f726b2f7061706572776f726b2e616c7068612e6d61696e5f77696e646f772e706e67/paperwork.alpha.main_window.png" alt="Paperwork en action" title="Source : http://jflesch.kwain.net/~jflesch/paperwork/paperwork.alpha.main_window.png" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Merci beaucoup à ceux qui l'ont déjà testé, et merci d'avance à ceux qui vont le faire,&lt;/p&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/paperwork-besoin-de-testeurs#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Nÿco</name>
+    </author>
+    <author>
+      <name>Jérôme Flesch</name>
+    </author>
+    <author>
+      <name>Florent Zara</name>
+    </author>
+    <author>
+      <name>Christophe Guilloux</name>
+    </author>
+    <category term="Communauté"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98217/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/33637</id>
+    <published>2013-05-05T23:24:51+02:00</published>
+    <updated>2013-05-05T23:24:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/retour-sur-django-1-5"/>
+    <title>Retour sur Django 1.5</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;Le mardi 26 février, 11 mois après la 1.4, est sortie la version 1.5 du &lt;em&gt;framework&lt;/em&gt; web Django, écrit en Python. Ce framework, basé sur un concept Modèle-Gabarit-Vue (MGV, à rapprocher du MVC), est conçu pour le développement rapide et reprend la plupart des grands principes de Python (« &lt;em&gt;Explicit is better than implicit&lt;/em&gt; », notamment), ce qui en fait la plate-forme de développement Web idéale pour les perfectionnistes sous pression.&lt;/p&gt;
+
+&lt;p&gt;De plus en plus de sites utilisent Django (par exemple, 20minutes, Libération.fr, Disqus, Century21, Convore, Instagram, Threadless&amp;#8230;) pour sa flexibilité et pour le nombre d&amp;#8217;applications Django réutilisables, qui ne cesse de croître. Je vous propose de découvrir les quelques nouveautés que vous offrent les développeurs Django et toute la communauté.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;em&gt;NdM : le 28 mars la version 1.5.1 de Django est sortie. Il s'agit d'une version de maintenance corrigeant quelques bogues mineurs et un problème de fuite de mémoire introduit par la version 1.5.&lt;/em&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/84990" hreflang="en" title="https://docs.djangoproject.com/en/1.5/releases/1.5/"&gt;Notes de version&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/85427" hreflang="en" title="https://www.djangoproject.com/weblog/2013/feb/26/15/"&gt;Annonce de la sortie&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°3 : &lt;a href="http://linuxfr.org/redirect/85625" hreflang="fr" title="https://linuxfr.org/news/sortie-de-django-1-4"&gt;Annonce de la sortie de la 1.4 sur LinuxFR.org&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2 id="sommaire"&gt;Sommaire&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_0"&gt;Notes de version&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_1"&gt;Principales nouveautés&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_2"&gt;Détails&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_3"&gt;Modèle &amp;lt;em&amp;gt;User&amp;lt;/em&amp;gt; configurable&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_4"&gt;Python 3&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_5"&gt;Gestion améliorée des streamings responses&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_6"&gt;Améliorations de l'ORM&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_7"&gt;Améliorations de la documentation&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_8"&gt;Template tag {% verbatim %}&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_9"&gt;Récupération des instances associées ContentType avec des modèles de proxy&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_10"&gt;Autres changements&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_11"&gt;Quelques statistiques&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_12"&gt;Modules utiles&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_13"&gt;Mezzanine&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_14"&gt;Django REST Framework&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_15"&gt;south&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="toc_0"&gt;Notes de version&lt;/h2&gt;
+&lt;h3 id="toc_1"&gt;Principales nouveautés&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Configuration du modèle &lt;em&gt;User&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Compatibilité « expérimentale » avec Python 3&lt;/li&gt;
+&lt;li&gt;Meilleure gestion des &lt;em&gt;streaming responses&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Sélection des champs mis à jour lors de la sauvegarde d'un modèle&lt;/li&gt;
+&lt;li&gt;Prise en charge de l'enregistrement d'un sous-ensemble des champs du modèle&lt;/li&gt;
+&lt;li&gt;Mise en cache des instances liées au modèle&lt;/li&gt;
+&lt;li&gt;{% verbatim %} template tag&lt;/li&gt;
+&lt;li&gt;Récupération des instances associées ContentType avec des modèles de proxy&lt;/li&gt;
+&lt;li&gt;Nouvelle variable view dans le contexte des vues basées sur des classes&lt;/li&gt;
+&lt;li&gt;GeoDjango&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_2"&gt;Détails&lt;/h3&gt;
+&lt;h4 id="toc_3"&gt;Modèle &lt;em&gt;User&lt;/em&gt; configurable&lt;/h4&gt;
+
+&lt;p&gt;Les versions précédentes imposent un modèle d'utilisateur. Ce modèle sert notamment à authentifier les utilisateurs et gérer les permissions. Pour étendre ce modèle il faut définir un autre modèle (nommé profile) qui contient les champs supplémentaires. Cette solution présente plusieurs inconvénients. Une requête SQL supplémentaire ou une jointure est nécessaire pour obtenir les autres champs et il n'est pas possible de modifier le champs &lt;em&gt;username&lt;/em&gt;.e&lt;/p&gt;
+
+&lt;p&gt;La version 1.5 introduit la prise en charge des modèles utilisateurs configurable (&lt;a href="https://docs.djangoproject.com/en/1.5/topics/auth/customizing/#auth-custom-user"&gt;&lt;em&gt;Configurable User model&lt;/em&gt;&lt;/a&gt;). Il est donc possible de remplacer le modèle par défaut. Plusieurs classes abstraites sont disponibles pour faciliter l'intégration de son modèle avec le reste du framework (gestion des permissions) ou étendre le modèle User existant.&lt;/p&gt;
+
+&lt;p&gt;L'utilisation des profiles est toujours prise en charge mais la méthode get_profile du modèle User sera supprimée dans la version 1.7. &lt;/p&gt;
+
+&lt;p&gt;Pour ceux qui souhaitent migrer vers ces nouveaux modèles d'utilisateurs, &lt;a href="http://south.aeracode.org/"&gt;south&lt;/a&gt; devrait faciliter la migration de la base de données. Cette &lt;a href="http://stackoverflow.com/questions/14904046/migrating-existing-auth-user-data-to-new-django-1-5-custom-user-model"&gt;question&lt;/a&gt; sur Stack Overflow donne quelques pistes.&lt;/p&gt;
+&lt;h4 id="toc_4"&gt;Python 3&lt;/h4&gt;
+
+&lt;p&gt;Il y a du changement sur les versions de Python prises en charge. Le support de Python 3 (en version 3.2) est de la partie. Pour le moment ce support est expérimental et certaines fonctionnalités dépendant de bibliothèques externes ne sont pas disponible avec Python 3. De plus, il faudra attendre que les applications les plus populaires soient également compatibles. À noter que la &lt;a href="https://docs.djangoproject.com/en/1.5/topics/python3/"&gt;même base de code&lt;/a&gt; tourne sous Python 2 et Python 3.&lt;/p&gt;
+
+&lt;p&gt;Le support de Python 2.5 est quant à lui passé à la trappe. Cela devrait surtout impacter les utilisateurs de Jython qui peuvent se rabattre sur la version alpha de Jython 2.7 (supportée par Django).&lt;/p&gt;
+&lt;h4 id="toc_5"&gt;Gestion améliorée des streamings responses&lt;/h4&gt;
+
+&lt;p&gt;Avant Django 1.5, il était possible de créer des réponses de type « &lt;em&gt;streaming&lt;/em&gt; » en passant un itérateur au constructeur &lt;code&gt;HttpResponse&lt;/code&gt;. Malheureusement, ce comportement complique l'écriture des &lt;em&gt;middlewares&lt;/em&gt; qui risquent de consommer l'itérateur. Pour palier ce problème, une nouvelle classe (&lt;code&gt;StreamingHttpResponse&lt;/code&gt;) est disponible. Les &lt;em&gt;middlewares&lt;/em&gt; peuvent dorénavant adapter leur comportement suivant le type des réponses reçues.&lt;/p&gt;
+&lt;h4 id="toc_6"&gt;Améliorations de l'ORM&lt;/h4&gt;
+
+&lt;p&gt;Plusieurs nouvelles fonctionnalités peuvent améliorées les performances de l'ORM.&lt;/p&gt;
+
+&lt;p&gt;Lors de l'enregistrement d'une instance (méthode &lt;code&gt;.save()&lt;/code&gt; en base de données, il est désormais possible de limiter les champs sauvegardés. Cela permet de limiter les risques d'écrasement lors d'accès concurrents. Les instances différées (obtenues via les méthodes &lt;code&gt;.only()&lt;/code&gt; et &lt;code&gt;.differ()&lt;/code&gt;) limitent automatiquement aux champs pré-chargés et à ceux qui ont été explicitement modifiés.&lt;/p&gt;
+
+&lt;p&gt;Lors du parcours des relations, l'ORM évitera de récupérer les objets précédemment chargés. Par exemple, dans l'exemple suivant :&lt;/p&gt;
+&lt;pre&gt;
+&lt;code class="python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;first_poll&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;Poll&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;objects&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;all&lt;/span&gt;&lt;span class="p"&gt;()[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;first_choice&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;first_poll&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;choice_set&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;all&lt;/span&gt;&lt;span class="p"&gt;()[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;first_choice&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;poll&lt;/span&gt; &lt;span class="ow"&gt;is&lt;/span&gt; &lt;span class="n"&gt;first_poll&lt;/span&gt;
+&lt;span class="bp"&gt;True&lt;/span&gt;
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;p&gt;Avec Django 1.5, la troisième ligne n'exécute plus de requête SQL pour récupérer first_choice.poll puisqu'il a été défini par la deuxième ligne.  Cette amélioration peut s'avérer très utile en combinaison de la méthode &lt;code&gt;prefetch_related&lt;/code&gt; introduite dans Django 1.4.&lt;/p&gt;
+
+&lt;p&gt;La suppression d'un ou plusieurs objets est accélérée quand il n'y a ni signaux enregistrés ni suppressions en cascade.&lt;/p&gt;
+
+&lt;p&gt;Les modèles peuvent définir des &lt;a href="https://docs.djangoproject.com/en/1.5/ref/models/options/#django.db.models.Options.index_together"&gt;index multi-colonnes&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id="toc_7"&gt;Améliorations de la documentation&lt;/h4&gt;
+
+&lt;p&gt;Les djangonautes auront l'agréable surprise de découvrir une nouvelle page d'accueil de la documentation mieux structurée. Plusieurs nouveaux tutoriels ont été écris dont l'un sur l'écriture d'applications réutilisables et un autre sur l'écriture de tests.&lt;/p&gt;
+&lt;h4 id="toc_8"&gt;Template tag {% verbatim %}&lt;/h4&gt;
+
+&lt;p&gt;Les templates javascript devenant de plus en plus populaire il fallait une solution pour éviter leur collision avec la syntaxe de template de Django. Vous pouvez maintenant utiliser la balise de bloc verbatim afin d'éviter l'analyse du contenu de la balise.&lt;/p&gt;
+&lt;h4 id="toc_9"&gt;Récupération des instances associées ContentType avec des modèles de proxy&lt;/h4&gt;
+
+&lt;p&gt;Les méthodes &lt;code&gt;ContentTypeManager.get_for_model()&lt;/code&gt; et &lt;code&gt;ContentTypeManager.get_for_models()&lt;/code&gt; ont un nouveau mot-clé comme argument- respectivement &lt;code&gt;for_concrete_model&lt;/code&gt; et &lt;code&gt;for_concrete_models&lt;/code&gt;. En passant &lt;code&gt;False&lt;/code&gt; en utilisant cet argument, il est désormais possible de récupérer le ContentType associé à des modèles de proxy.&lt;/p&gt;
+&lt;h3 id="toc_10"&gt;Autres changements&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;La commande &lt;code&gt;dumpdata&lt;/code&gt; retourne les données lignes par ligne pour éviter les congestions de mémoire lors de l'export d'un grand nombre de données &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;LOGIN_URL&lt;/code&gt; et &lt;code&gt;LOGIN_REDIRECT_URL&lt;/code&gt; accepte désormais &lt;a href="https://docs.djangoproject.com/en/1.5/ref/settings/#std:setting-LOGIN_URL"&gt;les chemins de vues ou les noms de chemin d'URL&lt;/a&gt; tels que l'on puisse désormais écrire &lt;code&gt;LOGIN_URL="testapp.mavue"&lt;/code&gt;ou &lt;code&gt;LOGIN_URL="mylogin"&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;Fini les erreurs bien moches si l'on a oublié d'avoir des templates &lt;code&gt;404.html&lt;/code&gt; ou &lt;code&gt;500.html&lt;/code&gt; : Django affiche désormais des pages génériques pour ces situations si les templates correspondants ne sont pas présents. Les codeurs consciencieux que sont les developeurs Python s'assureront tout de même de que ces templates soient présents. &lt;/li&gt;
+&lt;li&gt;Un &lt;a href="https://docs.djangoproject.com/en/1.5/ref/contrib/auth/#django.contrib.auth.signals.user_login_failed"&gt;signal&lt;/a&gt; existe si un utilisateur n'a pas réussi a s'authentifier.&lt;/li&gt;
+&lt;li&gt;Abandon du module &lt;em&gt;simplejson&lt;/em&gt; pour le module standard &lt;em&gt;json&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;La commande &lt;code&gt;loaddata&lt;/code&gt; possède un argument &lt;code&gt;ignorenonexistent&lt;/code&gt; pour ignorer les champs présents dans le fichier qui n'existent plus dans vos modèles&lt;/li&gt;
+&lt;li&gt;Possibilité de &lt;a href="https://docs.djangoproject.com/en/1.5/ref/contrib/admin/#django.contrib.admin.ModelAdmin.get_list_filter"&gt;filtrer par requête&lt;/a&gt; dans l'administration&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_11"&gt;Quelques statistiques&lt;/h3&gt;
+
+&lt;p&gt;Le projet django a migré de subversion vers git en avril 2012.&lt;/p&gt;
+
+&lt;p&gt;Entre la version 1.4 et la version 1.5, il y a eu 13513 commits (&lt;code&gt;git log --no-merges --pretty=oneline 1.4 1.5 | wc -l&lt;/code&gt;)&lt;/p&gt;
+&lt;pre&gt;
+&lt;code class=""&gt;$ git diff --shortstat 1.4 1.5
+3758 files changed, 164853 insertions(+), 153265 deletions(-)
+&lt;/code&gt;
+&lt;/pre&gt;&lt;h2 id="toc_12"&gt;Modules utiles&lt;/h2&gt;
+
+&lt;p&gt;On compense le retard de l'annonce de la sortie de Django en parlant de modules sympas sortis ou ayant une utilité particulière entre la 1.4 et 1.5 :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Le tueur de &lt;a href="http://www.wordpress.org/"&gt;Wordpress&lt;/a&gt; : &lt;a href="http://mezzanine.jupo.org/"&gt;Mezzanine&lt;/a&gt; (CMS)&lt;/li&gt;
+&lt;li&gt;Le destructeur de &lt;a href="https://django-piston.readthedocs.org/en/latest/documentation.html"&gt;Piston&lt;/a&gt; : &lt;a href="http://django-rest-framework.org/"&gt;Django REST Framework&lt;/a&gt; (API)&lt;/li&gt;
+&lt;li&gt;L'altérateur de l'Escuelle : &lt;a href="http://south.aeracode.org/"&gt;South&lt;/a&gt; (DB)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_13"&gt;Mezzanine&lt;/h3&gt;
+
+&lt;p&gt;Mezzanine est un &lt;a href="http://fr.wikipedia.org/wiki/Système de gestion de contenu" title="Définition Wikipédia"&gt;Système de gestion de contenu&lt;/a&gt; (Content Management System ou CMS) distribué sous licence BSD. Basé sur Django, il se veut être une alternative à Wordpress.  Il fournit un CMS complet qui peut être déployé sans écrire une seule ligne de code. Il propose de nombreuses fonctionnalités, telles que : &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;navigation hiérarchique&lt;/li&gt;
+&lt;li&gt;une interface d'administration complète (édition des pages, gestion des redirections, des médias, des formulaires)&lt;/li&gt;
+&lt;li&gt;éditeur WYSISWYG (via TinyMCE, remplaçable par du Markdown)&lt;/li&gt;
+&lt;li&gt;moteur de blog&lt;/li&gt;
+&lt;li&gt;gestion des tags&lt;/li&gt;
+&lt;li&gt;intégration avec plusieurs services externes (Disqus, Gravatar,
+Twitter, bit.ly, Askimet&amp;#8230;)&lt;/li&gt;
+&lt;li&gt;une boutique en ligne &lt;a href="http://cartridge.jupo.org/"&gt;Cartridge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mezzanine.jupo.org/docs/overview.html#features"&gt;et beaucoup d'autres fonctionnalités&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Ces fonctionnalités sont intégrées de manière cohérente. Par exemple, le thème par défaut (basé sur Twitter Bootstrap) active le service de commentaires Disqus si celui-ci est configuré. Si Mezzanine propose un CMS complet, il reste facilement personnalisable. Les &lt;em&gt;templates&lt;/em&gt; sont plutôt bien découpés et il est assez simple d'intégrer ses propres modèles de pages.&lt;/p&gt;
+
+&lt;p&gt;Mezzanine est un bon choix pour les débutants qui veulent déployer un CMS tout en découvrant Django. &lt;/p&gt;
+
+&lt;p&gt;La version 1.4.3 est sortie le 27 février et est compatible avec Django 1.5. &lt;/p&gt;
+&lt;h3 id="toc_14"&gt;Django REST Framework&lt;/h3&gt;
+
+&lt;p&gt;Dans ce joli monde des frameworks Javascript la nécéssité de représenter ses modèles via une interface CRUD devient de plus en plus impérative. Plusieurs applications Django existent dans ce sens comme :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://tastypieapi.org/"&gt;Tastypie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://django-rest-framework.org/"&gt;Django REST Framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Ce dernier à l'avantage de possèder une syntaxe se rapprochant du système de vues objet naturel de Django &lt;a href="https://docs.djangoproject.com/en/1.5/topics/class-based-views/"&gt;Class based views&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;La jolie n'image présente en page d'accueil du site de Django REST Framework est la représentation en HTML de l'API. Toute requête sur la même url avec par exemple le content-type application/json ou le paramètre &lt;code&gt;format=json&lt;/code&gt; l'affichera en &lt;code&gt;JSON&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pour reprendre l'exemple voici ce que donnerai l'exposition du modèle &lt;code&gt;User&lt;/code&gt; de base de Django : Tout d'abord, on configure un serialiseur qui s'occupera de déterminer comment traiter les données :&lt;/p&gt;
+
+&lt;p&gt;
+&lt;code&gt;testapp/serializers.py&lt;/code&gt;
+&lt;/p&gt;
+&lt;pre&gt;
+&lt;code class="python"&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;rest_framework&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;serializers&lt;/span&gt;
+
+&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;UserSerializer&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;serializers&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;ModelSerializer&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;Meta&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;User&lt;/span&gt;
+        &lt;span class="n"&gt;fields&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;'url'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;'username'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;'email'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;p&gt;Une vue pour présenter ces données :&lt;/p&gt;
+
+&lt;p&gt;
+&lt;code&gt;testapp/views.py&lt;/code&gt;
+&lt;/p&gt;
+&lt;pre&gt;
+&lt;code class="python"&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;django.contrib.auth.models&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;User&lt;/span&gt;
+&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;testapp.serializers&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;UserSerializer&lt;/span&gt;
+&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;rest_framework&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;generics&lt;/span&gt;
+
+&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;UserList&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;generics&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;ListCreateAPIView&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;User&lt;/span&gt;
+    &lt;span class="n"&gt;serializer_class&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;UserSerializer&lt;/span&gt;
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;p&gt;Et enfin les urls associées : &lt;/p&gt;
+
+&lt;p&gt;
+&lt;code&gt;testapp/urls.py&lt;/code&gt;
+&lt;/p&gt;
+&lt;pre&gt;
+&lt;code class="python"&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;django.conf.urls&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;patterns&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;url&lt;/span&gt;
+&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;rest_framework.urlpatterns&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;format_suffix_patterns&lt;/span&gt;
+&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;testapp&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;views&lt;/span&gt;
+
+&lt;span class="n"&gt;urlpatterns&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;patterns&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;''&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+    &lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;r'^users/$'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;views&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;UserList&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;as_view&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt; &lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;'user-list'&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+    &lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;r'^users/(?P&amp;lt;pk&amp;gt;[0-9]+)/$'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;views&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;UserDetail&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;as_view&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt; &lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;'user-detail'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;p&gt;Pour jouer avec vous avez un joli &lt;a href="http://restframework.herokuapp.com/"&gt;bac à sable&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="toc_15"&gt;south&lt;/h3&gt;
+
+&lt;p&gt;South est une application qui se révèle rapidement indispensable puisqu'elle apporte la gestion des migrations des bases de données.&lt;/p&gt;
+
+&lt;p&gt;La dernière version de south (0.7.6) est en grande partie compatible avec Django 1.5 à l'exception de :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;la prise en charge des index multi-colonnes &lt;a href="http://south.aeracode.org/ticket/1217"&gt;ticket correspondant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;le changement simple du modèle User (voir &lt;a href="https://groups.google.com/forum/?fromgroups=#!topic/south-users/CTpNthRf9Kc"&gt;cette discussion&lt;/a&gt; sur les problèmes à résoudre) &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Vous pouvez éditer ce paragraphe en cliquant sur le crayon&lt;/p&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/retour-sur-django-1-5#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Johan Charpentier</name>
+    </author>
+    <author>
+      <name>redgriff</name>
+    </author>
+    <author>
+      <name>Nÿco</name>
+    </author>
+    <author>
+      <name>Atem18</name>
+    </author>
+    <author>
+      <name>Xavier Claude</name>
+    </author>
+    <author>
+      <name>RoPP</name>
+    </author>
+    <author>
+      <name>tuiu pol</name>
+    </author>
+    <author>
+      <name>jcr83</name>
+    </author>
+    <author>
+      <name>Thomas DEBESSE</name>
+    </author>
+    <category term="Python"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/96598/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34179</id>
+    <published>2013-05-05T20:56:43+02:00</published>
+    <updated>2013-05-05T20:56:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/les-journaux-linuxfr-org-les-mieux-notes-du-mois-d-avril-2013"/>
+    <title>Les journaux LinuxFr.org les mieux notés du mois d'avril 2013</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;LinuxFr.org propose des dépêches et articles, soumis par tout un chacun, puis revus et corrigés par l'équipe de modération avant publication. C'est la partie la plus visible de LinuxFr.org, ce sont les dépêches qui sont le plus lues et suivies, sur le site, via Atom/RSS, ou bien via partage par messagerie instantanée, par mail, ou encore via médias sociaux.&lt;/p&gt;
+
+&lt;p&gt;Ce que l&amp;#8217;on sait moins, c&amp;#8217;est que LinuxFr.org vous propose également à tous de tenir vos propres articles directement publiables, sans validation &lt;em&gt;a priori&lt;/em&gt; des modérateurs. Ceux-ci s'appellent des journaux. Voici un florilège d'un dizaine de ces journaux parmi les mieux notés par les utilisateurs&amp;#8230; qui notent. Lumière sur ceux du mois d'avril passé.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://linuxfr.org/users/bjacob/journaux/la-strategie-de-mozilla-pour-les-jeux-video-sur-le-web-ouvert"&gt;La stratégie de Mozilla pour les jeux vidéo sur le Web ouvert&lt;/a&gt; par Benoit Jacob&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/users/crev/journaux/to-comment-or-not-to-comment-that-is-the-question"&gt;To comment or not to comment. That is the question&lt;/a&gt; par CrEv&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/users/moules/journaux/administrateur-wikipedia-sous-pression-de-la-dcri"&gt;Administrateur Wikipédia sous pression de la DCRI&lt;/a&gt; par moules&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/users/cedness0/journaux/comment-les-gens-percoivent-la-gratuite-dans-l-informatique"&gt;Comment les gens perçoivent la gratuité dans l'informatique ?&lt;/a&gt; par Cedness&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/users/gnumdk/journaux/openshot-abandonne-gtk"&gt;OpenShot abandonne Gtk+&amp;#8230;&lt;/a&gt; par gnumdk&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/users/neozahikel/journaux/privateur"&gt;Privateur&amp;#8230;&lt;/a&gt; par Neozahikel&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/users/serge_ss_paille/journaux/avec-pythran-numpy-file-comme-le-vent"&gt;avec Pythran, Numpy file comme le vent&lt;/a&gt; par serge_sans_paille&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/users/sygne/journaux/utroff-est-publie"&gt;Utroff est publié&lt;/a&gt; par Sygne&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/users/dgellow/journaux/bookmark-don-t-copy-paste-me"&gt;Bookmark : Don't copy paste me !&lt;/a&gt; par Sam E.&amp;#8239;;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/users/case42/journaux/bookmark-ca-bouge"&gt;[Bookmark] Ça bouge&amp;#8230;&lt;/a&gt; par case42.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86233" hreflang="fr" title="http://linuxfr.org/redaction"&gt; Participez à l&amp;#x27;écriture d&amp;#x27;un article &lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86234" hreflang="fr" title="http://linuxfr.org/journaux/nouveau"&gt;Écrivez votre journal &lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°3 : &lt;a href="http://linuxfr.org/redirect/86235" hreflang="fr" title="http://linuxfr.org/news/nouveau"&gt; Proposez une dépêche &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/les-journaux-linuxfr-org-les-mieux-notes-du-mois-d-avril-2013#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Florent Zara</name>
+    </author>
+    <category term="LinuxFr.org"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98214/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34178</id>
+    <published>2013-05-05T17:55:53+02:00</published>
+    <updated>2013-05-05T17:55:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/maison-du-libre-de-brest-un-echec-qui-reussit"/>
+    <title>Maison du libre de Brest : un échec qui réussit</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;En 2004, l'April lançait le projet de maison du libre, dont l'idée de base était de « créer un pôle associatif et espace citoyen d&amp;#8217;appropriation du numérique autour du logiciel libre sur Paris ; regrouper différentes associations qui œuvrent à une appropriation sociale et démocratique de la société de l&amp;#8217;information, pour croiser leurs savoir-faire, promouvoir un usage collectif et militant des TIC et ouvrir un espace d&amp;#8217;expression citoyenne appuyé sur le multimédia pour l&amp;#8217;accueil du public ». Ce projet n'a pas beaucoup évolué même s'il n'est pas abandonné, mais il a su inspirer la communauté brestoise : ainsi en 2010 naissait la maison du libre de Brest (dite MDL29), association regroupant diverses associations œuvrant directement ou indirectement pour le libre.&lt;/p&gt;
+
+&lt;p&gt;Cependant, en 2013, la MDL29 décide de mettre fin à ce projet. Il y a certes un échec de celui-ci, mais cela n'est qu'une conséquence de la réussite de l'association : celle-ci est devenue un GULL (groupe d'utilisateurs de logiciels libres) très actif, et même plus actif dans le domaine de la promotion du libre que l'ensemble des associations qui faisaient partie de la maison du libre. Il a donc été décidé de faire évoluer l'objet de l'association pour ne plus regrouper les associations du libre mais pour remplacer les GULL locaux tout en laissant vivre les autres associations à côté.&lt;/p&gt;
+
+&lt;p&gt;Le titre de première maison du libre est donc remis en jeu, à vous de faire vivre la communauté de votre région pour porter haut les couleurs de cette belle idée !&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86229" hreflang="fr" title="http://wiki.april.org/w/Maison_du_Libre"&gt;Maison du libre sur le wiki de l&amp;#x27;april&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86230" hreflang="fr" title="http://www.april.org/groupes/mdl/"&gt;Groupe de travail maison du libre à l&amp;#x27;april&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°3 : &lt;a href="http://linuxfr.org/redirect/86231" hreflang="fr" title="http://mdl29.net/"&gt;MDL 29&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/maison-du-libre-de-brest-un-echec-qui-reussit#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Denis Dordoigne</name>
+    </author>
+    <author>
+      <name>Benoît Sibaud</name>
+    </author>
+    <category term="Communauté"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98211/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/33875</id>
+    <published>2013-05-05T07:37:54+02:00</published>
+    <updated>2013-05-05T08:27:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/debian-episode-vii"/>
+    <title>Debian : Épisode VII</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;La version 7.0 de la distribution GNU/Linux &lt;a href="http://fr.wikipedia.org/wiki/Debian" title="Définition Wikipédia"&gt;Debian&lt;/a&gt; est sortie aujourd'hui. Elle a pour nom de code : &lt;a href="http://pixar.wikia.com/Wheezy"&gt;Wheezy&lt;/a&gt; (le &lt;a href="http://fr.wikipedia.org/wiki/manchot" title="Définition Wikipédia"&gt;manchot&lt;/a&gt; en caoutchouc avec un &lt;a href="http://fr.wikipedia.org/wiki/nœud papillon" title="Définition Wikipédia"&gt;nœud papillon&lt;/a&gt; rouge dans &lt;a href="http://fr.wikipedia.org/wiki/Toy Story 2" title="Définition Wikipédia"&gt;Toy Story 2&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Debian est l'une des distributions GNU/Linux les plus anciennes encore actives. Elle se veut adaptée au plus grand nombre et se nomme elle-même « le système d'exploitation universel ». Elle est aussi réputée pour sa stabilité, notamment car elle n'est pas publiée à une date fixe, mais quand elle est prête.&lt;/p&gt;
+
+&lt;p&gt;Elle propose aussi un nombre très important de paquets (plus de 48 000 paquets binaires dans Wheezy). Ainsi, cette distribution peut être utilisée dans de nombreux domaines d'application (bureautique, multimédia, sciences, serveur, développement, etc). Enfin, plus de &lt;a href="http://wiki.debian.org/fr/Derivatives"&gt;120 distributions&lt;/a&gt; sont (ou ont été) &lt;a href="http://futurist.se/gldt/wp-content/uploads/12.10/gldt1210.png"&gt;issues de Debian&lt;/a&gt;. La plus célèbre étant Ubuntu, laquelle se synchronise toujours sur Debian pour ses nouvelles versions.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f7777772e64656269616e2e6f72672f6c6f676f732f6f70656e6c6f676f2d3130302e706e67/openlogo-100.png" alt="Debian" title="Source : http://www.debian.org/logos/openlogo-100.png" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;em&gt;Merci à &lt;a href="http://linuxfr.org/users/grayswandir"&gt;Sylvestre Ledru&lt;/a&gt;, &lt;a href="http://linuxfr.org/users/symoon"&gt;Symoon&lt;/a&gt;, &lt;a href="http://linuxfr.org/users/antistress"&gt;antistress&lt;/a&gt;, &lt;a href="http://linuxfr.org/users/jerome_misc"&gt;jerome_misc&lt;/a&gt;, &lt;a href="/users/andrianarivony"&gt;andrianarivony&lt;/a&gt;, &lt;a href="/users/nyco"&gt;Nÿco&lt;/a&gt; et &lt;a href="/users/jiehong"&gt;jiehong&lt;/a&gt; pour leur contribution.&lt;/em&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/85210" hreflang="fr" title="http://www.debian.org/releases/wheezy/amd64/release-notes/ch-whats-new.fr.html"&gt;Documentation des nouveautés&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/85401" hreflang="fr" title="http://www.debian.org/releases/wheezy/releasenotes"&gt;Notes de publication&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°3 : &lt;a href="http://linuxfr.org/redirect/85569" hreflang="en" title="http://wiki.debian.org/NewInWheezy"&gt;Wiki des nouveautés&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°4 : &lt;a href="http://linuxfr.org/redirect/85570" hreflang="fr" title="http://linuxfr.org/news/debian-60-squeeze-est-sortie"&gt;La dépêche de la version précédente&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°5 : &lt;a href="http://linuxfr.org/redirect/86198" hreflang="fr" title="http://www.debian.org/"&gt;Site officiel&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2 id="sommaire"&gt;Sommaire&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_0"&gt;Développement de la version&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_1"&gt;Cycle de vie de Debian/Wheezy&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_2"&gt;Mises à jour des principaux logiciels&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_3"&gt;Serveur&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_4"&gt;Bureau&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_5"&gt;Développement&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_6"&gt;Les nouveautés&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_7"&gt;Deux nouvelles architectures&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_8"&gt;Multiarchitecture&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_9"&gt;Système d'installation&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_10"&gt;Système de fichiers temporaire&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_11"&gt;En bref&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_12"&gt;Debian 8.0&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="toc_0"&gt;Développement de la version&lt;/h2&gt;
+
+&lt;p&gt;Le développement de cette version aura duré plus de deux ans.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f627567732e64656269616e2e6f72672f72656c656173652d637269746963616c2f67726170682e706e67/graph.png" alt="Statistiques des bugs Debian" title="Source : http://bugs.debian.org/release-critical/graph.png" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Le graphique représente le nombre de bugs critiques découverts au fil des années :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;en bleu : pour la version stable ;&lt;/li&gt;
+&lt;li&gt;en vert : pour la version de test ;&lt;/li&gt;
+&lt;li&gt;en rouge : pour toutes versions de Debian (stable, testing et unstable).&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_1"&gt;Cycle de vie de Debian/Wheezy&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;septembre 2010 : le nom de code de la version est annoncé : &lt;a href="http://lists.debian.org/debian-devel-announce/2010/09/msg00000.html"&gt;cela sera Wheezy&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;février 2011 : la version précédente, Squeeze, est sortie. Le développement de Wheezy est officiellement démarré ;&lt;/li&gt;
+&lt;li&gt;fin janvier 2012 : &lt;a href="http://lists.debian.org/debian-devel-announce/2012/01/msg00012.html"&gt;le noyau Linux 3.2 est intégré à Wheezy&lt;/a&gt;. Ce noyau est choisi car il a un support à long-terme ;&lt;/li&gt;
+&lt;li&gt;mai 2012 : sortie de l'installer alpha 1 ;&lt;/li&gt;
+&lt;li&gt;fin Juin 2012 : &lt;a href="http://lists.debian.org/debian-devel-announce/2012/06/msg00009.html"&gt;les paquets sont maintenant gelés&lt;/a&gt; : il n'y a plus que des corrections de bugs ;&lt;/li&gt;
+&lt;li&gt;août 2012 : sortie de l'installeur beta 1 ;&lt;/li&gt;
+&lt;li&gt;septembre 2012 : sortie de l'installeur beta 2 ;&lt;/li&gt;
+&lt;li&gt;octobre 2012 : sortie de l'installeur beta 3 ;&lt;/li&gt;
+&lt;li&gt;fin novembre 2012 : sortie de l'installeur beta 4 ;&lt;/li&gt;
+&lt;li&gt;mi février 2013 : &lt;a href="http://linuxfr.org/news/premiere-rc-de-l-installeur-de-debian-7-0-wheezy"&gt;sortie de l'installeur rc1&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;mi mars 2013 : &lt;a href="http://www.debian.org/News/2013/20130320"&gt;ajout des dépôts de rétroportages (ou plus connu sous le nom de backports)&lt;/a&gt; pour pouvoir mixer stabilité et nouveaux logiciels ;&lt;/li&gt;
+&lt;li&gt;mi avril 2013 : la sortie de la version finale est prévue pour &lt;a href="http://lists.debian.org/debian-devel-announce/2013/04/msg00006.html"&gt;le premier weekend de mai&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;fin avril 2013 : &lt;a href="http://lists.debian.org/debian-devel-announce/2013/04/msg00011.html"&gt;sortie de l'installeur rc2&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_2"&gt;Mises à jour des principaux logiciels&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://linuxfr.org/news/le-noyau-linux-3-2-est-disponible"&gt;Linux 3.2&lt;/a&gt; (sortie en janvier 2012) ;&lt;/li&gt;
+&lt;li&gt;La bibliothèque C (glibc 2.13).&lt;/li&gt;
+&lt;/ul&gt;&lt;h4 id="toc_3"&gt;Serveur&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://linuxfr.org/news/sortie-d-openssh-6-0"&gt;OpenSSH 6.0p1&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;Apache 2.2.22 ;&lt;/li&gt;
+&lt;li&gt;lighttpd 1.4.31 ;&lt;/li&gt;
+&lt;li&gt;nginx 1.2.1 ;&lt;/li&gt;
+&lt;li&gt;DNS Bind 9.8.1 ;&lt;/li&gt;
+&lt;li&gt;MTA 0.68.2 ;&lt;/li&gt;
+&lt;li&gt;Exim 4.80 ;&lt;/li&gt;
+&lt;li&gt;Postfix 2.9.3 ;&lt;/li&gt;
+&lt;li&gt;MySQL 5.5.24 ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/news/postgresql-91"&gt;PostgreSQL 9.1.4&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;sqlite 3.7.13.&lt;/li&gt;
+&lt;/ul&gt;&lt;h4 id="toc_4"&gt;Bureau&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.x.org/wiki/Releases/7.7"&gt;X.Org 7.7&lt;/a&gt; (sortie juin 2012) ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/news/gnome-3-4-l-emergence-des-applications"&gt;GNOME 3.4&lt;/a&gt; (sortie fin mars 2012) ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/news/kde-sc-4-8-est-disponible"&gt;KDE SC 4.8&lt;/a&gt; mais avec Kmail 1 (sortie fin janvier 2012) ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/news/xfce-48-est-l%C3%A0%E2%80%AF--2"&gt;Xfce 4.8&lt;/a&gt; (sortie janvier 2011) ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/news/firefox-10-est-sorti-accompagne-de-thunderbird-10-lightning-1-2-et-firefox-mobile-10"&gt;Iceweasel et Icedove 10 ESR&lt;/a&gt; (sortie en février 2012) ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/news/gimp-2-8-est-sorti-une-fenetre-unique"&gt;Gimp 2.8&lt;/a&gt; (sortie mai 2012) ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/news/libreoffice-3-5-est-disponible"&gt;LibreOffice 3.5.4&lt;/a&gt; (sortie en février 2012 qui remplace OpenOffice.Org).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;On peut remarquer deux petits couacs et apporter une précision. Deux couacs : la non-intégration de Kmail 2 et surtout de &lt;a href="//linuxfr.org/news/xfce-4-10-est-disponible"&gt;Xfce 4.10&lt;/a&gt; qui est pourtant sorti en avril 2012, donc avant le gel des paquets. Pour Xfce, &lt;a href="http://lionel.lefolgoc.net/blog/article89/status-of-xfce-in-debian-ubuntu"&gt;la principale raison évoquée&lt;/a&gt; est que la mise à jour de 4.6 (version de Debian 6) vers 4.10 n'est pas prise en charge. Quant à Kmail 2, s'il n'a pas été retenu c'est qu'il a fallu choisir entre une version 1.13.7 stable et bien testée, et une version 2 encore toute fraîche et ne disposant d'aucun outil fiable de migration au moment du gel. Les empaqueteurs ont cependant promis qu'une version récente serait fournie via les &lt;em&gt;backports&lt;/em&gt;. Une précision : GNOME Disk Utility, alias Palimpsest, est présent en version 3.0 seulement : &lt;a href="https://mail.gnome.org/archives/distributor-list/2012-January/msg00001.html"&gt;les versions suivantes reposent sur udisks2 au lieu de udisks&lt;/a&gt; et &lt;a href="http://web.archive.org/web/20121104043559/http://oskuro.net/blog/freesoftware/gnome-3.4-wheezy-2012-06-03-09-47"&gt;il a été décidé de conserver udisks qui est plus éprouvé et qui est également utilisé par KDE&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id="toc_5"&gt;Développement&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;Python &lt;a href="http://linuxfr.org/news/python-27"&gt;2.7.3&lt;/a&gt; et &lt;a href="http://linuxfr.org/news/python-32"&gt;3.2&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/news/sortie-de-ruby%C2%A0193"&gt;Ruby 1.9&lt;/a&gt; (mais Ruby 1.8 encore disponible jusqu'à la prochaine version) ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/news/sortie-de-php-5-4"&gt;PHP 5.4.4&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxfr.org/news/sortie-de-la-version-4-7-du-compilateur-gcc"&gt;GCC 4.7.2&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="toc_6"&gt;Les nouveautés&lt;/h2&gt;
+&lt;h3 id="toc_7"&gt;Deux nouvelles architectures&lt;/h3&gt;
+
+&lt;p&gt;Pour la version précédente, Debian ne prenait pas en charge d'architectures supplémentaires. Mais la fondation avait tout de même créé la surprise en portant Debian avec un noyau FreeBSD. Cette fois-ci, &lt;a href="https://lists.debian.org/debian-devel-announce/2012/06/msg00003.html"&gt;deux nouvelles architectures&lt;/a&gt; sont maintenant de la partie :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;s390x : ordinateurs centraux IBM System z qui remplace s390 ;&lt;/li&gt;
+&lt;li&gt;armhf : alternative à armel pour les machines ARMv7 avec unité de calcul flottant.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Voici la liste des architectures officiellement prises en charge par Debian Wheezy :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;PC 32 bits (« i386 ») ;&lt;/li&gt;
+&lt;li&gt;PC 64 bits (« amd64 ») ;&lt;/li&gt;
+&lt;li&gt;SPARC (« sparc ») ;&lt;/li&gt;
+&lt;li&gt;PowerPC (« powerpc ») ;&lt;/li&gt;
+&lt;li&gt;MIPS (« mips » (gros-boutiste &amp;#8212; big endian en anglais) et « mipsel » (petit-boutiste &amp;#8212; little endian en anglais)) ;&lt;/li&gt;
+&lt;li&gt;Intel Itanium (« ia64 ») ;&lt;/li&gt;
+&lt;li&gt;S/390 (« s390 ») ;&lt;/li&gt;
+&lt;li&gt;System z (« s390x ») ;&lt;/li&gt;
+&lt;li&gt;ARMv7 (ARM avec unité de calcul flottant, « armhf ») ;&lt;/li&gt;
+&lt;li&gt;ARM EABI (« armel »).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;À noter qu'un travail sur une architecture d'avant-garde est en cours en collaboration avec Ubuntu. &lt;a href="http://wiki.debian.org/Arm64Port"&gt;ARMv8 64 bits&lt;/a&gt; est une architecture qui n'existe pas matériellement. Il existe cependant un « simulateur » &lt;a href="http://www.linaro.org/engineering/armv8"&gt;disponible&lt;/a&gt;. Passer de 32 bits à 64 bits permettra d'améliorer principalement les performances des serveurs ARM. Voir aussi &lt;a href="http://linuxfr.org/news/sortie-du-noyau-linux-3-7#toc_11"&gt;la dépêche sur le noyau 3.7&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="toc_8"&gt;Multiarchitecture&lt;/h3&gt;
+
+&lt;p&gt;Une des nouveautés est la &lt;a href="http://wiki.debian.org/Multiarch/HOWTO"&gt;gestion de la multiarchitecture&lt;/a&gt; : installer sur une même machine des paquets venant d'architectures différentes. Le plus courant est évidemment le mélange entre une architecture AMD64 et i386. Mais cela n'est pas limité à ce dernier mélange. Cela peut être utile pour effectuer de la compilation croisée.&lt;/p&gt;
+
+&lt;p&gt;Avant, dans le cas d'architecture intel, pour installer des bibliothèques 32 bits sous Debian 64 bits, il fallait installer des metapaquets de bibliothèques 32 bits : ia32-libs et ia32-libs-gtk en général. Puis installer le logiciel (souvent privateur) en 32 bits.&lt;/p&gt;
+
+&lt;p&gt;Maintenant, il faut configurer les architectures à ajouter :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Pour dpkg :&lt;/li&gt;
+&lt;/ul&gt;&lt;pre&gt;
+&lt;code class=""&gt;dpkg --add-architecture &amp;lt;arch&amp;gt;
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;ul&gt;&lt;li&gt;Et on installe le paquet de l'architecture notre choix :&lt;/li&gt;
+&lt;/ul&gt;&lt;pre&gt;
+&lt;code class=""&gt;apt-get install package:&amp;lt;arch&amp;gt;
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;ul&gt;&lt;li&gt;exemple :&lt;/li&gt;
+&lt;/ul&gt;&lt;pre&gt;
+&lt;code class=""&gt; # dpkg --add-architecture i386
+ # apt-get update
+ # apt-get install links:i386
+Lecture des listes de paquets... Fait
+Construction de l'arbre des dépendances       
+Lecture des informations d'état... Fait
+Les paquets supplémentaires suivants seront installés : 
+  gcc-4.7-base:i386 libbz2-1.0:i386 libc6:i386 libc6-i686:i386 libgcc1:i386 libgpm2:i386 liblzma5:i386
+  libssl1.0.0:i386 zlib1g:i386
+Paquets suggérés :
+  glibc-doc:i386 locales:i386 gpm:i386
+Les NOUVEAUX paquets suivants seront installés :
+  gcc-4.7-base:i386 libbz2-1.0:i386 libc6:i386 libc6-i686:i386 libgcc1:i386 libgpm2:i386 liblzma5:i386
+  libssl1.0.0:i386 links:i386 zlib1g:i386
+0 mis à jour, 10 nouvellement installés, 0 à enlever et 63 non mis à jour.
+Il est nécessaire de prendre 9 301 ko dans les archives.
+Après cette opération, 20,9 Mo d'espace disque supplémentaires seront utilisés.
+Souhaitez-vous continuer [O/n] ?n
+ # dpkg --remove-architecture i386
+ # apt-get update
+ # apt-get install links:i386
+Lecture des listes de paquets... Fait
+Construction de l'arbre des dépendances       
+Lecture des informations d'état... Fait
+E: Impossible de trouver le paquet links
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;ul&gt;&lt;li&gt;Vous trouverez plus de renseignements &lt;a href="http://wiki.debian.org/Multiarch/HOWTO"&gt;par ici.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_9"&gt;Système d'installation&lt;/h3&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f7562756e74756f6e652e636f6d2f37353739577467704a35667942764847517558506f73/7579WtgpJ5fyBvHGQuXPos" alt="Système d'installation" title="Source : http://ubuntuone.com/7579WtgpJ5fyBvHGQuXPos" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Le système d'installation a été décrit dans &lt;a href="http://linuxfr.org/news/premiere-rc-de-l-installeur-de-debian-7-0-wheezy"&gt;une précédente dépêche&lt;/a&gt;.&lt;br /&gt;
+En voici un résumé :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Prise en charge de l'installation &lt;a href="http://fr.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface"&gt;UEFI&lt;/a&gt; sur 64 bits ;&lt;/li&gt;
+&lt;li&gt;Prise en charge du WPA ;&lt;/li&gt;
+&lt;li&gt;Prise en charge de logiciels de synthèse vocale.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="toc_10"&gt;Système de fichiers temporaire&lt;/h3&gt;
+
+&lt;p&gt;Un système de fichiers temporaire est un système de fichiers utilisant la mémoire vive, mémoire plus rapide que le disque dur mais volatile. Pour améliorer les performances de l'ordinateur, il est donc judicieux de mettre des fichiers qui sont utiles temporairement dans la mémoire vive.&lt;/p&gt;
+
+&lt;p&gt;/var/lock et /var/run sont maintenant montés dans un système de fichiers temporaire par défaut (alias &lt;em&gt;temporary file system&lt;/em&gt;, ou &lt;em&gt;tmpfs&lt;/em&gt; ; voir la spécification &lt;a href="http://wiki.debian.org/ReleaseGoals/RunDirectory"&gt;RunDirectory&lt;/a&gt;). Ces répertoires ont par ailleurs été centralisés dans le répertoire /run (configuration dans le fichier /etc/default/tmpfs) :&lt;/p&gt;
+&lt;pre&gt;
+&lt;code class=""&gt;$ mount | grep run
+tmpfs on /run type tmpfs (rw,nosuid,noexec,relatime,size=612344k,mode=755)
+tmpfs on /run/lock type tmpfs (rw,nosuid,nodev,noexec,relatime,size=5120k)
+tmpfs on /run/shm type tmpfs (rw,nosuid,nodev,noexec,relatime,size=2480920k)
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;ul&gt;&lt;li&gt;/run : répertoire où est stocké tous les fichiers (généralement .pid) de chaque processus contenant le numéro du processus (pid) ;&lt;/li&gt;
+&lt;li&gt;/run/lock : répertoire où sont stocké &lt;a href="http://www.linux-france.org/article/sys/fhs/fhs-5.5.html"&gt;les fichiers de verrous&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;/run/shm (SHared Memory) : répertoire où sont stocké les fichiers partagés entre processus.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Par soucis de compatibilité, des liens symboliques ont été créés :&lt;/p&gt;
+&lt;pre&gt;
+&lt;code class=""&gt;$ ls -l /var/lock /dev/shm /var/run 
+lrwxrwxrwx 1 root root 8 mars  21 14:42 /dev/shm -&amp;gt; /run/shm
+lrwxrwxrwx 1 root root 9 janv. 11 11:07 /var/lock -&amp;gt; /run/lock
+lrwxrwxrwx 1 root root 4 janv. 11 11:07 /var/run -&amp;gt; /run
+&lt;/code&gt;
+&lt;/pre&gt;&lt;h3 id="toc_11"&gt;En bref&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Le système de fichier Ext4 est installé par défaut (à la place d'Ext3) ;&lt;/li&gt;
+&lt;li&gt;Installation possible de &lt;a href="http://linuxfr.org/news/%C3%A9volutions-techniques-de-systemd"&gt;systemd&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;Installation possible d'un noyau temps réel (utile pour la &lt;a href="http://fr.wikipedia.org/wiki/Musique_assist%C3%A9e_par_ordinateur"&gt;MAO&lt;/a&gt; et les systèmes embarqués) ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lists.alioth.debian.org/pipermail/pkg-multimedia-maintainers/2011-December/023070.html"&gt;ffmpeg remplacé par le fork libav&lt;/a&gt; qui a un mode de développement plus conservateur, plus proche de la philosophie de Debian ;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ekaia.org/blog/2011/02/07/post-and-pre-release-fun/"&gt;suppression de bibliothèques comme Qt3&lt;/a&gt;
+qui n'est plus du tout maintenue par Trolltech/Digia depuis au moins 3 ans ;&lt;/li&gt;
+&lt;li&gt;Sur de nombreux paquets, des &lt;a href="http://wiki.debian.org/Hardening"&gt;options de compilation&lt;/a&gt; orientées sécurité ont été activées. Elles visent à déléguer au compilateur la suppression automatique d'un certain nombre de failles courantes (stack protector, fortify sources, etc.) ;&lt;/li&gt;
+&lt;li&gt;Travail sur le fait d'avoir Debian agnostique du compilateur. Debian pourra à l'avenir être compilable aussi bien avec GCC qu'avec LLVM/Clang (Voir aussi &lt;a href="http://clang.debian.net/"&gt;ici&lt;/a&gt; ou &lt;a href="https://fosdem.org/2013/schedule/event/debian_clang/"&gt;là&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Le thème graphique &lt;a href="http://wiki.debian.org/DebianArt/Themes/Joy"&gt;Joy&lt;/a&gt; a été &lt;a href="http://lists.debian.org/debian-desktop/2012/06/msg00015.html"&gt;choisi&lt;/a&gt; à l'issue d'&lt;a href="http://wiki.debian.org/DebianDesktop/Artwork/Wheezy"&gt;un concours&lt;/a&gt;, et remplace le thème &lt;em&gt;SpaceFun&lt;/em&gt; de Squeeze.&lt;/p&gt;
+&lt;h2 id="toc_12"&gt;Debian 8.0&lt;/h2&gt;
+
+&lt;p&gt;Le nom de code de Debian 8.0 a déjà été dévoilé fin juillet : ce sera &lt;a href="https://lists.debian.org/debian-devel-announce/2012/07/msg00004.html"&gt;Jessie&lt;/a&gt;. Elle sortira très probablement dans deux ans, c'est-à-dire au premier ou au deuxième trimestre 2015. Il peut être intéressant de regarder ce qu'il se passe au niveau du &lt;a href="http://wiki.debian.org/SummerOfCode2012/Projects"&gt;Google Summer Of Code 2012&lt;/a&gt; et &lt;a href="http://wiki.debian.org/SummerOfCode2013/Projects"&gt;2013&lt;/a&gt; pour voir les prochaines tendances.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Aura-t-on un autre système de démarrage qu'init ?&lt;/li&gt;
+&lt;li&gt;Aura-t-on un autre système d'affichage qu'X.Org ?&lt;/li&gt;
+&lt;li&gt;Aura-t-on des paquets construits avec autre chose que GCC ?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Vous le saurez dans le prochain épisode.&lt;/p&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/debian-episode-vii#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Jarvis</name>
+    </author>
+    <author>
+      <name>Jiehong</name>
+    </author>
+    <author>
+      <name>j</name>
+    </author>
+    <author>
+      <name>symoon</name>
+    </author>
+    <author>
+      <name>Sylvestre Ledru</name>
+    </author>
+    <author>
+      <name>Nÿco</name>
+    </author>
+    <author>
+      <name>antistress</name>
+    </author>
+    <author>
+      <name>thomasv</name>
+    </author>
+    <author>
+      <name>ZeroHeure</name>
+    </author>
+    <author>
+      <name>alpentux</name>
+    </author>
+    <author>
+      <name>Benoît Sibaud</name>
+    </author>
+    <author>
+      <name>tuxicoman</name>
+    </author>
+    <author>
+      <name>jihele</name>
+    </author>
+    <author>
+      <name>patrick_g</name>
+    </author>
+    <author>
+      <name>etbim</name>
+    </author>
+    <author>
+      <name>Kwiknclean</name>
+    </author>
+    <author>
+      <name>NeoX</name>
+    </author>
+    <author>
+      <name>Christophe Guilloux</name>
+    </author>
+    <author>
+      <name>Gauthier Monserand</name>
+    </author>
+    <author>
+      <name>Nicolas Casanova</name>
+    </author>
+    <author>
+      <name>Xavier Claude</name>
+    </author>
+    <author>
+      <name>TBTB</name>
+    </author>
+    <category term="Debian"/>
+    <category term="debian"/>
+    <category term="hfi"/>
+    <category term="7"/>
+    <category term="admin"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/97375/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34175</id>
+    <published>2013-05-04T19:56:28+02:00</published>
+    <updated>2013-05-04T19:56:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/programmez-votre-raspberry-pi-depuis-le-confort-de-votre-navigateur-web-et-en-javascript"/>
+    <title>Programmez votre Raspberry Pi depuis le confort de votre navigateur Web - et en JavaScript!</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;Nous sommes de plus en plus nombreux à avoir envie d'expérimenter avec des projets hardware. Le Raspberry Pi s'est imposé en un an comme une excellente plateforme, très peu chére et facile d'accès. Il est très bien adapté aux projets « connectés » puisque le modèle B intègre en standard un port Ethernet et qu'un dongle Wifi coûte moins de 10 euros.&lt;/p&gt;
+
+&lt;p&gt;Pourtant, développer sur Raspberry Pi est plus compliqué que de développer pour le Web ou pour Arduino : on développe en général sur sa propre machine, on transfère les sources sur le Raspberry Pi, on teste avant de revenir sur sa machine pour corriger et re-pousser le code. De plus, il faut trouver un moyen sûr de relancer son programme à chaque re-démarrage du Raspberry Pi.&lt;/p&gt;
+
+&lt;p&gt;Partant du constat que beaucoup d'utilisateurs du Raspberry Pi finissent par ne pas en faire grand chose, par manque d'outils adaptés, &lt;a href="http://twitter.com/sarfata"&gt;@sarfata&lt;/a&gt; a développé &lt;a href="http://pijs.io"&gt;pijs.io&lt;/a&gt;, un service Web pour piloter et programmer son Raspberry Pi en ligne. Le seul langage supporté pour l'instant est JavaScript mais d'autres pourront être ajoutés plus tard. &lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86203" hreflang="en" title="http://pijs.io"&gt;Le service pijs.io&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86204" hreflang="en" title="http://www.tbideas.com/blog/2013/04/NodeJS-Raspberry-Pi-The-easy-way/"&gt;Présentation de pijs.io&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°3 : &lt;a href="http://linuxfr.org/redirect/86205" hreflang="en" title="https://github.com/tbideas/asteroid"&gt;Code source de pijs.io (JS + framework Meteor)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°4 : &lt;a href="http://linuxfr.org/redirect/86206" hreflang="en" title="http://www.meteor.com"&gt;Le framework Meteor&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h4 id="toc_0"&gt;Installation&lt;/h4&gt;
+
+&lt;p&gt;Pour fonctionner, pijs nécessite l'installation d'un client (&lt;a href="https://github.com/tbideas/pi-steroid/"&gt;pi-steroid&lt;/a&gt;) sur le Raspberry Pi. L'installation est très simple, il suffit d'exécuter la commande : &lt;/p&gt;
+&lt;pre&gt;
+&lt;code class=""&gt;curl http://pijs.io/install-pijs.sh |bash
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f7777772e746269646561732e636f6d2f626c6f672f696d672f70696a732d696e7374616c6c2e706e67/pijs-install.png" alt="Installation de pijs sur le Raspberry Pi" title="Source : http://www.tbideas.com/blog/img/pijs-install.png" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Puis de se connecter sur l'interface Web pour enregistrer ce Raspberry Pi.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f7777772e746269646561732e636f6d2f626c6f672f696d672f70696a732d636f6e6e656374322e706e67/pijs-connect2.png" alt="Ajout d'un Raspberry Pi dans l'interface Web" title="Source : http://www.tbideas.com/blog/img/pijs-connect2.png" /&gt;
+&lt;/p&gt;
+&lt;h4 id="toc_1"&gt;Utilisation&lt;/h4&gt;
+
+&lt;p&gt;Un éditeur en ligne permet d'écrire du code qui est immédiatement transféré et exécuté sur le Raspberry Pi. Bien sûr, une console permet de débugger son programme et de suivre en temps réel le déroulement du script.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="//img.linuxfr.org/img/687474703a2f2f7777772e746269646561732e636f6d2f626c6f672f696d672f70696a732d656469746f722e706e67/pijs-editor.png" alt="Titre de l'image" title="Source : http://www.tbideas.com/blog/img/pijs-editor.png" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;La première version est pleinement fonctionnelle et peut être utilisée par exemple pour récolter des données via USB et les transmettre vers le Web, pour réagir (son, lumière, servos) à des évènements dans votre « vie en ligne » ou encore pour faire le lien entre le monde réel et Internet! La documentation fournit déjà de nombreux examples et d'autres sont ajoutés fréquemment.&lt;/p&gt;
+&lt;h4 id="toc_2"&gt;Sources et Evolutions&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href="http://pijs.io"&gt;pijs.io&lt;/a&gt; est lui-même développé en JavaScript avec le framework &lt;a href="http://www.meteor.com"&gt;Meteor&lt;/a&gt; et est &lt;a href="https://github.com/tbideas/asteroid"&gt;entièrement disponible en open-source&lt;/a&gt;. L'auteur est à la recherche de nouveaux utilisateurs, et à l'écoute de leurs idées et envies !&lt;/p&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/programmez-votre-raspberry-pi-depuis-le-confort-de-votre-navigateur-web-et-en-javascript#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Pierre Jarillon</name>
+    </author>
+    <author>
+      <name>Xavier Claude</name>
+    </author>
+    <author>
+      <name>Benoît Sibaud</name>
+    </author>
+    <category term="Matériel"/>
+    <category term="concours_embarqué_201304"/>
+    <category term="raspberrypi"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98204/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34174</id>
+    <published>2013-05-04T19:03:45+02:00</published>
+    <updated>2013-05-04T19:03:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/mons-le-16-mai-qui-contribue-a-wikipedia-et-pourquoi"/>
+    <title>Mons, le 16 mai : Qui contribue à Wikipédia, et pourquoi ?</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;Ce jeudi 16 mai 2013 à 19h se déroulera la dix-neuvième séance montoise des Jeudis du Libre de Belgique. Le sujet de cette séance : &lt;strong&gt;Qui contribue à Wikipédia, et pourquoi ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thématique : &lt;strong&gt;Internet|communauté&lt;/strong&gt; / Public : &lt;strong&gt;Tout public&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;L&amp;#8217;animateur conférencier&lt;/strong&gt; : Nicolas Jullien (LUSSI, &lt;a href="http://www.marsouin.org/"&gt;M@rsouin&lt;/a&gt;. Institut TELECOM Bretagne &amp;amp; UEB)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Information complémentaire&lt;/strong&gt; : Nicolas Jullien donnera également une &lt;a href="http://www.ig.fpms.ac.be/content/seminaire-infortech-Nicolas-Jullien"&gt;conférence dans le cadre du Séminaire InforTech à 17h00&lt;/a&gt;) (FPMS, rue de Houdain).&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86199" hreflang="fr" title="http://jeudisdulibre.be/2013/05/02/mons-le-16-mai-qui-contribue-a-wikipedia-et-pourquoi/"&gt;Jeudis du Libre Belgique&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86200" hreflang="fr" title="http://jeudisdulibre.fikket.com/"&gt;Inscription gratuite mais obligatoire&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°3 : &lt;a href="http://linuxfr.org/redirect/86201" hreflang="fr" title="http://www.openstreetmap.org/?mlat=50.4576&amp;amp;mlon=3.9555&amp;amp;zoom=18&amp;amp;layers=M"&gt;Plan OSM&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°4 : &lt;a href="http://linuxfr.org/redirect/86202" hreflang="fr" title="http://www.marsouin.org/"&gt;Nicolas Jullien, M@rsouin&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; : Wikipédia est sans doute aujourd&amp;#8217;hui l&amp;#8217;exemple le plus connu d&amp;#8217;une communauté ouverte, en ligne, qui autorise à chacun de contribuer pour améliorer le contenu des connaissances disponibles en ligne. Si tout le monde ne participe pas, comme dans d&amp;#8217;autres projets en ligne, on peut se demander qui sont les personnes qui participent et pourquoi elles participent.&lt;/p&gt;
+
+&lt;p&gt;Après une présentation générale de Wikipédia, et avant une discussion avec la salle, nous présenterons les résultats d&amp;#8217;une enquête menée auprès des contributeurs au projet Wikipédia-fr (Wikipédia en langue française).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Biographie courte de l&amp;#8217;auteur&lt;/strong&gt; : Enseignant-chercheur à Télécom Bretagne, Brest, Nicolas Jullien étudie les communautés en ligne (logiciel libre, encyclopédie, communautés professionnelles) depuis le début des années 2000. Il s&amp;#8217;intéresse aux raisons de participer à de telles communautés, aux différentes étapes dans la participation, à la façon dont les entreprises coopèrent avec les communautés, et au lien entre apprentissage communautaire et marché du travail.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lieu de cette séance&lt;/strong&gt; : Mundaneum, 76 rue de Nimy à 7000 Mons (cf. &lt;a href="http://www.openstreetmap.org/?mlat=50.4576&amp;amp;mlon=3.9555&amp;amp;zoom=18&amp;amp;layers=M"&gt;ce plan&lt;/a&gt; sur le site d'Openstreetmap)&lt;/p&gt;
+
+&lt;p&gt;La participation sera gratuite et ne nécessitera que votre inscription nominative, de préférence préalable, ou à l'entrée de la séance. Merci d'indiquer votre intention (même incertaine) en vous inscrivant via la page &lt;a href="http://jeudisdulibre.fikket.com/"&gt;http://jeudisdulibre.fikket.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cette séance sera suivie d'un verre de l'amitié, offert par &lt;a href="http://www.loligrub.be"&gt;l'A.S.B.L. LoLiGrUB&lt;/a&gt;, co-organisatrice des Jeudis du Libre.&lt;/p&gt;
+
+&lt;p&gt;Si vous êtes intéressé(e) par ce cycle mensuel, n&amp;#8217;hésitez pas à consulter &lt;a href="http://jeudisdulibre.be/grille-pour-mons/"&gt;l'agenda&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pour rappel, les Jeudis du Libre se veulent des rencontres autour de thématiques des Logiciels Libres. Les rencontres montoises se déroulent chaque troisième jeudi du mois, et sont organisées dans des locaux et en collaboration avec des Hautes Écoles et Facultés Universitaires du Pôle Hainuyer d'enseignement supérieur impliquées dans les formations d&amp;#8217;informaticiens (UMONS, HECFH et Condorcet), et avec le concours de l&amp;#8217;A.S.B.L. LoLiGrUB, active dans la promotion des logiciels libres.&lt;/p&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/mons-le-16-mai-qui-contribue-a-wikipedia-et-pourquoi#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Francois Bayart</name>
+    </author>
+    <author>
+      <name>Benoît Sibaud</name>
+    </author>
+    <category term="Communauté"/>
+    <category term="mons"/>
+    <category term="jeudisdulibre"/>
+    <category term="wikipedia"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98203/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34163</id>
+    <published>2013-05-03T23:34:23+02:00</published>
+    <updated>2013-05-05T13:17:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/etat-des-pilotes-graphiques-libres-pour-soc"/>
+    <title>État des pilotes graphiques libres pour SoC</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;Si les lecteurs de LinuxFr.org sont généralement bien au fait de l'état de prise en charge des puces graphiques de leur PC (Intel HD Graphics, AMD Radeon, NVIDIA GeForce) par les pilotes libres, il n'en est pas toujours de même s'agissant de la prise en charge des puces graphiques embarquées dans les &lt;a href="http://fr.wikipedia.org/wiki/SoC" title="Définition Wikipédia"&gt;SoC&lt;/a&gt; (« &lt;em&gt;System on Chip&lt;/em&gt; », système sur puce, contenant en général processeur, mémoire, stockage et périphériques).&lt;/p&gt;
+
+&lt;p&gt;Or ces SoC, principalement basés sur l'&lt;a href="http://fr.wikipedia.org/wiki/architecture ARM" title="Définition Wikipédia"&gt;architecture ARM&lt;/a&gt; actuellement. sont devenus omniprésents depuis l&amp;#8217;avènement des ordiphones et des tablettes, et le problème de l'existence ou non de pilotes libres devient de plus en plus aigu, spécialement si on souhaite pouvoir tourner une distribution GNU/Linux sur ces engins sans s'embêter.&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86167" hreflang="en" title="http://blog.emmanueldeloget.com/index.php?post/2013/01/12/Open-source-drivers-for-SoC-GPUs"&gt;Open source drivers for SoC GPUs - Emmanuel Deloget&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86168" hreflang="en" title="http://blog.emmanueldeloget.com/index.php?post/2013/03/08/The-SoC-GPU-driver-interview"&gt;The SoC GPU driver interview - Emmanuel Deloget &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2 id="sommaire"&gt;Sommaire&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_0"&gt;Panorama&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_1"&gt;PowerVR Series 5 (SGX) d'Imagination&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_2"&gt;VideoCore de Broadcom&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_3"&gt;GeForce ULP (Tegra) de NVIDIA&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_4"&gt;Mali d'ARM&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_5"&gt;Adreno de Qualcomm&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_6"&gt;Vivante de Vivante Corp&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_7"&gt;À venir : HD Graphics (Valley View) d'Intel&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_8"&gt;Remarques finales&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href="#toc_9"&gt;Quel cœur graphique privilégier dans l'optique d'un pilote libre ? Les quatre prétendants (bientôt cinq)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#toc_10"&gt;Pilote libre : merci qui ?&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="toc_0"&gt;Panorama&lt;/h2&gt;
+
+&lt;p&gt;Les SoC embarquent généralement l'une des puces graphiques suivantes :&lt;/p&gt;
+&lt;h3 id="toc_1"&gt;PowerVR Series 5 (SGX) d'Imagination&lt;/h3&gt;
+
+&lt;p&gt;Les &lt;a href="http://fr.wikipedia.org/wiki/PowerVR" title="Définition Wikipédia"&gt;PowerVR&lt;/a&gt; Series 5 (SGX) sont conçus par Imagination qui est réputé pour ne pas être enclin à l'ouverture (c'est un euphémisme)  : ni spécifications ni pilotes libres. &lt;/p&gt;
+
+&lt;p&gt;Ces cœurs graphiques se retrouvent notamment dans les SoC TI &lt;a href="http://fr.wikipedia.org/wiki/OMAP" title="Définition Wikipédia"&gt;OMAP&lt;/a&gt; 3 et 4 qui équipent respectivement les carte &lt;a href="http://fr.wikipedia.org/wiki/Beagleboard" title="Définition Wikipédia"&gt;Beagleboard&lt;/a&gt; et PandaBoard mais aussi en combinaison avec des processeurs &lt;a href="http://fr.wikipedia.org/wiki/x86" title="Définition Wikipédia"&gt;x86&lt;/a&gt; &lt;a href="http://fr.wikipedia.org/wiki/Intel_Atom" title="Définition Wikipédia"&gt;Atom&lt;/a&gt; dans &lt;a href="https://fr.wikipedia.org/wiki/Intel_GMA#Puces_produites_sous_licence_d.27Imagination_Technologies"&gt;certains chipsets Intel&lt;/a&gt;. À noter que les puces PowerVR équipent les iPhone d'Apple et sont donc largement répandues.&lt;/p&gt;
+
+&lt;p&gt;Compte tenu de l'architecture alambiquée de la puce, &lt;a href="http://blog.emmanueldeloget.com/index.php?post/2013/01/12/Open-source-drivers-for-SoC-GPUs#c2102"&gt;il est peu probable qu'un pilote libre voie le jour&lt;/a&gt; et ce, malgré &lt;a href="http://powervr.gnu.org.ve/doku.php"&gt;le souhait de la FSF&lt;/a&gt;. &lt;/p&gt;
+&lt;h3 id="toc_2"&gt;VideoCore de Broadcom&lt;/h3&gt;
+
+&lt;p&gt;Le &lt;a href="http://fr.wikipedia.org/wiki/VideoCore" title="Définition Wikipédia"&gt;VideoCore&lt;/a&gt; est conçu par &lt;a href="http://fr.wikipedia.org/wiki/Broadcom" title="Définition Wikipédia"&gt;Broadcom&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Il équipe le SoC ARM du &lt;a href="https://fr.wikipedia.org/wiki/Raspberry_Pi" title="Définition Wikipédia"&gt;Rapsberry Pi&lt;/a&gt; par exemple.&lt;/p&gt;
+
+&lt;p&gt;Malgré &lt;a href="http://www.raspberrypi.org/archives/2221"&gt;l'annonce&lt;/a&gt; qui en a été faite, Broadcom &lt;a href="http://airlied.livejournal.com/76383.html"&gt;ne&lt;/a&gt; &lt;a href="http://marc.info/?l=openbsd-misc&amp;amp;m=135109499020826&amp;amp;w=2"&gt;propose&lt;/a&gt; &lt;a href="http://www.raspberrypi.org/archives/2221#comment-35048"&gt;pas&lt;/a&gt; de pilote libre. Cependant, et &lt;a href="http://phoronix.com/forums/showthread.php?80092-The-State-Of-ARM-SoC-GPU-Linux-Drivers&amp;amp;p=327787#post327787"&gt;malgré l'architecture alambiquée de la puce&lt;/a&gt;, une initiative de pilote libre est actuellement menée par Herman H Hermitage : &lt;em&gt;&lt;a href="https://github.com/hermanhermitage/videocoreiv" title="videocoreiv sur GitHub"&gt;videocoreiv&lt;/a&gt;&lt;/em&gt;. Le projet en est à ses débuts (initialisation du cœur).&lt;/p&gt;
+&lt;h3 id="toc_3"&gt;GeForce ULP (Tegra) de NVIDIA&lt;/h3&gt;
+
+&lt;p&gt;Le GeForce ULP (pour &lt;em&gt;Ultra Low Power&lt;/em&gt;) est conçu par &lt;a href="http://fr.wikipedia.org/wiki/NVIDIA" title="Définition Wikipédia"&gt;NVIDIA&lt;/a&gt; dont il équipe les SoC ARM &lt;a href="http://fr.wikipedia.org/wiki/Tegra" title="Définition Wikipédia"&gt;Tegra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On retrouve le Tegra dans de nombreux appareils comme &lt;a href="http://fr.wikipedia.org/wiki/Samsung Galaxy Tab" title="Définition Wikipédia"&gt;Samsung Galaxy Tab&lt;/a&gt; 10.1, &lt;a href="http://fr.wikipedia.org/wiki/Microsoft Surface" title="Définition Wikipédia"&gt;Microsoft Surface&lt;/a&gt;, &lt;a href="http://fr.wikipedia.org/wiki/Nexus 7" title="Définition Wikipédia"&gt;Nexus 7&lt;/a&gt;, &lt;a href="http://fr.wikipedia.org/wiki/Ouya" title="Définition Wikipédia"&gt;Ouya&lt;/a&gt;&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;Un pilote libre 2D/3D est en cours de développement par &lt;a href="http://fr.wikipedia.org/wiki/rétro-ingénierie" title="Définition Wikipédia"&gt;rétro-ingénierie&lt;/a&gt; à l'initiative de Erik Faye-Lund alias kusma (&lt;a href="http://kusma.demoscene.no/"&gt;site web&lt;/a&gt;) et, exceptionnellement, &lt;a href="http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTM1MDQ"&gt;avec l'aide de NVIDIA&lt;/a&gt; : &lt;em&gt;&lt;a href="https://github.com/grate-driver" title="grate sur GitHub"&gt;grate&lt;/a&gt;&lt;/em&gt;. &lt;/p&gt;
+&lt;h3 id="toc_4"&gt;Mali d'ARM&lt;/h3&gt;
+
+&lt;p&gt;Les cœurs graphiques &lt;a href="http://fr.wikipedia.org/wiki/Mali_(GPU)" title="Définition Wikipédia"&gt;Mali&lt;/a&gt; sont conçus par &lt;a href="http://fr.wikipedia.org/wiki/ARM_%28soci%C3%A9t%C3%A9%29" title="Définition Wikipédia"&gt;ARM&lt;/a&gt; sur la base d'une technologie brevetée &lt;a href="http://www.arm.com/about/newsroom/25487.php"&gt;initialement développée et licenciée par Mediatek&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ils se retrouvent dans certains SoC &lt;a href="http://fr.wikipedia.org/wiki/Exynos" title="Définition Wikipédia"&gt;Exynos&lt;/a&gt; de Samsung (appareils &lt;a href="http://fr.wikipedia.org/wiki/Samsung Galaxy S II" title="Définition Wikipédia"&gt;Samsung Galaxy S II&lt;/a&gt;, &lt;a href="http://fr.wikipedia.org/wiki/ Samsung Galaxy Note 10.1" title="Définition Wikipédia"&gt; Samsung Galaxy Note 10.1&lt;/a&gt;, Samsung Galaxy Note 8.0, cartes Hardkernel O-DROID&amp;#8230;), les &lt;a href="http://fr.wikipedia.org/wiki/AllWinner_A1X" title="Définition Wikipédia"&gt;A1X&lt;/a&gt; de AllWinner Technology (tablettes à bas prix type Carrefour CMP4708T mais aussi carte &lt;a href="http://fr.wikipedia.org/wiki/Cubieboard" title="Définition Wikipédia"&gt;Cubieboard&lt;/a&gt;&amp;#8230;), certains SoC &lt;a href="http://fr.wikipedia.org/wiki/WonderMedia" title="Définition Wikipédia"&gt;WonderMedia&lt;/a&gt; de VIA, certains SoC &lt;a href="http://fr.wikipedia.org/wiki/AMLogic" title="Définition Wikipédia"&gt;AMLogic&lt;/a&gt; ou &lt;a href="http://fr.wikipedia.org/wiki/Rockchip" title="Définition Wikipédia"&gt;Rockchip&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;ARM n'a pas réalisé de pilote libre, mais un pilote 2D/3D libre &lt;a href="http://fr.wikipedia.org/wiki/Gallium3D" title="Définition Wikipédia"&gt;Gallium3D&lt;/a&gt; est activement développé, pour les modèles Mali 200 et Mali 400 pour commencer, par rétro-ingénierie sous l&amp;#8217;impulsion de la société Codethink (au sein de laquelle principalement Luc Verhaegen alias libv &amp;#8211; &lt;a href="http://libv.livejournal.com/"&gt;blogue&lt;/a&gt;) depuis début 2011 et est bien avancé : &lt;em&gt;&lt;a href="http://limadriver.org/" title="Site officiel"&gt;Lima&lt;/a&gt;&lt;/em&gt;. Les résultats sont encourageants et le pilote libre peut s'avérer plus rapide que son pendant non-libre au final.&lt;/p&gt;
+&lt;h3 id="toc_5"&gt;Adreno de Qualcomm&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://fr.wikipedia.org/wiki/Adreno" title="Définition Wikipédia"&gt;Adreno&lt;/a&gt; est conçu par &lt;a href="http://fr.wikipedia.org/wiki/Qualcomm" title="Définition Wikipédia"&gt;Qualcomm&lt;/a&gt; dont il équipe les SoC ARM &lt;a href="http://fr.wikipedia.org/wiki/Snapdragon" title="Définition Wikipédia"&gt;Snapdragon&lt;/a&gt;. Pour l'anecdote, la partie 3D est dérivée des puces Radeon d'AMD (dont Adreno est un anagramme).&lt;/p&gt;
+
+&lt;p&gt;On retrouve le Snapdragon dans de nombreux appareils comme  &lt;a href="http://fr.wikipedia.org/wiki/HTC Legend" title="Définition Wikipédia"&gt;HTC Legend&lt;/a&gt;, &lt;a href="http://fr.wikipedia.org/wiki/HTC Desire" title="Définition Wikipédia"&gt;HTC Desire&lt;/a&gt;, &lt;a href="http://fr.wikipedia.org/wiki/Nexus One" title="Définition Wikipédia"&gt;Nexus One&lt;/a&gt;, HP TouchPad, &lt;a href="http://fr.wikipedia.org/wiki/Sony_xperia" title="Définition Wikipédia"&gt;Sony Xperia&lt;/a&gt; E/T/J/Z, &lt;a href="http://fr.wikipedia.org/wiki/Nexus 4" title="Définition Wikipédia"&gt;Nexus 4&lt;/a&gt;, &lt;a href="http://fr.wikipedia.org/wiki/Nokia Lumia" title="Définition Wikipédia"&gt;Nokia Lumia&lt;/a&gt; 520/620/720/820/920, &lt;a href="http://fr.wikipedia.org/wiki/Samsung Galaxy S4" title="Définition Wikipédia"&gt;Samsung Galaxy S4&lt;/a&gt;&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;Qualcomm n'a pas réalisé de pilote libre, mais un pilote 2D/3D libre Gallium3D est activement développé par rétro-ingénierie notamment par Rob Clark (&lt;a href="http://bloggingthemonkey.blogspot.fr/"&gt;blogue&lt;/a&gt;), développeur actuellement chez Red Hat et &lt;a href="http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTMwMjA"&gt;précédemment chez Texas Instrument&lt;/a&gt;, sur son temps libre : &lt;em&gt;&lt;a href="https://github.com/freedreno/freedreno" title="freedreno sur GitHub"&gt;freedreno&lt;/a&gt;&lt;/em&gt;. Le projet semble bien avancer et concerne tant les a2xx que les a3xx.&lt;/p&gt;
+&lt;h3 id="toc_6"&gt;Vivante de Vivante Corp&lt;/h3&gt;
+
+&lt;p&gt;Le cœur graphique Vivante est conçu par &lt;a href="http://fr.wikipedia.org/wiki/Vivante_corporation" title="Définition Wikipédia"&gt;Vivante Corp&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Il est largement répandu et se retrouve par exemple dans de nombreux SoC &lt;a href="http://fr.wikipedia.org/wiki/Marvell" title="Définition Wikipédia"&gt;Marvell&lt;/a&gt; (&lt;a href="http://fr.wikipedia.org/wiki/Cubox" title="Définition Wikipédia"&gt;Cubox&lt;/a&gt;&amp;#8230;), la série &lt;a href="http://fr.wikipedia.org/wiki/i.MX" title="Définition Wikipédia"&gt;i.MX&lt;/a&gt;6 de Freescale ou le Rockchip RK2918.&lt;/p&gt;
+
+&lt;p&gt;Vivante Corp a publié un pilote libre partiel (la partie noyau seulement, sous licence GPL, mais rien concernant le pilote en espace utilisateur) qui est actuellement complété à l'initiative de Wladimir J. van der Laan (&lt;a href="https://blog.visucore.com/"&gt;blogue&lt;/a&gt;) qui travaille sur un pilote Gallium3D : &lt;a href="https://github.com/laanwj/etna_viv" title="etna_viv sur GitHub"&gt;&lt;em&gt;etna_viv&lt;/em&gt;&lt;/a&gt;. Le travail pour les GC600/800 semble bien avancer, et celui sur GC880 ne serait pas loin. Le travail sur GC2000 viendrait plus tard.&lt;/p&gt;
+&lt;h3 id="toc_7"&gt;À venir : HD Graphics (Valley View) d'Intel&lt;/h3&gt;
+
+&lt;p&gt;Vous aurez remarqué que ce panorama de SoC est jusqu'ici très largement dominé par l'architecture ARM &amp;#8211; ce qui n'est pas une nouveauté, Intel s'étant engagé tardivement dans la course à la consommation électrique. &lt;/p&gt;
+
+&lt;p&gt;Intel a fini par annoncer Valley View, un SoC à base de processeur Atom (architecture x86) qui utilisera pour la première fois une solution graphique propre puisqu'il s'agira d'un cœur &lt;a href="http://fr.wikipedia.org/wiki/HD Graphics" title="Définition Wikipédia"&gt;HD Graphics&lt;/a&gt; de septième génération (la même que celle que l'on trouve dans les actuels processeurs Ivy Bridge et les futurs Haswell) pour lequel le fondeur fournit directement un pilote libre.&lt;/p&gt;
+
+&lt;p&gt;La date de sortie de ce SoC n'est toutefois pas connue à ce jour.&lt;/p&gt;
+&lt;h2 id="toc_8"&gt;Remarques finales&lt;/h2&gt;
+&lt;h3 id="toc_9"&gt;Quel cœur graphique privilégier dans l'optique d'un pilote libre ? Les quatre prétendants (bientôt cinq)&lt;/h3&gt;
+
+&lt;p&gt;Si les cœurs graphiques PowerVR d'Imagination sont à fuir comme la peste, les GeForce ULP (Tegra), Mali (200/400), Adreno et Vivante sont à privilégier pour qui espère un pilote libre à court ou moyen terme (Adreno semblant faire la course en tête). Il n'est pas interdit d'imaginer un jour un pilote libre pour les VideoCore, mais l'architecture alambiquée de la puce &amp;#8211; tout comme celle des PowerVR &amp;#8211; incite à la prudence. &lt;/p&gt;
+
+&lt;p&gt;Enfin, une fois le SoC Valley View d'Intel sorti, on pourra l'ajouter à la liste qui totalisera ainsi cinq prétendants.&lt;/p&gt;
+&lt;h3 id="toc_10"&gt;Pilote libre : merci qui ?&lt;/h3&gt;
+
+&lt;p&gt;Il est regrettable de constater qu'à de rares exceptions près (Intel et, dans une moindre mesure, NVIDIA et Vivante Corp), les concepteurs de solutions graphiques pour SoC refusent (pour l'instant ?) de jouer le jeu de l'Open Source en libérant leurs pilotes ou, au moins, en publiant les spécifications de leur matériel (toutefois certains concepteurs peuvent ne pas avoir tous les droits sur leur technologie compte tenu des brevets tiers qu'ils peuvent exploiter sous licence). &lt;/p&gt;
+
+&lt;p&gt;Les pilotes libres en cours de développement le sont donc par des tiers qui pratiquent la rétro-ingénierie : sacrée perte de temps (cela dit, la lecture des brevets sur le matériel a parfois pu faire office de documentation en permettant aux développeurs de progresser dans leur travail de compréhension des mécanismes mis en œuvre par le matériel&amp;#8230;).&lt;/p&gt;
+
+&lt;p&gt;Et encore : les développeurs compétents dans ce domaine étant déjà employés par des sociétés travaillant sur certaines de ces solutions graphiques sous &lt;a href="http://fr.wikipedia.org/wiki/Accord de non-divulgation" title="Définition Wikipédia"&gt;accord de non-divulgation&lt;/a&gt;, ils ne peuvent écrire du code pour des pilotes libres concernant ces matériels. Du coup on assiste à un jeu de participations croisées : Luc Verhaegen alias libv et Rob Clark ne pouvant coder sur PowerVR, le premier se rabat alors sur Mali, &lt;a href="http://phoronix.com/forums/showthread.php?80092-The-State-Of-ARM-SoC-GPU-Linux-Drivers&amp;amp;p=327764#post327764"&gt;lequel Rob Clark ainsi que Erik Faye-Lund alias kusma ne pouvant de leur côté coder sur Mali, se rabattent respectivement sur Adreno et Tegra&lt;/a&gt;&amp;#8230;&lt;/p&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/etat-des-pilotes-graphiques-libres-pour-soc#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>antistress</name>
+    </author>
+    <author>
+      <name>Nÿco</name>
+    </author>
+    <author>
+      <name>Xavier Claude</name>
+    </author>
+    <author>
+      <name>karteum59</name>
+    </author>
+    <author>
+      <name>Benoît Sibaud</name>
+    </author>
+    <author>
+      <name>olivier esver</name>
+    </author>
+    <category term="X"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98164/comments.atom</wfw:commentRss>
+  </entry>
+  <entry>
+    <id>tag:linuxfr.org,2005:News/34170</id>
+    <published>2013-05-03T19:15:57+02:00</published>
+    <updated>2013-05-03T19:15:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://linuxfr.org/news/slimerjs-0-6"/>
+    <title>SlimerJS 0.6</title>
+    <rights>Licence CC by-sa http://creativecommons.org/licenses/by-sa/3.0/deed.fr</rights>
+    <content type="html">&lt;div&gt;&lt;p&gt;SlimerJS est un navigateur web « scriptable », utilisable en ligne de commande. Par le biais d'un script Javascript, il vous permet de charger une page, de « cliquer » dessus, de manipuler la page, d'en extraire des données, etc. SlimerJS est en fait un navigateur similaire à &lt;a href="http://phantomjs.org"&gt;PhantomJS&lt;/a&gt;, excepté qu'il est basé sur Gecko, le moteur de rendu de Firefox, au lieu de WebKit. Et il propose une API identique à celle de PhantomJS. Dans cette première version stable de SlimerJS, l&amp;#8217;implémentation de cette API n'est pas 100% terminée, il est toutefois déjà possible de réaliser pas mal de chose.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;em&gt;NdM : Licence MPL 2.0 (&lt;a href="http://mozilla.org/MPL/2.0/"&gt;http://mozilla.org/MPL/2.0/&lt;/a&gt;), sauf certains composants qui ont été spécifiquement positionnés dans des licences différentes type MIT (voir &lt;a href="https://github.com/laurentj/slimerjs/blob/master/LICENSE"&gt;https://github.com/laurentj/slimerjs/blob/master/LICENSE&lt;/a&gt;)&lt;/em&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;lien n°1 : &lt;a href="http://linuxfr.org/redirect/86189" hreflang="en" title="http://slimerjs.org"&gt;Site du projet &amp;amp; téléchargement&lt;/a&gt;&lt;/li&gt;&lt;li&gt;lien n°2 : &lt;a href="http://linuxfr.org/redirect/86190" hreflang="en" title="https://github.com/laurentj/slimerjs"&gt;Projet sur Github&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;PhantomJS est de plus en plus utilisé pour réaliser des tests fonctionnels automatiques sur des sites web, des tests de performances, etc. De nombreux scripts et frameworks proposent ce genre de fonctionnalités, notamment &lt;a href="http://casperjs.org"&gt;CasperJS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pour le moment, SlimerJS ne permet pas d'utiliser tous les scripts existants pour PhantomJS, à cause de l'implémentation incomplète de l'API PhantomJS, mais bien sûr le but est de fournir à terme une compatibilité totale.&lt;/p&gt;
+
+&lt;p&gt;Pourquoi faire un clone de PhantomJS ? Parce que le web n'est pas fait que de navigateurs à base de moteur WebKit. Et de nombreux développeurs web aimeraient bien profiter des possibilités de PhantomJS pour tester leurs applications web sur Firefox.&lt;/p&gt;
+
+&lt;p&gt;SlimerJS n'est pas qu'un simple clone de PhantomJS. Il propose une API plus fournie par le biais de modules CommonJS issus du SDK de Mozilla pour les extensions. Et contrairement à PhantomJS, il prend en charge totalement les balises HTML5 video et audio, ainsi que WebGL et les plugins comme Flash.&lt;/p&gt;
+
+&lt;p&gt;Autre différence, il n'est pas « &lt;em&gt;headless&lt;/em&gt; » comme PhantomJS, Gecko ne permettant pas d'ouvrir une fenêtre graphique simplement en mémoire. Mais sous Linux ou Mac OS X, on peut le rendre « &lt;em&gt;headless&lt;/em&gt; » avec xvfb sans souci.&lt;/p&gt;
+
+&lt;p&gt;Le projet a débuté fin décembre. Et toute contribution est la bienvenue, que ce soit sur la documentation (encore incomplète&amp;#8230;) ou sur le code source, entièrement en Javascript ;-)&lt;/p&gt;
+
+&lt;p&gt;SlimerJS est une application XUL (et non pas une extension), qui nécessite Firefox ou XulRunner pour fonctionner. « &lt;em&gt;Slimer&lt;/em&gt; » vient du nom d'un des fantômes de &lt;em&gt;Ghostbuster&lt;/em&gt; ;-) Film dont des références ont souvent été reprise dans le projet Mozilla.&lt;/p&gt;&lt;/div&gt;    &lt;p&gt;&lt;a href="http://linuxfr.org/news/slimerjs-0-6#comments"&gt;Lire les commentaires&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Nÿco</name>
+    </author>
+    <author>
+      <name>Laurent J</name>
+    </author>
+    <author>
+      <name>tuiu pol</name>
+    </author>
+    <author>
+      <name>Xavier Teyssier</name>
+    </author>
+    <category term="JavaScript"/>
+    <category term="navigateur"/>
+    <category term="tests"/>
+    <category term="headless"/>
+    <category term="firefox"/>
+    <wfw:commentRss>http://linuxfr.org/nodes/98191/comments.atom</wfw:commentRss>
+  </entry>
+</feed>

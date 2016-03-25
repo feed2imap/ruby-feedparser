@@ -200,7 +200,8 @@ module FeedParser
       when 1
         return creators[0]
       else
-        return creators[0...-1].join(", ")+" and "+creators[-1]
+        @sorted_creators = creators.sort
+        return @sorted_creators[0...-1].join(", ")+" and "+@sorted_creators[-1]
       end
     end
 
