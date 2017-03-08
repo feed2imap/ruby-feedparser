@@ -283,6 +283,9 @@ module FeedParser
             end
           end
         end
+        if not @date.nil? and @date.year < 1970
+          @date = Time.new(1970, 1, 1, 0, 0, 0, 0)
+        end
       end
       # Creator
       if (e = item.elements['dc:creator'] || item.elements['author'] ||
@@ -357,6 +360,9 @@ module FeedParser
               @date = nil
             end
           end
+        end
+        if not @date.nil? and @date.year < 1970
+          @date = Time.new(1970, 1, 1, 0, 0, 0, 0)
         end
       end
       # Creator
