@@ -3,10 +3,11 @@ require 'rdoc/task'
 require 'rubygems/package_task'
 require 'rake'
 require 'find'
+require_relative 'lib/feedparser/version.rb'
 
 # Globals
 PKG_NAME = 'ruby-feedparser'
-PKG_VERSION = `ruby -Ilib -rfeedparser/feedparser -e 'puts FeedParser::VERSION'`.strip
+PKG_VERSION = FeedParser::VERSION
 
 PKG_FILES = [ 'ChangeLog.md', 'README', 'COPYING', 'LICENSE', 'setup.rb', 'Rakefile']
 Find.find('lib/', 'test/', 'tools/') do |f|

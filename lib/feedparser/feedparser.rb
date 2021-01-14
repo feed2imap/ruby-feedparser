@@ -4,13 +4,12 @@ require 'time'
 require 'feedparser/textconverters'
 require 'feedparser/rexml_patch'
 require 'feedparser/text-output'
+require 'feedparser/version'
 require 'base64'
 require 'magic'
 require 'uri'
 
 module FeedParser
-
-  VERSION = "0.9.4"
 
   class UnknownFeedTypeException < RuntimeError
   end
