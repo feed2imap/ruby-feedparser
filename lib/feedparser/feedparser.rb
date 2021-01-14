@@ -1,3 +1,4 @@
+require 'cgi'
 require 'rexml/document'
 require 'time'
 require 'feedparser/textconverters'
@@ -233,7 +234,7 @@ module FeedParser
 
     def link
       if @link
-        uri = URI.parse(URI.escape(@link))
+        uri = URI.parse(CGI.escape(@link))
         if uri.hostname && uri.scheme
           @link
         elsif feed && feed.origin
