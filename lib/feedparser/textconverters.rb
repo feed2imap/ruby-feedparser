@@ -59,7 +59,7 @@ end
       text.gsub!(/\A\s*(.*)\Z/m, '<p>\1</p>')
       text.gsub!(/\s*\n(\s*\n)+\s*/, "</p>\n<p>")
       # uris
-      text.gsub!(/([^'"])(#{URI::regexp(['http','ftp','https'])})/,
+      text.gsub!(/([^'"])(#{URI::DEFAULT_PARSER.make_regexp(['http','ftp','https'])})/,
           '\1<a href="\2">\2</a>')
     end
     # Handle broken hrefs in <a> and <img>
