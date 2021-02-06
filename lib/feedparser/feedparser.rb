@@ -233,7 +233,11 @@ module FeedParser
 
     def link
       if @link
-        uri = URI.parse(CGI.escape(@link))
+        begin
+          uri = URI.parse(@link)
+        rescue URI::InvalidURIError
+          return @link
+        end
         if uri.hostname && uri.scheme
           @link
         elsif feed && feed.origin
