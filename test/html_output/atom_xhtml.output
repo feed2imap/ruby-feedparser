@@ -11,23 +11,18 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">atom</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td>ongoing</td></tr><tr><th>Type:</th>
+<td>atom</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="CL-Logs#comments"><b>Cottage Life I: Logs</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="CL-Logs#comments">Cottage Life I: Logs</a>
+</td></tr></table>
 
 <p>I think that life in general and this space in particular would benefit
 from more of an outdoor flavor; words and pictures rooted in Nature.
@@ -49,21 +44,18 @@ I wonder how long it took?</p><img alt='Drift-log, weathered white' src='PS08103
 felt even the slightest temptation to take the
 <a href='/ongoing/When/200x/2007/05/24/Pentax-SMC-DA-21mm'>wide-angle</a>
 prime lens off the camera.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-16 07:00:17 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">The World/Cottage Life, The World, Cottage Life, Arts/Photos/Cameras, Arts, Photos, Cameras, The World/Places/Canada/Howe Sound, Places, Canada, Howe Sound</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-16 07:00:17 UTC</td></tr>
+<tr><th>Filed under:</th><td>The World/Cottage Life, The World, Cottage Life, Arts/Photos/Cameras, Arts, Photos, Cameras, The World/Places/Canada/Howe Sound, Places, Canada, Howe Sound</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="Deletionist-Morons#comments"><b>Deletionist Morons</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="Deletionist-Morons#comments">Deletionist Morons</a>
+</td></tr></table>
 
 <p>For a nice safe NPOV (“Neutral Point of View”) discussion of the issues,
 see
@@ -106,21 +98,18 @@ Wikipedia was to serve the Net’s users, not worry about how closely it adheres
 to the traditional frameworks of the reference publishing industry?</p><p>I suggest the deletionist wankers go and cluster around an alternate online
 reference tome which has articles only about God, Immanuel Kant, and Britney
 Spears.  Notability is not in question, so they should be happy.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-15 21:34:36 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technology/Publishing/Reference, Technology, Publishing, Reference, The World/Life Online, The World, Life Online</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-15 21:34:36 UTC</td></tr>
+<tr><th>Filed under:</th><td>Technology/Publishing/Reference, Technology, Publishing, Reference, The World/Life Online, The World, Life Online</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="Not-Much#comments"><b>Not Much</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="Not-Much#comments">Not Much</a>
+</td></tr></table>
 
 <p>Two photos of not much in particular, but with explanations.</p><p>Explanation:
 <a href='http://www.laurenwood.org/anyway/2008/06/09/girls-and-trucks/'>Girls
@@ -129,21 +118,18 @@ paragraph of
 <a href='/ongoing/When/200x/2008/06/11/On-Main'>Main Art</a>.</p><img alt='Exposed building side on Main Street, Vancouver' src='R0010529.png'/><p>I tried this last one in black and white, and it looked sort of stark and
 strong and lovely, but then I turned the colour back on and liked it better.
 I guess I’ll never be a Real Photographer.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-13 07:32:18 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Arts/Photos, Arts, Photos, The World/Places/Vancouver, The World, Places, Vancouver</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-13 07:32:18 UTC</td></tr>
+<tr><th>Filed under:</th><td>Arts/Photos, Arts, Photos, The World/Places/Vancouver, The World, Places, Vancouver</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="On-Main#comments"><b>Main Art</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="On-Main#comments">Main Art</a>
+</td></tr></table>
 
 <p>Our house is near, and my office on,
 <a href='http://en.wikipedia.org/wiki/Main_Street_%28Vancouver%29'>Main
@@ -154,21 +140,18 @@ by the fact that the buildings are, on average, old, and mostly weren’t very
 good when they were built.  So it was kind of nice when some street art popped
 up on one that I walk by every day.</p><img alt='Street art on Vancouver’s Main Street' src='R0010514.png'/><img alt='Street art on Vancouver’s Main Street' src='R0010515.png'/><p>It’s nice that somebody goes to the effort to do this when the results are
 so ephemeral.  Whoever you are, thank you.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-12 00:19:10 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Arts/Photos, Arts, Photos, Arts/Visual, Visual</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-12 00:19:10 UTC</td></tr>
+<tr><th>Filed under:</th><td>Arts/Photos, Arts, Photos, Arts/Visual, Visual</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="Keats-Island#comments"><b>Cottagers!</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="Keats-Island#comments">Cottagers!</a>
+</td></tr></table>
 
 <p>Now we’re real Canadians.
 As of June 11th, Lauren and I own a cottage on
@@ -221,21 +204,18 @@ long-distance WiFi repeater.  Does anyone reading this live in Gibsons?</p><h2 i
 turmoil, and that it’s for the kids, and those things are mostly true, but
 having a place where you can get up early and walk to say good morning to the
 ocean before you say anything to anyone else, that’s why really.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-11 07:39:53 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Arts/Photos, Arts, Photos, The World/Places/Canada/Howe Sound, The World, Places, Canada, Howe Sound</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-11 07:39:53 UTC</td></tr>
+<tr><th>Filed under:</th><td>Arts/Photos, Arts, Photos, The World/Places/Canada/Howe Sound, The World, Places, Canada, Howe Sound</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="RX-Work#comments"><b>RX and 1.9 and Pain</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="RX-Work#comments">RX and 1.9 and Pain</a>
+</td></tr></table>
 
 <p>This fragment is mostly a note to myself and placeholder and might prove
 useful to someone slashing through the XML undergrowth with bleeding-edge
@@ -314,21 +294,18 @@ and
 </ul><p>Well, there you go.  By the way, in Ruby 1.9’s favor, it runs the
 (simplified de-optimized) RX about three times as fast as 1.8.6.
 Any other implementors want a whack at it?</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-11 06:29:20 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technology/XML, Technology, XML, Technology/Ruby, Ruby</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-11 06:29:20 UTC</td></tr>
+<tr><th>Filed under:</th><td>Technology/XML, Technology, XML, Technology/Ruby, Ruby</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="Flamenco-Sketches#comments"><b>Flamenco Sketches</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="Flamenco-Sketches#comments">Flamenco Sketches</a>
+</td></tr></table>
 
 <p>Photographic sketches, I mean.  
 Earlier this month,
@@ -350,21 +327,18 @@ there looked like.</p><img alt='Flamenco ensemble at Vancouver’s Kino Café' s
 drink are just fine.</p><p>Oh, and <cite>Flamenco Sketches</cite> is the title of a really lovely
 tune, in a Spanish feel, on Miles Davis’ epochal
 <a href='http://en.wikipedia.org/wiki/Kind_of_Blue'>Kind of Blue</a>.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-09 06:13:33 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Arts/Music/Performance, Arts, Music, Performance, Arts/Photos, Photos</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-09 06:13:33 UTC</td></tr>
+<tr><th>Filed under:</th><td>Arts/Music/Performance, Arts, Music, Performance, Arts/Photos, Photos</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="WF-Early-Results#comments"><b>WF2: Early Results</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="WF-Early-Results#comments">WF2: Early Results</a>
+</td></tr></table>
 
 <br/>
 [This is part of the
@@ -376,21 +350,18 @@ and they’re eye-opening.
 The naive Ruby approach, remember, burned some 25 hours.  There are now four
 other results posted, with elapsed times of 8, 9, 15, and 17 <em>minutes</em>.
 The write-ups are already full of surprises, and I’m expecting more.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-09 05:16:29 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technology/Concurrency, Technology, Concurrency</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-09 05:16:29 UTC</td></tr>
+<tr><th>Filed under:</th><td>Technology/Concurrency, Technology, Concurrency</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="Wide-Finder-2#comments"><b>Wide Finder 2</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="Wide-Finder-2#comments">Wide Finder 2</a>
+</td></tr></table>
 
 <p>Last fall, I ran the
 <a href='/ongoing/When/200x/2007/09/20/Wide-Finder'>Wide Finder Project</a>.
@@ -442,21 +413,18 @@ Finder 1, but several people pointed out that this could be done with an
 <code>awk</code>/<code>sort</code> one-liner, so something a little more
 ambitious might be appropriate.  I’ve made a couple of initial suggestions on
 the wiki.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-09 05:15:59 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technology/Concurrency, Technology, Concurrency</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-09 05:15:59 UTC</td></tr>
+<tr><th>Filed under:</th><td>Technology/Concurrency, Technology, Concurrency</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="WF-Start-Me-Up#comments"><b>WF2: Start Your Engines!</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="WF-Start-Me-Up#comments">WF2: Start Your Engines!</a>
+</td></tr></table>
 
 <p>[This is part of the
 <a href='/ongoing/When/200x/2008/05/01/Wide-Finder-2'>Wide Finder 2</a>
@@ -492,21 +460,18 @@ top_clients = @clients.top(10)</code></pre><p>I was showing it to a non-Rubyist 
     <code>def top(hash, howmany)</code>”.
     My questioner rolled his eyes.  He had a point I think; Ruby makes you do
     some odd things.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-06 07:43:53 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technology/Concurrency, Technology, Concurrency</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-06 07:43:53 UTC</td></tr>
+<tr><th>Filed under:</th><td>Technology/Concurrency, Technology, Concurrency</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="New-Yorker#comments"><b>Everything On-Line?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="New-Yorker#comments">Everything On-Line?</a>
+</td></tr></table>
 
 <p>Recently I read 
 <a href='http://www.newyorker.com/reporting/2008/06/02/080602fa_fact_wright'>The Rebellion Within</a>
@@ -534,39 +499,33 @@ piece.  Maybe that’ll change.  I’m not sure what I’m actually going to
 <em>do</em> about this; I’ll hardly pass up a juicy link that I have time to
 follow just because it’s also on sale in print.</p><p>It’s just that there’s part of me that wishes that the online and print worlds
 were perhaps a bit more cleanly separated.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-06 05:05:15 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Business/Publishing, Business, Publishing, The World/Life Online, The World, Life Online</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-06 05:05:15 UTC</td></tr>
+<tr><th>Filed under:</th><td>Business/Publishing, Business, Publishing, The World/Life Online, The World, Life Online</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="San-Fran-Shadows#comments"><b>San Fran Shadows</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="San-Fran-Shadows#comments">San Fran Shadows</a>
+</td></tr></table>
 
 <p>Last week I took a brief trip to San Francisco, and managed to escape for a
 walk.  Lots of buildings had interesting shadows on them.</p><img alt='Shadows on a San Francisco afternoon' src='PS080881.png'/><img alt='Shadows on a San Francisco afternoon' src='PS080886.png'/><img alt='Shadows on a San Francisco afternoon' src='PS080887.png'/><p>The old parts of San Francisco seem to age with grace, by and large.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-05 05:23:35 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">The World/Places/San Francisco, The World, Places, San Francisco, Arts/Photos, Arts, Photos</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-05 05:23:35 UTC</td></tr>
+<tr><th>Filed under:</th><td>The World/Places/San Francisco, The World, Places, San Francisco, Arts/Photos, Arts, Photos</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="Not-an-OS#comments"><b>Not an OS</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="Not-an-OS#comments">Not an OS</a>
+</td></tr></table>
 
 <p>Last Thursday I
 <a href='http://twitter.com/timbray/statuses/823088211'>tweeted</a>: “I strive
@@ -639,21 +598,18 @@ storage and networking and the lowest level of user interaction.
 It’s difficult and unpleasant to use.</p><p>I’ve used several and even contributed in a small way to one or two.
 Neither the Internet nor the Web are anything like one in any important way.
 Thank goodness.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-04 04:36:33 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">The World/Life Online, The World, Life Online, Business/Internet, Business, Internet, Technology/Internet, Technology, Technology/Web, Web</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-04 04:36:33 UTC</td></tr>
+<tr><th>Filed under:</th><td>The World/Life Online, The World, Life Online, Business/Internet, Business, Internet, Technology/Internet, Technology, Technology/Web, Web</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="WF-Others#comments"><b>WF2: People At Work</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="WF-Others#comments">WF2: People At Work</a>
+</td></tr></table>
 
 <p>[This is part of the
 <a href='/ongoing/When/200x/2008/05/01/Wide-Finder-2'>Wide Finder 2</a>
@@ -673,21 +629,18 @@ Sorter</a>.</p><p>Alex Morega has
 <a href='http://grep.ro/blog/2008/05/wide_finder_going_parallel'>Wide Finder:
 Going Parallel</a>, and
 <a href='http://grep.ro/blog/2008/05/wide_finder_many_cores'>Wide Finder: Many Cores</a>.</p><h2 id='p-2'>Did I Miss You?</h2><p>If you’re working on this let me know and I’ll keep adding links.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-03 15:16:51 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technology/Concurrency, Technology, Concurrency</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-03 15:16:51 UTC</td></tr>
+<tr><th>Filed under:</th><td>Technology/Concurrency, Technology, Concurrency</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="Other-Diddleys#comments"><b>Other Diddleys</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="Other-Diddleys#comments">Other Diddleys</a>
+</td></tr></table>
 
 <p>Gosh,
 <a href='http://en.wikipedia.org/wiki/Bo_Diddley'>Bo Diddley</a>’s gone.  Which
@@ -724,21 +677,18 @@ like rock but don’t have <cite>London Calling</cite>, drop everything and buy
 it now.</p><p>Thanks for that rhythm, Bo, and those tunes built around it.
 There’ll be someone playing a bo-diddley in a bar somewhere as long as <i>Homo
 sapiens</i> draws breath.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-03 06:08:08 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Arts/Music, Arts, Music</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-03 06:08:08 UTC</td></tr>
+<tr><th>Filed under:</th><td>Arts/Music, Arts, Music</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="JBI#comments"><b>Enterprisey Goodness</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="JBI#comments">Enterprisey Goodness</a>
+</td></tr></table>
 
 <p>I tend to liking simple things, and to suspicion of big “enterprisey”
 software frameworks.  I am dimly aware that up in the clouds there are
@@ -768,21 +718,18 @@ howitzer to squish this particular ant.</p><p>So I asked Andi that, and he said 
 to ESBs and other traditional enterprise integration points”.  Which
 I’m not sure that YPipes or little Ruby scripts are built for.  I asked him to
 show me that and he said they’re going to.  I’m interested; stay tuned.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-06-02 19:15:57 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technology/Java, Technology, Java, Technology/Web, Web</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-06-02 19:15:57 UTC</td></tr>
+<tr><th>Filed under:</th><td>Technology/Java, Technology, Java, Technology/Web, Web</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="WF-First-Results#comments"><b>WF2: First Pathetic Results</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="WF-First-Results#comments">WF2: First Pathetic Results</a>
+</td></tr></table>
 
 <p>[This is part of the
 <a href='/ongoing/When/200x/2008/05/01/Wide-Finder-2'>Wide Finder 2</a>
@@ -817,21 +764,18 @@ without fancy <code>mmap()</code> tricks.  I bet somebody will write a WF2
 implementation that runs in about five minutes as opposed to 29 hours.</p><h2 id='p-4'>Next Steps</h2><p>I’m going to re-run the cleaned-up Ruby code with the SPARC-optimized MRI
 and propose that as the baseline benchmark for WF2 implementations to beat.
 Then the fun should start.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-05-31 21:24:46 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technology/Concurrency, Technology, Concurrency</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-05-31 21:24:46 UTC</td></tr>
+<tr><th>Filed under:</th><td>Technology/Concurrency, Technology, Concurrency</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="Discovery#comments"><b>Family Moment</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="Discovery#comments">Family Moment</a>
+</td></tr></table>
 
 <p>The back porch door was open and our adorable little almost-two-year-old,
 all golden curls and pink dimples, was wandering in and out.  One time as she
@@ -844,21 +788,18 @@ for the same
 reason, and the corpse was headed for disposal.</p><p>(Well, yes, we have two healthy cats that go outside, and this is a
 waterfront city thus will always have rats, and our cats are well-fed so they
 bring their prizes home to the back porch to show off.)</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-05-31 06:43:51 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">The World/Family, The World, Family, The World/Humor, Humor</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-05-31 06:43:51 UTC</td></tr>
+<tr><th>Filed under:</th><td>The World/Family, The World, Family, The World/Humor, Humor</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="WF-Benchmark#comments"><b>WF2: The Benchmark</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="WF-Benchmark#comments">WF2: The Benchmark</a>
+</td></tr></table>
 
 <p>[This is part of the
 <a href='/ongoing/When/200x/2008/05/01/Wide-Finder-2'>Wide Finder 2</a>
@@ -882,21 +823,18 @@ approach.  And the “normal HTML report” idea is very much in the spirit of
 Wide Finder 1, only with a bit more computation involved, perhaps enough to
 keep it from being a pure parallel-I/O benchmark.</p><p>Your thoughts?  I suppose I’m signed up to build a reference implementation
 for verifying output.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-05-31 06:19:43 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technology/Concurrency, Technology, Concurrency</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-05-31 06:19:43 UTC</td></tr>
+<tr><th>Filed under:</th><td>Technology/Concurrency, Technology, Concurrency</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>ongoing</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="WF-Benchmark-Strawman#comments"><b>WF2: Benchmark Strawman</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>ongoing</td></tr><tr><th>Item:</th>
+<td><a href="WF-Benchmark-Strawman#comments">WF2: Benchmark Strawman</a>
+</td></tr></table>
 
 <br/>
 [This is part of the
@@ -909,10 +847,10 @@ Argh... it takes Ruby over 23
 seconds to process just 100K lines.  I hear talk of a Solaris/SPARC optimized
 version, gotta track that down.  Comments please on the benchmark, then we can
 all start bashing our heads against the big file.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2008-05-31 06:19:35 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technology/Concurrency, Technology, Concurrency</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2008-05-31 06:19:35 UTC</td></tr>
+<tr><th>Filed under:</th><td>Technology/Concurrency, Technology, Concurrency</td></tr>
 </table>
 
 </body></html>

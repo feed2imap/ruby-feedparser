@@ -11,72 +11,61 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php">
-<b>l'attaque du blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">ISO-8859-1</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php">
+l'attaque du blog</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>ISO-8859-1</td></tr></table>
 <br/>
 le blog de diane
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php">
-<b>l'attaque du blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php?2006/06/20/210-degaine"><b>Dégaine</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php">
+l'attaque du blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php?2006/06/20/210-degaine">Dégaine</a>
+</td></tr></table>
 
 <p>La crémaillère a bien été pendue. Et la frangine (dessinatrice de poney de son état) reste pour quelques jours.<br/>
 Avec les conséquences que l'on voit.<br/>
 <img src="http://diane-blog.kataplop.net/images/juin06/cheveux.jpg" alt="" />
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-20 20:42:13 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">diane</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-20 20:42:13 UTC</td></tr>
+<tr><th>Author:</th><td>diane</td></tr>
+<tr><th>Subject:</th><td>General</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php">
-<b>l'attaque du blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php?2006/06/13/195-la-vie-en-rose"><b>La vie en rose</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php">
+l'attaque du blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php?2006/06/13/195-la-vie-en-rose">La vie en rose</a>
+</td></tr></table>
 
 <p>Je sais, c'est de la grosse récup, mais je m'en sors pas à préparer la crémaillère du week end et blogguer en même temps.<br/>
 Bientot le retour des dessins. <br/>
 <img src="http://diane-blog.kataplop.net/images/mosaique/pink.jpg" alt="" /></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-13 20:38:23 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">diane</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-13 20:38:23 UTC</td></tr>
+<tr><th>Author:</th><td>diane</td></tr>
+<tr><th>Subject:</th><td>General</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php">
-<b>l'attaque du blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php?2006/06/05/209-merci-"><b>Merci :)</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php">
+l'attaque du blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php?2006/06/05/209-merci-">Merci :)</a>
+</td></tr></table>
 
 <p>
 Merci à <a href="http://www.grandk.net/puisqueG5mn/index.php" hreflang="fr">GrandK</a> pour ce dessin drole et talentueux.<br/>
@@ -88,24 +77,21 @@ Malheureusement, elle ne s'affiche plus. Tu sais pourquoi ?<br/>
 --- EDIT --- ca s'affiche !!<br/>
 <img src="http://static.flickr.com/41/149895131_6d0ccd8b44.jpg" alt="" />
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-05 20:45:06 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">diane</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-05 20:45:06 UTC</td></tr>
+<tr><th>Author:</th><td>diane</td></tr>
+<tr><th>Subject:</th><td>General</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php">
-<b>l'attaque du blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php?2006/05/31/208--o-"><b>' \o/</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php">
+l'attaque du blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php?2006/05/31/208--o-">' \o/</a>
+</td></tr></table>
 
 <br/>
 &lt; autopromo &gt; 
@@ -115,94 +101,82 @@ Si vous voulez m'envoyez de beaux dessins pour féter ca ... &lt; /autopromo &gt
 Et sinon j'ai eu des supers cadeux qui tuent !<br/>
 <div align="center">
 <img src="http://diane-blog.kataplop.net/images/mai06/photo2.jpg" alt="" /></div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-05-31 20:13:21 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">diane</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-05-31 20:13:21 UTC</td></tr>
+<tr><th>Author:</th><td>diane</td></tr>
+<tr><th>Subject:</th><td>General</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php">
-<b>l'attaque du blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php?2006/05/29/207-irl"><b>IRL</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php">
+l'attaque du blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php?2006/05/29/207-irl">IRL</a>
+</td></tr></table>
 
 <p>De temps en temps je me demande si je serais capable de reconnaitre dans la rue les gens que je visite pourtant tous les jours virtuellement. Pour certains bloggueurs, ca serait facile grace à quelques photos glanées au détour d'un post, ou parce qu'ils se dessinnent de façon fort réalistes.<br/>
 Pour certains, bien qu'ils se dessinent quotidiennement, je doute pouvoir les reconnaitre au détour d'une rue.<br/>
 <img src="http://diane-blog.kataplop.net/images/mai06/lotte.jpg" alt="" /><br/>
 Et même si elle prenait dans la vraie vie le même genre de pauses bizarres que sur ses dessins, je doute pouvoir reconnaitre un jour <a href="http://lotte.art.free.fr/serendipity/" hreflang="fr">Lotte</a> :)<br/>
 <img src="http://diane-blog.kataplop.net/images/mai06/lotte2.jpg" alt="" />
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-05-29 18:47:16 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">diane</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-05-29 18:47:16 UTC</td></tr>
+<tr><th>Author:</th><td>diane</td></tr>
+<tr><th>Subject:</th><td>General</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php">
-<b>l'attaque du blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php?2006/05/28/206-teaser"><b>Teaser</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php">
+l'attaque du blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php?2006/05/28/206-teaser">Teaser</a>
+</td></tr></table>
 
 <p>Si vous voulez savoir ce que va faire Poney Pascal, rendez vous ici : <a href="http://team.kataplop.net/" hreflang="fr">Kataplop Team</a> <br/>
 <img src="http://diane-blog.kataplop.net/images/mai06/sautPrecision2_1.gif" alt="" />
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-05-27 22:58:29 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">diane</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-05-27 22:58:29 UTC</td></tr>
+<tr><th>Author:</th><td>diane</td></tr>
+<tr><th>Subject:</th><td>General</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php">
-<b>l'attaque du blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php?2006/05/22/205-je-n-oublie-pas"><b>Je n'oublie pas</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php">
+l'attaque du blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php?2006/05/22/205-je-n-oublie-pas">Je n'oublie pas</a>
+</td></tr></table>
 
 <p>Je sais, j'ai un questionnaire de violence gratuite à faire.<br/>
 Mais en ce moment je suis très peace &amp; love, j'ai envie de faire de mal à personne.<br/>
 <br/>
 Peut être pouvez vous m'aider ? A qui devrais-je m'en prendre ?<br/>
 <img src="http://diane-blog.kataplop.net/images/mai06/serial_tondeur.jpg" alt="" />
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-05-22 18:03:24 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">diane</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-05-22 18:03:24 UTC</td></tr>
+<tr><th>Author:</th><td>diane</td></tr>
+<tr><th>Subject:</th><td>General</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php">
-<b>l'attaque du blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php?2006/05/18/204-une-journee-mouvementee"><b>Une journée mouvementée</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php">
+l'attaque du blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php?2006/05/18/204-une-journee-mouvementee">Une journée mouvementée</a>
+</td></tr></table>
 
 <p>
 <img src="http://diane-blog.kataplop.net/images/mai06/page1.jpg" alt="" /><br/>
@@ -215,54 +189,48 @@ Et comme c'était trop court pour s'arreter là, pendant que je dessinais le res
 <img src="http://diane-blog.kataplop.net/images/mai06/page7.jpg" alt="" /><br/>
 <img src="http://diane-blog.kataplop.net/images/mai06/page8.jpg" alt="" /><br/>
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-05-18 16:52:15 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">diane</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-05-18 16:52:15 UTC</td></tr>
+<tr><th>Author:</th><td>diane</td></tr>
+<tr><th>Subject:</th><td>General</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php">
-<b>l'attaque du blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php?2006/05/17/203-ce-pas-moi"><b>cé pas moi</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php">
+l'attaque du blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php?2006/05/17/203-ce-pas-moi">cé pas moi</a>
+</td></tr></table>
 
 <img src="http://diane-blog.kataplop.net/images/avril06/gimp-bug.png" alt="" />
 -----------
 EDIT : Effectivement, j'ai passé une soirée devant l'ordi pour rien. Mais je rassure la France entière, je n'ai pas une coupe de cheveux à la playmobil :)
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-05-17 21:27:48 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">diane</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-05-17 21:27:48 UTC</td></tr>
+<tr><th>Author:</th><td>diane</td></tr>
+<tr><th>Subject:</th><td>General</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php">
-<b>l'attaque du blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://diane-blog.kataplop.net/index.php?2006/05/17/202-publicite"><b>** Publicité **</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php">
+l'attaque du blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://diane-blog.kataplop.net/index.php?2006/05/17/202-publicite">** Publicité **</a>
+</td></tr></table>
 
 <p> Vous pouvez aller visiter ce magnifique blog <a href="http://team.kataplop.net" hreflang="fr">haut en couleur</a> qui vient d'ouvrir ses portes.<br/>
 <a href="http://team.kataplop.net" hreflang="fr"><img src="http://diane-blog.kataplop.net/images/mai06/kataplop_pub.jpg" width="600px" alt="" /></a>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-05-16 22:01:11 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">diane</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">General</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-05-16 22:01:11 UTC</td></tr>
+<tr><th>Author:</th><td>diane</td></tr>
+<tr><th>Subject:</th><td>General</td></tr>
 </table>
 
 </body></html>

@@ -11,28 +11,23 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 <br/>
 Planet Debian - http://planet.debian.org/
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://peter.makholm.net/2007/08/21/on-handling-email/"><b>Peter Makholm: On handling email</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://peter.makholm.net/2007/08/21/on-handling-email/">Peter Makholm: On handling email</a>
+</td></tr></table>
 
 <p>Watching the popular <a href="http://video.google.com/videoplay?docid=973149761529535925">Inbox Zero</a> video would probally improve my email handling skills better. But this took less time and I wanted to play around with Net::XMPP;</p>
 <pre><code>
@@ -127,44 +122,38 @@ sub debug { return unless $DEBUG; print STDERR for @_; }
 
 __END__
 </code></pre>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 17:47:54 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 17:47:54 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.miriamruiz.es/weblog/?p=99"><b>Miriam Ruiz: PiX Frogger: help the frog cross the street</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.miriamruiz.es/weblog/?p=99">Miriam Ruiz: PiX Frogger: help the frog cross the street</a>
+</td></tr></table>
 
 <p>Does the name &#8220;<a title="Frogger in the Wikipedia" href="http://en.wikipedia.org/wiki/Frogger">Frogger</a>&#8221; ring a bell? Introduced in <a title="1981 (MCMLXXXI) in the Wikipedia" href="http://en.wikipedia.org/wiki/1981">1981</a>, developed by <a title="Konami Corporation in the Wikipedia" href="http://en.wikipedia.org/wiki/Konami">Konami</a> and distributed by <a title="Sega Corporation in the Wikipedia" href="http://en.wikipedia.org/wiki/Sega">Sega</a>/<a title="Gremlin Industries in the Wikipedia" href="http://en.wikipedia.org/wiki/Gremlin_Industries">Gremlin</a>, it&#8217;s one of the most classic from the earliest ages of computer videogames.</p>
 <p><a title="PiX Frogger Homepage" href="http://www.pixjuegos.com/?q=node/30">PiX Frogger</a> is a clone of the classic game Frogger, in which you must help a frog cross the street to avoid becoming roadkill by cars and trucks. The frog starts at the bottom of the screen and the only control the player has is navigating the direction for the frog to hop. The game allows 4 players playing simultaneously with the keyboard.</p>
 <p>PIX Frogger is <a title="Debian NEW and BYHAND Packages" href="http://ftp-master.debian.org/new.html">on the way</a>. Implemented in <a title="Fenix Homepage" href="http://fenix.divsite.net/">Fénix</a>, an interpreted script programming language, <a title="Especially or Specially?" href="http://englishplus.com/grammar/00000287.htm">specially</a> designed to developing and running 2D games and added to <a title="Fenix in Debian" href="http://packages.debian.org/fenix">Debian repositories</a> some weeks ago, it has really cute graphics and the visual layout has been nicely taken care of. The game in itself is quite simple, so it shouldn&#8217;t be hard for smaller kids to play, especially when they can compete against each other 4 at a time.</p>
 <p>For more grown-ups, I guess it&#8217;s so cool to have a version in Debian from this historical game. I&#8217;m sure many people missed it. I hope it enters the repositories soon, but meanwhile you can get it from <a title="Some debian packages" href="http://users.alioth.debian.org/~baby-guest/fenix/">here</a>. Thake care while crossing the street, though.
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 17:25:22 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 17:25:22 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blog.madduck.net/geek/2007.08.21_if-you-procmail-read-this.xhtml"><b>Martin F. Krafft: If you procmail, read this</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blog.madduck.net/geek/2007.08.21_if-you-procmail-read-this.xhtml">Martin F. Krafft: If you procmail, read this</a>
+</td></tr></table>
 
 <p>I just had a hard time finding <a class="reference" href="http://pm-doc.sourceforge.net/pm-tips.html">this excellent procmail resource</a> on the web. I am thus blogging
 it for posterity, in case anyone is looking for procmail documentation, tips,
@@ -172,22 +161,19 @@ tricks, a how-to, or anything else related to procmail.</p>
 <p>And if you procmail and have not read the document, I suggest you do. It's
 truly outstanding.</p>
 <p>NP: <a class="reference" href="http://www.allmusic.com/cg/amg.dll?SQL=A%20Silver%20Mt.%20Zion&amp;P=amg&amp;OPT1=1">A Silver Mt. Zion</a>: <em>He Has Left us Alone, but Shafts of Light Sometimes Grace the Corner of our Rooms</em></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 16:43:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 16:43:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.ouaza.com/wp/2007/08/21/deprecating-cvsdebianorg-in-favor-of-alioth/"><b>Raphaël Hertzog: Deprecating cvs.debian.org in favor of Alioth</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.ouaza.com/wp/2007/08/21/deprecating-cvsdebianorg-in-favor-of-alioth/">Raphaël Hertzog: Deprecating cvs.debian.org in favor of Alioth</a>
+</td></tr></table>
 
 <p>It&#8217;s very difficult to discuss with DSA and make things evolve if none of the DSA member express an interest in something related to your goal: here comes an example of a story like another in my desperate quest to try to help the DSA team. <img src="http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> </p>
 
@@ -205,22 +191,19 @@ truly outstanding.</p>
 <p>All in all, the debian-doc and debian-www folks are rather supportive of the move, but it requires adjustment to the build infrastructure, in particular to keep track of the status of translations. I have no answer from DSA and the buildd guys however.</p>
 
 <p>The web team started a <a href="http://wiki.debian.org/WebsiteVCSEvaluation">wiki page</a> to evaluate the VCS that they would switch to. Volunteers would be welcome to organize the conversion of the repositories and to fix the build infrastructure accordingly. This a nice little project for new contributors that want to learn. <img src="http://www.ouaza.com/wp/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 14:00:37 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 14:00:37 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.infodrom.org/~joey/log/?200708211534"><b>Joey Schulze: PowerPC PReP Machines</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.infodrom.org/~joey/log/?200708211534">Joey Schulze: PowerPC PReP Machines</a>
+</td></tr></table>
 
 <p>What to do with nice PowerPC PReP machines?  The PReP sub-architecture is
 not supported by the Linux kernel anymore and thus not in Debian either.
@@ -231,22 +214,19 @@ speaks up and revives the port.</p>
 Powerstack II Pro4000 machine.  This means that we currently don't have a
 working sid (and lenny) development environment.  Looks like maybe it's
 time to check out alternatives.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 13:34:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 13:34:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://tytso.livejournal.com/30229.html"><b>Theodore Ts'o: Thoughts about the Palm Foleo</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://tytso.livejournal.com/30229.html">Theodore Ts'o: Thoughts about the Palm Foleo</a>
+</td></tr></table>
 
 <p>I looked at the Foleo and played with one while I was at Linux World a few weeks ago, but it is so restrictive in what it can do that I was completely unimpressed.</p>
 
@@ -259,22 +239,19 @@ time to check out alternatives.</p>
 <p>And, of course, it's a lot cheaper than my used X41 laptop, never mind a brand-new Lenovo X61s, which could run 2 or 3 kilobucks fully outfitted with the 4 gigs of memory and 160 gig/7200 rpm drive.   However, as a road warrior, my priorities are not just weight, but functionality.  A 2.5 pound solid-state laptop with only 128 megs of memory which massively restricts what I can do is not a good use of the space in my laptop bag.   What I'm waiting for is the next generation of the Thinkpad X series which has a solid state disk --- which shouldn't be that far off --- and the elimination of the spinning magnetic media would mean that we should have something with Foleo's battery life without the Foleo's limited usefulness.    Sure, maybe I will need to wait another year or two for my perfect laptop (12", 1024x768 LED display, at least 60 gigs solid state disk, at least 2-4 gigs memory, Intel core 2 or follow-on processor, &lt; 3 pounds, &gt; 5 hours useful lifetime) to become available, but the technology to do this exists today; it's just a matter of making it affordable.   But given that kind of long-term future, I'm willing to settle for now with either 2 or 4 hour battery life, and a slightly heavier laptop, than to use something today with a desperately slow ARM processor and only 128 megs of memory.  The weight/size savings and the increased battery life of the Foleo isn't a fair tradeoff given its very limited capabilities.</p>
 
 <p>This is all really too bad, because if Palm is counting on the Foleo to allow it to succeed, I think the concept has some massive shortcomings, much like their claimed LifeDrive product, which didn't last very long.   And I really like the Palm company; I <b>still</b> haven't found better PDA functionality on a decade-old Palm design compared to what is available on all of the Nokia phones I've looked at, the WinCE phones/PDA's, the N800, etc.  So I want Palm as a company to stick around.   But with Treo getting eclipsed by newer smart phones, and the Foleo not getting particularly good buzz by folks reviewing it --- and after I played with it, I have to agree with the majority of the reviewers that this is not the Next Big Thing --- I'm not sure how much longer Palm is going to be around.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 11:09:16 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 11:09:16 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://oskuro.net/blog/stuff/inbox-zero-2007-08-21-12-26"><b>Jordi Mallach: Inbox Zero</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://oskuro.net/blog/stuff/inbox-zero-2007-08-21-12-26">Jordi Mallach: Inbox Zero</a>
+</td></tr></table>
 
 <pre>
 jordi@nubol:~$ countmail
@@ -287,22 +264,19 @@ HAHAHAHAHA!
 <p>I'll watch
 <a href="http://video.google.com/videoplay?docid=973149761529535925">the talk</a>
 this evening.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 10:26:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 10:26:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.infodrom.org/~joey/log/?200708211222"><b>Joey Schulze: Interview</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.infodrom.org/~joey/log/?200708211222">Joey Schulze: Interview</a>
+</td></tr></table>
 
 <p>Last week I gave an interview for <a href="http://www.antennetux.de/">Antennetux</a>, a non-commercial radio station targeting regional and
 Internet users.  We spoke about the Debian project and the Debian
@@ -314,22 +288,19 @@ Software and Debian in particular.</p>
 website.  There are also plans to broadcast it via radio as well.  There
 will also be an installation party in October during which the radio
 people and Münster user group will install GNU/Linux on visitors machines.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 10:22:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 10:22:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.burtonini.com/blog/computers/openmoko-2007-08-21-10-30"><b>Ross Burton: OpenMoko</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.burtonini.com/blog/computers/openmoko-2007-08-21-10-30">Ross Burton: OpenMoko</a>
+</td></tr></table>
 
 <p>
       Sean Moss-Pultz from OpenMoko <a href="http://lists.openmoko.org/pipermail/announce/2007-August/000018.html">announces
@@ -346,22 +317,19 @@ people and Münster user group will install GNU/Linux on visitors machines.</p>
       smooth colours, clear icons and subtle gradients.  I'm sure Thomas will
       blog with more details and screenshots at some point.
     </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 09:30:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 09:30:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.burtonini.com/blog/computers/postr/postr-2007-08-21-10-10"><b>Ross Burton: Postr 0.8</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.burtonini.com/blog/computers/postr/postr-2007-08-21-10-10">Ross Burton: Postr 0.8</a>
+</td></tr></table>
 
 <p>
       Finally, a new Postr release.  Nothing amazing here, just some internal
@@ -375,22 +343,19 @@ people and Münster user group will install GNU/Linux on visitors machines.</p>
     <p>
       <small>NP: <cite>Sleep</cite>, DJ Olive</small>
     </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 09:10:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 09:10:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://etbe.coker.com.au/2007/08/21/when-to-use-se-linux/"><b>Russell Coker: When to Use SE Linux</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://etbe.coker.com.au/2007/08/21/when-to-use-se-linux/">Russell Coker: When to Use SE Linux</a>
+</td></tr></table>
 
 <p>Recently someone asked on IRC whether they should use SE Linux on a web server machine (that is being used for no other purpose) and then went on to add &#8220;<b>since the webserver is installed as root anyway</b>&#8220;.</p>
 <p>If a machine is used to run a single non-root application then the potential benefits of using SE Linux are significantly reduced, the issue will be whether the application could exploit a setuid program to gain root access if SE Linux was not there to prevent it.</p>
@@ -400,42 +365,36 @@ people and Münster user group will install GNU/Linux on visitors machines.</p>
 <p>In summary the more complex your installation is and the more privileges that are required by various server processes the more potential there is to increase the security of your system by using SE Linux.  But even on a simple server running only a single daemon as non-root there is potential for SE Linux to provide real benefits to system security.</p>
 <p class="akst_link"><a href="http://etbe.coker.com.au/?p=361&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_361" class="akst_share_link" rel="nofollow">Share This</a>
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 09:00:07 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 09:00:07 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://journal.dedasys.com/articles/2007/08/21/hecl-interview"><b>David Welton: Hecl interview</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://journal.dedasys.com/articles/2007/08/21/hecl-interview">David Welton: Hecl interview</a>
+</td></tr></table>
 
 <p>Roger Binkley, leader of Sun's <a href="http://community.java.net/mobileandembedded/">Mobile and Embedded</a> community, interviewed me after my talk at OSCON.  It went ok, given how tired I was:</p>
 
 <p><a href="http://today.java.net/pub/a/today/2007/08/20/javamobility-podcast16.html">http://today.java.net/pub/a/today/2007/08/20/javamobility-podcast16.html</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 08:52:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 08:52:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/mbrubeck/diary.html?start=102"><b>Matt Brubeck: 21 Aug 2007</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/mbrubeck/diary.html?start=102">Matt Brubeck: 21 Aug 2007</a>
+</td></tr></table>
 
 <b>Problems for shared desktop computers.</b>
 
@@ -555,22 +514,19 @@ and view my
 changes the
   application menu for all other users too.
 </li></ul></p></p></p></p></p></p></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 05:57:59 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 05:57:59 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.golden-gryphon.com/blog/manoj//blog/2007/08/21/Arch_Hook.html"><b>Manoj Srivastava: Arch Hook</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.golden-gryphon.com/blog/manoj//blog/2007/08/21/Arch_Hook.html">Manoj Srivastava: Arch Hook</a>
+</td></tr></table>
 
 <p>All the version control systems I am familiar with run scripts
 on checkout and commit to take additional site specific actions,
@@ -641,22 +597,19 @@ strictly needed.</li>
 </ul>
 <p>I’d be happy to hear about what other people add to their commit
 scripts, to see if I have missed out on anything.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 05:19:11 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 05:19:11 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.technovelty.org/code/badcode/utilising.html"><b>Ian Wienand: On incorrectly utilising "utilising"</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.technovelty.org/code/badcode/utilising.html">Ian Wienand: On incorrectly utilising "utilising"</a>
+</td></tr></table>
 
 <p>My supervisor pointed out a very annoying habit I had formed when
 writing technical documents, best summed up below:</p>
@@ -686,43 +639,37 @@ was up (not its utilization-rate)."</p>
 
 <p>You will now probably notice this subtle verbiage in most
 everything you read!</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-21 00:19:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-21 00:19:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://planetwatson.co.uk/blog/2007/08/20/its-about-time"><b>David Watson: It's about time</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://planetwatson.co.uk/blog/2007/08/20/its-about-time">David Watson: It's about time</a>
+</td></tr></table>
 
 <p>I decided that I really needed to start making proper backups of the data on my server this week.  I did have a tape drive in the server at one point but I never remembered to change the tape, or indeed ever test the backups.</p>
 <p>Now that I have a Linksys NSLU2 (a slug), which I bought to use as a local Debian mirror.  "Why not use it for backing up my important data?" I thought, so I leapt into action.  The first job was to replace the drive in the USB caddy with a 250Gb drive.  250Gb should be plenty for both the mirror and the backups, which is mostly source code, mail and photos.  After that installing and setting up rsnapshot was a snap.</p>
 <p>It sure beats the "keep some stuff on my laptop" backup method I was using, which did save me from a major brain fade moment involving my Maildir folder.</p>
 <p>I shall now wallow in the warm glow that only a backup provides.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 21:58:13 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 21:58:13 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://etbe.coker.com.au/2007/08/21/suggestions-and-thanks/"><b>Russell Coker: Suggestions and Thanks</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://etbe.coker.com.au/2007/08/21/suggestions-and-thanks/">Russell Coker: Suggestions and Thanks</a>
+</td></tr></table>
 
 <p>One problem with the blog space is that there is a lot of negativity.  Many people seem to think that if they don&#8217;t like a blog post then the thing to do is to write a post complaining about it - or even worse a complaint that lacks specific details to such an extent that the subject of the complaint would be unable to change their writing in response.  The absolute worst thing to do is to post a complaint in a forum that the blog author is unlikely to read - which would be a pointless whinge that benefits no-one.</p>
 <p>Of course an alternate way for the recipient to takeg such complaints as <a href="http://www.paulgraham.com/marginal.html">suggested by Paul Graham</a> is &#8220;<b>you&#8217;re on the right track when people complain that you&#8217;re unqualified, or that you&#8217;ve done something inappropriate</b>&#8221; and &#8220;<b>if they&#8217;re driven to such empty forms of complaint, that means you&#8217;ve probably done something good</b>&#8221; (Paul was talking about writing essays not blogs, but I&#8217;m pretty sure that he intended it to apply to blogs too).  If you want to actually get a blog author (or probably any author) to make a change in their material in response to your comments then trying to avoid empty complaints is a good idea.  Another useful point Paul makes in the same essay is &#8220;<b>&#8220;Inappropriate&#8221; is the null criticism. It&#8217;s merely the adjective form of &#8220;I don&#8217;t like it.&#8221;</b>&#8221; - something that&#8217;s worth considering given the common criticism of particular blog content as being &#8220;inappropriate&#8221; for an aggregation feed that is syndicating it.  Before criticising blog posts you should consider that badly written criticism may result in more of whatever it is that you object to.</p>
@@ -749,22 +696,19 @@ It&#8217;s a pity that there is not a more traditional blog feed for the data, t
 <p>Finally I don&#8217;t read it myself, but <a href="http://www.cuteoverload.com/">CuteOverload.com</a> is a good site to refer people to when they claim that the Internet is too nasty for children - the Internet has lots of pictures of cute animals!</p>
 <p class="akst_link"><a href="http://etbe.coker.com.au/?p=359&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_359" class="akst_share_link" rel="nofollow">Share This</a>
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 21:00:16 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 21:00:16 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://kitenet.net/~joey/blog/entry/inbox_zero/"><b>Joey Hess: inbox zero</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://kitenet.net/~joey/blog/entry/inbox_zero/">Joey Hess: inbox zero</a>
+</td></tr></table>
 
 <p>My inbox is empty. <a href="http://layer-acht.org/blog/debian/#1-120">Holger</a>
 posted a link to
@@ -789,42 +733,36 @@ from my inbox. I know I'm not the only one with this problem, BTW.</p>
 <p>I recommend watching the talk. Thinking about mail in the inbox as only
 having one of 5 actions you can perform on it (delete, defer, delegate,
 respond, do) really helps process it quickly.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 20:17:28 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 20:17:28 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.hogyros.de/?q=node/305"><b>Simon Richter: Non-standard compiler extensions</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.hogyros.de/?q=node/305">Simon Richter: Non-standard compiler extensions</a>
+</td></tr></table>
 
 <p>Normally I don't like them, because the people using them write non-portable code.</p>
 <p>In some cases however (mostly when writing stuff other people would write in perl), I'd like things like <code>__attribute__((mode(QI)))</code> to work, and not claim that while the compiler perfectly well understood what I was trying to do, it can nonetheless not help me around writing my own support for 128 bit types. At least MSVC is no better, <code>__int128</code> has the exact same behaviour.</p>
 <p>Bleh.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 19:49:45 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 19:49:45 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blog.venthur.de/2007/08/20/deserializing-soap-replies-with-zsi/"><b>Bastian Venthur: Deserializing SOAP replies with ZSI?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blog.venthur.de/2007/08/20/deserializing-soap-replies-with-zsi/">Bastian Venthur: Deserializing SOAP replies with ZSI?</a>
+</td></tr></table>
 
 <p>Dear Lazyweb,</p>
 <p>what is the most elegant way to read a SOAP reply containing a complex type into an object using <a href="http://pywebsvcs.sourceforge.net/">ZSI</a>? I&#8217;ve read the <a href="http://pywebsvcs.sourceforge.net/zsi_v2_0_0.html">documentation</a> several times and I guess there is an elegant way to solve this, but I still don&#8217;t get it.</p>
@@ -836,41 +774,35 @@ respond, do) really helps process it quickly.</p>
 </ul>
 <p>What I&#8217;m currently doing with soappy in <a href="http://reportbug-ng.alioth.debian.org/">rng</a> is rather crude: I take the SOAP response which is a dictionary holding many interesting facts about a bug report, take those elements I&#8217;m interested in and copy them into a bug report object. Not very elegant, but it works.</p>
 <p>While I&#8217;m moving away from soappy to ZSI I&#8217;d like to implement the deserializion the ZSI way. Unfortunately I don&#8217;t understand their examples. So please Lazyweb, is there any ZSI expert out there who can provide a minimalistic example?</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 17:29:20 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 17:29:20 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blog.orebokech.com/2007/08/cornflakes-heroes-lifeline-video.html"><b>Romain Francoise: Cornflakes Heroes: "Lifeline" video</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blog.orebokech.com/2007/08/cornflakes-heroes-lifeline-video.html">Romain Francoise: Cornflakes Heroes: "Lifeline" video</a>
+</td></tr></table>
 
 <a href="http://www.cornflakesheroes.com/">Cornflakes Heroes</a> (my sister's band) have released the video for their new single <span>Lifeline</span>, check it out:<br /><br /> <br />(click <a href="http://www.youtube.com/watch?v=XENxzz_goo0">here</a> if the embedded player doesn't work)
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 17:40:03 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Romain Francoise</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 17:40:03 UTC</td></tr>
+<tr><th>Author:</th><td>Romain Francoise</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://kartikmistry.org/blog/?p=352"><b>Kartik Mistry: TODOs</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://kartikmistry.org/blog/?p=352">Kartik Mistry: TODOs</a>
+</td></tr></table>
 
 <p>* Debian:</p>
 <p>- Create pkg-festival at alioth, New &#8216;long pending&#8217; upstream release for Festival/Speech-tools</p>
@@ -883,23 +815,20 @@ respond, do) really helps process it quickly.</p>
 <p>- As above</p>
 <p>- As above</p>
 <p> <img src="http://kartikmistry.org/blog/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 14:33:36 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Kartik Mistry</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 14:33:36 UTC</td></tr>
+<tr><th>Author:</th><td>Kartik Mistry</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blog.cihar.com/archives/2007/08/20/gammu_stable_version_1_13_0/"><b>Michal Čihař: Gammu stable version 1.13.0</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blog.cihar.com/archives/2007/08/20/gammu_stable_version_1_13_0/">Michal Čihař: Gammu stable version 1.13.0</a>
+</td></tr></table>
 
 <p>I just released new version of <a href="http://cihar.com/gammu/">Gammu</a>. There are no big changes
 since last testing release:</p>
@@ -911,41 +840,35 @@ since last testing release:</p>
 <p>For stable users there are tons of changes, most noticable is initial 
 support for Sharp and Motorola phones, notes support for OBEX driver and
 various fixes to make compilation in Visual Studio possible.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 13:06:44 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 13:06:44 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://jbailey.livejournal.com/37143.html"><b>Jeff Bailey: Next stop: Buffalo</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://jbailey.livejournal.com/37143.html">Jeff Bailey: Next stop: Buffalo</a>
+</td></tr></table>
 
 <br/>
 Hey'all!  We're still in transit on our great trans-continental adventure!  Sorry if you've emailed us and we've not gotten back, Internet access is spotty at best on this trip, and who wants to spend their vacation reading email anyway? =)<br /><br />We just finished a good time in the kitchens of Opus and ConCentric.  Angie, Sera, Chris and I all worked well together in a cohesive team, with a minimum of drama.  It was really nice to work with such a solid group of people that we could say things like "Dude, I need a nap, can you cover for me?" and there was no problem with the rest of the team trading off.<br /><br />Leif was an absolute hit at the con.  We were able to participate in a couple worships where him singing along wasn't a distraction at all, and he totally loved being passed between people.  It does mean that he caught his first cold, but he's doing alright.<br /><br />There are always the people that I'll miss when I'm gone from there.  Alexis was in the kitchen on a regular basis saying hi, Liz was always nearby, Karina with her star maps, lizzie the brit with her piles of energy, the frying-tofu master Geoff seemed to be in the kitchen often.  In the kitchen, though, we got to see pretty much everyone so it was a nice chance to connect with people.<br /><br />The staff was also a very neat set of people.  I don't think there was anyone in the Opus staff that I couldn't see actively working hard to pull of great programming.  There's always the curmudgeonly part of me that sits in the back corner and can nit pick things to death, but in doing so I wouldn't want to hide that by almost every measure this was a successful Opus.  In particular, I was impressed that the staff faced head-on how to handle walk-ins at the staff meeting just before the con started.  It was interesting to watch a consensus process work with a group of people who came in from wildly different personal perspectives and to watch people change from varying viewpoints to agree on the compromise that best suited the group.<br /><br />So what's next?  We've spent the night with Andrew from <a href="http://www.koolu.com/">Koolu</a> and will be heading down to Buffalo next to get an van and start on the adventure.  We don't know where we're going yet, or how we'll get there, but the idea is to head down to the <a href="http://www.creationmuseum.org/">Creation Museum</a> and then west towards Vegas and the Grand Canyon.  On the way, we might see if we can visit Stephanie in Ohio, Sera in Albuquerque, and Karina in Flagstaff.<br /><br />Peace, Love, Faith and Blessings to all.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 12:21:48 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 12:21:48 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://journal.dedasys.com/articles/2007/08/20/hecl-dedawiki-updates"><b>David Welton: Hecl, DedaWiki updates</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://journal.dedasys.com/articles/2007/08/20/hecl-dedawiki-updates">David Welton: Hecl, DedaWiki updates</a>
+</td></tr></table>
 
 <p>I had a pretty good week last week in terms of doing some open source work.  I had the opportunity to do some consulting regarding <a href="http://www.hecl.org">Hecl</a>, which was pretty cool.  Some of the work was fed back into Hecl itself, including the beginnings of a "media" API (video streams, taking pictures with the camera), and some other fixes and updates.  I've also been working on it a bit on my own time, adding a Canvas demo to the MIDP2.0 demo application (works in the emulator, haven't tried it on a phone yet), and today I'm going to look at updating some of the documentation that's been lagging the code.    In the course of my work, I also happened on a cool idea to speed up the launch of Hecl applications: by creating the widgets as regular widgets in Java, right away, in the <code>startApp</code> MIDlet method, it's possible to get them on the screen quickly.  At that point, you can start loading Hecl, and create some Hecl objects to hold the already created Java widgets.  It goes something like this:</p>
 
@@ -960,22 +883,19 @@ interp.setVar("searchwidget", ObjectThing.create(search));
 <p>This is a good tradeoff, because it gets something in front of the user right away, and it's not a throwaway like a splash screen.</p>
 
 <p>On another front, I've updated some of the code in <a href="http://dedawiki.dedasys.com">DedaWiki</a>, to enable email notifications in the comment system, which has percolated into the <a href="http://www.leenooks.com">Linux Incompatibility List</a>, and, with a bit of tweaking, into <a href="http://www.squeezedbooks.com">Squeezed Books</a>.  I don't think the code is quite ready for a real release, but by running the incompatibility list on it, it's a great way to give it a thorough shakedown, and I'll attempt to release it sooner or later.  Of course, in the meantime, interested parties can get the code out of subversion on rubyforge.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 12:03:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 12:03:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://etbe.coker.com.au/2007/08/20/feedburner-item-link-clicks/"><b>Russell Coker: Feedburner Item Link Clicks</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://etbe.coker.com.au/2007/08/20/feedburner-item-link-clicks/">Russell Coker: Feedburner Item Link Clicks</a>
+</td></tr></table>
 
 <p>For a while I used the Item Link Clicks feature in <a href="http://www.feedburner.com/">Feedburner</a>.  For those who aren&#8217;t aware Feedburner is a service that proxies access to an RSS feed (you need to either publish the Feedburner URL as the syndication link or use a HTTP redirect to send the requests there - I use a HTTP redirect).  Then when people download the feed they get it from Feedburner which is fast and reliable (unlike my blog on a bad day) and which also tracks some statistics which can be interesting.</p>
 <p>The Item Link Clicks feature rewrites the <b>guid</b> URLs to point to a Feedburner URL that will redirect back to the original post (and track clicks along the way).  The down-side of doing this is that some people who read blogs via <a href="http://www.planetplanet.org/">Planet</a> installations and just copy the link from the Planet page when citing a blog post instead of actually visiting the blog in question.  This causes a potential problem for the person citing the post in that they won&#8217;t know whether the URL is valid unless they visit it.  So when (not if) people have misconfigured blogs that are widely syndicated the people who cite them without verifying the links could end up linking to invalid URLs.  The problem for the person who is cited is that such Feedburner redirects don&#8217;t seem to be counted as part of the <a href="http://www.technorati.com/">Technorati</a> ranking (which is a count of the number of links to a blog in the last 6 months which give some rough approximation of how important the blog is).  The Technorati rating can sometimes be used in negotiations with an advertiser and is often used when boasting about how popular a blog is.</p>
@@ -983,22 +903,19 @@ interp.setVar("searchwidget", ObjectThing.create(search));
 <p>Based on this experience I suggest not using URL rewriting services.  They will hurt your technorati ranking, give little benefit (IMHO) and annoy the small number of RSS to email readers.  Particularly don&#8217;t change your mind about whether to use such a feature or not.  Changing the setting regularly would be really annoying.  Also this means that if you use such a service you should take care not to have you Feedburner redirection ever get disabled.  A minor Apache configuration error corrected a day later could end up in sending all the posts in the current feed an extra two times.</p>
 <p class="akst_link"><a href="http://etbe.coker.com.au/?p=358&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_358" class="akst_share_link" rel="nofollow">Share This</a>
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 09:00:12 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 09:00:12 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blog.madduck.net/travel/2007.08.20_pay-three-times-as-much-and-get-zero-brain-power.xhtml"><b>Martin F. Krafft: Pay three times as much and get zero brain power</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blog.madduck.net/travel/2007.08.20_pay-three-times-as-much-and-get-zero-brain-power.xhtml">Martin F. Krafft: Pay three times as much and get zero brain power</a>
+</td></tr></table>
 
 <p>If you walk up to the Swiss railways customer service desk and tell them that
 you're a group of six looking to travel from Zurich to Munich and would thus
@@ -1047,40 +964,34 @@ express-reservation seats.</blockquote>
 (part of the way it still has to run on Diesel) and the reservation signs were
 paper slips. The seats of eight I found were definitely unreserved, especially
 because I checked immediately after departure.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 08:43:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 08:43:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://layer-acht.org/blog/debian/#1-121"><b>Holger Levsen: Red Cross sued for using the red cross</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://layer-acht.org/blog/debian/#1-121">Holger Levsen: Red Cross sued for using the red cross</a>
+</td></tr></table>
 
 <p> Various newspapers report that the health product giant Johnson &amp; Johnson is suing the Red Cross for using the red cross as a logo. Johnson &amp; Johnson registered the trademark in 1887, six years after the us-american Red Cross started to use it. Needless to say, that a red cross has been in use for much longer and that european Red Cross associations also exist for quite some more years.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 06:59:07 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 06:59:07 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.golden-gryphon.com/blog/manoj//blog/2007/08/20/Mail_Filtering_with_CRM114__58___Part_4.html"><b>Manoj Srivastava: Mail Filtering with CRM114: Part 4</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.golden-gryphon.com/blog/manoj//blog/2007/08/20/Mail_Filtering_with_CRM114__58___Part_4.html">Manoj Srivastava: Mail Filtering with CRM114: Part 4</a>
+</td></tr></table>
 
 <h1>Training the Discriminators</h1>
 <p>It has been a while since I posted on this category — actually,
@@ -1162,22 +1073,19 @@ classification, just calling <code>mproc</code> does the
 classification.</p>
 <p>This pretty much finishes the series of posts I had in mind
 about spam filtering, I hope it has been useful.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 05:28:53 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 05:28:53 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://base0.net/archives/322-Things-That-I-Wish-Remember-The-Milk-Had.html"><b>Michael Janssen: Things That I Wish Remember The Milk Had</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://base0.net/archives/322-Things-That-I-Wish-Remember-The-Milk-Had.html">Michael Janssen: Things That I Wish Remember The Milk Had</a>
+</td></tr></table>
 
 <br/>
 A little bit ago I <a href="http://base0.net/archives/319-Dont-you-dun-dun-dun-da-dun-dun-forget-about-me.html">blogged</a> about how I was using <a href="http://rmilk.com">Remember The Milk</a> in order to get some things done around the house and to remind me about stuff that I want to do.  Things have been going pretty well on that account, I have been using it to great effect for basically everything that I need to do outside of things that I need to get done at Honeywell (I keep a separate todo list for there).  However, when using it these past weeks, I have noticed a few things that I wish it would have or things that could be improved upon, I think in a big way.<br />
@@ -1191,41 +1099,35 @@ The other map improvement is fairly simple - offer to give me directions from on
 The last improvement that would be nice is to be able to click on the URL or visit the site in the URL field for tasks in some way.  Currently the URL field is pretty useless as a URL, because there is no way to click it and actually visit the site.  If I click on it, the editing field pops up and I have to do all the hard work myself of cutting and pasting the URL into the location field.  It's also a mis-cue because the URL looks like a link before I click it, just like I could click on it as I want to.  A keyboard shortcut for visiting the site would be nice as well since I do use the keyboard interface quite a bit.<br />
 <br />
 These improvements I think would make a big difference to RTM users.  The map improvements alone would be a big upgrade in my opinion.  As for now, I will continue to use RTM whether these are implemented or not - it's a good way to keep an online list in any case.  It's kept me writing blog posts at the rate of about once every two days.  Not sure if that's a good thing or not yet..
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 04:48:53 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jamuraa</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 04:48:53 UTC</td></tr>
+<tr><th>Author:</th><td>Jamuraa</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.chris-lamb.co.uk/2007/08/20/fred-ewww/"><b>Chris Lamb: “Eww”</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.chris-lamb.co.uk/2007/08/20/fred-ewww/">Chris Lamb: “Eww”</a>
+</td></tr></table>
 
 <p><a href="http://bakery.cakephp.org/articles/view/obvious-trick-to-reduce-amount-of-habtm-relationship-tables-1">This</a> is not how to do HABTM (ie. &#8220;<em>many-many</em>&#8220;) database joins.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 01:19:24 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 01:19:24 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.cs.sfu.ca/~camerond/personal/blog/posts/Aug-19-2007.html"><b>Cameron Dale: DebTorrent Release 0.1.4 (and apt-transport-debtorrent 0.1.0)</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.cs.sfu.ca/~camerond/personal/blog/posts/Aug-19-2007.html">Cameron Dale: DebTorrent Release 0.1.4 (and apt-transport-debtorrent 0.1.0)</a>
+</td></tr></table>
 
 <p>The <a href="https://alioth.debian.org/frs/?group_id=31109">next release</a> of <a href="http://debtorrent.alioth.debian.org/">DebTorrent</a> is now available. This
 release includes new functionality for communicating with APT using
@@ -1316,22 +1218,19 @@ already connected</li>
 <li>tracker would return all torrents' peers for every request</li>
 </ul></li>
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-20 00:56:46 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-20 00:56:46 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://etbe.coker.com.au/2007/08/20/controlling-a-stonith-and-upgrading-a-cluster/"><b>Russell Coker: Controlling a STONITH and Upgrading a Cluster</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://etbe.coker.com.au/2007/08/20/controlling-a-stonith-and-upgrading-a-cluster/">Russell Coker: Controlling a STONITH and Upgrading a Cluster</a>
+</td></tr></table>
 
 <p>One situation that you will occasionally encounter when running a <a href="http://www.linux-ha.org/">Heartbeat cluster</a> is a need to prevent a STONITH of a node.  As documented in <a href="http://etbe.coker.com.au/2007/07/17/testing-stonith/">my previous post about testing STONITH</a> the ability to STONITH nodes is very important in an operating cluster.  However when the sys-admin is performing maintenance on the system or programmers are working on a development or test system it can be rather annoying.</p>
 <p>One example of where STONITH is undesired is when upgrading packages of software related to the cluster services.  If during a package upgrade the data files and programs related to the <a href="http://etbe.coker.com.au/2007/06/08/heartbeat-service-scripts/">OCF script</a> are not synchronised (EG you have two programs that interact and upgrading one requires upgrading the other) at the moment that the <b>status</b> operation is run then an error may occur which may trigger a STONITH.  Another possibility is that if using small systems for testing or development (EG running a cluster under Xen with minimal RAM assigned to each node) then a package upgrade may cause the system to thrash which might then cause a timeout of the status scripts (a problem I encounter when upgrading my Xen test instances that have 64M of RAM).</p>
@@ -1340,64 +1239,55 @@ already connected</li>
 <p>When choosing your method of STONITH it&#8217;s probably worth considering what the possibilities are for temporarily disabling it - preferably without having to walk to the server room.</p>
 <p class="akst_link"><a href="http://etbe.coker.com.au/?p=356&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_356" class="akst_share_link" rel="nofollow">Share This</a>
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 21:00:45 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 21:00:45 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://web.glandium.org/blog/?p=158"><b>Mike Hommey: New WebKit snapshot (almost) in unstable</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://web.glandium.org/blog/?p=158">Mike Hommey: New WebKit snapshot (almost) in unstable</a>
+</td></tr></table>
 
 <p>Along with a <a href="http://people.debian.org/~glandium/epiphany-browser_2.19.90-0.1_i386.changes">new epiphany release</a> using it as backend, I prepared a <a href="http://people.debian.org/~glandium/webkit_0~svn25144-1_i386.changes">new WebKit snapshot</a>, which is now waiting in NEW for some ftp-master attention. Unfortunately, while webkit now has the necessary symbols for back and forward buttons, it seems not to work properly. Scrollbars are also not yet displayed. I&#8217;ll have to take a look at these some day, if upstream doesn&#8217;t do it before me.</p>
 <p>I also set up a git repository to hold the <a href="http://git.debian.org/?p=pkg-webkit/webkit.git;a=summary">debian branch</a>, following the already existing <a href="http://git.debian.org/?p=pkg-webkit/upstream.git;a=summary">git repository tracking upstream</a>. Note the <em>filtered</em> branch, which avoids the debian branch to contain what we don&#8217;t ship, and reduce the download size from 100MB+ to roughly 16MB. I&#8217;ll write more about this filtering in a few days.</p>
 <p>Also, if you&#8217;re interested in webkit and/or want to give a hand, you can subscribe to the <a href="http://web.glandium.org/blog/ http://lists.alioth.debian.org/mailman/listinfo/pkg-webkit-maintainers">pkg-webkit-maintainers mailing list</a>. Everything is ready for team maintenance, so, don&#8217;t hesitate ;).</p>
 <p>If you want to track changes on the debian repo, there is also a <a href="http://lists.alioth.debian.org/mailman/listinfo/pkg-webkit-commits">pkg-webkit-commits mailing list</a> where the post-receive hook sends the commit messages.
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 18:33:06 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 18:33:06 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blog.orebokech.com/2007/08/bzip2-compression-in-debs.html"><b>Romain Francoise: bzip2 compression in debs</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blog.orebokech.com/2007/08/bzip2-compression-in-debs.html">Romain Francoise: bzip2 compression in debs</a>
+</td></tr></table>
 
 <br/>
 During my <a href="http://blog.orebokech.com/2007/08/debian-packages-without-md5sums.html">previous adventures</a> with the Debian archive, I found that two packages in the archive use bzip2 compression inside the .deb instead of the traditional gzip compression, so I decided to try it out on emacs-snapshot (one of my larger packages). The combined size of the deb files goes from 36764KB to 33880KB, a 2884KB (7.8%) difference. It also makes both <tt>lintian</tt> and <tt>linda</tt> unhappy, the former gives me the following error:<pre>E: emacs-snapshot-nox: deb-data-member-wrongly-compressed<br />N:<br />N:   The binary package contains a data member not compressed with gzip.<br />N:   From dpkg-dev 1.11 on, you can configure the way the data tarball is<br />N:   compressed. Though this is possible, you are not allowed to use it<br />N:   before dpkg 1.11 (or later) enters stable.</pre>and <tt>linda</tt> just bombs:<pre>E: emacs-snapshot-common; Package uses a newer feature of dpkg.<br /> This package uses a data.tar, or data.tar.bz2 member of the .deb. This<br /> was introduced in dpkg 1.11, but is not allowed to be used until dpkg<br /> 1.11 or later hits stable.<br />File ...3_all.deb failed to process: Level 2 unpacking failed:<br />Could not unpack data tarball</pre>Etch was released with dpkg 1.13.25, so bzip2 compression is probably allowed now. But is a 7.8% saving worth the incompatibility price? I'm not sure.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 18:28:19 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Romain Francoise</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 18:28:19 UTC</td></tr>
+<tr><th>Author:</th><td>Romain Francoise</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://adam.rosi-kessel.org/weblog/2007/08/19/solid-state-kitchen-linux-box/"><b>Adam Rosi-Kessel: Solid State Kitchen Linux Box</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://adam.rosi-kessel.org/weblog/2007/08/19/solid-state-kitchen-linux-box/">Adam Rosi-Kessel: Solid State Kitchen Linux Box</a>
+</td></tr></table>
 
 <p>Dear LazyWeb:</p>
 <p>Our kitchen laptop is on its last legs. I&#8217;d like to replace it with a standalone LCD and a cheap, quiet, low-power CPU with just one or two gigabytes of storage for the operating system (music and other data are stored on a server in the basement). Can someone point me in the right direction? This is an instance where Google doesn&#8217;t provide an obvious leading/consensus solution. Most searches for solid state computers point to laptops, which isn&#8217;t what I want. The closest thing I&#8217;ve found is the <a href="http://zonbu.com/device/">Zonbox</a>, but I&#8217;m not interested in their network/subscription storage model. Ideal specs:</p>
@@ -1412,22 +1302,19 @@ During my <a href="http://blog.orebokech.com/2007/08/debian-packages-without-md5
 </ul>
 <p>Suggestions?
 <p class="akst_link"><a href="http://adam.rosi-kessel.org/weblog/?p=564&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_564" class="akst_share_link" rel="nofollow">Share This</a></p></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 13:38:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 13:38:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://natalian.org/archives/2007/08/19/sharing-multimedia/"><b>Kai Hendry: Sharing multimedia</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://natalian.org/archives/2007/08/19/sharing-multimedia/">Kai Hendry: Sharing multimedia</a>
+</td></tr></table>
 
 <p><a href="http://www.flickr.com/photos/hendry/1172361934/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1055/1172361934_fe1a77dc72_m.jpg" width="180" height="240" alt="Every home should have a WRT54G-L" /></a></p>
 
@@ -1451,23 +1338,20 @@ During my <a href="http://blog.orebokech.com/2007/08/debian-packages-without-md5
 	<p>I remember in University dorms (I&#8217;m not telling where!), students had a massive multimedia share with Windows file sharing. It actually worked quite well, including search.</p>
 
 	<p>Any tips lazyweb? Or are centralised services really the future?</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 13:08:16 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">hendry</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 13:08:16 UTC</td></tr>
+<tr><th>Author:</th><td>hendry</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.grep.be/blog/en/computer/play/ldap_addressbooks"><b>Wouter Verhelst: "empty" LDAP addressbooks</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.grep.be/blog/en/computer/play/ldap_addressbooks">Wouter Verhelst: "empty" LDAP addressbooks</a>
+</td></tr></table>
 
 <p>Bernhard R. Link <a href="http://pcpool00.mathematik.uni-freiburg.de/~brl/blog/index.html#22">blogs</a>
 about LDAP addressbooks in Thunderb^WIcedove, and mentions:</p>
@@ -1485,40 +1369,34 @@ if that list is sufficiently large (I believe the RFC suggests a minimum
 of 100 items to be returned); this is to avoid people DoSsing the LDAP
 server by accident. It also means that the suggestion to search for the
 at sign to get all items in the directory may not work.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 13:04:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 13:04:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://layer-acht.org/blog/debian/#1-120"><b>Holger Levsen: again</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://layer-acht.org/blog/debian/#1-120">Holger Levsen: again</a>
+</td></tr></table>
 
 <p> Again I have 99 unread mails in my mailbox ;-) <br /><br /> More than two weeks ago I watched <a href="http://video.google.com/videoplay?docid=973149761529535925">Inbox zero</a>, which I recommend you to watch if you have problems coping with your inbox, even if it mostly boils down to "getting things done". <br /><br /> /me smiles and continues to update tuxmath :-)</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 12:45:08 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 12:45:08 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://healthhacker.org/satoroams/?p=814"><b>Biella Coleman: The Lingering Memories of War</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://healthhacker.org/satoroams/?p=814">Biella Coleman: The Lingering Memories of War</a>
+</td></tr></table>
 
 <p>As many readers of this blog know, I tend not to shy away from writing about my mother’s struggle with Alzheimers. But in the last 6 months and especially since I paid my last visit to my mother, I have found it much harder to sit and write about her current state of affairs. If we think of Alzheimers as a journey to a new place, she is almost at the point of reaching that place of great loneliness and inhospitality, which is not only new and different—both for her and those around her—but is a virtual prison, for it rarely allows you to leave and visit the places of your past. </p>
 <p>More than ever, her memory and understanding of her life as she (as I and many others), once knew it, is fading fast; Of course, this was to be expected but it is quite difficult to imagine what it will be like until the actual experience unmistakably knocks on the door of present time and unfortunately, when it knocks, you can’t do anything but open the door and let it in. </p>
@@ -1532,22 +1410,19 @@ at sign to get all items in the directory may not work.</p>
 <p>Perhaps I did not stay long enough, or perhaps her lack of recall would happen no matter what. To hear she forgot shook me hard and deeply. The first time I realized she could not remember I had just visited, I was able to jog her memory by listing off all that we did together. Finally, when I mentioned that I bought a new refrigerator while in PR, something clicked. She is still worried about money, so buying a refrigerator was enough to remind her I had spent a lot of money.</p>
 <p>But after it was clear that she felt quite bad about not remembering, I knew that was the first and last time I would try to “jog” her memory. Instead, I will merge and mold my reality to her reality, as much as I can and assure her that I will soon visit.<br />
  <a href="http://healthhacker.org/satoroams/?p=814#more-814" class="more-link">(more&#8230;)</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 12:22:09 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 12:22:09 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.sukria.net/en/archives/2007/08/19/the-road-to-libdevel-repl-perl-part-2/"><b>Alexis Sukrieh: The road to libdevel-repl-perl, part 2</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.sukria.net/en/archives/2007/08/19/the-road-to-libdevel-repl-perl-part-2/">Alexis Sukrieh: The road to libdevel-repl-perl, part 2</a>
+</td></tr></table>
 
 <p>Thanks to Florian Ragwitz, <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=438569">who packaged libpadwalker-perl 1.5-1</a>, there is no blocker anymore that prevents libdevel-repl-perl from entering sid:</p>
 <p><img src="http://www.sukria.net/images/libdevel-repl-perl-deps-2.png" /></p>
@@ -1555,22 +1430,19 @@ at sign to get all items in the directory may not work.</p>
 <p>I&#8217;ve just uploaded libdevel-repl-perl, this upload closes the exciting work session we did during all the weekend with Damyan Ivanov, in order to get the module into debian. All its dependencies are now in the Perl group&#8217;s hands. That was fun.</p>
 <p>Team maintenance rocks!
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 11:48:12 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 11:48:12 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.burtonini.com/blog/computers/minipc-2007-08-19-12-00"><b>Ross Burton: Mini PC Loveliness</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.burtonini.com/blog/computers/minipc-2007-08-19-12-00">Ross Burton: Mini PC Loveliness</a>
+</td></tr></table>
 
 <p>
       I've just discovered the <a href="http://minipc.aopen.com/Global/spec.htm">AOpen MP965-DR mini PC</a>,
@@ -1578,22 +1450,19 @@ at sign to get all items in the directory may not work.</p>
       it would be under the television and always on, so heat and noise are
       important factors to me.
     </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 11:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 11:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://mjr.towers.org.uk/blog/2007/cycling#hhracing"><b>MJ Ray: Hamburg Classic</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://mjr.towers.org.uk/blog/2007/cycling#hhracing">MJ Ray: Hamburg Classic</a>
+</td></tr></table>
 
 <p>
 <a href="http://www.ndr.de/tv/">NDR</a>
@@ -1621,22 +1490,19 @@ surprisingly unsurprising, with
 Juan Mauricio Soler and Jens Voigt
 kept their respective leads.
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 10:47:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 10:47:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blog.ganneff.de/blog/2007/08/19#umts"><b>Joerg Jaspert: UMTS?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blog.ganneff.de/blog/2007/08/19#umts">Joerg Jaspert: UMTS?</a>
+</td></tr></table>
 
 <p>
 Im currently looking if a UMTS data connection (flatrate) is something
@@ -1688,22 +1554,19 @@ summarize the results later.
 
 <b>Update:</b>UMTS == 3G; 2 People already told me that the Vodafone net
 is the right selection in Germany, one said the same for UK.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 09:22:52 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 09:22:52 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://pcpool00.mathematik.uni-freiburg.de/~brl/blog/index.html#22"><b>Bernhard R. Link: Using slapd as thunderbird/icedove addressbook</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://pcpool00.mathematik.uni-freiburg.de/~brl/blog/index.html#22">Bernhard R. Link: Using slapd as thunderbird/icedove addressbook</a>
+</td></tr></table>
 
 <p>    It&amp;aposs been some time since I got this working, but I decided to now
    also blog about it here now, as I was just asked it.
@@ -1753,22 +1616,19 @@ is the right selection in Germany, one said the same for UK.
    pref(&quot;ldap_2.servers.mathematik.maxHits&quot;, 500);
    pref(&quot;ldap_2.servers.mathematik.uri&quot;, &quot;ldap://HOSTNAME:389/ou=People,dc=FOOBAR,dc=TLD??sub?(mail=*)&quot;);
    </pre></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 09:05:59 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 09:05:59 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.bebt.de/blog/debian/archives/2007/08/19/T09_03_50/index.html"><b>Andreas Metzler: those were the times</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.bebt.de/blog/debian/archives/2007/08/19/T09_03_50/index.html">Andreas Metzler: those were the times</a>
+</td></tr></table>
 
 <p>
 Found at the exhibition <i>Play with Technology</i> in
@@ -1779,22 +1639,19 @@ Found at the exhibition <i>Play with Technology</i> in
 </a><br />
 a small working x-ray machine toy. See <a href="http://www.bebt.de/images/blog/x-ray-text.jpeg">description</a>.
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 09:03:50 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 09:03:50 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://etbe.coker.com.au/2007/08/19/colorado-software-summit-2007/"><b>Russell Coker: Colorado Software Summit 2007</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://etbe.coker.com.au/2007/08/19/colorado-software-summit-2007/">Russell Coker: Colorado Software Summit 2007</a>
+</td></tr></table>
 
 <p>On about 5 years I attended the conference <a href="http://www.softwaresummit.com/">The Colorado Software Summit</a>.  The first one was the last conference under the old name (ColoradOS/2) but then as OS/2 was rapidly losing market share and the conference delegates changed their programming interests it changed to become a Java conference.</p>
 <p>The Colorado Software Summit rapidly became known as THE event to really learn about Java, other conferences are larger and have a higher profile but the organisers of CSS decided to keep the numbers smaller (600 is usually the maximum number of delegates) to provide better opportunities for the delegates to meet and confer.  One of the attractions of CSS is the large number of skilled and experienced people who attend, there are many delegates who can teach you lots of interesting things even though they aren&#8217;t on the speaking list.  I ended up never doing any serious Java programming, but I still found that I learned enough and had enough fun to justify the expense.</p>
@@ -1802,63 +1659,54 @@ a small working x-ray machine toy. See <a href="http://www.bebt.de/images/blog/x
 <p>PS  I have no financial interest in this matter.  I like the conference organisers, but that largely stems from the fact that they run great conferences that I have enjoyed.  I recommend the conference because it&#8217;s really good.</p>
 <p class="akst_link"><a href="http://etbe.coker.com.au/?p=357&amp;akst_action=share-this" title="E-mail this, post to del.icio.us, etc." id="akst_link_357" class="akst_share_link" rel="nofollow">Share This</a>
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 09:00:14 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 09:00:14 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.hogyros.de/?q=node/304"><b>Simon Richter: Hacking</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.hogyros.de/?q=node/304">Simon Richter: Hacking</a>
+</td></tr></table>
 
 <p>Some more hacking and the xcontrol aware "checkbuilddeps" command is nearly done. I have no idea whether using apt to access the package database was a good idea -- those bits that deal with it are hardly readable. On the other hand, directly reading the status database is frowned upon.</p>
 <p>Hooray for more abstraction layers.</p>
 <p>In other news, there is now a <a href="http://wiki.debian.org/Xcontrol">wiki page for xcontrol</a>.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-19 08:23:25 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-19 08:23:25 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://peter.makholm.net/2007/08/18/libcbtsysinfo_0/"><b>Peter Makholm: libcbtsysinfo_0</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://peter.makholm.net/2007/08/18/libcbtsysinfo_0/">Peter Makholm: libcbtsysinfo_0</a>
+</td></tr></table>
 
 <p>While testing <a href="http://debian-live.alioth.debian.org">Debian Live</a> I suddenly discovered that something had installed a library in my home directory: <tt>~/cbt/lib/libcbtsysinfo_0.so</tt>.</p>
 <p>Google gives two hints: Some discussion on the danish usenet group <a href="http://groups.google.com/group/dk.edb.mac/browse_thread/thread/c8acbc3fa46116ec/9bf9dff1b6cf03bf">dk.edb.mac</a> and some discussion on <a href="http://lists.debian.org/debian-user/2007/07/msg02432.html">debian-user</a>.</p>
 <p>It looks like it get installed when I log into my internet bank. By lookin at the symbols extracted by objdump (a couple of symbols stating with Java_com_ibm_cbt_slight_CbtSysInfo) it seems to be IBM&#8217;s <a href="http://www-03.ibm.com/security/products/cbt.shtml">Crypto-base Transaction</a> system.</p>
 <p>Evil to install such thing without asking. (Well, it&#8217;s a Linux/x86 library even though I&#8217;m using Linux/PPC)</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-18 19:04:09 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-18 19:04:09 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://base0.net/archives/321-Got-a-camera-rolling-on-your-back.html"><b>Michael Janssen: Got a camera rolling on your back</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://base0.net/archives/321-Got-a-camera-rolling-on-your-back.html">Michael Janssen: Got a camera rolling on your back</a>
+</td></tr></table>
 
 <br/>
 For the last few weeks, I've been trying to participate in <a href="http://photojojo.com/content/tutorials/project-365-take-a-photo-a-day/">Project 365</a>.  For those that don't know about it, it is the idea of taking one picture a day in order to accomplish.. something.  I'm mainly just doing it for fun, and in order to improve my picture-taking skills with my camera phone.   I have it walking around everywhere basically, so when I see something interesting, I try to have my phone at the ready.  Some times I just take pictures of  <a href="http://flickr.com/photos/jamuraa/1161207399/in/set-72157601532004533/">random<a> <a href="http://flickr.com/photos/jamuraa/1162062936/in/set-72157601532004533/">stuff</a>, but others are <a href="http://flickr.com/photos/jamuraa/1012736321/in/set-72157601532004533/">more</a> <a href="http://flickr.com/photos/jamuraa/1088783453/in/set-72157601532004533/">interesting</a>.<br />
@@ -1868,23 +1716,20 @@ I've found that it's pretty useful for me.  If you see the set, you can almost n
 The idea of taking a picture a day is quite interesting to me, if only because if you asked me what I was doing last year this time, I would probably give you a general idea because my life is basically boring - I work in an office, even when I'm at school.  This way I might have some idea or get reminded.   <br />
 <br />
 I do have a couple of kinks that I would like to work out when I'm doing it though - when I download my photos through Bluetooth using my phone, it sets all of the creation dates to the time that I transfer the photos instead of the time that I took the photos.  This means that I need to fiddle with the "taken on" date when I finish uploading the pictures - there's no way to use the <a href="http://flickr.com/tools/">Flickr Uploadr</a> to set the date.  This, and the horrible VGA camera that I have in the phone make it tempting for me to buy a new phone with a better camera and tools for transferring.  Also, some days I just stay in, and don't do anything interesting, so I don't have anything interesting or different to take a picture of.  I'm thinking of just taking a <a href="http://flickr.com/photos/jamuraa/1012736547/in/set-72157601532004533/">self-portrait</a> on those days, but I'm not sure that it would be interesting enough.</a></a>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-18 18:35:51 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jamuraa</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-18 18:35:51 UTC</td></tr>
+<tr><th>Author:</th><td>Jamuraa</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://journal.dedasys.com/articles/2007/08/18/business-friendly"><b>David Welton: Business Friendly</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://journal.dedasys.com/articles/2007/08/18/business-friendly">David Welton: Business Friendly</a>
+</td></tr></table>
 
 <p>Growing up in Eugene, Oregon, which like Berkeley or Boulder could have the label "People's Republic of" applied to it, I always thought of "business friendly", as something along the lines of helping huge corporations avoid laws against pollution, or other antisocial behavior.  Only after moving to Europe did I begin to get an idea of what the very positive side of "business friendly" is in the US.</p>
 
@@ -1905,42 +1750,36 @@ I do have a couple of kinks that I would like to work out when I'm doing it thou
 <p><a href="http://padovachronicles.welton.it/articles/2007/08/18/confronting-the-bureaucratic-beast-registering-an-italian-domain">Confronting the bureaucratic beast - registering an Italian domain</a></p>
 
 <p>Two months to accomplish what can be done in ten minutes with a <code>.com</code>!</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-18 16:54:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-18 16:54:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://grmontesino.blogspot.com/2007/08/final-soc-releases.html"><b>Gustavo R. Montesino: Final SoC releases</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://grmontesino.blogspot.com/2007/08/final-soc-releases.html">Gustavo R. Montesino: Final SoC releases</a>
+</td></tr></table>
 
 <br/>
 I've just finished releasing new versions of all modules related to my Summer of Code project, the Bug Triage and Forward Tool. If my mentor doesn't find any serious bug, these will be the last releases under the SoC flag. Thanks again, Google, for this great program and the progress it brings to Free Software.<br /><br />The releases:<br /><br />bzutils 0.2:<br /><ul><li><a href="http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000006.html">Announcement</a></li>  <li><a href="http://alioth.debian.org/frs/download.php/2112/bzutils-0.2.tar.gz">Source .tar.gz</a></li></ul>btsutils 0.3:<br /><ul><li><a href="http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000005.html">Announcement</a></li><li><a href="http://alioth.debian.org/frs/download.php/2111/btsutils-0.3.tar.gz">Source .tar.gz</a></li></ul>bug-triage 0.2.2:<br /><ul><li><a href="http://lists.alioth.debian.org/pipermail/bug-triage-devel/2007-August/000007.html">Announcement</a></li><li><a href="http://alioth.debian.org/frs/download.php/2116/bug-triage-0.2.2.tar.gz">Source .tar.gz</a></li></ul>Debian packages should hit the archive as soon as they get evaluated and sponsored. Of course, a full status report will also be posted during the evaluation time.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-18 16:48:19 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Gustavo R. Montesino</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-18 16:48:19 UTC</td></tr>
+<tr><th>Author:</th><td>Gustavo R. Montesino</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.fooishbar.org/blog/life/stonesCorollory-2007-08-18-17-12.html"><b>Daniel Stone: a fit of narcissism</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.fooishbar.org/blog/life/stonesCorollory-2007-08-18-17-12.html">Daniel Stone: a fit of narcissism</a>
+</td></tr></table>
 
 <br/>
 Courtesy of an article in today's Guardian, I present Stone's Corollary to
@@ -1952,22 +1791,19 @@ change grows longer, the probability of stating that China is <a href="http://ww
 <br />
 When used as a defence for driving an SUV, I'd also like to invoke the sudden
 death variant, where the discussion is finished immediately.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-18 14:21:46 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-18 14:21:46 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blog.drinsama.de/erich/en/2007081701-skype.html"><b>Erich Schubert: More (ranting) on Skype</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blog.drinsama.de/erich/en/2007081701-skype.html">Erich Schubert: More (ranting) on Skype</a>
+</td></tr></table>
 
 <p>A couple of people have pointed me to the "Skype DoS exploit code" that has
 been published. I had seen that, but I'm not convinced it works as simple
@@ -2012,22 +1848,19 @@ for "Silver Needle In The Skype")</li>
 been offering before <em>except</em> being really <em>aggressive</em> at
 getting through firewalls without any user intervention.
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-18 12:14:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-18 12:14:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.gag.com/cgi-bin/blosxom/2007/08/18#2007.08.18"><b>Bdale Garbee: Conservation: It's in the Bag</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.gag.com/cgi-bin/blosxom/2007/08/18#2007.08.18">Bdale Garbee: Conservation: It's in the Bag</a>
+</td></tr></table>
 
 <p>
 I was just reading the latest issue of 
@@ -2049,22 +1882,19 @@ global resources.  Even if it is slow or small, take that first step.
 <p>
 I like that.  Conservation, courtesy, and generosity should never go out of style...
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-18 08:52:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-18 08:52:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.lupin.org.uk/blog/computing/blocking-firefox.html"><b>Pete Nuttall: Firefox blocking</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.lupin.org.uk/blog/computing/blocking-firefox.html">Pete Nuttall: Firefox blocking</a>
+</td></tr></table>
 
 <br/>
 The great thing about the internet is that people can use it to make a
@@ -2078,62 +1908,53 @@ They point out they can't block people who are using the Ad Blocker,
 so they have to block every firefox user. This is the MPAAs thinking -
 the user is the enemy. For me, all it means is that I can't visit these
 websites - I'll have to go spend money somewhere else...
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-18 04:59:42 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-18 04:59:42 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://ramblingfoo.blogspot.com/2007/08/how-did-debian-games-team-got-rid-of.html"><b>Eddy Petrișor: how did the Debian Games Team got rid of spam</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://ramblingfoo.blogspot.com/2007/08/how-did-debian-games-team-got-rid-of.html">Eddy Petrișor: how did the Debian Games Team got rid of spam</a>
+</td></tr></table>
 
 <br/>
 How to get rid of most spam on <span class="blsp-spelling-corrected" id="SPELLING_ERROR_0">Alioth</span> mailing lists.<br /><br />Until some <span class="blsp-spelling-corrected" id="SPELLING_ERROR_1">Debian</span> developer implements <a href="http://wiki.debian.org/UsefulImprovements#head-e0eab470284b59976fc9c112a979ecf674879d27">this idea</a> in the <span class="blsp-spelling-error" id="SPELLING_ERROR_2">BTS</span>, the mailing list and in <span class="blsp-spelling-error" id="SPELLING_ERROR_3">PTS</span>, the quantities of spam that people get on the mail addresses they expose in the Debian world, the spam will keep on coming in huge quantities. I don't care that there will always be spam, I care that the <span class="blsp-spelling-corrected" id="SPELLING_ERROR_4">amount</span> of spam would be lower or probably <span class="blsp-spelling-corrected" id="SPELLING_ERROR_5">nonexistent</span> for one time sending (I sent just one mail to the <span class="blsp-spelling-error" id="SPELLING_ERROR_6">BTS</span> from two <span class="blsp-spelling-corrected" id="SPELLING_ERROR_7">different</span> mail addresses and it was enough to get huge amounts of spam on them).<br /><br /><br />The Debian Games Team's ML has suffered for a while, back in 2006, from spam bombing.<br />We thought that the easiest method to get rid of spam is to requires registration in order to be able to send mails to the list.<br /><br />That was a big mistake because, as some people suspect, mails from the <span class="blsp-spelling-error" id="SPELLING_ERROR_8">BTS</span> needed to be allowed in and the reporters got an automated reply saying that the mail is waiting for <span class="blsp-spelling-corrected" id="SPELLING_ERROR_9">approval</span>, etc, etc - plain rude, people send you bug reports and you say "You are not listed, <span class="blsp-spelling-error" id="SPELLING_ERROR_10">bla</span>, <span class="blsp-spelling-error" id="SPELLING_ERROR_11">bla</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_12">bla</span>". We changed the setting not to send any automatic reply and people were more content.<br /><br />But still, we had to hand approve or white list valid mails/addresses. That worked for a while, but once the mail ended up on <span class="blsp-spelling-error" id="SPELLING_ERROR_13">spammer</span> lists, the thing blew out of proportions. We were desperate. We tweaked the settings of the lists in <span class="blsp-spelling-corrected" id="SPELLING_ERROR_14">different</span> ways, but in the end we ended up in having such a broken setup that we had to approve white listed addresses.<br /><br />That did for me. I had to do something. So I started working on the ML setup and basically I did <a href="http://lists.debian.org/debian-devel-games/2007/04/msg00035.html">the following things</a> to get rid of spam:<br /><ul><li>anything coming from white listed mail addresses was approved</li><li>black listed mails (<span class="blsp-spelling-error" id="SPELLING_ERROR_15">bellsouth</span> is one of those) is rejected (or should be)</li><li>anything that came from the <span class="blsp-spelling-error" id="SPELLING_ERROR_16">BTS</span> (there are some nice headers that the <span class="blsp-spelling-error" id="SPELLING_ERROR_17">BTS</span> puts) and was evaluated as ham with a score of 0 (there is a field for that, too - some field has Spam=No, Score=...) was allowed</li><li>anything that came from the <span class="blsp-spelling-error" id="SPELLING_ERROR_18">BTS</span> that was Spam=No with a score above 0 was held for moderation</li><li>anything else is held for moderation</li></ul><br />This solution allowed us to lighten the burden of manually white listing every email address that ever sent valid mails to the <span class="blsp-spelling-error" id="SPELLING_ERROR_19">BTS</span> and to focus only on real spam.<br /><br />Try it your self on your lists, you'll be <span class="blsp-spelling-corrected" id="SPELLING_ERROR_20">pleasantly</span> surprised.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-18 03:33:11 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">eddyp</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-18 03:33:11 UTC</td></tr>
+<tr><th>Author:</th><td>eddyp</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.gwolf.org/index.php/blog/show/Aggressive-bug-reports-leading-to-a-good-answer-or-so-I-hope.html"><b>Gunnar Wolf: Aggressive bug reports leading to a good answer (or so I hope)</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.gwolf.org/index.php/blog/show/Aggressive-bug-reports-leading-to-a-good-answer-or-so-I-hope.html">Gunnar Wolf: Aggressive bug reports leading to a good answer (or so I hope)</a>
+</td></tr></table>
 
 <p>Joey <a href="http://kitenet.net/~joey/blog/entry/a_little_politeness__44___please/">complains about users filing aggressive or otherwise inappropriate bug reports</a>. Well, in this case I must say I bit the bullet.<br />Yesterday, somebody <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=438168">complained about the maintenance statuse</a> of <a href="http://packages.debian.org/cgi-bin/search_packages.pl?searchon=names&#038;version=all&#038;exact=1&#038;keywords=libapache2-mod-perl2">libapache2-mod-perl2</a>. Usually, I would have sadly nodded and said that, yes, since the API change between mod_perl for Apache 1.x and mod_perl2 for Apache 2.x (which was a <em>long</em> time ago - with perfect timing <em>not</em> to be accepted in the last weeks of Sarge's hard-freeze period, causing many of us to have to maintain two or even three versions of our code depending on the API used - But that's a different story I won't go into details now). But this time, the bug report was sent with <tt>Severity: critical</tt>.<br />I replied to this report, intending just to lower its priority and get the attention of the maintainers by <a href="http://lists.debian.org/debian-devel/2007/08/msg00681.html">sending it to a couple of Debian lists</a> - But soon afterwards, it became obvious that I was probably the person most interested in this package in Debian - At least, me and some other <a href="http://alioth.debian.org/projects/pkg-perl">pkg-perl fellows</a> who -as foolishly as myself- volunteered to step forward when needed.<br />Well, in short: I am now the proud owner of one of the packages most vital for many of the systems I've written for my work. It's also more complex than most of the other packages I maintain. From an undermaintained and quite full of warnings build process and resulting package set, I managed to make it linda- and lintian- clean, and... Well, now we have to dig through its <a href="http://bugs.debian.org/cgi-bin/pkgreport.cgi?pkg=libapache2-mod-perl2;dist=unstable">open bugs</a>. Its build system is far from orthodox from a Perl point of view, and that took me most of the day, but hey - TIMTOWTDI, right? :)
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-17 21:47:40 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Gunnar Wolf</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-17 21:47:40 UTC</td></tr>
+<tr><th>Author:</th><td>Gunnar Wolf</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blog.drinsama.de/erich/en/2007081701-skype-problems-not-solved-just-worked-around.html"><b>Erich Schubert: Skype problems aren't solved, but just worked around?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blog.drinsama.de/erich/en/2007081701-skype-problems-not-solved-just-worked-around.html">Erich Schubert: Skype problems aren't solved, but just worked around?</a>
+</td></tr></table>
 
 <p>Skype seems slowly to recover from yesterdays blackout.</p><p>However, it doesn't look to me as if they've actually solved the problem. I
 assume they've just added a workaround (e.g. maybe using DNS to locate good
@@ -2159,31 +1980,28 @@ down the attacks?)</p><p>P.P.S. Another interesting note: the Skype stats on the
 5.5 Million connected users - my Skype client reports 3.7 Million. Which
 number is correct?
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-17 20:55:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-17 20:55:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.debian.org/">
-<b>Planet Debian</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.sukria.net/en/archives/2007/08/17/the-road-to-libdevel-repl-perl-part-1/"><b>Alexis Sukrieh: The road to libdevel-repl-perl, part 1</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.debian.org/">
+Planet Debian</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.sukria.net/en/archives/2007/08/17/the-road-to-libdevel-repl-perl-part-1/">Alexis Sukrieh: The road to libdevel-repl-perl, part 1</a>
+</td></tr></table>
 
 <p>I decided to play with Devel::REPL which looks to be exactly what I need to enhance my Perl Console. That module is not packaged in Debian, then I started packaging it with the help of the Debian Perl Group (big thanks go to Damyan Ivanov for his help).</p>
 <p>The day was pretty productive and we&#8217;re almost done now, as you can see in this tomboy note:</p>
 <p><img src="http://www.sukria.net/images/libdevel-repl-perl-deps.png" /></p>
 <p><em> PS MadCoder: I&#8217;m sorry dude, I&#8217;m still speaking about Perl <img src="http://www.sukria.net/en/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> </em>
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-08-17 20:42:51 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-08-17 20:42:51 UTC</td></tr>
 </table>
 
 </body></html>

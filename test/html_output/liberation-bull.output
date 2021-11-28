@@ -11,215 +11,180 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">ISO-8859-1</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>ISO-8859-1</td></tr></table>
 <br/>
 Les titres de la une de Liberation.fr
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=391429"><b>Durand ou Dupont.fr, c'est pour demain</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=391429">Durand ou Dupont.fr, c'est pour demain</a>
+</td></tr></table>
 
 <p>Dès mardi 9&nbsp;heures, tout internaute majeur qui dispose d'une adresse postale en France pourra déposer un nom de domaine en «&nbsp;.fr&nbsp;»&nbsp;&bull; Mode d'emploi&nbsp;&bull;</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 14:35:35 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 14:35:35 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=391404"><b>Peine de mort requise contre Saddam Hussein</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=391404">Peine de mort requise contre Saddam Hussein</a>
+</td></tr></table>
 
 <p>Le procureur général du Haut tribunal pénal irakien a requis lundi la peine de mort contre Saddam Hussein, son demi-frère Barzan al-Tikriti et l'ancien vice-président Taha Yassine Ramadan&nbsp;&bull; Ils comparaissent  depuis octobre dernier pour crime contre l'humanité&nbsp;&bull;</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 11:20:28 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 11:20:28 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=391414&Template=GALERIE&Objet=70889"><b>EN IMAGES • Balade en 3D à Beaubourg</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=391414&Template=GALERIE&Objet=70889">EN IMAGES • Balade en 3D à Beaubourg</a>
+</td></tr></table>
 
 <br/>
 Concoctée avec des compositeurs de l'Ircam, «Seule avec loup» est une navigation chorégraphique en 3D dans une forêt enchantée par des danseurs numériques clonés &bull; Visite en images &bull;<br />
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 12:59:07 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 12:59:07 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=391424"><b>« Le potentiel de protection existe »</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=391424">« Le potentiel de protection existe »</a>
+</td></tr></table>
 
 <p>INTERVIEW &bull; Alors que le Conseil des droits de l'Homme des Nations unies s'est réuni pour une première session  à Genève, l'analyse d'Antoine Bernard, directeur  exécutif au secrétariat international de la Fédération Internationale des Droits de l'Homme à Paris &bull;</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 14:49:35 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 14:49:35 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=391397"><b>« J'étais fatigué et je me suis dit que ça me donnerait un coup de fouet »</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=391397">« J'étais fatigué et je me suis dit que ça me donnerait un coup de fouet »</a>
+</td></tr></table>
 
 <br/>
 Le procès de 23&nbsp;personnes appartenant au milieu du cyclisme amateur et soupçonnées d'avoir participé, entre 2002 et 2005, à un vaste trafic de «&nbsp;pot belge&nbsp;», un cocktail de produits dopants, s'est ouvert lundi à Bordeaux &bull; L'un des prévenus, sous couvert de l'anonymat, a témoigné pour «&nbsp;Libération&nbsp;» &bull;<br />
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 10:39:06 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 10:39:06 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=391421"><b>Le sous-officier meurtrier d'un Ivoirien va être libéré</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=391421">Le sous-officier meurtrier d'un Ivoirien va être libéré</a>
+</td></tr></table>
 
 <p>L'adjudant-chef Guy Raugel va sortir de la prison de la Santé&nbsp;&bull; La cour d'appel de Paris a ordonné lundi la mise en liberté du seul militaire encore incarcéré pour homicide volontaire dans l'affaire Firmin Mahé&nbsp;&bull;</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 13:07:16 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 13:07:16 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=391394"><b>A ECOUTER : « Jean Nouvel a décidé de changer la couleur »</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=391394">A ECOUTER : « Jean Nouvel a décidé de changer la couleur »</a>
+</td></tr></table>
 
 <p>Visite sonore du chantier du musée des Arts premiers au Quai-Branly, avant l'inauguration par Jacques Chirac&nbsp;&bull;</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 10:44:59 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 10:44:59 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=391223"><b>Et vogue la galère bleue</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=391223">Et vogue la galère bleue</a>
+</td></tr></table>
 
 <p>Groupe G &bull; Les Français ont failli face aux Coréens (1-1) &bull; Mathématiquement, les Bleus ne sont pas éliminés mais la sortie n'est pas loin &bull; Zidane pourrait même avoir joué dimanche son dernier match sous le maillot tricolore &bull;</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 11:26:30 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 11:26:30 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=391389"><b>Chasse à la baleine : le Japon met la pression</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=391389">Chasse à la baleine : le Japon met la pression</a>
+</td></tr></table>
 
 <p>Durant la Commission baleinière internationale (CBI), Tokyo tente par tous les moyens de rallier des pays à sa cause pro-chasse&nbsp;&bull; Le Japon a obtenu une déclaration assurant que le moratoire de 20&nbsp;ans sur la chasse commerciale n'est «&nbsp;plus nécessaire dorénavant&nbsp;»&nbsp;&bull;</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 10:27:02 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 10:27:02 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=391392"><b>Nokia Siemens Networks bientôt numéro trois mondial</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=391392">Nokia Siemens Networks bientôt numéro trois mondial</a>
+</td></tr></table>
 
 <p>L'allemand Siemens et le finlandais Nokia vont fusionner leurs activités d'équipements de téléphonie et de réseaux&nbsp;&bull; Cette nouvelle entité pèsera quelque 16&nbsp;milliards&nbsp;d'euros de chiffre d'affaires&nbsp;&bull;</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 10:04:25 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 10:04:25 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.liberation.fr">
-<b>Liberation.fr - A la une</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=391310"><b>«Qui prendra le risque d'interpeller la Chine ?»</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.liberation.fr">
+Liberation.fr - A la une</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=391310">«Qui prendra le risque d'interpeller la Chine ?»</a>
+</td></tr></table>
 
 <p>Eric Sottas, d'une ONG spécialisée, se dit sceptique sur le Conseil des droits de l'homme que l'ONU lance aujourd'hui :</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 04:00:21 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 04:00:21 UTC</td></tr>
 </table>
 
 </body></html>

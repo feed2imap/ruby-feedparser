@@ -11,136 +11,114 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://www.lugradio.org/episodes.rss">
-<b>LugRadio (high-quality mp3)</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">ISO-8859-1</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://www.lugradio.org/episodes.rss">
+LugRadio (high-quality mp3)</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>ISO-8859-1</td></tr></table>
 <br/>
 The world's premiere Linux and Free Software radio 
 show
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.lugradio.org/episodes.rss">
-<b>LugRadio (high-quality mp3)</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.lugradio.org/episodes/57"><b>Guadec Day 4</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.lugradio.org/episodes.rss">
+LugRadio (high-quality mp3)</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.lugradio.org/episodes/57">Guadec Day 4</a>
+</td></tr></table>
 
 <br/>
-Jono Bacon, Stuart Langridge,  and <span title="chin" style="border-bottom: 1px dotted #ccc">Ade  Bradshaw</span> finish the LugRadio coverage of <a href="http://guadec.org">Guadec  2006</a>.  Today&#039;s show has interviews with Bastian Nocera from Red Hat and  Philippe Normand and Jan Schmidt from the Elisa project.</p>  <p>The final show: thanks very much to the Guadec organisers for  inviting us to be media partners for the event. We&#039;ve had a blast, and  we&#039;ll see you for Guadec next year.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://audio.lugradio.org/season3/ep22/lugradio-s03e22-300606.mp3?podcast">lugradio-s03e22-300606.mp3?podcast</a> (25.4 MB, audio/mpeg)</td></tr>
-</table></td></tr></table>
+Jono Bacon, Stuart Langridge,  and <span title="chin" style="border-bottom: 1px dotted #ccc">Ade  Bradshaw</span> finish the LugRadio coverage of <a href="http://guadec.org">Guadec  2006</a>.  Today&#039;s show has interviews with Bastian Nocera from Red Hat and  Philippe Normand and Jan Schmidt from the Elisa project.</p>  <p>The final show: thanks very much to the Guadec organisers for  inviting us to be media partners for the event. We&#039;ve had a blast, and  we&#039;ll see you for Guadec next year.</p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://audio.lugradio.org/season3/ep22/lugradio-s03e22-300606.mp3?podcast">lugradio-s03e22-300606.mp3?podcast</a> (25.4 MB, audio/mpeg)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-30 00:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-30 00:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.lugradio.org/episodes.rss">
-<b>LugRadio (high-quality mp3)</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.lugradio.org/episodes/56"><b>Guadec Day 3</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.lugradio.org/episodes.rss">
+LugRadio (high-quality mp3)</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.lugradio.org/episodes/56">Guadec Day 3</a>
+</td></tr></table>
 
 <br/>
-Jono Bacon, <span title="Citrus boy" style="border-bottom: 1px dotted #ccc">Stuart Langridge</span>  and <span title="Wisest of the wise" style="border-bottom: 1px dotted #ccc">Ade Bradshaw</span> continue their coverage of <a href="http://guadec.org">Guadec</a>  Todays show has interviews with <ul> <li>Robert Love &amp; Joe Shaw</li> <li>Luis Villa</li> </ul> We also have a discussion on &quot;Ming or Bling?&quot;<p> Stay tuned for more tomorrow ... </p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://audio.lugradio.org/season3/ep21/lugradio-s03e21-290606.mp3?podcast">lugradio-s03e21-290606.mp3?podcast</a> (23.7 MB, audio/mpeg)</td></tr>
-</table></td></tr></table>
+Jono Bacon, <span title="Citrus boy" style="border-bottom: 1px dotted #ccc">Stuart Langridge</span>  and <span title="Wisest of the wise" style="border-bottom: 1px dotted #ccc">Ade Bradshaw</span> continue their coverage of <a href="http://guadec.org">Guadec</a>  Todays show has interviews with <ul> <li>Robert Love &amp; Joe Shaw</li> <li>Luis Villa</li> </ul> We also have a discussion on &quot;Ming or Bling?&quot;<p> Stay tuned for more tomorrow ... </p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://audio.lugradio.org/season3/ep21/lugradio-s03e21-290606.mp3?podcast">lugradio-s03e21-290606.mp3?podcast</a> (23.7 MB, audio/mpeg)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-29 00:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-29 00:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.lugradio.org/episodes.rss">
-<b>LugRadio (high-quality mp3)</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.lugradio.org/episodes/55"><b>Guadec Day 2</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.lugradio.org/episodes.rss">
+LugRadio (high-quality mp3)</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.lugradio.org/episodes/55">Guadec Day 2</a>
+</td></tr></table>
 
 <br/>
-Ali Baba, Stuart Langridge and <span  title="cleverest man in the world. beard." style="border-bottom: 1px dotted #ccc">Ade Bradshaw</span> are still at <a href="http://guadec.org">Guadec</a>, and this  is day 2&#039;s show! Including  interviews with <span title="the internet&#039;s">Ted Haegar</span> and  Edward "<a href="http://www.pitivi.org/">PiTiVi</a>" Hervey, thoughts on  lightning talks, GStreamer, and insane beer drinking, and why Jono looks  like Ali Baba. More tomorrow! </p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://audio.lugradio.org/season3/ep20/lugradio-s03e20-280606.mp3?podcast">lugradio-s03e20-280606.mp3?podcast</a> (28.2 MB, audio/mpeg)</td></tr>
-</table></td></tr></table>
+Ali Baba, Stuart Langridge and <span  title="cleverest man in the world. beard." style="border-bottom: 1px dotted #ccc">Ade Bradshaw</span> are still at <a href="http://guadec.org">Guadec</a>, and this  is day 2&#039;s show! Including  interviews with <span title="the internet&#039;s">Ted Haegar</span> and  Edward "<a href="http://www.pitivi.org/">PiTiVi</a>" Hervey, thoughts on  lightning talks, GStreamer, and insane beer drinking, and why Jono looks  like Ali Baba. More tomorrow! </p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://audio.lugradio.org/season3/ep20/lugradio-s03e20-280606.mp3?podcast">lugradio-s03e20-280606.mp3?podcast</a> (28.2 MB, audio/mpeg)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-28 00:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-28 00:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.lugradio.org/episodes.rss">
-<b>LugRadio (high-quality mp3)</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.lugradio.org/episodes/54"><b>Guadec Day 1</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.lugradio.org/episodes.rss">
+LugRadio (high-quality mp3)</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.lugradio.org/episodes/54">Guadec Day 1</a>
+</td></tr></table>
 
 <br/>
-Jono Bacon, Stuart Langridge & <span  title="The most clever man ever" style="border-bottom: 1px dotted #ccc">Ade Bradshaw</span> talk about their first day at <a href="http://guadec.org">Guadec</a>, including interviews with: </p> <ul> <li>Mirco Müller</li> <li>Aaron Bockover</li> </ul> <p>This is the first of (hopefully) five mini episodes that we are recording while at Guadec.  </p><p> Its worth saying that we have had a few microphone issues, so please forgive  the occasional crackle </p><p> Its also worth mentioning that we used Jokosher for the recording, this is the first time we have used it and its gone quite well all things considered  </p> <p>Enjoy and stay turned for the rest.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://audio.lugradio.org/season3/ep19/lugradio-s03e019-260606.mp3?podcast">lugradio-s03e019-260606.mp3?podcast</a> (20.4 MB, audio/mpeg)</td></tr>
-</table></td></tr></table>
+Jono Bacon, Stuart Langridge & <span  title="The most clever man ever" style="border-bottom: 1px dotted #ccc">Ade Bradshaw</span> talk about their first day at <a href="http://guadec.org">Guadec</a>, including interviews with: </p> <ul> <li>Mirco Müller</li> <li>Aaron Bockover</li> </ul> <p>This is the first of (hopefully) five mini episodes that we are recording while at Guadec.  </p><p> Its worth saying that we have had a few microphone issues, so please forgive  the occasional crackle </p><p> Its also worth mentioning that we used Jokosher for the recording, this is the first time we have used it and its gone quite well all things considered  </p> <p>Enjoy and stay turned for the rest.</p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://audio.lugradio.org/season3/ep19/lugradio-s03e019-260606.mp3?podcast">lugradio-s03e019-260606.mp3?podcast</a> (20.4 MB, audio/mpeg)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-27 00:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-27 00:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.lugradio.org/episodes.rss">
-<b>LugRadio (high-quality mp3)</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.lugradio.org/episodes/53"><b>Beard/Linux</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.lugradio.org/episodes.rss">
+LugRadio (high-quality mp3)</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.lugradio.org/episodes/53">Beard/Linux</a>
+</td></tr></table>
 
 <br/>
-Jono Bacon, Stuart Langridge, <span  title="His Baldness, Bald of the Baldness" style="border-bottom: 1px dotted #ccc">Ade Bradshaw</span>, and Matthew Revell talk about Linux and whatever else comes along, including: </p> <ul> <li>Matthew East of the <a href="http://doc.ubuntu.com/">Ubuntu  Documentation Project</a> talks about docs in the open source world, how important it is, and how you can be involved (1.08)</li> <li>Collaborative editing of documents in <a  href="http://gnomejournal.org/article/31/gocollab----peer-to-peer-document-collaboration">AbiWord</a>  and <a  href="http://darcs.0x539.de/trac/obby/cgi-bin/trac.cgi">gobby</a>, and  how people can collaborate to write documentation for software (16.12)</li> <li>Gareth Bowker from <a href="http://www.fsfeurope.org/">FSF  Europe</a> talks about what FSF Europe do and how separate they are from  the US Free Software Foundation (32.00)</li> <li>The team talk about Richard Stallman refusing to be interviewed  because we talk about "open source" and "Linux" rather than "free  software" and "GNU/Linux", and whether that&#039;s a reasonable stance to  take (45.37)</li> <li>Should someone create and devote time to a Linux distribution that  just looks pretty? (55.38)</li> <li>Your emails (65.05)</li> </ul><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://audio.lugradio.org/season3/ep18/lugradio-s03e18-190606-high.mp3?podcast">lugradio-s03e18-190606-high.mp3?podcast</a> (41.8 MB, audio/mpeg)</td></tr>
-</table></td></tr></table>
+Jono Bacon, Stuart Langridge, <span  title="His Baldness, Bald of the Baldness" style="border-bottom: 1px dotted #ccc">Ade Bradshaw</span>, and Matthew Revell talk about Linux and whatever else comes along, including: </p> <ul> <li>Matthew East of the <a href="http://doc.ubuntu.com/">Ubuntu  Documentation Project</a> talks about docs in the open source world, how important it is, and how you can be involved (1.08)</li> <li>Collaborative editing of documents in <a  href="http://gnomejournal.org/article/31/gocollab----peer-to-peer-document-collaboration">AbiWord</a>  and <a  href="http://darcs.0x539.de/trac/obby/cgi-bin/trac.cgi">gobby</a>, and  how people can collaborate to write documentation for software (16.12)</li> <li>Gareth Bowker from <a href="http://www.fsfeurope.org/">FSF  Europe</a> talks about what FSF Europe do and how separate they are from  the US Free Software Foundation (32.00)</li> <li>The team talk about Richard Stallman refusing to be interviewed  because we talk about "open source" and "Linux" rather than "free  software" and "GNU/Linux", and whether that&#039;s a reasonable stance to  take (45.37)</li> <li>Should someone create and devote time to a Linux distribution that  just looks pretty? (55.38)</li> <li>Your emails (65.05)</li> </ul><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://audio.lugradio.org/season3/ep18/lugradio-s03e18-190606-high.mp3?podcast">lugradio-s03e18-190606-high.mp3?podcast</a> (41.8 MB, audio/mpeg)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-19 00:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-19 00:00:00 UTC</td></tr>
 </table>
 
 </body></html>

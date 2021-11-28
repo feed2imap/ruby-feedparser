@@ -11,84 +11,70 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://www.europe1.fr/">
-<b>Europe1 - L'essentiel de l'info</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://www.europe1.fr/">
+Europe1 - L'essentiel de l'info</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 <br/>
 L'essentiel de l'info d'Europe 1 : partout, tout le temps.
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.europe1.fr/">
-<b>Europe1 - L'essentiel de l'info</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.europe1.fr/informations/les-titres.jsp"><b>L'essentiel de l'info 03/07/2006 19H55</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.europe1.fr/">
+Europe1 - L'essentiel de l'info</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.europe1.fr/informations/les-titres.jsp">L'essentiel de l'info 03/07/2006 19H55</a>
+</td></tr></table>
 
-<p>03/07 L'essentiel de l'info : Météo du soir, Journal du soir, Bourse en fin de séance, M. Carrère d'Encausse.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://dl.europe1.fr.ipercast.net/Europe1_l_essentiel_de_l_info_03_07_2006_19H55.mp3">Europe1_l_essentiel_de_l_info_03_07_2006_19H55.mp3</a> (8.9 MB, audio/mpeg)</td></tr>
-</table></td></tr></table>
+<p>03/07 L'essentiel de l'info : Météo du soir, Journal du soir, Bourse en fin de séance, M. Carrère d'Encausse.</p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://dl.europe1.fr.ipercast.net/Europe1_l_essentiel_de_l_info_03_07_2006_19H55.mp3">Europe1_l_essentiel_de_l_info_03_07_2006_19H55.mp3</a> (8.9 MB, audio/mpeg)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-07-03 17:55:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-07-03 17:55:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.europe1.fr/">
-<b>Europe1 - L'essentiel de l'info</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.europe1.fr/informations/les-titres.jsp"><b>L'essentiel de l'info 03/07/2006 13H35</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.europe1.fr/">
+Europe1 - L'essentiel de l'info</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.europe1.fr/informations/les-titres.jsp">L'essentiel de l'info 03/07/2006 13H35</a>
+</td></tr></table>
 
-<p>03/07 L'essentiel de l'info : Météo mi-journée, Journal de la mi-journée, Bourse de la mi-journée, Lu dans la presse M. Grossiord.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://dl.europe1.fr.ipercast.net/Europe1_l_essentiel_de_l_info_03_07_2006_13H35.mp3">Europe1_l_essentiel_de_l_info_03_07_2006_13H35.mp3</a> (11.0 MB, audio/mpeg)</td></tr>
-</table></td></tr></table>
+<p>03/07 L'essentiel de l'info : Météo mi-journée, Journal de la mi-journée, Bourse de la mi-journée, Lu dans la presse M. Grossiord.</p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://dl.europe1.fr.ipercast.net/Europe1_l_essentiel_de_l_info_03_07_2006_13H35.mp3">Europe1_l_essentiel_de_l_info_03_07_2006_13H35.mp3</a> (11.0 MB, audio/mpeg)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-07-03 11:35:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-07-03 11:35:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.europe1.fr/">
-<b>Europe1 - L'essentiel de l'info</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.europe1.fr/informations/les-titres.jsp"><b>L'essentiel de l'info 03/07/2006 11H47</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.europe1.fr/">
+Europe1 - L'essentiel de l'info</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.europe1.fr/informations/les-titres.jsp">L'essentiel de l'info 03/07/2006 11H47</a>
+</td></tr></table>
 
-<p>01/07 L'essentiel de l'info : Météo du soir, Journal du soir, Art de vivre Caroline Corvaisier.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://dl.europe1.fr.ipercast.net/Europe1_l_essentiel_de_l_info_03_07_2006_11H47.mp3">Europe1_l_essentiel_de_l_info_03_07_2006_11H47.mp3</a> (8.8 MB, audio/mpeg)</td></tr>
-</table></td></tr></table>
+<p>01/07 L'essentiel de l'info : Météo du soir, Journal du soir, Art de vivre Caroline Corvaisier.</p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://dl.europe1.fr.ipercast.net/Europe1_l_essentiel_de_l_info_03_07_2006_11H47.mp3">Europe1_l_essentiel_de_l_info_03_07_2006_11H47.mp3</a> (8.8 MB, audio/mpeg)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-07-03 09:47:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-07-03 09:47:00 UTC</td></tr>
 </table>
 
 </body></html>

@@ -11,114 +11,97 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://hadess.net">
-<b>Bastien's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://hadess.net">
+Bastien's Blog</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 <br/>
 Day In - Rock Out
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://hadess.net">
-<b>Bastien's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=577"><b>Work In Progress</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://hadess.net">
+Bastien's Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=577">Work In Progress</a>
+</td></tr></table>
 
 <br/>
 Yay! Got <a href="http://pilot-link.org/">pilot-link</a> to sync over Bluetooth, without the crappy 'Set up a PPP server' bit. Now to download <a href="http://palmsource.palmgear.com/index.cfm?fuseaction=software.showsoftware&prodID=52957">BtSync</a>.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-09-21 01:16:39 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Bastien Nocera</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-09-21 01:16:39 UTC</td></tr>
+<tr><th>Author:</th><td>Bastien Nocera</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://hadess.net">
-<b>Bastien's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=576"><b>Student again</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://hadess.net">
+Bastien's Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=576">Student again</a>
+</td></tr></table>
 
 <br/>
 First day at <a href="http://www.surrey.ac.uk/">Uni</a>, registration, seeing the faces of my new classmates. Definitely the eldest one, the Frenchest one (not the foreignest one, there are 2 Russian girls in the class), and the only one doing it part-time. So I started skipping this afternoon (<i>Welcome to the bestest Uni in England</i> and <i>Where do I do sports</i> that's mostly interesting to 18-year olds who've never left home, like, hmm, most of them). Only the fresher's drinks to go to tomorrow, so I can try and get over the flu I picked up this week-end.<p>
 Done a bit of work on Bluetooth, mainly research, and general updating. <a href="http://noring.nocrew.org/">Fredrik Noring</a> has joined in to help with the ever-distant <a href="http://hadess.net/?start=566">gnome-bluetooth-manager</a>. Busy adding new features to libbtctl for now, the fun work will come a bit later.<p>
 Watched <a href="http://us.imdb.com/title/tt0372588/">Team America</a>. Would
 be a funny film if it didn't feel so true.<p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-09-19 23:04:58 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Bastien Nocera</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-09-19 23:04:58 UTC</td></tr>
+<tr><th>Author:</th><td>Bastien Nocera</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://hadess.net">
-<b>Bastien's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=575"><b>/summon</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://hadess.net">
+Bastien's Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=575">/summon</a>
+</td></tr></table>
 
 <br/>
 Lazy Web, oh Lazy Web, can you tell me a good Obex FTP client for Palm OS?<p>
 PS: <a href="http://www.imdb.com/title/tt0072271/">Texas Chainsaw Massacre</a> sucks. And <a href="http://blogs.gnome.org/view/calum?reverse=1">Calum</a> will be happy we only managed <a href="http://news.bbc.co.uk/sport1/hi/football/europe/4234188.stm">a draw</a>. Glory hunter, my arse.<p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-09-14 23:22:35 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Bastien Nocera</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-09-14 23:22:35 UTC</td></tr>
+<tr><th>Author:</th><td>Bastien Nocera</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://hadess.net">
-<b>Bastien's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=574"><b>Won it!</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://hadess.net">
+Bastien's Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=574">Won it!</a>
+</td></tr></table>
 
 <br/>
 You'd think that Brits would get behind the England and Wales team <a href="http://news.bbc.co.uk/sport1/hi/cricket/england/4237610.stm">winning the Ashes</a>, but <a href="http://blogs.gnome.org/view/calum/2005/09/12/0">no</a>. Calum, you're cheap. I hope Motherwell loses (again)[1].<p>
 All hail to McGratthie!<p>
 [1]: it's low, but you deserved it.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-09-12 22:16:44 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Bastien Nocera</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-09-12 22:16:44 UTC</td></tr>
+<tr><th>Author:</th><td>Bastien Nocera</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://hadess.net">
-<b>Bastien's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=573"><b>Film Feast</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://hadess.net">
+Bastien's Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=573">Film Feast</a>
+</td></tr></table>
 
 <br/>
 Could have been a fest, was a feast. Good and bad together.<br>
@@ -135,23 +118,20 @@ src="http://www.bbc.co.uk/weather/images/symbols/fiveday_sym/3.gif" align="cente
 <p align="center"><i>Can England fail to play in that nice weather?</i></p>
 </td></tr>
 </table><p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-09-12 00:04:51 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Bastien Nocera</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-09-12 00:04:51 UTC</td></tr>
+<tr><th>Author:</th><td>Bastien Nocera</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://hadess.net">
-<b>Bastien's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=572"><b>McGratthie's on a roll</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://hadess.net">
+Bastien's Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=572">McGratthie's on a roll</a>
+</td></tr></table>
 
 <br/>
 He got the 10 wickets out yesterday already! (Cricket lovers, don't despair, it's a private joke).<p>
@@ -171,23 +151,20 @@ src="http://hadess.net/blog/images/07-09-05_1930.jpg" align="middle" border=0><b
 <p align="center"><i>No, Alan Cox isn't the Creeper, he just plays in it</i></p>
 </td></tr>
 </table><p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-09-08 21:23:39 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Bastien Nocera</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-09-08 21:23:39 UTC</td></tr>
+<tr><th>Author:</th><td>Bastien Nocera</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://hadess.net">
-<b>Bastien's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=571"><b>It's all about timing</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://hadess.net">
+Bastien's Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=571">It's all about timing</a>
+</td></tr></table>
 
 <br/>
 And time! It's about time that I finish blogging about my <a href="http://hadess.net/">trip to Barcelona</a>. Day 4, nice, got to visit the <a href="http://hadess.net/files/photos/Barcelona_2005_day_4/">Sagrada Familia</a>. Very nice, convoluted, interweaved, and really overdone. After that, it all goes downhill.<p>
@@ -208,42 +185,36 @@ I wouldn't live in Barcelona, but it's certainly a good place to have friends in
 Or not quite. I've received my welcome pack for <a href="http://www.surrey.ac.uk/">UniS</a>, starts Monday 19th. And I'll be going to Boston for the <a href="http://live.gnome.org/Boston2005">Summit</a> (thanks Havoc for sorting it out), and after that to Raleigh to meet my new boss.<p>
 <b>Random bits</b><p>
 Watched <a href="http://us.imdb.com/title/tt0094012/">Spaceballs</a> (full of one-liners, but was certainly more entertaining to watch in the '80s) and <a href="http://www.imdb.com/title/tt0386588/">Hitch</a> (got no excuses, again). And Christian, in addition to having a <a href="http://blogs.gnome.org/view/uraeus/2005/08/27/0">Crazy Frog Background</a>, also has the <a href="http://www.linuxrising.org/screenshots/rootbert.png">Crazy Frog music in his collection</a>.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-09-06 20:06:18 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Bastien Nocera</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-09-06 20:06:18 UTC</td></tr>
+<tr><th>Author:</th><td>Bastien Nocera</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://hadess.net">
-<b>Bastien's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=570"><b>Ouch</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://hadess.net">
+Bastien's Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=570">Ouch</a>
+</td></tr></table>
 
 <p>So the evening was a tiny bit more eventful than prepared. First, Andrew Patrick (the good guy Wingo's mom name) got us down to a very nice tapas bar. Then, it got more furious. We ended up in Moog, and on the way I got offered unaldurated sex (for a fee), hachish, my balls grabbed (gratis), and 20 euros nicked out of my backpocket (gratis, again). The club was good, easy 80's upstairs, and hardcore noughts downstairs. The skinny really white guy standing next to me near the end was, well, Scottish. Would you believe. It's close to 6, and the second part of the night didn't go through. Shame, time to sleep now. Tada.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-08-31 03:50:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Bastien Nocera</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-08-31 03:50:00 UTC</td></tr>
+<tr><th>Author:</th><td>Bastien Nocera</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://hadess.net">
-<b>Bastien's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=569"><b>Can cause excessive fan speed</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://hadess.net">
+Bastien's Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=569">Can cause excessive fan speed</a>
+</td></tr></table>
 
 <br/>
 After my problems with plane tickets, I still managed to make it to sunny Bacelona. I say sunny, but it's an understatement. For some reason, I'm a sweaty guy, and whether or not the thermometer in <a href="http://blogs.gnome.org/view/uraeus?reverse=1">Christian</a>'s flat tells the truth (stuck as it is on 30 celsius), it is damn hot, and my two showers a day compulsory if I want to go into the world.<p>
@@ -273,30 +244,27 @@ src="http://hadess.net/files/photos/Barcelona_2005_day_3/lq/img-24.jpg" align="c
 </tr></td></table><p>
 Today was a late one again, and I strolled to <i>Monjuic</i> via the <i>Teleferic</i> after lunch at the Italian restaurant.<p>
 Another couple of days still, so it's going to be fun. Much thanks to Christian for the hosting, and the Fluendo guys (even the Aussies!) for company.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-08-30 16:17:51 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Bastien Nocera</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-08-30 16:17:51 UTC</td></tr>
+<tr><th>Author:</th><td>Bastien Nocera</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://hadess.net">
-<b>Bastien's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=568"><b>I hate booking plane tickets</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://hadess.net">
+Bastien's Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=568">I hate booking plane tickets</a>
+</td></tr></table>
 
 <br/>
 It's happened to me twice that I bought my tickets for the wrong week. One week off on the booking, and you end up paying more because you're not careful. I manage to top it this time, by booking my trip to Barcelona in the wrong direction. 160 quid later, I'm going in the right direction...<p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-08-27 10:39:30 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Bastien Nocera</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-08-27 10:39:30 UTC</td></tr>
+<tr><th>Author:</th><td>Bastien Nocera</td></tr>
 </table>
 
 </body></html>

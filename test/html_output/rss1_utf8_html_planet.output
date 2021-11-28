@@ -11,48 +11,40 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 <br/>
 Planet GNOME - http://planet.gnome.org/
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.inkstain.net/fleck/archives/001578.html"><b>John Fleck: Savant</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.inkstain.net/fleck/archives/001578.html">John Fleck: Savant</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/jfleck.png" align="right" alt=""><p>Last night, Sadie was behaving powerfully strangely. Lissa and I were reading in bed, and Sadie was moping around the bedroom, looking at us, sniffing at things, sometimes just standing there sadly, as if she was trying to tell us something.</p>
 
 <p>When I opened this morning's paper, I understood. <a href="http://english.aljazeera.net/NR/exeres/67D36E3F-9D1E-4E17-8938-5624B812897C.htm">Hunter S. Thompson</a> <em>and</em>  <a href="http://news.bbc.co.uk/1/hi/entertainment/film/4283213.stm">Sandra Dee</a> had died. It's like Sadie is some sort of pop culture doggie savant, like <em>she knew</em>.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 16:32:48 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 16:32:48 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.figuiere.net/hub/blog/?2005/02/21/100-software-rant"><b>Hubert Figuiere: Software Rant</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.figuiere.net/hub/blog/?2005/02/21/100-software-rant">Hubert Figuiere: Software Rant</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/hub.png" align="right" alt=""><ul>
 <li>I'm <a href="http://www.figuiere.net/hub/blog/?2005/02/09/83-all-mailers-suck">ranting about Evolution, its speed and its antispam</a>, I'm <a href="http://www.advogato.org/person/robertc/diary.html?start=31">not alone</a>. Someone should really start to replace this antispam by what we find in Thunderbird / Mozilla, including flagging as <code>\Junk</code> over IMAP (I couldn't find any reference in RFCs and couldn't find the code in Thunderbird, anyone has an idea?) <a href="http://bugzilla.ximian.com/show_bug.cgi?id=72547">see bug 72547</a>. For reference, marking one message as junk on my laptop take 15 to 20sec, even if the message is local.</li>
@@ -60,22 +52,19 @@ Planet GNOME - http://planet.gnome.org/
 <ul>
 <li>I'm ranting about MacOS X memory usage, I'm <a href="http://www.advogato.org/person/avriettea/diary.html?start=51">not alone</a>. With 256MB the MacMini is barely usable. I'll get a 1GB memory...</li>
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 16:11:35 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 16:11:35 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/bolsh/diary.html?start=81"><b>Dave Neary: 21 Feb 2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/bolsh/diary.html?start=81">Dave Neary: 21 Feb 2005</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/bolsh.png" align="right" alt=""><b>GUADEC progress</b>
 
@@ -90,62 +79,53 @@ Planet GNOME - http://planet.gnome.org/
 <p> <p> Finally, we're not asking for a formal oeuvre. You're not going to have your article submitted for a Pulitzer. A couple of pages presenting the major concepts you want to present, essentially a long abstract, is fine. And if you don't have time, or just don't want to, let us know at guadec-papers, and we'll sort something out.
 
 <p> <p> That said, I encourage everyone presenting to write a paper, at least 2 pages, at most 5, since it will really help the GNOME Users and Developers in Europe, who are, after all, what the conference is about.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 15:02:22 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 15:02:22 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://zaheer.merali.org/?p=100"><b>Zaheer Abbas Merali: Ashura</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://zaheer.merali.org/?p=100">Zaheer Abbas Merali: Ashura</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/zaheer.png" align="right" alt=""><p>Yesterday was <a href="http://www.ashura.com/">Ashura</a>.  The talks given at the mosque for the past 11 nights can be found <a href="http://www.hujjat.org/index.php?name=zina&#38;op=modload&#38;file=index&#38;p=Seyed+Modaressi%2FMuharram+1426">here</a> and were given by <a href="http://www.almodarresi.net/">Seyed Mahdi Al-Modarresi</a>.
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 13:59:55 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 13:59:55 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.gnome.org/~michael/activity.html#2005-02-21"><b>Michael Meeks: 2005-02-21: Monday</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.gnome.org/~michael/activity.html#2005-02-21">Michael Meeks: 2005-02-21: Monday</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/michael.png" align="right" alt=""><ul>
 	<li>Up late; J. off to rescue Janine from being
 boxed in in Town. Got the machine-room spun up again.
 </li></ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 12:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 12:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.beatniksoftware.com/blog/index.php?p=16"><b>Alex Graveley: Erotic cleft</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.beatniksoftware.com/blog/index.php?p=16">Alex Graveley: Erotic cleft</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/orph.png" align="right" alt=""><p>From <em>Jennifer and the Master: A Unique Erotica</em>, a hardcore S&#38;M book (opus really), the only book on my desk:</p>
 	<blockquote><p>Within the living mirror, the beholders fondle the erotic cleft between them.</p></blockquote>
@@ -160,22 +140,19 @@ boxed in in Town. Got the machine-room spun up again.
 	<li>Don&#8217;t search around and look for the &#8220;coolest&#8221; book you can find. Do what’s actually next to you.</li>
 </ol>
 </small></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 06:42:05 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 06:42:05 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://codeblogs.ximian.com/blogs/evolution/archives/000449.html"><b>Evolution: Evolution 2.0.4</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://codeblogs.ximian.com/blogs/evolution/archives/000449.html">Evolution: Evolution 2.0.4</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/logos/evolution.png" align="right" alt=""><p>The Evolution Team exuberantly announces the release of Evolution 2.0.4.  Unless any critical issues are are discovered this will be the last release in the 2.0.4 series.<br />
 Download the following:</p>
@@ -389,22 +366,19 @@ search functionality of Bugzilla.</p>
 
 <p>More information is available at the project website:<br />
 <a href="http://www.gnome.org/projects/evolution">http://www.gnome.org/projects/evolution</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 05:01:52 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 05:01:52 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.gnome.org/~newren/blog/2005/02/20"><b>Elijah Newren: Dealing with the d-d-l spam problem</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.gnome.org/~newren/blog/2005/02/20">Elijah Newren: Dealing with the d-d-l spam problem</a>
+</td></tr></table>
 
 <p>
 I don't know if it's just the pessimist in me, but considering the
@@ -420,60 +394,51 @@ my expense.  After all, I always appreciate it when others make me
 laugh, so I thought I'd try to return the favor--although in a perhaps
 slightly different way.  ;-)
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 05:00:03 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 05:00:03 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://nat.org/2005/february/#21-February-2005"><b>Nat Friedman: 21 February 2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://nat.org/2005/february/#21-February-2005">Nat Friedman: 21 February 2005</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/nat.png" align="right" alt=""><a name="21-February-2005"></a> <b><u></u></b>&nbsp;<a href="http://nat.org/2005/february/#21-February-2005">#</a> <blockquote> "There he goes. One of God's own prototypes. Some kind of high powered mutant never even considered for mass production. Too weird to live, and too rare to die." </blockquote><p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 05:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 05:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://joeshaw.org/2005/02/21/125"><b>Joe Shaw: there goes joeyblog</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://joeshaw.org/2005/02/21/125">Joe Shaw: there goes joeyblog</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/joe.png" align="right" alt=""><p>I&#8217;ve just transitioned my blog over to <a href="http://wordpress.org">Wordpress 1.5</a>, and I must say, it&#8217;s a dramatic improvement over the last version I tried.  They&#8217;ve separated the layout and the structure in such a nice way that I can do things like, for example, not allow comments or have categories or different authors without having to hack the hell out of things.  I&#8217;ve spent all of today getting the layout correct, and with some <em>extremely</em> clever PHP and Javascript hacking I am pretty sure that all existing URLs continue to work.</p>
 	<p>Now, the real question is if I can get a nice client-side solution so that posting photos isn&#8217;t quite a pain.  Hopefully it won&#8217;t be a big deal, but I&#8217;ve saved my old blog setup just in case I have to revert.
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 02:48:32 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 02:48:32 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://jimmac.musichall.cz/weblog.php/Inkscape/SVG-NG"><b>Jakub Steiner: More SVG Fun</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://jimmac.musichall.cz/weblog.php/Inkscape/SVG-NG">Jakub Steiner: More SVG Fun</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/jimmac.png" align="right" alt=""><p>As I've <a href="http://primates.ximian.com/~jimmac/blog/Artwork/Inkscape/">mentioned before</a>, I&nbsp;started to incorporate <a href="http://www.inkscape.org">Inkscape</a> into my workflow. At times it's quite masochistic compared to Illustrator or GIMP, but some things are easier than what I&nbsp;was used to. One of the things is making sure the outline "snaps" to the final rendering grid. That was tough with Illustrator, not because it didn't have sophisticated aids to do that, but because it used a different renderer than the GNOME desktop.</p>
 
@@ -493,22 +458,19 @@ slightly different way.  ;-)
 <p>[<a href="http://jimmac.musichall.cz/weblog.php?flav=rss#note1">1</a>] I&nbsp;also noticed the simplification wrt grid functionality really makes sense. I&nbsp;haven't missed not being able to see the grid without snapping to it at all. If I&nbsp;want to see the grid, I&nbsp;mostly want to snap to it too. If I&nbsp;don't, I&nbsp;just hide it.</p>
 <p>On the other hand I&nbsp;found out I&nbsp;really miss being able to node select from multiple objects. I'm a consistant shape tweaker and not being able to move a bunch of nodes from multiple overlaid objects is a pain.</p>
 </div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 01:41:36 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 01:41:36 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://jimmac.musichall.cz/weblog.php/Inkscape/Inkscape"><b>Jakub Steiner: Inkscape Evaluation</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://jimmac.musichall.cz/weblog.php/Inkscape/Inkscape">Jakub Steiner: Inkscape Evaluation</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/jimmac.png" align="right" alt=""><p>I thought that if I have to do the icons in SVG ever again, I may as well
 revisit the river. Since I just upgraded to <a href="http://www.ubuntulinux.org">Ubuntu Hoary</a> (Gnome 2.10 is slick!), I
@@ -716,22 +678,19 @@ some inconsistencies with the GIMP that I personally find confusing:</li>
 	whole object is not what I want either.</li>
 
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 01:41:36 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 01:41:36 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://jimmac.musichall.cz/weblog.php/Inkscape/InkscapeGradients"><b>Jakub Steiner: Inkscape Gradients</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://jimmac.musichall.cz/weblog.php/Inkscape/InkscapeGradients">Jakub Steiner: Inkscape Gradients</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/jimmac.png" align="right" alt=""><p>Inkscape superstar, Bulia Byak, committed the beginning of his work on <a href="http://sourceforge.net/mailarchive/message.php?msg_id=10905321">better gradients</a> in Inkscape. Addresses a lot of the issues I've had with the old interface. Kudos!</p>
 
@@ -740,60 +699,51 @@ some inconsistencies with the GIMP that I personally find confusing:</li>
 </ul>
 
 <p>Eek! I seem to have spammed planet gnome by moving things around even though the timestamps remained. Sorry.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 01:36:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 01:36:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.reigndropsfall.net/index.php?itemid=141"><b>Bryan Forbes: I can almost hear it...</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.reigndropsfall.net/index.php?itemid=141">Bryan Forbes: I can almost hear it...</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/mxpxpod.png" align="right" alt="">This last week I started working on audio disc support in <a href="http://www.coaster-burn.org">Coaster.</a>  It has been interesting trying to figure out the <a href="http://gstreamer.freedesktop.org">Gstreamer</a> library and how to get it to interact well with Coaster without using a wrapping library (to save you guys the hassle of another binding dependency).  So far, I have some test programs that read in the information I need; next thing to do is to get an audio store, layout, and view up and going.<br />
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 00:50:28 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 00:50:28 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=490"><b>Bastien Nocera: Bonjour</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=490">Bastien Nocera: Bonjour</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/hadess.png" align="right" alt="">Watched <a href="http://www.imdb.com/title/tt0376541/">Closer</a>, one of those relationship-analysing films. High Fidelity, without the music, less of the jokes, but more of the brains.<p>
 Scots footie fans are <a href="http://news.bbc.co.uk/sport1/hi/funny_old_game/4274777.stm">funny lads</a>, and Apple will rename Rendez-vous to <a href="http://www.appleinsider.com/article.php?id=891">Bonjour</a>.<p>
 <i>Music</i>: Greenday - Jesus of Suburbia
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-21 00:10:36 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-21 00:10:36 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://jimmac.musichall.cz/weblog.php/Music/Drift"><b>Jakub Steiner: Drift</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://jimmac.musichall.cz/weblog.php/Music/Drift">Jakub Steiner: Drift</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/jimmac.png" align="right" alt=""><p>Yet another blast from the past. While writing the aboutpage on my website I found the <a href="http://kosmic.darkscape.net/archives/">Kosmic Archive</a> is online with mp3 versions of the old killer tracks.</p>
 
@@ -804,22 +754,19 @@ Scots footie fans are <a href="http://news.bbc.co.uk/sport1/hi/funny_old_game/42
 </ul>
 
 <p>I hope to find more jewels like this. I should have all the XMs, S3Ms, ITs and MODs somewhere??? <a href="http://www.gnome.org/projects/beagle/">Beagle</a>, buddy! Help!</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-20 23:27:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-20 23:27:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.inkstain.net/fleck/archives/001577.html"><b>John Fleck: The Fifth Sentence</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.inkstain.net/fleck/archives/001577.html">John Fleck: The Fifth Sentence</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/jfleck.png" align="right" alt=""><p>I like <a href="http://pharyngula.org/index/weblog/comments/we_are_all_lemmings_we_bloggers/">this meme</a>:<br />
 <blockquote><br />
@@ -829,63 +776,54 @@ Scots footie fans are <a href="http://news.bbc.co.uk/sport1/hi/funny_old_game/42
 <blockquote><br />
 It would be highly desirable to determine the indirect GWPs associated with the ozone production for these gases.<br />
 </blockquote></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-20 20:26:48 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-20 20:26:48 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.seconix.com/wordpress/index.php?p=8"><b>Damien Sandras: A screenshot</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.seconix.com/wordpress/index.php?p=8">Damien Sandras: A screenshot</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/damien.png" align="right" alt=""><p>I know people love screenshots. Here is a screenshot of the new accounts window, it permits to add/edit and see the current status of VoIP accounts. Those VoIP accounts can be SIP or H.323 accounts. Later, IAX support should be added too. I can for example have GnomeMeeting registered to the SIP PBX at work, to a SIP Proxy on seconix.com, to FreeWorldDialup and to our H.323 PC-To-Phone provider, at the same time. The called URL will determine what provider will be used, it is totally transparent and intuitive.</p>
 	<p>Here is the long-awaited screenshot:<br />
 <a href="http://www.seconix.com/wordpress/wp-content/accountsscreenshot.png" target="_new"><img src="http://www.seconix.com/wordpress/wp-content/taccountsscreenshot.png" alt="New Accounts Window" /></a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-20 19:01:11 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-20 19:01:11 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://hadess.net/?start=489"><b>Bastien Nocera: Nice-One-Brothaaaaaaa!</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://hadess.net/?start=489">Bastien Nocera: Nice-One-Brothaaaaaaa!</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/hadess.png" align="right" alt="">All mental yesterday as the usual crew was downing J.D.s and Coke in a TGIF, and ended up blagging our way in the <a href="http://www.beerintheevening.com/pubs/show.shtml/3421/Five_and_Lime/Guildford">Five and Lime</a>. Waking up was hard this morning ;)<p>
 Some good Totem hacking, even though I still don't understand the drag'n'drop/reorderable bits of the GtkTreeView. I also found why the video thumbnailer was exiting instantaneously with the GStreamer backend, due to a <a href="http://bugzilla.gnome.org/show_bug.cgi?id=163039">4-year old bug</a> in glib.<p>
 Watched 2 games of footy, and <a href="http://us.imdb.com/title/tt0099487/">Edward Scissorhands</a>.<p>
 Music: <i>Itchy Trigger Finger Niggers</i> (no, not really)
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-20 17:10:35 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-20 17:10:35 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.inkstain.net/fleck/archives/001575.html"><b>John Fleck: "I'm melting! I'm Melting!"</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.inkstain.net/fleck/archives/001575.html">John Fleck: "I'm melting! I'm Melting!"</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/jfleck.png" align="right" alt=""><p>Phil Mote and colleagues have a paper in the latest <a href="http://ams.allenpress.com/amsonline/?request=get-abstract&doi=10.1175%2FBAMS-86-1-39">Bulletin of the American Meteorological Society</a> updating their work on western snowpack and climate change. Bottom line - the snow's melting:<br />
 <blockquote><br />
@@ -893,22 +831,19 @@ The largest decreases have occurred where winter temperatures are mild, especial
 </blockquote><br />
 They don't have snow records back real far, so the results get a bit tangled up in the <a href="http://tao.atmos.washington.edu/pdo/">PDO</a> and other decadal-scale patterns. But it seems pretty clear that as things get warmer, the snowpack patterns are changing. This is important in a region that depends on winter snowpack as a water storage mechanism to meet summer water usage needs.<p><br />
 More <a href="http://www.abqjournal.com/paperboy/ia/news/state/307451nm02-20-05.htm">here</a>.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-20 15:53:03 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-20 15:53:03 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://primates.ximian.com/~miguel/archive/2005/Feb-20.html"><b>Miguel de Icaza: 20 Feb 2005: 250 millions of PR budget.</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://primates.ximian.com/~miguel/archive/2005/Feb-20.html">Miguel de Icaza: 20 Feb 2005: 250 millions of PR budget.</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/miguel.png" align="right" alt=""><p><a href="http://www.commondreams.org/views05/0219-32.htm">New
 	York Times</a> on their staged "Daily Show": <i>"By my count,
@@ -957,22 +892,19 @@ More <a href="http://www.abqjournal.com/paperboy/ia/news/state/307451nm02-20-05.
 	<p>He also has a screenshot of Alexsander Olk's new color
 	dialog <a href="http://blog.sublimeintervention.com/images/pretty-colors.png">here</a>
 	running on OSX.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-20 13:55:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-20 13:55:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.gnome.org/~michael/activity.html#2005-02-20"><b>Michael Meeks: 2005-02-20: Sunday</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.gnome.org/~michael/activity.html#2005-02-20">Michael Meeks: 2005-02-20: Sunday</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/michael.png" align="right" alt=""><ul>
 	<li>Hacked on the train at a command-line OO.o
@@ -985,40 +917,34 @@ ate, slept again.
 can't breath - keeps saying 'nose' or 'mummy', slept in
 her bed for some hours.
 </li></ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-20 12:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-20 12:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.livejournal.com/users/davyd/135461.html"><b>Davyd Madeley: Planet UCC Lives</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.livejournal.com/users/davyd/135461.html">Davyd Madeley: Planet UCC Lives</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/riff.png" align="right" alt="">Due to the lack of WAIX routing, <a href="http://planet.ucc.asn.au/">Planet UCC</a> had bought the proverbial farm. However now we have decided to work around the problem.<br /><br />The clubroom has been <a href="http://webcam.ucc.asn.au/archive/colour3/200502/20/18/05.jpg">cleaned up</a>. And we're almost ready for O'Day. I have almost finished up the Fresher's Guide, and once I finish a list of points we covered today, it should be ready for general proof reading. Hopefully I'll get that uploaded tonight.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-20 10:09:50 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-20 10:09:50 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.figuiere.net/hub/blog/?2005/02/19/99-picture-of-the-day-february-19th-2005"><b>Hubert Figuiere: Picture of the day, February 19th, 2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.figuiere.net/hub/blog/?2005/02/19/99-picture-of-the-day-february-19th-2005">Hubert Figuiere: Picture of the day, February 19th, 2005</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/hub.png" align="right" alt=""><p>Some eye candy for this evening. We still haven't finished our tour of Périgord, so I return to my slide archives. Back to the <a href="http://www.sigoules.com/visiter/chateaux/cloitre_de_cadouin.htm">Cadouin Cloister</a> <em>(fr)</em>, facing the inside yard and tower:</p>
 
@@ -1027,22 +953,19 @@ her bed for some hours.
 
 
 <p>Still taken with my <a href="http://photo.net/equipment/canon/elan-7">Canon Elan 7</a> on Provia 100F, around September 21st 2001.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-20 03:31:40 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-20 03:31:40 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.seconix.com/wordpress/index.php?p=7"><b>Damien Sandras: Busy week-end</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.seconix.com/wordpress/index.php?p=7">Damien Sandras: Busy week-end</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/damien.png" align="right" alt=""><p><strong>OPAL</strong><br />
 I have committed my last work on OPAL. It fixes SIP Outbound Proxy support and CANCEL requests management. It also permits to register to several SIP registrars at the same time, and do authenticated calls using each one of them. I have also added support for SUBSCRIBE and NOTIFY requests, mainly to permit Message Waiting Indications. That will permit users to be notified when they got a Voicemail and to listen to it.</p>
@@ -1051,40 +974,34 @@ I have of course added support for the above code in GnomeMeeting. I have also r
 	<p><strong>FOSDEM</strong><br />
 <a href="http://www.fosdem.org">FOSDEM</a> will happen in one week. That means much work but also many worries. Having feedback from invited speakers is not always easy and you often have to mail some of them several times. Hopefully now everything is booked. The pre-event part is nearly over and most of the work will have to be done during the event. We expect a record in terms of visitors this year. All big projects have &#8220;developer&#8217;s rooms&#8221; with a separate schedule and talks.
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 23:06:11 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 23:06:11 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.inkstain.net/fleck/archives/001574.html"><b>John Fleck: Stuff I Wrote Elsewhere</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.inkstain.net/fleck/archives/001574.html">John Fleck: Stuff I Wrote Elsewhere</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/jfleck.png" align="right" alt=""><p><a href="http://www.abqjournal.com/paperboy/ia/scitech/307139science02-19-05.htm">Fun with magnetars</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 23:01:12 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 23:01:12 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/DV/diary.html?start=185"><b>Daniel Veillard: 19 Feb 2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/DV/diary.html?start=185">Daniel Veillard: 19 Feb 2005</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/dv.png" align="right" alt=""><p><b>Sabayon</b><p>
 <p> After annoying GNOME sysdamins and stealing the html
@@ -1097,22 +1014,19 @@ testing is not trivial since we depend on very recent (nearly CVS head) versions
 i.e. people doing sysadmin setups/maintainance is feedback
 on some of the <a href="http://cvs.gnome.org/viewcvs/sabayon/ISSUES?view=auto">design
 Issues</a>.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 22:33:45 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 22:33:45 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://jimmac.musichall.cz/weblog.php/Misc/Macarena"><b>Jakub Steiner: Macarena</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://jimmac.musichall.cz/weblog.php/Misc/Macarena">Jakub Steiner: Macarena</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/jimmac.png" align="right" alt=""><p>Thanks <a href="http://www.tigert.com">Tuomas</a> for teaching me the
 Macarena ritual. For the ones not familiar with it, it's performed every time
@@ -1129,22 +1043,19 @@ of course, but he was having a seat next to us. He looked a lot younger than on
 the tele, and we initially weren't sure if it's him. When they started to talk
 about Kalousek and "<a href="http://www.radio.cz/en/article/63152">Standa's
 flat</a>", we were assured it's him.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 21:46:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 21:46:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.figuiere.net/hub/blog/?2005/02/19/98-fighting-drm-in-court-episode-i"><b>Hubert Figuiere: Fighting DRM in court... Episode I</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.figuiere.net/hub/blog/?2005/02/19/98-fighting-drm-in-court-episode-i">Hubert Figuiere: Fighting DRM in court... Episode I</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/hub.png" align="right" alt=""><p><a href="http://management.silicon.com/itpro/0,39024675,39127844,00.htm">Apple and Sony are being sued</a> in France by <em>UFC-Que Choisir</em>, the major French consumer association, for breaking the law against bundle sales. The lack of interroperability beetween their DRM system and requirment to use their device is the reason.</p>
 
@@ -1153,22 +1064,19 @@ flat</a>", we were assured it's him.</p>
 
 
 <p>Source: <a href="http://www.boingboing.net/2005/02/15/apple_and_sony_sued_.html">Boing Boing</a>, <a href="http://linuxfr.org/2005/02/14/18305.html">DLFP</a> (fr).</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 20:26:15 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 20:26:15 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://primates.ximian.com/~federico/news-2005-02.html#19"><b>Federico Mena-Quintero: Sat 2005/Feb/19</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://primates.ximian.com/~federico/news-2005-02.html#19">Federico Mena-Quintero: Sat 2005/Feb/19</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/federico.png" align="right" alt=""><ul>
 	  <!-- 
@@ -1243,22 +1151,19 @@ flat</a>", we were assured it's him.</p>
 	    </p>
 	  </li>
 	</ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 19:16:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 19:16:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://rodrigo.gnome-db.org/news.php?19/February/2005"><b>Rodrigo Moya: 19/February/2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://rodrigo.gnome-db.org/news.php?19/February/2005">Rodrigo Moya: 19/February/2005</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/rodrigo.png" align="right" alt=""><b>GUADEC-ES</b>
       <br />
@@ -1266,22 +1171,19 @@ flat</a>", we were assured it's him.</p>
       place from May 19th to 21st, in A Coruña, in the northwest of Spain. This is just
       a week before the real <a href="http://2005.guadec.org">GUADEC</a>,
       so anybody planning to do some travelling can have A Coruña as one of the scales.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 16:51:47 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 16:51:47 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/alvaro/diary.html?start=52"><b>Alvaro del Castillo: 19 Feb 2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/alvaro/diary.html?start=52">Alvaro del Castillo: 19 Feb 2005</a>
+</td></tr></table>
 
 <br/>
 Finally I have decided to help in developing <a href="http://rt2x00.serialmonkey.com/">a driver for the wireless USB 54 Mbps rt2570</a>, very similar to the ralink 2500 chipset. I have two USB networks card using this chipset: they are very cheap, around 30. In my student days, I developed an ethernet driver so maybe, this knowledge will be useful. I am learning about USB stuff, using howto develop USB drivers for Linux, the USB Nutshell and finally, with the USB standard. I am not sure how far I will go in the project, but for now, I am trying to understand the USB traffic until we get the data sheets: <a href="http://benoit.papillault.free.fr/usbsnoop/">USB sniff</a> is the right tool to log the USB traffic and analyze it later (grep, cat, awk, uniq, sort ...)
@@ -1295,40 +1197,34 @@ Finally I have decided to help in developing <a href="http://rt2x00.serialmonkey
 <p> Hula hype is being incredible, as normal announcements that comes from Helix/Ximian/Novell guys. I have talked with Helge, an OGo developer about Hula. He has shown me a very nice webclient for his Scalable OGo product (very similar to Hula, and will be released as GPL/LGPL): <a href="http://agenor.opengroupware.org/">SOGo web client</a> (login:test.et.di.cete-lyon/password:test, not a production service, it could be off). Not sure if Hula developers could start the web client interface for Hula from that work. They will be released as GPL/LGPL (all the SOGo software).
 
 <p> Hmmm, I can't forget to talk about the <a href="http://2005.guadec-es.org">II GUADEC Hispana</a>, a warm up meeting before the GUADEC. I will blog about it next days.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 15:12:02 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 15:12:02 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.livejournal.com/users/davyd/135302.html"><b>Davyd Madeley</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.livejournal.com/users/davyd/135302.html">Davyd Madeley</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/riff.png" align="right" alt=""><b>remove one "2-bit ISP" point</b><br />Work's nameserving capabilities have always been a fine balance of hope and dodgy services, but that's all about to change. With their new interest in zero-work-high-profit services, it has become necessary to make sure the nameservers are stable and sane. I have completed a spreadsheet of details about all the zones we host, their registrars and the keys for them. I found that I'm only missing 4 keys... so it's actually not as bad as I thought.<br />Once everything gets into place, I can start transferring them onto a new nameserver, with secondary hosting provided by a dedicated provider, probably Goldwell in the UK.<br />All in all, this makes us more into a high-tech, professional services, IT company... and less of a two-bit ISP.<br /><br /><b>Tux abuse</b><br />Driving down Mounts Bay Rd (which runs along Matilda Bay between Crawley and the city) I saw a small van emblazoned "Arctic Couriers". The thing about this van that caught my eye, was all the penguins painted on it. Each of these penguins had a name it would seem. One of the penguins on the back was the infamous Tux, of Linux fame. Only his name was now something beginning with B, I think it was Bernadette. My heart goes out to poor Tux, who has been given involuntary gender issues, just because some artist obviously ran a google-image-search for penguins.<br /><br /><b>While the cat's away...</b><br />So Stephanie is currently in Melbourne, researching for her thesis. She is also getting attacked by her best friend's cats. I'm still stuck here, and have now realised how incredibly boring my life actually is. I mean, I honestly don't do anything! Having no one to talk to, and no TV makes things very quiet.<br /><br />To make up for it, I have been watching things on my laptop. I watched <u>Back to the Future, Part III</u> and the third season of <u>Black Books</u>.<br /><br /><b>Bunbury</b><br />I intimated at some point that I had to go to Bunbury this week. In the end, it got called off due to a chain reaction of really crappy events, non of which were my fault. However now, I get to look forward to going on Monday instead. I can't help but feel this is going to be an absolute riot... not!<br /><br /><b>UCC Love Day</b><br />To borrow an idea from GNOME, the UCC is having a <a href="http://lists.ucc.gu.uwa.edu.au/pipermail/ucc/2005-February/012297.html">Love Day</a> in order to finish up the Fresher's Guide and the <a href="http://beta.ucc.asn.au/">new website</a>. Also to give the room a bit of a tidy, because it's really quite messy again (how does this keep happening).<br /><br />Again, I've had a whole heap of stuff to write about, and again I've forgotten it. I really should take notes, or something.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 14:54:08 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 14:54:08 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.figuiere.net/hub/blog/?2005/02/19/97-new-canon-gear"><b>Hubert Figuiere: New Canon gear</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.figuiere.net/hub/blog/?2005/02/19/97-new-canon-gear">Hubert Figuiere: New Canon gear</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/hub.png" align="right" alt=""><p>New Canon gear announced this week:</p>
 
@@ -1337,22 +1233,19 @@ Finally I have decided to help in developing <a href="http://rt2x00.serialmonkey
 <li>Digital Rebel XT / EOS 350D. <a href="http://www.dpreview.com/news/0502/05021704canon_eos350d.asp">Announcement</a>, <a href="http://www.dpreview.com/news/0502/05021713canoneos350dpreview.asp">Preview</a> at dpreview.</li>
 <li>EOS 20Da, to be used for IR photography. <a href="http://www.dpreview.com/news/0502/05021405canoneos20da.asp">Announcement</a> at dpreview. Apparently Japan only.</li>
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 14:20:57 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 14:20:57 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://verbum.org/blog/random/news-graphic-art"><b>Colin Walters: News Graphic Art</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://verbum.org/blog/random/news-graphic-art">Colin Walters: News Graphic Art</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/walters.png" align="right" alt=""><p>
 It's pictures like this which make me wish sometimes I could
@@ -1360,22 +1253,19 @@ be a graphic artist for a news organization.
 </p>  
 <p><img src="http://common.ziffdavisinternet.com/util_get_image/9/0,1311,i=98820,00.jpg" alt="penguin drinking wine" /></p>
 <p>(The article this image attempts to graphically describe is <a href="http://www.eweek.com/article2/0,1759,1766843,00.asp">here</a>, for the curious.)
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 14:13:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 14:13:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://primates.ximian.com/~miguel/archive/2005/Feb-19.html"><b>Miguel de Icaza: 19 Feb 2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://primates.ximian.com/~miguel/archive/2005/Feb-19.html">Miguel de Icaza: 19 Feb 2005</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/miguel.png" align="right" alt=""><h3>Weekend</h3>
 
@@ -1491,22 +1381,19 @@ be a graphic artist for a news organization.
 	finer points of public policy?
 
 	<p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 13:55:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 13:55:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.gnome.org/~michael/activity.html#2005-02-19"><b>Michael Meeks: 2005-02-19: Saturday</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.gnome.org/~michael/activity.html#2005-02-19">Michael Meeks: 2005-02-19: Saturday</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/michael.png" align="right" alt=""><ul>
 	<li>Interesting phone-call in the morning. Lovely
@@ -1519,22 +1406,19 @@ to check in, a dash to the plane, offered money to get
 off etc. Slept a little on the plane, lost a lot of a night
 somewhere here.
 </li></ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 12:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 12:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://off.net/~tberman/diary/archives/003159.html"><b>Todd Berman: Work. Life. Insanity.</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://off.net/~tberman/diary/archives/003159.html">Todd Berman: Work. Life. Insanity.</a>
+</td></tr></table>
 
 <p>Spent the last couple days at work playing with our gtk# application on win32. This has been an interesting experience because not only do we use your standard gtk# stuff, we also use NPlot and Gecko. Thanks to <a href="http://www.mfconsulting.com/blog/">Paco's</a> recent installers, the gecko stuff works flawlessly, and the NPlot stuff is finally starting to work. (I know NPlot works as a SWF control, but it is not as trivial to make it render into a gtk# widget on win32). Happily, a lot of progress was made. Normally I would blog a sshot, but I am not sure if I am allowed to, so instead, you get the greatest dog picture ever. better than toshok's 'cute' puppy pictures. Yes, that is her tounge. No, I don't have a clue what she was doing.</p>
 
@@ -1544,22 +1428,19 @@ somewhere here.
 <p>In a somewhat work related venue, I have been hacking on stetic a bit, mostly on random <a href="http://dev.medsphere.com/~tberman/stetic.png">gui</a> related bits, and on glade importing. Dan Winship has done a wonderful job with stetic so far, and I think in the future it will become a very useful tool for development.</p>
 
 <p>It seems recently that all I do is work, and then sleep. I try to factor in a little bit of time for eating, but even that has had to slide a bit recently. Given our new (refreshingly insane) product goal, I don't see this changing anytime soon. Hopefully soon I will find some time to do the things I enjoy in life, but I'll be damned if I can even remember what they are. I think my current life goal is to quit programming by 27 and start a bar, or pass the bar, or maybe just sleep for 6 hours straight. One of the 3 has to be attainable. Maybe all 3. Only time will really tell, but I know between now and August 15th, the only thing I can think about other than work, is work. Yay for being a mindless drone. Cog in the machine. &lt;insert random bit of bs 'independant thinking' here&gt;.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 09:51:49 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 09:51:49 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://log.ometer.com/2005-02.html#19"><b>Havoc Pennington: Simplifying</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://log.ometer.com/2005-02.html#19">Havoc Pennington: Simplifying</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/hp.png" align="right" alt=""><p>
 Two simpler approaches to the theme thing:
@@ -1577,22 +1458,19 @@ to intercept the lookup to modify the layout.
 </li>
 
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 05:41:25 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 05:41:25 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://log.ometer.com/2005-02.html#18"><b>Havoc Pennington: Conferences Finally Over</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://log.ometer.com/2005-02.html#18">Havoc Pennington: Conferences Finally Over</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/hp.png" align="right" alt=""><p>
 
@@ -1937,82 +1815,70 @@ windows are a lot easier in some ways (especially if we avoid the
 container-widgets approach to layout).
 
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 04:59:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 04:59:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://tieguy.org/blog/index.cgi/315"><b>Luis Villa: Fri, 18 Feb 2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://tieguy.org/blog/index.cgi/315">Luis Villa: Fri, 18 Feb 2005</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/luis.png" align="right" alt=""><p>I am uploading another liveCD build; details <a href="http://mail.gnome.org/archives/marketing-list/2005-February/msg00135.html">here.</a> Also, I leave for Miami in the morning, so if the upload gets screwed up... well, such is life, someone else can I'm sure rebuild it from the previous release ;)</p><p>
 FWIW, the LWE LiveCD was a success- we cleared in total a little over $200 over the production costs. That money will go towards seeding the next batch. Yay us, and thanks to all the guys at the booth who patiently repeated 'we're asking for a small donation...'</p><p>
 Still lots of open issues in the <a href="http://live.gnome.org/GnomeLiveCd_2fToDo">ToDo</a> if people are interested in helping out. Right at the moment, I'm particularly curious as to whether or not anyone is seriously using the hoary 1.9 OOo builds and whether or not we should ship some subset of that instead of the monolithic and slower 1.1 builds. If someone wants to investigate using sabayon to ease configuration, that would rule too- currently I have a script that is poking a bunch of gconf keys. Massive suckage there :)</p><p>
 On non-liveCD matters, I'm beginning to get seriously worried about the length and seriousness of the <a href="http://mail.gnome.org/archives/desktop-devel-list/2005-February/msg00356.html">showstoppers list.</a> I know some of these have been in for a while, but I would not have wanted to release 2.8.0 with them either. If you don't want to have a serious d-d-l/g-h discussion about potentially slipping the release when I get back from Miami, go fix some of these bugs :)</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-19 04:15:53 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-19 04:15:53 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://nat.org/2005/february/#17-February-2005"><b>Nat Friedman: 17 February 2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://nat.org/2005/february/#17-February-2005">Nat Friedman: 17 February 2005</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/nat.png" align="right" alt=""><a name="17-February-2005"></a> <b><u></u></b>&nbsp;<a href="http://nat.org/2005/february/#17-February-2005">#</a> <blockquote> "Writing an open source dating system is like opening a vegetarian steakhouse" <br /> &nbsp;&nbsp;&nbsp;&nbsp;&mdash; <a href="http://off.net/~shaver/diary">Mike Shaver</a> </blockquote><p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-18 23:50:05 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-18 23:50:05 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://people.imendio.com/richard/archives/2005/02/long_live_plann.html"><b>Richard Hult: Long live Planner!</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://people.imendio.com/richard/archives/2005/02/long_live_plann.html">Richard Hult: Long live Planner!</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/rhult.png" align="right" alt=""><p>Just when I thought I'd never hack on Planner again, I somehow got into fixing some small bug that I noticed when looking at a patch. Then I suddenly had done more Planner hacking in one day than over the last year I think ;) The weirdest part is that I enjoyed it, even though just last month I said that I never wanted to touch it again :)</p>
 
 <p><b>Gazpacho</b><br />
 I just updated Gazpacho from svn and noticed that Lorenzo et al had been hacking a lot since I last tried it. It's really progressing nicely, I can't wait to be able to use it!</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-18 23:34:32 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-18 23:34:32 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://thomas.apestaart.org/log/index.php?p=274"><b>Thomas Vander Stichele: Computer trouble</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://thomas.apestaart.org/log/index.php?p=274">Thomas Vander Stichele: Computer trouble</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/thomasvs.png" align="right" alt=""><p>So, a while back I mentioned how I have this computer put together with some new and some old parts that I was having problems with.  The motherboard got replaced twice and still the damned thing wouldn&#8217;t boot anymore after a few days.</p>
 	<p>Since then, I had taken my machine to work to experiment with swapping out pieces with other hardware - processor, memory, video card, &#8230; Nothing made my machine do anything other than turn on the motherboard LED and spin up the CPU fan.  No video on the card whatsoever.</p>
@@ -2022,22 +1888,19 @@ I just updated Gazpacho from svn and noticed that Lorenzo et al had been hacking
 	<p>So then in desperation (I mean, what can you do if&#8217; you&#8217;ve swapped every piece of hardware in your machine for another one by one ?), I read through the motherboard manual and came across the section for BIOS reset where it explains how to remove the battery and also short-circuit two pins for ten seconds.  For some reason I decided to give that a go, and what do you know - after doing that the machine booted just fine.</p>
 	<p>I have no explanation for this.  The motherboard was bought new after the last failure, and had worked for about three reboots, and then stopped with similar behaviour as the previous one.  But it leads me to believe that while I&#8217;d like to think about computers as logical mechanical things you can reason about it, in reality there&#8217;s always a case to be made for &#8220;when all else fails, experiment".
 </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-18 23:34:25 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-18 23:34:25 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/DV/diary.html?start=184"><b>Daniel Veillard: 18 Feb 2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/DV/diary.html?start=184">Daniel Veillard: 18 Feb 2005</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/dv.png" align="right" alt=""><p><b>Software Patents</b>
 <p> Anybody able to read french should read the on-line
@@ -2076,22 +1939,19 @@ web site :-).
 Internet radio, and have been listening to it from xmms
 the whole day, truely excellent, I'm tempted to make
 a donation since they re listener supported (no ads !).
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-18 21:13:03 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-18 21:13:03 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://pubcrawler.org/2005/02/18/switched-to-wordpress/"><b>Jamin Philip Gray: Switched to WordPress</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://pubcrawler.org/2005/02/18/switched-to-wordpress/">Jamin Philip Gray: Switched to WordPress</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/jamin.png" align="right" alt=""><p>Well I finally got rid of <a href="http://movabletype.org">Movable Type</a> and made the switch to <a href="http://wordpress.org">WordPress</a>.  I evaluated WordPress 1.4 and wasn&#8217;t terribly impressed but <a href="http://wordpress.org/development/2005/02/strayhorn/">WordPress 1.5</a> is slick.  It only took me about 8 minutes to download, install, and import my MT entries.  There are some broken links and that sort of thing, but overall, it went smoothly.  If you notice any problems, let me know.  </p>
 	<p>
@@ -2101,22 +1961,19 @@ I really like the default theme, but I&#8217;m making some minor tweaks to it.  
 Unfortunately I had to remove the blogs I was hosting for friends.  <img src="http://pubcrawler.org/wp-images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" />   I&#8217;m hoping they&#8217;ll move to a hosted blogging service because I always enjoy reading what my friends write.
 </p>
 	</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-18 16:58:34 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-18 16:58:34 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/rbultje/diary.html?start=88"><b>Ronald Bultje: 18 Feb 2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/rbultje/diary.html?start=88">Ronald Bultje: 18 Feb 2005</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/bbb.png" align="right" alt=""><b>GStreamer Developer Summit</b><br />
 From wednesday on, most GStreamer core developers and following (Andy, Benjamin, Christian, Dave, Julien, me, Thomas, Wim) got together to discuss future development and direction for the 0.9 branch . This will then become the final design for GStreamer 1.0; 1.0 would, in the end, be proposed for inclusion in both KDE and GNOME developer platforms. Big words, time for action.
@@ -2154,67 +2011,58 @@ The rest of friday was spent on discussing both approaches, fetching problems, s
 Next few days, we'll be experimenting with the design and implement all of the above. We will also discuss various directions for gst-plugins that are not directly related to GStreamer core. For the near future, we will work on preparing core to become the 0.9 branch, port the various subsystems from -threaded and -noblock/async over to this 0.9 branch (and have various people understand and review this), write a porting guide, remove deprecated code, write reference plugin implementations, updating documentation and porting plugins. From then on, we hopefully rock.
 <p>
 Time for beer. :).
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-18 16:22:42 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-18 16:22:42 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.inkstain.net/fleck/archives/001569.html"><b>John Fleck: Hockey Stick for Dummies</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.inkstain.net/fleck/archives/001569.html">John Fleck: Hockey Stick for Dummies</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/jfleck.png" align="right" alt=""><p>Gavin and Caspar at RealClimate give <a href="http://www.realclimate.org/index.php?p=121">the best explanation I've yet read</a> about how principal components analysis works, and how it is applied in the discussion over <a href="http://www.realclimate.org/index.php?p=7">Michael Mann's hockey stick</a>.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-18 16:18:04 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-18 16:18:04 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://tieguy.org/blog/index.cgi/314"><b>Luis Villa: Fri, 18 Feb 2005</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://tieguy.org/blog/index.cgi/314">Luis Villa: Fri, 18 Feb 2005</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/luis.png" align="right" alt=""><p>I am sooo wiped today. I was supposed to go to <a href="http://fedoraproject.org/fudcon/">fudcon</a>, and I still might try to make it for the afternoon, but I'm totally wiped from LWE right now, and just laying on my couch and catching up on sleep and email seems really, really appealing. Plus I need to pack for my 7am flight home tomorrow morning :/</p><p>
 LWE in general was awesome- lots of happy GNOME users stopped by and said thanks, got to meet some new faces, see some slightly less new faces, and lots of old faces, of course. Will write more at some point after I'm recovered :)</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-18 15:05:17 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-18 15:05:17 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://planet.gnome.org/">
-<b>Planet GNOME</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.figuiere.net/hub/blog/?2005/02/18/96-f-spot-and-libgphoto2"><b>Hubert Figuiere: F-Spot and libgphoto2</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://planet.gnome.org/">
+Planet GNOME</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.figuiere.net/hub/blog/?2005/02/18/96-f-spot-and-libgphoto2">Hubert Figuiere: F-Spot and libgphoto2</a>
+</td></tr></table>
 
 <img src="http://planet.gnome.org/heads/hub.png" align="right" alt=""><p>Wow <a href="http://primates.ximian.com/~lewing/blog/archives/000025.html">F-Spot 0.0.8</a> supports using <a href="http://www.gphoto.org/">libgphoto2</a> to import pictures from the camera. Congrats guys !</p>
 
 
 <p>I'll have to try that.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-02-18 14:24:42 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-02-18 14:24:42 UTC</td></tr>
 </table>
 
 </body></html>

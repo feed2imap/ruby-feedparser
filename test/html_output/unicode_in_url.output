@@ -11,33 +11,28 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">ISO-8859-1</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>ISO-8859-1</td></tr></table>
 <br/>
 Feed Notícias FINEP
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.inetdoc.net/archives/2014/01/26/virtualisation_système_et_enseignement/index.html"><b>does not really matter</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.inetdoc.net/archives/2014/01/26/virtualisation_système_et_enseignement/index.html">does not really matter</a>
+</td></tr></table>
 
 <p>does not really matter</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-26 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-26 03:00:00 UTC</td></tr>
 </table>
 
 </body></html>

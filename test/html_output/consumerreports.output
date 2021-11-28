@@ -11,28 +11,23 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 <br/>
 Consumer Reports
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/is_it_safe_to_give_babies_water__979990949?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Is it safe to give babies water?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/is_it_safe_to_give_babies_water__979990949?f=4e420560-01dc-11dc-2662-0020ed73c921">Is it safe to give babies water?</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -75,24 +70,21 @@ Consumer Reports
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/is_it_safe_to_give_babies_water__979990949?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-30 16:00:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Babies</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-30 16:00:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Babies</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/sunscreen_tips_for_a_safe_summer__88547475?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Sunscreen tips for a safe summer</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/sunscreen_tips_for_a_safe_summer__88547475?f=4e420560-01dc-11dc-2662-0020ed73c921">Sunscreen tips for a safe summer</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -140,24 +132,21 @@ The days of sprawling in the sunshine slathered in baby oil are long gone; these
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/sunscreen_tips_for_a_safe_summer__88547475?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-28 01:05:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Shopping</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-28 01:05:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Shopping</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/rosemary_shahan_from_a_lemon_she_made_lemon_laws_214790655?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Rosemary Shahan: from a lemon she made ... lemon laws</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/rosemary_shahan_from_a_lemon_she_made_lemon_laws_214790655?f=4e420560-01dc-11dc-2662-0020ed73c921">Rosemary Shahan: from a lemon she made ... lemon laws</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -214,24 +203,21 @@ The days of sprawling in the sunshine slathered in baby oil are long gone; these
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/rosemary_shahan_from_a_lemon_she_made_lemon_laws_214790655?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-27 19:10:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Safety</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-27 19:10:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Safety</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/auto/chrysler_offers_lifetime_powertrain_warranty__463627809?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Chrysler offers lifetime powertrain warranty</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/auto/chrysler_offers_lifetime_powertrain_warranty__463627809?f=4e420560-01dc-11dc-2662-0020ed73c921">Chrysler offers lifetime powertrain warranty</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -284,24 +270,21 @@ The days of sprawling in the sunshine slathered in baby oil are long gone; these
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/auto/chrysler_offers_lifetime_powertrain_warranty__463627809?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-27 18:32:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Cars</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-27 18:32:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Cars</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/auto/new_presidential_candidate_for_tirewear_testi_394537461?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>New presidential candidate for tire-wear testing</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/auto/new_presidential_candidate_for_tirewear_testi_394537461?f=4e420560-01dc-11dc-2662-0020ed73c921">New presidential candidate for tire-wear testing</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -366,24 +349,21 @@ The days of sprawling in the sunshine slathered in baby oil are long gone; these
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/auto/new_presidential_candidate_for_tirewear_testi_394537461?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-27 18:17:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Cars</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-27 18:17:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Cars</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/tip_of_the_day_sharpen_your_mower_blade__948780363?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Tip of the day: Sharpen your mower blade</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/tip_of_the_day_sharpen_your_mower_blade__948780363?f=4e420560-01dc-11dc-2662-0020ed73c921">Tip of the day: Sharpen your mower blade</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -432,24 +412,21 @@ The days of sprawling in the sunshine slathered in baby oil are long gone; these
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/tip_of_the_day_sharpen_your_mower_blade__948780363?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-27 18:00:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Home</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-27 18:00:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Home</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/newhome_sales_slide_again__981223166?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>New-home sales slide again</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/newhome_sales_slide_again__981223166?f=4e420560-01dc-11dc-2662-0020ed73c921">New-home sales slide again</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -494,24 +471,21 @@ The days of sprawling in the sunshine slathered in baby oil are long gone; these
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/newhome_sales_slide_again__981223166?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-27 17:05:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Home</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-27 17:05:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Home</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/avoid_television_tipovers__199922727?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Avoid television tip-overs</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/avoid_television_tipovers__199922727?f=4e420560-01dc-11dc-2662-0020ed73c921">Avoid television tip-overs</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -557,24 +531,21 @@ The <a href="http://simplefeed.consumerreports.org/rsrc/link/_/avoid_television_
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/avoid_television_tipovers__199922727?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-26 21:26:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Home</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-26 21:26:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Home</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/tv_stand_prone_to_toppling_recalled_by_cpsc__807230935?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>TV stand prone to toppling recalled by CPSC</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/tv_stand_prone_to_toppling_recalled_by_cpsc__807230935?f=4e420560-01dc-11dc-2662-0020ed73c921">TV stand prone to toppling recalled by CPSC</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -684,24 +655,21 @@ safe on Super Sunday</a><br />
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/tv_stand_prone_to_toppling_recalled_by_cpsc__807230935?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-26 21:00:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Safety</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-26 21:00:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Safety</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/auto/toyota_sienna_awd_runflat_tires_wear_well_for_503371463?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Toyota Sienna AWD run-flat tires wear well for us</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/auto/toyota_sienna_awd_runflat_tires_wear_well_for_503371463?f=4e420560-01dc-11dc-2662-0020ed73c921">Toyota Sienna AWD run-flat tires wear well for us</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -754,24 +722,21 @@ safe on Super Sunday</a><br />
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/auto/toyota_sienna_awd_runflat_tires_wear_well_for_503371463?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-26 17:38:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Cars</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-26 17:38:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Cars</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/market_research_reveals_the_nine_types_of_consum_979271132?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>"Market research reveals the "nine types of consumers</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/market_research_reveals_the_nine_types_of_consum_979271132?f=4e420560-01dc-11dc-2662-0020ed73c921">"Market research reveals the "nine types of consumers</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -817,24 +782,21 @@ I always love these articles on how advertisers and marketers view consumers and
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/market_research_reveals_the_nine_types_of_consum_979271132?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-26 13:41:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Shopping</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-26 13:41:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Shopping</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/fda_expands_recall_of_chili_and_other_products_l_123941157?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>FDA expands recall of chili and other products linked to botulism cases</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/fda_expands_recall_of_chili_and_other_products_l_123941157?f=4e420560-01dc-11dc-2662-0020ed73c921">FDA expands recall of chili and other products linked to botulism cases</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -940,24 +902,21 @@ Q&A</a> on botulism on its site.</p>
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/fda_expands_recall_of_chili_and_other_products_l_123941157?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-25 19:22:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Safety</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-25 19:22:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Safety</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/us_home_sales_drop_again__563888813?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>U.S. home sales drop again</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/us_home_sales_drop_again__563888813?f=4e420560-01dc-11dc-2662-0020ed73c921">U.S. home sales drop again</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -1004,24 +963,21 @@ Q&A</a> on botulism on its site.</p>
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/us_home_sales_drop_again__563888813?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-25 19:19:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Home</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-25 19:19:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Home</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/qa_are_multimedia_refrigerators_worth_considerin_558915237?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Q&amp;A: Are “multimedia” refrigerators worth considering?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/qa_are_multimedia_refrigerators_worth_considerin_558915237?f=4e420560-01dc-11dc-2662-0020ed73c921">Q&amp;A: Are “multimedia” refrigerators worth considering?</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -1072,24 +1028,21 @@ The $3,500 <a href="http://simplefeed.consumerreports.org/rsrc/link/_/qa_are_mul
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/qa_are_multimedia_refrigerators_worth_considerin_558915237?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-25 16:20:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Home</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-25 16:20:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Home</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/auto/chinese_trucks_soon_to_be_on_the_american_men_136728695?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Chinese trucks soon to be on the American menu</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/auto/chinese_trucks_soon_to_be_on_the_american_men_136728695?f=4e420560-01dc-11dc-2662-0020ed73c921">Chinese trucks soon to be on the American menu</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -1152,24 +1105,21 @@ The $3,500 <a href="http://simplefeed.consumerreports.org/rsrc/link/_/qa_are_mul
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/auto/chinese_trucks_soon_to_be_on_the_american_men_136728695?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-25 13:10:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Cars</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-25 13:10:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Cars</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/fix_common_lawn_problems__91821389?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Fix common lawn problems</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/fix_common_lawn_problems__91821389?f=4e420560-01dc-11dc-2662-0020ed73c921">Fix common lawn problems</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -1247,24 +1197,21 @@ If your lawn has lost some of its luster, your yard might be suffering from some
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/fix_common_lawn_problems__91821389?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-24 19:04:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Home</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-24 19:04:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Home</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/iphone_hacking_raises_security_concerns_for_all__193885288?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>iPhone Hacking Raises Security Concerns for all Smartphone Users</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/iphone_hacking_raises_security_concerns_for_all__193885288?f=4e420560-01dc-11dc-2662-0020ed73c921">iPhone Hacking Raises Security Concerns for all Smartphone Users</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -1328,24 +1275,21 @@ Security analysts have long predicted that hackers who routinely pester computer
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/iphone_hacking_raises_security_concerns_for_all__193885288?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-24 15:08:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Electronics</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-24 15:08:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Electronics</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/food_safety_hearing_exposes_lack_of_oversight__513953605?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Food safety hearing exposes lack of oversight</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/food_safety_hearing_exposes_lack_of_oversight__513953605?f=4e420560-01dc-11dc-2662-0020ed73c921">Food safety hearing exposes lack of oversight</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -1404,24 +1348,21 @@ Security analysts have long predicted that hackers who routinely pester computer
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/food_safety_hearing_exposes_lack_of_oversight__513953605?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-24 14:47:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Safety</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-24 14:47:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Safety</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/_/black_decker_string_trimmersedgers_recalled__473498717?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>Black &amp; Decker string trimmers/edgers recalled</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/_/black_decker_string_trimmersedgers_recalled__473498717?f=4e420560-01dc-11dc-2662-0020ed73c921">Black &amp; Decker string trimmers/edgers recalled</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -1473,24 +1414,21 @@ Security analysts have long predicted that hackers who routinely pester computer
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/_/black_decker_string_trimmersedgers_recalled__473498717?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-23 22:00:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Home</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-23 22:00:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Home</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
-<b>Consumer Reports</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://simplefeed.consumerreports.org/rsrc/link/auto/us_gas_pricesdecrease__688315242?f=4e420560-01dc-11dc-2662-0020ed73c921"><b>U.S. gas prices--Decrease</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link?f=4e420560-01dc-11dc-2662-0020ed73c921">
+Consumer Reports</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://simplefeed.consumerreports.org/rsrc/link/auto/us_gas_pricesdecrease__688315242?f=4e420560-01dc-11dc-2662-0020ed73c921">U.S. gas prices--Decrease</a>
+</td></tr></table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
@@ -1581,11 +1519,11 @@ Security analysts have long predicted that hackers who routinely pester computer
 	</tr>
 </table>
 <img border='0' height='1' src='http://simplefeed.consumerreports.org/p/1/auto/us_gas_pricesdecrease__688315242?f=4e420560-01dc-11dc-2662-0020ed73c921' width='1'/>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-07-23 21:56:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">info.rss@cro.consumer.org (Consumer Reports)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Cars</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-07-23 21:56:00 UTC</td></tr>
+<tr><th>Author:</th><td>info.rss@cro.consumer.org (Consumer Reports)</td></tr>
+<tr><th>Filed under:</th><td>Cars</td></tr>
 </table>
 
 </body></html>

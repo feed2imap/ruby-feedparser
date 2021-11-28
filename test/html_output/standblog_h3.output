@@ -11,28 +11,23 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 <br/>
 Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/28/Cest-la-St-Pascal-Negre"><b>C'est la St Pascal Nègre !</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/28/Cest-la-St-Pascal-Negre">C'est la St Pascal Nègre !</a>
+</td></tr></table>
 
 <p>Encore une sortie malheureuse du pauvre Pascal Nègre (pauvre par la réputation, mais riche financièrement) sur BFM...</p>
 
@@ -55,24 +50,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 </ul>
 
 <p>Vous aussi, si vous refusez les DRM, si vous considérez qu'il s'agit d'une restriction à votre droit à la copie privée (et à votre vie privée tout court), alors n'hésitez pas, faites un blog et écrivez un billet <a href="http://lilyprune.free.fr/index.php/2007/01/25/drm-de-merde-2/" hreflang="fr">DRM de merde</a>.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-29 08:43:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dangers des DRM, drm</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-29 08:43:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Dangers des DRM, drm</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/28/En-vrac-en-retard-et-copieux"><b>En vrac, en retard, et copieux !</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/28/En-vrac-en-retard-et-copieux">En vrac, en retard, et copieux !</a>
+</td></tr></table>
 
 <ul>
 <li>Voici une des raisons je vais me précipiter à <a href="http://www.solutionslinux.fr/fr/" hreflang="fr">Solution Linux</a> : la <a href="http://akosh.pcinpact.com/actu/news/34289-OLPC-100-dollars-red-hat.htm" hreflang="fr">présentation en France du portable à 100$</a>, à base de logiciels Libres (dont Firefox). On regrettera l'absence d'Eben Moglen, le juriste de la FSF, dont on annonçait la venue ;</li>
@@ -101,24 +93,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li>Spécial <em>Web geeks</em> : <a href="http://ejohn.org/blog/hacking-digg-with-firebug-and-jquery/" hreflang="en">Hacking Digg with Firebug and jQuery</a>, par John Resig (mainteneur de jQuery et employé Mozilla). En vidéo ! Ca change complètement la façon de percevoir une page Web (un peu comme GreaseMonkey, mais de façon interactive avec la console JS de Firebug). J'ai du mal à m'en remettre <img src="http://standblog.org/dc-blog/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /></li>
 <li><a href="http://yro.slashdot.org/yro/07/01/27/147243.shtml" hreflang="en">Microsoft démontre brillamment à quel point les brevets logiciels sont aberrants</a> en copiant une innovation, en l'admettant, et en la faisant breveter ensuite. Superbement pédagogique ! Merci Microsoft ! (Ah, attendez, on me souffle dans l'oreillette que ça n'était pas forcément fait dans cette optique <img src="http://standblog.org/dc-blog/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> )</li>
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-28 18:13:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">En vrac</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-28 18:13:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>En vrac</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/25/Ce-quon-ne-vous-a-pas-dit-a-propos-de-Windows-Vista"><b>Ce qu'on ne vous a pas dit à propos de Windows Vista</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/25/Ce-quon-ne-vous-a-pas-dit-a-propos-de-Windows-Vista">Ce qu'on ne vous a pas dit à propos de Windows Vista</a>
+</td></tr></table>
 
 <p>Windows Vista sort la semaine prochaine, et la machine de marketing et relations presse de Microsoft tourne déjà à plein régime.  Pourquoi en parler alors que toute la presse attend le 31 janvier pour se déchaîner sur le sujet ?</p>
 
@@ -197,24 +186,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <p>[<a href="http://standblog.org/blog/post/2007/01/25/#rev-pnote-3087-8" id="pnote-3087-8">8</a>] Je pense en particulier au droit à la copie privée, au droit de lire les oeuvres comme bon me semble, avec l'équipement de mon choix, le droit à acheter le matériel que je veux et le droit d'utiliser les logiciels de mon choix, le droit de changer de carte-mère ou de faire évoluer mon matériel sans avoir à me plier au diktat d'une entreprise, qu'elle soit française ou américaine.</p>
 <p>[<a href="http://standblog.org/blog/post/2007/01/25/#rev-pnote-3087-9" id="pnote-3087-9">9</a>] Qu'on ne se méprenne pas. Si je parle de Microsoft avec des mots si durs, ça n'est pas parce que je déteste Microsoft : je ne déteste pas cette entreprise (voir à ce sujet mon billet <a href="http://standblog.org/blog/post/2005/10/22/93114455-faut-il-etre-pour-ou-contre-microsoft" hreflang="fr">Faut-il être pour ou contre Microsoft ?</a>). Par contre, et c'est là l'origine de ma démarche, je déteste la situation de monopole, qui ôte le pouvoir aux consommateurs de choisir, et les DRM, qui sont néfastes aux libertés des citoyens.</p>
 <p>[<a href="http://standblog.org/blog/post/2007/01/25/#rev-pnote-3087-10" id="pnote-3087-10">10</a>] Oui, il y a des DRM sur le Mac, mais dans iTunes, pas dans le système d'exploitation lui-même. A l'inverse, il n'y a pas de DRM sous Linux, mais on est bridé dans l'utilisation de formats propriétaires et l'accès à certains contenus, justement à cause de cette absence de DRM. Il est à noter qu'il n'est pas exclu que cela touche le Mac aussi.</p></div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-26 13:45:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technologie, Microsoft, Vista</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-26 13:45:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Technologie, Microsoft, Vista</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/25/Le-nouveautes-de-Thunderbird-2"><b>Le nouveautés de Thunderbird 2</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/25/Le-nouveautes-de-Thunderbird-2">Le nouveautés de Thunderbird 2</a>
+</td></tr></table>
 
 <p>Je suis allé pêcher dans les <a href="http://www.mozilla.com/en-US/thunderbird/releases/2.0b2.html" hreflang="en">notes de version de Thunderbird 2 Beta 2</a> ce qu'il y a de nouveau dans cette version qui s'avère bigrement tentante :</p>
 
@@ -236,24 +222,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 </ul>
 <div class="footnotes"><h4>Notes</h4>
 <p>[<a href="http://standblog.org/blog/post/2007/01/25/#rev-pnote-3086-1" id="pnote-3086-1">1</a>] Je suis déjà raide dingue de cette fonctionnalité</p></div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-25 20:15:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mozilla-Europe</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-25 20:15:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Mozilla-Europe</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/25/Actu-Mozilla"><b>Actu Mozilla</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/25/Actu-Mozilla">Actu Mozilla</a>
+</td></tr></table>
 
 <p>Il se passe pleins de choses dans l'écosystème Mozillien ces jours-ci. Voici un bref récapitulatif :</p>
 
@@ -282,24 +265,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 </ul>
 
 <p>Je prépare un billet pour parler du <em>Mozilla Manifesto</em>, qui mérite bien un peu plus de visibilité pour lui tout seul.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-25 08:55:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mozilla-Europe</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-25 08:55:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Mozilla-Europe</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/24/En-vrac"><b>En vrac</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/24/En-vrac">En vrac</a>
+</td></tr></table>
 
 <ul>
 <li>Excellente <a href="http://ticnews.fr/spip.php?article77" hreflang="fr">interview de Richard Cazenave, le député à l'origine du passage de l'Assemblée Nationale aux logiciels Libres</a> (Linux + OOo + Firefox + Thunderbird) ;</li>
@@ -316,24 +296,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><a href="http://www.leblogdebezier.com/?p=87" hreflang="fr">Votre serviteur interviewé par Thierry Bézier (partie 3 sur 4)</a>, en vidéo et en MP3 ;</li>
 <li><a href="http://www.lemonde.fr/web/article/0,1-0@2-3228,36-858553@51-856676,0.html" hreflang="fr">Chez eBay UK, on se frotte les mains</a> <img src="http://standblog.org/dc-blog/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></li>
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-24 16:42:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">En vrac</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-24 16:42:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>En vrac</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/24/Quote-of-the-day-by-Richard-Cazenave"><b>Quote of the day, by Richard Cazenave</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/24/Quote-of-the-day-by-Richard-Cazenave">Quote of the day, by Richard Cazenave</a>
+</td></tr></table>
 
 <p><a href="http://www.richardcazenave.com/" hreflang="fr">Richard Cazenave</a> (Congressman, UMP, right wing), is the French congressman who has managed to prepare the switch from Windows to Linux of the French Congress (<em>Assemblée Nationale</em>). He is <a href="http://ticnews.fr/spip.php?article77" hreflang="fr">interviewed by TicNews</a> :</p>
 
@@ -345,24 +322,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 
 
 <blockquote><p>I wanted this mostly to solve the issues of standards, as I think that public organizations and administrations, in order to be able to be used by everybody, must use tools that implement open standards. It's a matter of compatibility over time as it ensures that any software vendor is going to be able to implement this standard. It's also for financial reasons, as the use of Free/Open Source software, considering the size of these organizations and administrations, enables significant savings, despite the cost of deployment, migration and training involved. I hope that Assemblée Nationale will lead the way for others.</p></blockquote>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-24 15:10:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">en, cazenave, france, mozilla</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-24 15:10:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>en, cazenave, france, mozilla</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/24/Actu-des-DRM-et-campagne-DRM-de-merde"><b>Actu des DRM et campagne 'DRM de merde'</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/24/Actu-des-DRM-et-campagne-DRM-de-merde">Actu des DRM et campagne 'DRM de merde'</a>
+</td></tr></table>
 
 <ul>
 <li>Les <a href="http://bigbrotherawards.eu.org/" hreflang="fr">Big Brother awards France</a> viennent de publier leur <a href="http://bigbrotherawards.eu.org/Palmares-2006-des-Big-Brother-Awards-France.html" hreflang="fr">palmarès 2006</a>. Parmi les membres du jury, <a href="http://maitre.eolas.free.fr/journal/index.php?2007/01/19/519-big-brother-awards-2006-the-eolas-touch" hreflang="fr">l'excellent maître Eolas</a>. On reconnaîtra avec plaisir que les DRM sont largement représentés :
@@ -373,44 +347,38 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><a href="http://lilyprune.free.fr/index.php/2007/01/22/drm-de-merde/" hreflang="fr">DRM de merde, la campagne</a> ! Et si vous aussi, ami blogueur, vous parliez de <a href="http://standblog.org/blog/post/2007/01/22/DRM-de-merde" hreflang="fr">ce problème</a> ? C'est en tout cas ce que vous propose de faire le blog Lilyprune ;</li>
 <li><a href="http://www.01net.com/editorial/339348/musique/des-associations-europeennes-contre-les-drm-d-apple/" hreflang="fr">Des associations européennes contre les DRM d'Apple</a> ;</li>
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-24 13:30:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dangers des DRM, drm, orwell, rootkit</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-24 13:30:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Dangers des DRM, drm, orwell, rootkit</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/24/A-propos-de-Nicolas-Hulot"><b>A propos de Nicolas Hulot</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/24/A-propos-de-Nicolas-Hulot">A propos de Nicolas Hulot</a>
+</td></tr></table>
 
 <p>Ainsi, Nicolas Hulot s'est retiré de la course à la présidence de la République, avec un soulagement à la fois visible et prévisible. Il aura réussi à donner plus de visibilité à la protection de l'environnement, et c'est une excellente chose. J'ai signé le <a href="http://www.pacte-ecologique-2007.org/declaration/index.html" hreflang="fr">pacte écologique</a>, et je vous encourage à faire de même, dès maintenant : il faut montrer aux politiques de tous bords l'importance de ce sujet, et pour cela il faut montrer qu'il tient à coeur pour des millions d'électeurs ! J'en profite pour mettre un lien vers un article tout en tendresse, par l'ami <a href="http://cdelasteyrie.typepad.com/sidiese/" hreflang="fr">Vinvin</a>, <a href="http://cdelasteyrie.typepad.com/sidiese/2007/01/les_pieds_de_ni.html" hreflang="fr">le pied de Nicolas Hulot</a>.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-24 13:20:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Environnement, hulot, pacte-ecologique, vinvin</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-24 13:20:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Environnement, hulot, pacte-ecologique, vinvin</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/24/Mozilla-Europe-au-salon-Solutions-Linux"><b>Mozilla Europe au salon Solutions Linux</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/24/Mozilla-Europe-au-salon-Solutions-Linux">Mozilla Europe au salon Solutions Linux</a>
+</td></tr></table>
 
 <p>Comme chaque année, Mozilla Europe sera au salon <a href="http://www.solutionslinux.fr/fr/" hreflang="fr">Solutions Linux</a>, dans le village des associations. Nous seront présents sur le stand avec nos amis de <a href="http://www.geckozone.org/" hreflang="fr">Geckozone</a>, <a href="http://xulfr.org/" hreflang="fr">XULfr</a> et <a href="http://frenchmozilla.sourceforge.net/" hreflang="fr">FrenchMozilla</a> et les membres de la communauté.</p>
 
@@ -422,24 +390,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 
 
 <p>Il n'est pas trop tard pour <a href="http://www.solutionslinux.fr/fr/visiter_preinscription_fr.php" hreflang="fr">vous pré-inscrire</a> !</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-24 10:15:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Mozilla-Europe</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-24 10:15:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Mozilla-Europe</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/22/En-vrac"><b>En vrac</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/22/En-vrac">En vrac</a>
+</td></tr></table>
 
 <ul>
 <li>Quand <a href="http://www.quirksmode.org/blog/archives/2007/01/new_dutch_acces.html" hreflang="en">la loi hollandaise sur l'accessibilité favorise le respect des standards</a>,  <a href="http://www.webstandards.org/2007/01/15/the-dutch-embrace-web-standards/" hreflang="en">via WaSP</a> ;</li>
@@ -454,24 +419,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><a href="http://www.linux-foundation.org/" hreflang="en">Création de la [Linux Foundation</a>, fusion d<em>'OSDL</em> et du <em>Free Standards Group</em>. Voici le <a href="http://www.linux-foundation.org/wordpress/?p=286" hreflang="en">communiqué de presse</a>. <a href="http://www.groklaw.net/article.php?story=20070122053519523" hreflang="en">Groklaw appuie là où ça fait mal</a> (et fournit un serveur qui tient la route, lui !) ;</li>
 <li>Très bon billet de Christophe Bardy à propos <a href="http://idg3.typepad.com/infrastructure/2007/01/louverture_du_p.html" hreflang="fr">L'ouverture du PC : le cauchemar de Microsoft et de Vista...</a>. La conclusion fait peur ! Faut-il remettre le PC à plat ?</li>
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-22 17:45:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">En vrac</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-22 17:45:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>En vrac</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/22/DRM-de-merde"><b>DRM de merde !</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/22/DRM-de-merde">DRM de merde !</a>
+</td></tr></table>
 
 <p>Ca n'est pas moi qui le dit. Ou plutôt, ça n'est pas que moi. J'en veux pour preuve l'excellent billet rageur de Philippe Astor, qui blogue chez ZDNet.fr : <a href="http://blogs.zdnet.fr/index.php/2007/01/16/drm-de-m" hreflang="fr">DRM de merde</a>.</p>
 
@@ -482,24 +444,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <blockquote><p>j'ai un petit message personnel à faire passer à qui de droit : &quot;Messieurs, vos DRM sont une belle merde, du foutage de gueule en barre, du ni fait ni à faire, un ramassis de camelote, un assortiment de bugs en cascade, une escroquerie logicielle et intellectuelle et pour finir, une véritable incitation à les contourner, ce que je n'hésiterai pas à faire en dernier ressort - ça devrait être moins compliqué que de les faire fonctionner -, pour continuer à bénéficier des services que je paie !&quot; A bon entendeur…</p></blockquote>
 <div class="footnotes"><h4>Notes</h4>
 <p>[<a href="http://standblog.org/blog/post/2007/01/22/#rev-pnote-3078-1" id="pnote-3078-1">1</a>] Plus mal nommé que jamais !</p></div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-22 16:34:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dangers des DRM</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-22 16:34:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Dangers des DRM</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/22/New-XUL-apps%3A-Joost-and-Moulin"><b>New XUL apps: Joost and Moulin</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/22/New-XUL-apps%3A-Joost-and-Moulin">New XUL apps: Joost and Moulin</a>
+</td></tr></table>
 
 <p><a href="http://www.vecosys.com/2007/01/19/joost-is-another-xulrunner-app/" hreflang="en">Joost is another XULrunner App</a>,  and many people have already heard about it already, at least in its former name, <em>The Venice Project</em>. I'd love to share with my 2 readers a great piece of software I've been told about: <a href="http://www.moulinwiki.org/l/en/about/" hreflang="en">MoulinWiki</a>. <a href="http://www.moulinwiki.org/" hreflang="en">Moulin</a> is a great tool to spread encyclopedia knowledge to people without Internet connectivity. Very basically, it's an off-line version of Wikipedia with a specific interface, actually based on XULRunner, all running on a CD-ROM.</p>
 
@@ -507,24 +466,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <p>For now, this public preview (released yesterday) is only available in French, but other versions are in the works, including English, Spanish, Portuguese, Chinese and German. I already have submitted my first <acronym title="Request For Enhancement">RFE</acronym>s to the team, as I plan to give this CD-ROM to my son Robin (10 years today<sup>[<a href="http://standblog.org/blog/post/2007/01/22/#pnote-3077-1" id="rev-pnote-3077-1">1</a>]</sup>) so he can read Wikipedia on his old, not connected PC. However, <a href="http://www.moulinwiki.org/" hreflang="en">Moulin</a> is meant to be deployed in African schools were there are a few PCs with CD-ROM drives, but without Internet access. There are already <a href="http://www.moulinwiki.org/moulinwiki-sites/">places in Mali where Moulin has been deployed</a> ! I love the fact that Mozilla technology is used with Wikipedia content in order to share culture and knowledge in remote places (including my son's desk <img src="http://standblog.org/dc-blog/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> )</p>
 <div class="footnotes"><h4>Notes</h4>
 <p>[<a href="http://standblog.org/blog/post/2007/01/22/#rev-pnote-3077-1" id="pnote-3077-1">1</a>] Happy Birthday, Robin!</p></div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-22 15:44:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">en</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-22 15:44:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>en</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/22/Actu-Microsoft"><b>Actu Microsoft</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/22/Actu-Microsoft">Actu Microsoft</a>
+</td></tr></table>
 
 <ul>
 <li>Je parlais récemment du <a href="http://chl.be/vista/" hreflang="fr">coût de la protection de contenu de Windows Vista</a>. L'un de ces coûts est lié à la certification (et à la possible répudiation) de pilotes de périphériques touchant de près ou de loin au contenu numérique. On pourrait croire que c'est un cas d'école, alors que Vista n'est pas encore dispo pour le grand public. Voilà le premier exemple francophone : <a href="http://www.mat2057.info/2007/01/09/creative-audigy-vista/" hreflang="fr">Bravo Creative Labs</a>, où un utilisateur légitime de matériel et de logiciel ne peut pas faire fonctionner les deux essemble. Rien d'exotique pourtant : mais les pilotes de sa carte son se périment et Vista ne peut donc pas (comme prévu) les utiliser. Si l'utilisateur était resté sous XP, sa configuration fonctionnerait correctement ;</li>
@@ -533,24 +489,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><a href="http://www.pbs.org/cringely/pulpit/2007/pulpit_20070119_001510.html" hreflang="en">Google veut dominer le monde</a>. Bon d'accord, c'est délirant, mais c'est intéressant, comme délire, et pas forcément faux, d'autant que Cringely n'a pas écrit que des bêtises par le passé. Pendant ce temps là, <a href="http://www.mysanantonio.com/news/metro/stories/MYSA011907.01A.Microsoft.1bc19da.html" hreflang="en">Microsoft veuet faire de même</a> ;</li>
 <li><a href="http://apple.slashdot.org/apple/07/01/21/1843216.shtml" hreflang="en">Zune a 10,2% des parts de marché aux US, dans le segment des baladeurs MP3 à disque de 30Go</a>. Maintenant, voici le <em>scoop</em> mortel qu'on ne trouve que sur le Standblog, à propos du Zune : dans le segment des baladeurs à disque dur de couleur marron avec un truc qui ressemble à une <em>clickwheel</em> mais n'en est pas une, ils ont 100% ! (Comme disait Coluche, &quot;en politique française, on est les meilleurs du mooooonde !&quot;)</li>
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-22 14:25:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technologie</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-22 14:25:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Technologie</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/22/Le-logiciel-Libre-une-chance-pour-lEurope-explique-un-rapport"><b>Le logiciel Libre, une chance pour l'Europe, explique un rapport</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/22/Le-logiciel-Libre-une-chance-pour-lEurope-explique-un-rapport">Le logiciel Libre, une chance pour l'Europe, explique un rapport</a>
+</td></tr></table>
 
 <p>Le logiciel Libre est présenté comme une chance pour l'Europe, d'après <a href="http://linuxfr.org/redirect/50283.html" hreflang="en">rapport (format PDF)</a> remis à la Commission Européenne. J'ai parcouru le document (224 pages sans compter les annexes !) et lu le résumé (pages 9 à 12). Une traduction en français serait en cours, suite à la demande de certains libristes. Forcément, ces conclusions font du bruit dans la presse :</p>
 
@@ -560,44 +513,38 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><em>Wired</em> : <a href="http://blog.wired.com/monkeybites/2007/01/huge_new_study_.html" hreflang="en">Huge new study on Free/Open Source Software</a> ;</li>
 <li><em>LinuxFR</em> : <a href="http://linuxfr.org/2007/01/17/21930.html" hreflang="fr">Rapport pour la Commission européenne sur le logiciel libre</a> (avec un rapide résumé du résumé) ;</li>
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-22 14:03:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Technologie</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-22 14:03:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Technologie</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/22/Lindustrie-du-disque-sinterroge-sur-les-DRM-a-loccasion-du-MIDEM"><b>L'industrie du disque s'interroge sur les DRM à l'occasion du MIDEM</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/22/Lindustrie-du-disque-sinterroge-sur-les-DRM-a-loccasion-du-MIDEM">L'industrie du disque s'interroge sur les DRM à l'occasion du MIDEM</a>
+</td></tr></table>
 
 <p>On vient de m'envoyer un lien vers un bon papier de Libé, <a href="http://www.liberation.fr/actualite/economie/230039.FR.php" hreflang="fr">L'industrie du disque en plein jeu de pistes</a>. Il y apparaît que beaucoup de producteurs de disques commencent à réaliser à quel point les DRM sont pénibles. Un représentant de l'industrie électronique se risque à dire la vérité : &quot;Il serait normal que les gens puissent utiliser comme ils le souhaitent les contenus qu'ils ont légalement acquis&quot;. Seul le patron de la <acronym title="Recording Industry Association of America">RIAA</acronym> (équivalent américain de la SACEM) rame à contre-courant (mais bon, il est payé pour). &quot;Si les majors n'ont jamais semblé aussi proches de se convertir au format ouvert MP3, elles craignent de voir la filière passer sous le contrôle des groupes comme Microsoft ou Apple, détenteurs des technologies de distribution en ligne&quot;, écrit Christophe Alix. Tiens, j'ai <a href="http://standblog.org/blog/post/2007/01/17/Letonnant-parallele-entre-Frankenstein-et-les-DRM" hreflang="fr">déjà lu ça quelque part</a> ! <img src="http://standblog.org/dc-blog/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-22 07:41:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dangers des DRM</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-22 07:41:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Dangers des DRM</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/20/Actu-des-navigateurs"><b>Actu des navigateurs</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/20/Actu-des-navigateurs">Actu des navigateurs</a>
+</td></tr></table>
 
 <ul>
 <li><a href="http://www.informationweek.com/news/showArticle.jhtml?articleID=196901142" hreflang="en">Malgré ses 100 millions d'installations, le navigateur de Microsoft continue de perdre du terrain</a>. Je voulais vous en parler, lui donner un peu plus de visibilité. Mais <a href="http://www.digg.com/software/Despite_100_Million_IE_7_Installs_Microsoft_s_Browser_Still_Loses_Ground" hreflang="en">Digg.com</a> et <a href="http://slashdot.org/articles/07/01/17/0311219.shtml" hreflang="en">Slashdot</a> m'ont précédé !
@@ -626,24 +573,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 </ul>
 
 <blockquote><p><em>Si vous utilisez encore IE6 et n'êtes pas encore passé à IE7, arrêtez de traînasser. Si vous utilisez une vieille version de Windows (IE7 ne fonctionne pas sur des versions antérieures à Windows XP SP2), j'abandonnerais en vitesse IE pour n'importe quel autre navigateur.</em></p></blockquote>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-20 16:25:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Navigateurs, firefox, ie, opera, sécurité</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-20 16:25:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Navigateurs, firefox, ie, opera, sécurité</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/19/En-vrac-et-en-retard-encore"><b>En vrac et en retard, encore !</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/19/En-vrac-et-en-retard-encore">En vrac et en retard, encore !</a>
+</td></tr></table>
 
 <ul>
 <li>Voilà <a href="http://www.gapingvoid.com/Moveable_Type/archives/003641.html" hreflang="en">à quoi ressemble parfois la blogosphère dans ce qu'elle a de plus vaniteux...</a> (le dessin, pas le texte). J'ai trouvé ce dessin de <a href="http://www.gapingvoid.com/" hreflang="en">Hugh Macleod</a> particulièrement bien vu. Même le texte est bien vu : &quot;21. Il se passe rarement une semaine sans que j'envisage de fermer les commentaires de façon permanente&quot;.  (<a href="http://standblog.org/blog/post/2007/01/19/" title="en">via Sam Sethi</a>) ;</li>
@@ -656,24 +600,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 <li><a href="http://www.zdnet.fr/actualites/internet/0,39020774,39366310,00.htm" hreflang="fr">L'UFC-Que choisir demande aux majors de s'affranchir des DRM</a> ;</li>
 <li><a href="http://tf1.lci.fr/infos/high-tech/0,,3382414,00-mp3-sans-drm-nous-negocions-majors-.html" hreflang="fr">MP3 sans DRM : &quot;Nous négocions avec les majors&quot;</a>, explique le directeur de Fnac.com (via Daniel). Il qualifie les DRM de &quot;système encore très prohibitif pour une grande majorité de consommateurs de musique numérique&quot; ;</li>
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-19 14:19:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">En vrac</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-19 14:19:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>En vrac</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/17/Meilleurs-voeux-pour-2007"><b>Meilleurs voeux pour 2007</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/17/Meilleurs-voeux-pour-2007">Meilleurs voeux pour 2007</a>
+</td></tr></table>
 
 <p>Ah, on pourra dire qu'en présentant mes voeux un 17 janvier, et par blog interposé, je en fais pas de zèle ! Certes. Mais c'est en voulant faire trop bien que je fais mal, comme souvent. En effet, je voulais faire un billet par catégorie sur le Standblog, avec des voeux 2007 spécifique à chaque catégorie. Comme je manque terriblement de temps, je vais quand même faire un rapide billet dans cette optique, quitte à laisser de coté plusieurs catégories. Allez, c'est parti !</p>
 
@@ -745,24 +686,21 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 
 
 <p><strong>Mise à jour : </strong> j'ai du mal à me retenir de pouffer, et vous n'allez pas me croire : <del>j'ai un souci avec DotClear 2 Beta, et je n'arrive pas à ouvrir les commentaires <img src="http://standblog.org/dc-blog/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /></del> C'est corrigé. Merci Olivier et Mat !</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-17 17:18:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">StandBlog et blogs</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-17 17:18:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>StandBlog et blogs</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/">
-<b>Standblog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://standblog.org/blog/post/2007/01/17/Letonnant-parallele-entre-Frankenstein-et-les-DRM"><b>L'étonnant parallèle entre Frankenstein et les DRM</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://standblog.org/blog/">
+Standblog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://standblog.org/blog/post/2007/01/17/Letonnant-parallele-entre-Frankenstein-et-les-DRM">L'étonnant parallèle entre Frankenstein et les DRM</a>
+</td></tr></table>
 
 <p>Ah, il s'en passe des choses dans le monde tumultueux du contenu numérique ! D'un coté on se rend compte que les DRM gênent les ventes, mais que d'un autre coté, on redoute plus que tout le piratage. Ca me rappelle mes leçons de physique sur les systèmes oscillants ! J'ai compilé ci-dessous quelques liens révélateurs de ce mécanisme. Il y a toutefois quelque chose qui m'amuse et m'inquiète à la fois, c'est que l'industrie du disque jouent avec le feu quand il s'agit de promouvoir les DRM. Je m'explique :</p>
 
@@ -799,11 +737,11 @@ Tristan Nitot sur les standards du Web, les navigateurs et la technologie
 </ul>
 <div class="footnotes"><h4>Notes</h4>
 <p>[<a href="http://standblog.org/blog/post/2007/01/17/#rev-pnote-3070-1" id="pnote-3070-1">1</a>] J'ai testé pour vous : on vous demande votre numéro de carte bancaire puis on vous facture un abonnement mensuel, qui offre un certain nombre de chansons format non-protégé téléchargeables dans le mois. Coté catalogue, on a un peu l'impression de se retrouver dans les bacs d'un disquaire d'occasion, avec quelques noms connus, mais un max de vieux trucs dont personne ne veut...</p></div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-01-17 15:15:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Tristan</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dangers des DRM, drm, fnacmusic, ipod, mp3, virginmega, zune</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-01-17 15:15:00 UTC</td></tr>
+<tr><th>Author:</th><td>Tristan</td></tr>
+<tr><th>Filed under:</th><td>Dangers des DRM, drm, fnacmusic, ipod, mp3, virginmega, zune</td></tr>
 </table>
 
 </body></html>

@@ -11,141 +11,118 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://www.dilbert.com">
-<b>Dilbert</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://www.dilbert.com">
+Dilbert</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 <br/>
 Never miss any Dilbert strips, even on the weekends! (Scraped from www.dilbert.com itself.)
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.dilbert.com">
-<b>Dilbert</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071026.html"><b>Friday, October 26, 2007</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.dilbert.com">
+Dilbert</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071026.html">Friday, October 26, 2007</a>
+</td></tr></table>
 
 <IMG SRC="http://www.dilbert.com/comics/dilbert/archive/images/dilbert2007114666026.gif" BORDER=0 ALT="Today's Dilbert Comic">
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-10-25 22:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-10-25 22:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.dilbert.com">
-<b>Dilbert</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071025.html"><b>Thursday, October 25, 2007</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.dilbert.com">
+Dilbert</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071025.html">Thursday, October 25, 2007</a>
+</td></tr></table>
 
 <IMG SRC="http://www.dilbert.com/comics/dilbert/archive/images/dilbert2007183331025.gif" BORDER=0 ALT="Today's Dilbert Comic">
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-10-24 22:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-10-24 22:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.dilbert.com">
-<b>Dilbert</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071024.html"><b>Wednesday, October 24, 2007</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.dilbert.com">
+Dilbert</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071024.html">Wednesday, October 24, 2007</a>
+</td></tr></table>
 
 <IMG SRC="http://www.dilbert.com/comics/dilbert/archive/images/dilbert2002444471024.gif" BORDER=0 ALT="Today's Dilbert Comic">
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-10-23 22:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-10-23 22:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.dilbert.com">
-<b>Dilbert</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071023.html"><b>Tuesday, October 23, 2007</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.dilbert.com">
+Dilbert</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071023.html">Tuesday, October 23, 2007</a>
+</td></tr></table>
 
 <IMG SRC="http://www.dilbert.com/comics/dilbert/archive/images/dilbert2036666071023.gif" BORDER=0 ALT="Today's Dilbert Comic">
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-10-22 22:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-10-22 22:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.dilbert.com">
-<b>Dilbert</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071022.html"><b>Monday, October 22, 2007</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.dilbert.com">
+Dilbert</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071022.html">Monday, October 22, 2007</a>
+</td></tr></table>
 
 <IMG SRC="http://www.dilbert.com/comics/dilbert/archive/images/dilbert2733330071022.gif" BORDER=0 ALT="Today's Dilbert Comic">
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-10-21 22:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-10-21 22:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.dilbert.com">
-<b>Dilbert</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071021.html"><b>Sunday, October 21, 2007</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.dilbert.com">
+Dilbert</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071021.html">Sunday, October 21, 2007</a>
+</td></tr></table>
 
 <IMG SRC="http://www.dilbert.com/comics/dilbert/archive/images/dilbert2007102104761.jpg" BORDER=0 ALT="Today's Dilbert Comic">
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-10-20 22:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-10-20 22:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.dilbert.com">
-<b>Dilbert</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071020.html"><b>Saturday, October 20, 2007</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.dilbert.com">
+Dilbert</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20071020.html">Saturday, October 20, 2007</a>
+</td></tr></table>
 
 <IMG SRC="http://www.dilbert.com/comics/dilbert/archive/images/dilbert2007101222220.gif" BORDER=0 ALT="Today's Dilbert Comic">
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-10-19 22:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-10-19 22:00:00 UTC</td></tr>
 </table>
 
 </body></html>

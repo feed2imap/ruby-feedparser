@@ -11,27 +11,22 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://wiki.softwarelivre.org/bin/view/Blogs/MarceloBranco">
-<b>MarceloBranco's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">ISO-8859-1</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://wiki.softwarelivre.org/bin/view/Blogs/MarceloBranco">
+MarceloBranco's Blog</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>ISO-8859-1</td></tr></table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://wiki.softwarelivre.org/bin/view/Blogs/MarceloBranco">
-<b>MarceloBranco's Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://wiki.softwarelivre.org/bin/view/Blogs/BlogPostMarceloBranco20090403144358"><b>Parabéns Colorado pelos 100 anos</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://wiki.softwarelivre.org/bin/view/Blogs/MarceloBranco">
+MarceloBranco's Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://wiki.softwarelivre.org/bin/view/Blogs/BlogPostMarceloBranco20090403144358">Parabéns Colorado pelos 100 anos</a>
+</td></tr></table>
 
 <p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/gxmG6_ZQ-cA&amp;hl=pt-br&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/gxmG6_ZQ-cA&amp;hl=pt-br&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 <p />
@@ -43,9 +38,9 @@ Eu me lembro deste dia (4 de abril de 1969) como se fosse hoje. Morávamos na ru
 lembrei muito do meu pai e da minha mama...e dos amig@s colorados como vocês.
 <p />
 vídeo feito por Danilo Lando, copiado da ZH.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-04-03 14:40:53 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-04-03 14:40:53 UTC</td></tr>
 </table>
 
 </body></html>

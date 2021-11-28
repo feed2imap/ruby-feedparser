@@ -11,646 +11,544 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 <br/>
 Daily with Amanda Congdon
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_24.html"><b>Rocketboom Tue, 24 Jan 2006 07:50:59 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_24.html">Rocketboom Tue, 24 Jan 2006 07:50:59 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_24.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_24.jpg'/> 
-<p><b>story links:</b> rb boston field correspondent <a href="http://www.stevegarfield.com">steve garfield</a> covers <a href="http://www.boston.com/news/necn/">the new england cable news station (necn)</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_24.mov">rb_06_jan_24.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> rb boston field correspondent <a href="http://www.stevegarfield.com">steve garfield</a> covers <a href="http://www.boston.com/news/necn/">the new england cable news station (necn)</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_24.mov">rb_06_jan_24.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-24 13:50:59 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-24 13:50:59 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_23.html"><b>Rocketboom Mon, 23 Jan 2006 01:38:31 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_23.html">Rocketboom Mon, 23 Jan 2006 01:38:31 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_23.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_23.jpg'/> 
-<p><b>story links:</b> <a href="http://cosmos.hc.uec.ac.jp/protrudeflow/movies/wmv/profloD.wmv">magnetic ferro-fluid</a>, <a href="http://www.treehugger.com/files/2005/11/tired_of_living.php">man builds island out of bottle caps, lives there</a> (<a href="http://www.geocities.com/spiral_island/">image</a>)(thanks, <a href="http://distantoutpost.blogspot.com">steed</a>!), <A href="http://www.ohthehum.com/">ninja troupe</a> <a href="http://www.ohthehum.com/sketches/AN4.mov">video</a> (thanks, kanton!), <A href="http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2006/01/22/cnpixar22.xml&menuId=242&sSheet=/money/2006/01/22/ixcitytop.html">jobs to sell pixar to disney for $7billion</a>, <a href="http://people.monstersandcritics.com/article_1078196.php/Iger_buys_$19_million_estate">disney chief buys $19million home</a>, celebrity news-stand offerings, <a href="http://www.brandinfection.com/2006/01/17/video-comparison-apple-intel-mac-vs-postal-service/">apple/intel ad and and postal service music video use same production company (and footage)</a>, <a href="http://intel.luzcamaraenter.com">intel videoblogging contest expands reach</a>, <a href="http://science.slashdot.org/article.pl?sid=06/01/22/050241">china building fusion chamber</a>, <a href="http://www.dlmag.com/news/13/01-18-2006/367-330-miles-per-gallon.html">330 mile-per-gallon hybrid car</a> (<a href="http://digg.com/science/330MPG_Uber_Hybrid_Car_">via</a>), <a href="http://www.nasa.gov/mission_pages/newhorizons/launch/newhorizons-allvideos.html">nasa launches pluto mission</a>, <A href="http://www.metadaddy.org/mt/mt-comments.cgi?entry_id=7977">rb comment of the week by chaz hill</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_23.mov">rb_06_jan_23.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> <a href="http://cosmos.hc.uec.ac.jp/protrudeflow/movies/wmv/profloD.wmv">magnetic ferro-fluid</a>, <a href="http://www.treehugger.com/files/2005/11/tired_of_living.php">man builds island out of bottle caps, lives there</a> (<a href="http://www.geocities.com/spiral_island/">image</a>)(thanks, <a href="http://distantoutpost.blogspot.com">steed</a>!), <A href="http://www.ohthehum.com/">ninja troupe</a> <a href="http://www.ohthehum.com/sketches/AN4.mov">video</a> (thanks, kanton!), <A href="http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2006/01/22/cnpixar22.xml&menuId=242&sSheet=/money/2006/01/22/ixcitytop.html">jobs to sell pixar to disney for $7billion</a>, <a href="http://people.monstersandcritics.com/article_1078196.php/Iger_buys_$19_million_estate">disney chief buys $19million home</a>, celebrity news-stand offerings, <a href="http://www.brandinfection.com/2006/01/17/video-comparison-apple-intel-mac-vs-postal-service/">apple/intel ad and and postal service music video use same production company (and footage)</a>, <a href="http://intel.luzcamaraenter.com">intel videoblogging contest expands reach</a>, <a href="http://science.slashdot.org/article.pl?sid=06/01/22/050241">china building fusion chamber</a>, <a href="http://www.dlmag.com/news/13/01-18-2006/367-330-miles-per-gallon.html">330 mile-per-gallon hybrid car</a> (<a href="http://digg.com/science/330MPG_Uber_Hybrid_Car_">via</a>), <a href="http://www.nasa.gov/mission_pages/newhorizons/launch/newhorizons-allvideos.html">nasa launches pluto mission</a>, <A href="http://www.metadaddy.org/mt/mt-comments.cgi?entry_id=7977">rb comment of the week by chaz hill</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_23.mov">rb_06_jan_23.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-23 07:38:31 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-23 07:38:31 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_20.html"><b>Rocketboom Fri, 20 Jan 2006 08:26:04 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_20.html">Rocketboom Fri, 20 Jan 2006 08:26:04 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_20.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_20.jpg'/> 
-<p><b>story links:</b> rb field correspondents ask why is bush so awesome? <a href="http://annieee.blogspot.com/" class="postlink">annie</a> - los angeles, <a href="http://travelvlog.blogspot.com/" class="postlink">graham walker</a> - prague, <a href="http://rebell.tv/" class="postlink">stefan m. seydel a.k.a. sms ;)</a> - lake constance, <a href="http://www.tysonroot.com/" class="postlink">tyson root</a> - houston, <a href="http://www.stevegarfield.com/" class="postlink">steve garfield</a> - boston, <a href="http://blogumentary.typepad.com/" class="postlink">chuck olsen</a> - minneapolis, <a href="http://hollowbonefilms.com/" class="postlink">milt lee</a> - rapid city, music: <a href="http://www.podsafeaudio.com/jamroom/bands/129/default.php" class="postlink">tyson emanuel - touched by fire</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_20.mov">rb_06_jan_20.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> rb field correspondents ask why is bush so awesome? <a href="http://annieee.blogspot.com/" class="postlink">annie</a> - los angeles, <a href="http://travelvlog.blogspot.com/" class="postlink">graham walker</a> - prague, <a href="http://rebell.tv/" class="postlink">stefan m. seydel a.k.a. sms ;)</a> - lake constance, <a href="http://www.tysonroot.com/" class="postlink">tyson root</a> - houston, <a href="http://www.stevegarfield.com/" class="postlink">steve garfield</a> - boston, <a href="http://blogumentary.typepad.com/" class="postlink">chuck olsen</a> - minneapolis, <a href="http://hollowbonefilms.com/" class="postlink">milt lee</a> - rapid city, music: <a href="http://www.podsafeaudio.com/jamroom/bands/129/default.php" class="postlink">tyson emanuel - touched by fire</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_20.mov">rb_06_jan_20.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-20 14:26:04 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-20 14:26:04 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_19.html"><b>Rocketboom Thu, 19 Jan 2006 08:17:30 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_19.html">Rocketboom Thu, 19 Jan 2006 08:17:30 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_19.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_19.jpg'/> 
-<p><b>story link:</b> introducing rb dutch field correspondent based in nairobi, kenya, <a href="http://www.videoreporter.nl" class="postlink">ruud elmendorp on aceh, indonesia one year after the tsunami</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_19.mov">rb_06_jan_19.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story link:</b> introducing rb dutch field correspondent based in nairobi, kenya, <a href="http://www.videoreporter.nl" class="postlink">ruud elmendorp on aceh, indonesia one year after the tsunami</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_19.mov">rb_06_jan_19.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-19 14:17:30 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-19 14:17:30 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_18.html"><b>Rocketboom Wed, 18 Jan 2006 15:24:02 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_18.html">Rocketboom Wed, 18 Jan 2006 15:24:02 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_18.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_18.jpg'/> 
-<p><b>story link:</b>: <a href="http://askaninja.blogspot.com/">ask a ninja</a>, <a href="http://www.sunnewsonline.com/webpages/features/goodhealth/2006/jan/17/goodhealth-17-01-2006-001.htm">man who claims aids cure not taken seriously</a>, <a href="http://www.miami.com/mld/miamiherald/living/people/13647536.htm">golden globes awards</a>, <a href="http://en.wikipedia.org/wiki/Steve_jobs">steve jobs</a>, <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2006/01/15/EDG1UGN6PN1.DTL">bush out selling win to war</a>, <a href="http://english.people.com.cn/200601/18/eng20060118_236335.html">world health organization calls for pandemic preparation</a>, <a href="http://blogs.zdnet.com/Gillmor/?p=211">the death of software</a>, <a href="http://www.nzherald.co.nz/section/story.cfm?c_id=5&ObjectID=10364133 ">laughing is the best medicine</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_18.mov">rb_06_jan_18.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story link:</b>: <a href="http://askaninja.blogspot.com/">ask a ninja</a>, <a href="http://www.sunnewsonline.com/webpages/features/goodhealth/2006/jan/17/goodhealth-17-01-2006-001.htm">man who claims aids cure not taken seriously</a>, <a href="http://www.miami.com/mld/miamiherald/living/people/13647536.htm">golden globes awards</a>, <a href="http://en.wikipedia.org/wiki/Steve_jobs">steve jobs</a>, <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2006/01/15/EDG1UGN6PN1.DTL">bush out selling win to war</a>, <a href="http://english.people.com.cn/200601/18/eng20060118_236335.html">world health organization calls for pandemic preparation</a>, <a href="http://blogs.zdnet.com/Gillmor/?p=211">the death of software</a>, <a href="http://www.nzherald.co.nz/section/story.cfm?c_id=5&ObjectID=10364133 ">laughing is the best medicine</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_18.mov">rb_06_jan_18.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-18 21:24:02 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-18 21:24:02 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_17.html"><b>Rocketboom Tue, 17 Jan 2006 07:54:16 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_17.html">Rocketboom Tue, 17 Jan 2006 07:54:16 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_17.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_17.jpg'/> 
-<p><b>story links:</b> <a href="http://www.ssvc.org.uk/bwa/clips/bwa.mpg">vw bus drags</a>, <a href="http://www.synthtopia.com/phpBB2/viewtopic.php?p=1894#1894">sonic banana</a>, <a href="http://strandbeest.ii.nl/movies/rhinoceros%20klaar_kort.mpg">strandbeest</a>, <a href="http://geeklings.net/pvg/qrio-1.mpeg">dancing bots</a>, <a href="http://ri.hive.no/elaea50/elaea50/Tema%2003/Transformer%20Failure.mpg">transformer failure</a>, <a href="http://www.leblogauto.com/files/2CV.wmv">transformer failure ][</a>, <a href="http://fun.noshit.pl/DIR-2006.01.02/stres_w_pracy.mpeg">punch-out reenactment</a> (<a href="http://www.waxy.org/links/">via</a>), <a href="http://www.brentfiles.com/ultimateutopia.wmv">final fantasy reenactment</a>, <a href="http://memory.loc.gov/mbrs/varsmp/1821.mov">princess rajah dance 1904</a>, <a href="http://vlogon.blogspot.com/2006/01/high-speed-train.html">japan's maglev</a>, <a href="http://clerks2.com/movies/goodbadman560.mov">clerks2 feedback</a>(thanks, <a href="http://www.momentshowing.net/">jay</a>!), <a href="http://www.apollopony.com">apollo pony</a>, <a href="http://mediacast.sun.com/share/ChrisM/BeAGameDesigner.mpg">be a gamer</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_17.mov">rb_06_jan_17.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> <a href="http://www.ssvc.org.uk/bwa/clips/bwa.mpg">vw bus drags</a>, <a href="http://www.synthtopia.com/phpBB2/viewtopic.php?p=1894#1894">sonic banana</a>, <a href="http://strandbeest.ii.nl/movies/rhinoceros%20klaar_kort.mpg">strandbeest</a>, <a href="http://geeklings.net/pvg/qrio-1.mpeg">dancing bots</a>, <a href="http://ri.hive.no/elaea50/elaea50/Tema%2003/Transformer%20Failure.mpg">transformer failure</a>, <a href="http://www.leblogauto.com/files/2CV.wmv">transformer failure ][</a>, <a href="http://fun.noshit.pl/DIR-2006.01.02/stres_w_pracy.mpeg">punch-out reenactment</a> (<a href="http://www.waxy.org/links/">via</a>), <a href="http://www.brentfiles.com/ultimateutopia.wmv">final fantasy reenactment</a>, <a href="http://memory.loc.gov/mbrs/varsmp/1821.mov">princess rajah dance 1904</a>, <a href="http://vlogon.blogspot.com/2006/01/high-speed-train.html">japan's maglev</a>, <a href="http://clerks2.com/movies/goodbadman560.mov">clerks2 feedback</a>(thanks, <a href="http://www.momentshowing.net/">jay</a>!), <a href="http://www.apollopony.com">apollo pony</a>, <a href="http://mediacast.sun.com/share/ChrisM/BeAGameDesigner.mpg">be a gamer</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_17.mov">rb_06_jan_17.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-17 13:54:16 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-17 13:54:16 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_16.html"><b>Rocketboom Mon, 16 Jan 2006 08:23:19 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_16.html">Rocketboom Mon, 16 Jan 2006 08:23:19 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_16.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_16.jpg'/> 
-<p><b>story links:</b> <a href="http://members.aol.com/klove01/movies/dream.mov">martin luther king jr.</a>, <a href="http://alternet.org/story/30705/">george bush wire tapping</a>, <a href="http://www.democrats.com/bush-impeachment-poll-2">poll suggest americans would impeach over illegal wire tapping</a>, <a href="http://www.uiowa.edu/~africart/">fantastic afterlife vehicles</a> (thanks, <a href="http://www.nytimes.com/2005/12/11/arts/television/11mack.html?ex=1291957200&en=902af8858ba7bdf4&ei=5088&partner=rssnyt&emc=rss">robert</a>!), <a href="http://homepage.mac.com/lasolas/.Public/real_vista_ep1_h264.mov">vista osx</a> by <a href="mailto:trackfive@gmail.com">eden</a> [episodes <a href="http://homepage.mac.com/lasolas/.Public/real_vista_ep2_h264.mov">2</a>,<a href="http://homepage.mac.com/lasolas/.Public/real_vista_ep3_h264.mov">3</a>], <a href="http://www.fillmyroom.com/">filmmyroom.com</a> (thanks, blair!), <a href="http://www.rocketboom.com/extra/retro_ipod.html">retro ipod</a> (thanks, tom!), <a href="http://www.nasa.gov/mission_pages/stardust/main/index.html">nasa's spacedust mission returns home with comet sample</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_16.mov">rb_06_jan_16.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> <a href="http://members.aol.com/klove01/movies/dream.mov">martin luther king jr.</a>, <a href="http://alternet.org/story/30705/">george bush wire tapping</a>, <a href="http://www.democrats.com/bush-impeachment-poll-2">poll suggest americans would impeach over illegal wire tapping</a>, <a href="http://www.uiowa.edu/~africart/">fantastic afterlife vehicles</a> (thanks, <a href="http://www.nytimes.com/2005/12/11/arts/television/11mack.html?ex=1291957200&en=902af8858ba7bdf4&ei=5088&partner=rssnyt&emc=rss">robert</a>!), <a href="http://homepage.mac.com/lasolas/.Public/real_vista_ep1_h264.mov">vista osx</a> by <a href="mailto:trackfive@gmail.com">eden</a> [episodes <a href="http://homepage.mac.com/lasolas/.Public/real_vista_ep2_h264.mov">2</a>,<a href="http://homepage.mac.com/lasolas/.Public/real_vista_ep3_h264.mov">3</a>], <a href="http://www.fillmyroom.com/">filmmyroom.com</a> (thanks, blair!), <a href="http://www.rocketboom.com/extra/retro_ipod.html">retro ipod</a> (thanks, tom!), <a href="http://www.nasa.gov/mission_pages/stardust/main/index.html">nasa's spacedust mission returns home with comet sample</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_16.mov">rb_06_jan_16.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-16 14:23:19 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-16 14:23:19 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_13.html"><b>Rocketboom Fri, 13 Jan 2006 06:58:55 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_13.html">Rocketboom Fri, 13 Jan 2006 06:58:55 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_13.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_13.jpg'/> 
-<p><b>story links:</b> rocketboom colorado field retreat (<a href="http://blogumentary.typepad.com">chuck</a>, <a href="http://www.stevegarfield.com">steve</a>, <a href="http://www.realrez.com/">milt</a>)</a>: <a href="http://www.amillionlittlelies.com">a million little lies</a>, <a href="http://www.boingboing.net/2006/01/10/girl_kisses_chicken_.html">bird flu from chicken kiss</a>, <a href="http://news.yahoo.com/s/ap/20060109/ap_on_re_la_am_ca/venezuela_belafonte">unicef calls bush greatest terrorist in world</a>, <a href="http://www.jupelo19.com/">jupelo goes to disney</a>, <a href="http://www.macworldexpo.com/">macworld</a>, <a href="http://www.wgbh.org/article?item_id=2020890">tony kahn</a> (<a href="http://stevegarfield.blogs.com/videoblog/2006/01/tony_kahn_on_po.html">full video</a>)</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_13.mov">rb_06_jan_13.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> rocketboom colorado field retreat (<a href="http://blogumentary.typepad.com">chuck</a>, <a href="http://www.stevegarfield.com">steve</a>, <a href="http://www.realrez.com/">milt</a>)</a>: <a href="http://www.amillionlittlelies.com">a million little lies</a>, <a href="http://www.boingboing.net/2006/01/10/girl_kisses_chicken_.html">bird flu from chicken kiss</a>, <a href="http://news.yahoo.com/s/ap/20060109/ap_on_re_la_am_ca/venezuela_belafonte">unicef calls bush greatest terrorist in world</a>, <a href="http://www.jupelo19.com/">jupelo goes to disney</a>, <a href="http://www.macworldexpo.com/">macworld</a>, <a href="http://www.wgbh.org/article?item_id=2020890">tony kahn</a> (<a href="http://stevegarfield.blogs.com/videoblog/2006/01/tony_kahn_on_po.html">full video</a>)</p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_13.mov">rb_06_jan_13.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-13 12:58:55 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-13 12:58:55 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_12.html"><b>Rocketboom Thu, 12 Jan 2006 08:03:56 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_12.html">Rocketboom Thu, 12 Jan 2006 08:03:56 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_12.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_12.jpg'/> 
-<p><b>story links:</b> rb boston correspondent <a href="http://www.stevegarfield.com">steve garfield</a> reporting from <a href="http://www.macworldexpo.com" class="postlink">macworld</a> in san francisco.</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_12.mov">rb_06_jan_12.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> rb boston correspondent <a href="http://www.stevegarfield.com">steve garfield</a> reporting from <a href="http://www.macworldexpo.com" class="postlink">macworld</a> in san francisco.</p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_12.mov">rb_06_jan_12.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-12 14:03:56 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-12 14:03:56 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_11.html"><b>Rocketboom Wed, 11 Jan 2006 08:08:21 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_11.html">Rocketboom Wed, 11 Jan 2006 08:08:21 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_11.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_11.jpg'/> 
-<p><b>story links:</b> rb minneapolis field correspondent <a href="http://www.mnstories.com" class="postlink">chuck olsen</a> covers <a href="http://mattgray.org/" class="postlink">matt gray</a> for <a href="http://www.techevangelists.com" class="postlink">techevangelists</a>, <a href="http://www.rocketboom.com/vlog/archives/2005/06/rb_05_jun_17.html" class="postlink">d.i.y. amanda dance kit</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_11.mov">rb_06_jan_11.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> rb minneapolis field correspondent <a href="http://www.mnstories.com" class="postlink">chuck olsen</a> covers <a href="http://mattgray.org/" class="postlink">matt gray</a> for <a href="http://www.techevangelists.com" class="postlink">techevangelists</a>, <a href="http://www.rocketboom.com/vlog/archives/2005/06/rb_05_jun_17.html" class="postlink">d.i.y. amanda dance kit</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_11.mov">rb_06_jan_11.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-11 14:08:21 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-11 14:08:21 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_10.html"><b>Rocketboom Tue, 10 Jan 2006 12:44:03 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_10.html">Rocketboom Tue, 10 Jan 2006 12:44:03 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_10.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_10.jpg'/> 
-<p><b>story links:</b> <a href=" http://itch.in/imager/coldplay-xy-leaflet/ ">coldplay plays differently for indians</a>, hp scan jet: <a href="http://hackaday.com/entry/1234000880073478 ">1</a>, <a href="http://www.ganjatron.net/misc/scanjet/scanjet.html">2</a> (thanks, roberto, gahlord and jim), <a href="http://www.amyhughes.org/lego/church/photosfirst.html">abston lego church</a>, <a href="http://www.flickr.com/photos/davidking/">at&t billboard</a> (thanks, <a href="http://daweed.blogspot.com"> david</a>), <a href=" http://www.victorybriefs.net/webs/daily/archives/2005/05/09/vbd_video_coverage_toc_quarterfinal_round">victory briefs speed debate</a>, <a href="http://www.macobserver.com/article/2006/01/08.2.shtml">sony admits to messing up</a>, <a href="http://www.macworldexpo.com">macworld</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_10.mov">rb_06_jan_10.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> <a href=" http://itch.in/imager/coldplay-xy-leaflet/ ">coldplay plays differently for indians</a>, hp scan jet: <a href="http://hackaday.com/entry/1234000880073478 ">1</a>, <a href="http://www.ganjatron.net/misc/scanjet/scanjet.html">2</a> (thanks, roberto, gahlord and jim), <a href="http://www.amyhughes.org/lego/church/photosfirst.html">abston lego church</a>, <a href="http://www.flickr.com/photos/davidking/">at&t billboard</a> (thanks, <a href="http://daweed.blogspot.com"> david</a>), <a href=" http://www.victorybriefs.net/webs/daily/archives/2005/05/09/vbd_video_coverage_toc_quarterfinal_round">victory briefs speed debate</a>, <a href="http://www.macobserver.com/article/2006/01/08.2.shtml">sony admits to messing up</a>, <a href="http://www.macworldexpo.com">macworld</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_10.mov">rb_06_jan_10.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-10 18:44:03 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-10 18:44:03 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_09_1.html"><b>Rocketboom Mon, 09 Jan 2006 07:47:04 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_09_1.html">Rocketboom Mon, 09 Jan 2006 07:47:04 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_09_1.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_09.jpg'/> 
-<p><b>story links:</b> <a href="http://www.cesweb.org">c.e.s.</a>, images and thanks to: <a href="mailto:skerns [at] sonic.net">steve kerns</a>, <a href="http://www.stevegarfield.com">steve garfield</a>, <a href="http://www.alisonlewis.com">alison lewis</a>, <a href="http://www.flickr.com/photos/51035555243@N01/">thomas hawk</a>, <a href="http://www.flickr.com/photos/randomimages/">steve lacey</a>, <a href="http://www.flickr.com/photos/philwolff/">philwolff</a>, <a href="http://www.flickr.com/photos/sdk/">sdk</a>, <a href="http://www.flickr.com/photos/ahhyeah/">ahh yeah</a>, <a href="http://www.flickr.com/photos/kk/">kk</a>, <a href="http://www.flickr.com/photos/jkinberg/">jkinberg</a>, <a href="http://www.flickr.com/photos/flc/84414512/">greg smith</a>, inspired by <a href="http://www.bpninc.com/evideo/">dueling banjos</a>, music: <a href="http://www.amazon.com/gp/product/B000002KEL/104-7505247-4053546?v=glance&n=5174">feudin' banjos</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_09.mov">rb_06_jan_09.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> <a href="http://www.cesweb.org">c.e.s.</a>, images and thanks to: <a href="mailto:skerns [at] sonic.net">steve kerns</a>, <a href="http://www.stevegarfield.com">steve garfield</a>, <a href="http://www.alisonlewis.com">alison lewis</a>, <a href="http://www.flickr.com/photos/51035555243@N01/">thomas hawk</a>, <a href="http://www.flickr.com/photos/randomimages/">steve lacey</a>, <a href="http://www.flickr.com/photos/philwolff/">philwolff</a>, <a href="http://www.flickr.com/photos/sdk/">sdk</a>, <a href="http://www.flickr.com/photos/ahhyeah/">ahh yeah</a>, <a href="http://www.flickr.com/photos/kk/">kk</a>, <a href="http://www.flickr.com/photos/jkinberg/">jkinberg</a>, <a href="http://www.flickr.com/photos/flc/84414512/">greg smith</a>, inspired by <a href="http://www.bpninc.com/evideo/">dueling banjos</a>, music: <a href="http://www.amazon.com/gp/product/B000002KEL/104-7505247-4053546?v=glance&n=5174">feudin' banjos</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_09.mov">rb_06_jan_09.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-09 13:47:04 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-09 13:47:04 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_06.html"><b>Rocketboom Sat, 07 Jan 2006 20:35:15 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_06.html">Rocketboom Sat, 07 Jan 2006 20:35:15 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_06.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_06.jpg'/> 
-<p><b>story links:</b> <a href="http://www.cesweb.org">c.e.s.</a>, <a href="http://www.ymck.net">y.m.c.k.</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_06.mov">rb_06_jan_06.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> <a href="http://www.cesweb.org">c.e.s.</a>, <a href="http://www.ymck.net">y.m.c.k.</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_06.mov">rb_06_jan_06.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-08 02:35:15 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-08 02:35:15 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_05.html"><b>Rocketboom Thu, 05 Jan 2006 05:10:22 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_05.html">Rocketboom Thu, 05 Jan 2006 05:10:22 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_05.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_05.jpg'/> 
-<p><b>story links:</b> <a href="http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=5652179487&ssPageName=ADME:L:LCA:UK:31">1000-pixel ebay auction</a> for <a href="http://www.milliondollarhomepage.com/">million dollar homepage</a>, <a href="http://itch.in/journal/bad-bad-coldplay">coldplay's new music CD has usage rules</a>, (<a href="http://www.boingboing.net/2006/01/01/coldplays_new_cd_has.html">via</a>), <a href="http://www.rocketboom.com/ozonehole">ozone hole repair models</a> (thanks, <a href="http://www.aisnota.com/">dan</a>!), <a href="http://www.securiteam.com/tools/5KP0220F5E.html">bluesnarfer bluetooth exploit</a> (<a href="http://wifiparis.free.fr/vivi/bluesnarfer.avi">video</a>), <a href="http://www.zencast.com">creative labs rolls out zencast</a>, <a href="http://www.presentspace.com/presenttwo/presents/remote/cocoonmovie.html">bea camacho crocheted herself into a cocoon</a> (<a href="http://www.we-make-money-not-art.com/archives/007770.php">via</a>), <a href="http://www.thearchive.ca/rocketcam/">the rocket launch</a> (thanks, <a href="http://www.danielmacdonald.com">daniel</a>!); music: <a href="http://www.instrumentslab.com/">instruments</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_05.mov">rb_06_jan_05.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> <a href="http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=5652179487&ssPageName=ADME:L:LCA:UK:31">1000-pixel ebay auction</a> for <a href="http://www.milliondollarhomepage.com/">million dollar homepage</a>, <a href="http://itch.in/journal/bad-bad-coldplay">coldplay's new music CD has usage rules</a>, (<a href="http://www.boingboing.net/2006/01/01/coldplays_new_cd_has.html">via</a>), <a href="http://www.rocketboom.com/ozonehole">ozone hole repair models</a> (thanks, <a href="http://www.aisnota.com/">dan</a>!), <a href="http://www.securiteam.com/tools/5KP0220F5E.html">bluesnarfer bluetooth exploit</a> (<a href="http://wifiparis.free.fr/vivi/bluesnarfer.avi">video</a>), <a href="http://www.zencast.com">creative labs rolls out zencast</a>, <a href="http://www.presentspace.com/presenttwo/presents/remote/cocoonmovie.html">bea camacho crocheted herself into a cocoon</a> (<a href="http://www.we-make-money-not-art.com/archives/007770.php">via</a>), <a href="http://www.thearchive.ca/rocketcam/">the rocket launch</a> (thanks, <a href="http://www.danielmacdonald.com">daniel</a>!); music: <a href="http://www.instrumentslab.com/">instruments</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_05.mov">rb_06_jan_05.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-05 11:10:22 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-05 11:10:22 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_04.html"><b>Rocketboom Wed, 04 Jan 2006 09:28:20 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_04.html">Rocketboom Wed, 04 Jan 2006 09:28:20 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_04.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_04.jpg'/> 
-<p><b>story links:</b> rb boston field correspondent <a href="http://stevegarfield.com/">steve garfield</a> reporting on <a href="https://bostonglobe.com/community/services/pulsepoints.stm">pulse points</a> with <a href="http://www.boston.com/business/technology/">d.c. denison of the boston globe</a> and <a href="http://www.techsuperpowers.com/">michael oh of tech superpowers</a>, <a href="http://www.tridentbookscafe.com/">trident booksellers &amp; cafe</a>, music: <a href="http://www.80stvthemes.com/potpourri/en/">80s news theme songs</a>, <a href="http://www.japander.com/japander/warhol.htm">andy warhol</a> for <a href="http://www.tdk.com/">tdk</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_04.mov">rb_06_jan_04.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> rb boston field correspondent <a href="http://stevegarfield.com/">steve garfield</a> reporting on <a href="https://bostonglobe.com/community/services/pulsepoints.stm">pulse points</a> with <a href="http://www.boston.com/business/technology/">d.c. denison of the boston globe</a> and <a href="http://www.techsuperpowers.com/">michael oh of tech superpowers</a>, <a href="http://www.tridentbookscafe.com/">trident booksellers &amp; cafe</a>, music: <a href="http://www.80stvthemes.com/potpourri/en/">80s news theme songs</a>, <a href="http://www.japander.com/japander/warhol.htm">andy warhol</a> for <a href="http://www.tdk.com/">tdk</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_04.mov">rb_06_jan_04.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-04 15:28:20 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-04 15:28:20 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_03.html"><b>Rocketboom Tue, 03 Jan 2006 07:37:29 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_03.html">Rocketboom Tue, 03 Jan 2006 07:37:29 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_03.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_03.jpg'/> 
 <p><b>story links:</b> <a href="http://www.onefreeminute.net/">one free minute</a> (thanks, <a href="http://www.radford.edu">charles</a>!), <a href="http://www.knittinghelp.com/">knitting help videos</a>, <a href="http://www.cs.cmu.edu/~coral-downloads/legged/movies/2004USOpen/cvd1.avi">smart dog bot swarm ball</a>, <a href="http://www.digg.com/spy">digg posts in realtime</a>, <a href="http://www.rebargroup.org/projects/parking/#">urban improvement installation</a>; music: sunrise by <a href="http://www.communitymusicproject.org/">community music project</a> from <a href="http://www.archive.org/details/botw2">butterfly on the wind</a>, <a href="http://memory.loc.gov/mbrs/awal/1203.mpg">womens hoops from 1904</a>, <a href="http://www.scifi.com//downloads/movies_br/transformer.mov">video</a>: <a href="http://www.scifi.com">scfi</a> </p>
 
-<p><b>reminder:</b> in addition to chapter markers, click inside video to launch story links in a separate browser window</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_03.mov">rb_06_jan_03.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>reminder:</b> in addition to chapter markers, click inside video to launch story links in a separate browser window</p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_03.mov">rb_06_jan_03.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-03 13:37:29 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-03 13:37:29 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_02.html"><b>Rocketboom Mon, 02 Jan 2006 08:30:53 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_02.html">Rocketboom Mon, 02 Jan 2006 08:30:53 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2006/01/rb_06_jan_02.html'/><img src='http://www.rocketboom.net/images/rb_06_jan_02.jpg'/> 
-<p><b>story links:</b> <a href="http://www.rocketboom.net/video/rb_06_jan_02b.mov">new years fireworks</a>, music: <a href="http://www.charfin.com">charlie finlay</a>, <a href="http://en.wikipedia.org/wiki/Leap_second">leap second</a>, <a href="http://news.nationalgeographic.com/news/2005/12/1227_051227_asia_migration.html">first humans in asia?</a>, <a href="http://www.woostercollective.com/2005/12/stefano_pedrinis_best_of_2005.html">porta etch-a-sketch</a>, <a href="http://www.huffingtonpost.com/steve-martin/leap-second-lovers-are-tr_b_13068.html">steve martin blogs</a>, <a href="http://www.milliondollarhomepage.com/">million dollar home page sold out</a>, <a href="http://ballofpaint.freehosting.net/">largest ball of paint in the world</a> (<a href="http://www.kottke.org">via</a> ), <a href="http://www.kotaku.com/gaming/xbox-360/xbox-360-to-blame-for-sales-plunge-145115.php">xbox360 game sales plunge</a>, <a href="http://www.emailbattles.com/archive/battles/browsers_aacehieihi_gd/">microsoft experts rage over internet explorer</a>, <a href="http://msnbc.msn.com/id/10616632/">poland to stay in iraq</a>, <a href="http://www.cesweb.org">c.e.s.</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_06_jan_02.mov">rb_06_jan_02.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> <a href="http://www.rocketboom.net/video/rb_06_jan_02b.mov">new years fireworks</a>, music: <a href="http://www.charfin.com">charlie finlay</a>, <a href="http://en.wikipedia.org/wiki/Leap_second">leap second</a>, <a href="http://news.nationalgeographic.com/news/2005/12/1227_051227_asia_migration.html">first humans in asia?</a>, <a href="http://www.woostercollective.com/2005/12/stefano_pedrinis_best_of_2005.html">porta etch-a-sketch</a>, <a href="http://www.huffingtonpost.com/steve-martin/leap-second-lovers-are-tr_b_13068.html">steve martin blogs</a>, <a href="http://www.milliondollarhomepage.com/">million dollar home page sold out</a>, <a href="http://ballofpaint.freehosting.net/">largest ball of paint in the world</a> (<a href="http://www.kottke.org">via</a> ), <a href="http://www.kotaku.com/gaming/xbox-360/xbox-360-to-blame-for-sales-plunge-145115.php">xbox360 game sales plunge</a>, <a href="http://www.emailbattles.com/archive/battles/browsers_aacehieihi_gd/">microsoft experts rage over internet explorer</a>, <a href="http://msnbc.msn.com/id/10616632/">poland to stay in iraq</a>, <a href="http://www.cesweb.org">c.e.s.</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_06_jan_02.mov">rb_06_jan_02.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-02 14:30:53 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-02 14:30:53 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_31.html"><b>Rocketboom Sat, 31 Dec 2005 22:25:01 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_31.html">Rocketboom Sat, 31 Dec 2005 22:25:01 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_31.html'/><img src='http://www.rocketboom.net/images/rb_05_dec_31.jpg'/> 
 <p><b>story links:</b> original post: <a href="http://www.rocketboom.com/vlog/archives/2005/08/rb_05_aug_19.html">friday august 19, 2005 : casual friday</a>: a continuation of <a href="http://www.rocketboom.com/vlog/archives/2005/03/rb_05_mar_17.html">where the hell is amanda, austin</a> (<a href="http://www.rocketboom.com/vlog/archives/2005/10/rb_05_oct_26.html">and nyc</a>), inspired again by <a href="http://wherethehellismatt.com/">where the hell is matt</a>]</p>
 
-<p>st. petersburg : 1. <a href="http://www.fly2pie.com/">p.i.e.: st. petersburg intl. airport</a>, 2. <a href="http://travel.inc.ru/spb/center/basil_island/rostral_columns/">rostra columns</a>, 3. <a href="http://www.planetaru.com/en/sightseeing/marspol.shtml">fields of mars</a>, 4. <a href="http://www.rusmuseum.ru">the russian art museum</a>, 5. gardens of peter the great, 6. <a href="http://www.peterhof.org/fount/">peterhof fountains</a>, 7. <a href="http://en.wikipedia.org/wiki/Gulf_of_Finland">gulf of finland</a>, 8. <a href="http://www.geographia.com/russia/peter04.htm">st. isaac's cathedral</a>, 9. <a href="http://petersburgcity.com/city/photos/memorials/nicholas/">nichalas I monument</a>, 10. <a href="http://www.studentsoftheworld.info/infopays/photos/aff1.php3?fichier=SP_Peterhof_canal&CP=RUS">peterhof canal</a>, 11. chess board cascade, 12. <a href="http://en.wikipedia.org/wiki/Neva">neva river</a>, 13. <a href="http://www.unilib.neva.ru/city/churches/church01a.html">peter and paul cathedral</a>, 14. peter the great at senate sq., 15. tatiana (tour guide) and <a href="http://www.gov.karelia.ru/gov/Power/Archives/voskr_e.html">resurrection cathedral</a>, 16. <a href="http://www.saint-petersburg.com/virtual-tour/peter-paul-fortress.asp">peter the great at the peter and paul fortress</a>, music: <a href="http://www.barynya.com/mp3/Sergey_Gusarov/Pidmanula.mp3">pidmanula</a> by <a href="http://www.barynya.com/">barynya</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_05_dec_31.mov">rb_05_dec_31.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p>st. petersburg : 1. <a href="http://www.fly2pie.com/">p.i.e.: st. petersburg intl. airport</a>, 2. <a href="http://travel.inc.ru/spb/center/basil_island/rostral_columns/">rostra columns</a>, 3. <a href="http://www.planetaru.com/en/sightseeing/marspol.shtml">fields of mars</a>, 4. <a href="http://www.rusmuseum.ru">the russian art museum</a>, 5. gardens of peter the great, 6. <a href="http://www.peterhof.org/fount/">peterhof fountains</a>, 7. <a href="http://en.wikipedia.org/wiki/Gulf_of_Finland">gulf of finland</a>, 8. <a href="http://www.geographia.com/russia/peter04.htm">st. isaac's cathedral</a>, 9. <a href="http://petersburgcity.com/city/photos/memorials/nicholas/">nichalas I monument</a>, 10. <a href="http://www.studentsoftheworld.info/infopays/photos/aff1.php3?fichier=SP_Peterhof_canal&CP=RUS">peterhof canal</a>, 11. chess board cascade, 12. <a href="http://en.wikipedia.org/wiki/Neva">neva river</a>, 13. <a href="http://www.unilib.neva.ru/city/churches/church01a.html">peter and paul cathedral</a>, 14. peter the great at senate sq., 15. tatiana (tour guide) and <a href="http://www.gov.karelia.ru/gov/Power/Archives/voskr_e.html">resurrection cathedral</a>, 16. <a href="http://www.saint-petersburg.com/virtual-tour/peter-paul-fortress.asp">peter the great at the peter and paul fortress</a>, music: <a href="http://www.barynya.com/mp3/Sergey_Gusarov/Pidmanula.mp3">pidmanula</a> by <a href="http://www.barynya.com/">barynya</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_05_dec_31.mov">rb_05_dec_31.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-01-01 04:25:01 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-01-01 04:25:01 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_30.html"><b>Rocketboom Fri, 30 Dec 2005 08:09:38 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_30.html">Rocketboom Fri, 30 Dec 2005 08:09:38 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_30.html'/><img src='http://www.rocketboom.net/images/rb_05_dec_30.jpg'/> 
-<p><b>story link:</b> original post: <a href="http://www.rocketboom.com/vlog/archives/2005/07/rb_05_jul_15.html">friday july 15, 2005 : casual friday</a>: drinking game played to karl rove ongoing investigation from <a href="http://www.whitehouse.gov/news/releases/2005/07/20050711-3.html">white house press briefing by scott mcclellan</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_05_dec_30.mov">rb_05_dec_30.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story link:</b> original post: <a href="http://www.rocketboom.com/vlog/archives/2005/07/rb_05_jul_15.html">friday july 15, 2005 : casual friday</a>: drinking game played to karl rove ongoing investigation from <a href="http://www.whitehouse.gov/news/releases/2005/07/20050711-3.html">white house press briefing by scott mcclellan</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_05_dec_30.mov">rb_05_dec_30.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-12-30 14:09:38 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-12-30 14:09:38 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_29.html"><b>Rocketboom Thu, 29 Dec 2005 07:48:06 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_29.html">Rocketboom Thu, 29 Dec 2005 07:48:06 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_29.html'/><img src='http://www.rocketboom.net/images/rb_05_dec_29.jpg'/> 
-<p><b>story links:</b> original episode: <a href="http://www.rocketboom.com/vlog/archives/2005/07/rb_05_jul_29.html">friday july 29, 2005</a>: <a href="http://www.archive.org/details/mosaic">mosaic middle east news</a>, <a href="http://halo.bungie.org/news.html?item=13656">halo ballerina</a>, <a href="http://209.0.146.17/1/graphics/movies/star_trek_cussin1.mov">star trek cursed</a>, <a href="http://www.depresident.com/gallery.asp">laura bush on george bush and horses</a>, <a href="http://www.mmjp.or.jp/daikobo/works/ani_tv/n_sika.mov">n sika from daikobo</a>, <a href="http://blogs.x2line.com/al/archive/2005/07/23/1185.aspx">barcelona 2005 roller slalom</a>, <a href="http://stevegarfield.blogs.com/videoblog/2005/07/_artist_intervi.html">steve garfield interviews temah nelson artist</a>, <a href="http://www.coenswijnenberg.com/weblog/logs/log.php?lid=9352">flight simulator school</a>, <a href="http://bloginservice.onlinestoragesolution.com/ABCnews1.wmv">abc news on ufos</a>, <a href="http://carlweaver.blogspot.com/2005/07/timecube-exposed.html">carl weaver on time cube</a>, <a href="http://www.machonmeir.org.il/leumi/sakin_balev_english_300.wmv">machon meir isreal</a> (<A href="http://www.machonmeir.org.il/main.asp">via</a>), <a href="http://movies.crooksandliars.com/Scotty_Rove.mov">karl rove ongoing investigation</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_05_dec_29.mov">rb_05_dec_29.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> original episode: <a href="http://www.rocketboom.com/vlog/archives/2005/07/rb_05_jul_29.html">friday july 29, 2005</a>: <a href="http://www.archive.org/details/mosaic">mosaic middle east news</a>, <a href="http://halo.bungie.org/news.html?item=13656">halo ballerina</a>, <a href="http://209.0.146.17/1/graphics/movies/star_trek_cussin1.mov">star trek cursed</a>, <a href="http://www.depresident.com/gallery.asp">laura bush on george bush and horses</a>, <a href="http://www.mmjp.or.jp/daikobo/works/ani_tv/n_sika.mov">n sika from daikobo</a>, <a href="http://blogs.x2line.com/al/archive/2005/07/23/1185.aspx">barcelona 2005 roller slalom</a>, <a href="http://stevegarfield.blogs.com/videoblog/2005/07/_artist_intervi.html">steve garfield interviews temah nelson artist</a>, <a href="http://www.coenswijnenberg.com/weblog/logs/log.php?lid=9352">flight simulator school</a>, <a href="http://bloginservice.onlinestoragesolution.com/ABCnews1.wmv">abc news on ufos</a>, <a href="http://carlweaver.blogspot.com/2005/07/timecube-exposed.html">carl weaver on time cube</a>, <a href="http://www.machonmeir.org.il/leumi/sakin_balev_english_300.wmv">machon meir isreal</a> (<A href="http://www.machonmeir.org.il/main.asp">via</a>), <a href="http://movies.crooksandliars.com/Scotty_Rove.mov">karl rove ongoing investigation</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_05_dec_29.mov">rb_05_dec_29.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-12-29 13:48:06 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-12-29 13:48:06 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_28.html"><b>Rocketboom Wed, 28 Dec 2005 07:47:44 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_28.html">Rocketboom Wed, 28 Dec 2005 07:47:44 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_28.html'/><img src='http://www.rocketboom.net/images/rb_05_dec_28.jpg'/> 
-<p><b>stroy links:</b> original entry: <a href="http://www.rocketboom.com/vlog/archives/2005/09/rb_05_sep_27.html">tuesday, september 27, 2005 : daily</a>: <a href="http://www.spacetelescope.org/news/html/heic0512.html">blue light special star disk nasa footage on spacetelescope.org</a> (thanks, <a href="http://redirect.to/moening">james</a>), <a href="http://www.big-boys.com/articles/hpphoto.html">homespun hp photo commercial</a> (thanks, <a href="http://www.affaireselectroniques.info">luc</a>), <a href="http://www.tcfilm.ch/pop_lauf1e.htm">the way things go</a>, <a href="http://zerotrilogy.gotdns.com/misc/cog.mov">honda cog commercial remake of the way things go</a>, <a href="http://mail.exposurefilms.co.uk/directors/JJ_Keith_Reel/JJ_Keith_Spots/JJ_Reel_Sept_05/04_118118CogSpoof.mov">uk 118 commercial remake of the honda cog commercial remake of the way things go</a> (<a href="http://www.screenhead.com/funny/short-video/cogs-125588.php">via</a>), <a href="http://canf.org/es/chistes/FUNNY-AS-HELL-Strohs-NEED-SPEAKERS.mpeg">fidel castro strohs commercial</a>, public domain music: beep-beep, why do stars twinkle from <a href="http://www.acme.com/jef/science_songs/">space songs</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_05_dec_28.mov">rb_05_dec_28.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>stroy links:</b> original entry: <a href="http://www.rocketboom.com/vlog/archives/2005/09/rb_05_sep_27.html">tuesday, september 27, 2005 : daily</a>: <a href="http://www.spacetelescope.org/news/html/heic0512.html">blue light special star disk nasa footage on spacetelescope.org</a> (thanks, <a href="http://redirect.to/moening">james</a>), <a href="http://www.big-boys.com/articles/hpphoto.html">homespun hp photo commercial</a> (thanks, <a href="http://www.affaireselectroniques.info">luc</a>), <a href="http://www.tcfilm.ch/pop_lauf1e.htm">the way things go</a>, <a href="http://zerotrilogy.gotdns.com/misc/cog.mov">honda cog commercial remake of the way things go</a>, <a href="http://mail.exposurefilms.co.uk/directors/JJ_Keith_Reel/JJ_Keith_Spots/JJ_Reel_Sept_05/04_118118CogSpoof.mov">uk 118 commercial remake of the honda cog commercial remake of the way things go</a> (<a href="http://www.screenhead.com/funny/short-video/cogs-125588.php">via</a>), <a href="http://canf.org/es/chistes/FUNNY-AS-HELL-Strohs-NEED-SPEAKERS.mpeg">fidel castro strohs commercial</a>, public domain music: beep-beep, why do stars twinkle from <a href="http://www.acme.com/jef/science_songs/">space songs</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_05_dec_28.mov">rb_05_dec_28.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-12-28 13:47:44 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-12-28 13:47:44 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_27.html"><b>Rocketboom Tue, 27 Dec 2005 07:55:15 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_27.html">Rocketboom Tue, 27 Dec 2005 07:55:15 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_27.html'/><img src='http://www.rocketboom.net/images/rb_05_dec_27.jpg'/> 
 <p><b>story links:</b> original post: <a href="http://www.rocketboom.com/vlog/archives/2005/09/rb_05_sep_09.html">september 09, 2005</a> : <a href="http://www.nrel.gov/clean_energy/">national renewable energy laboratory</a>, <a href="http://www.epa.gov/cleanenergy/">environmental protection agency</a>, <a href="http://www.renewableenergy.com/">renewable energy network</a>, <a href="http://www.hybridcars.com/">hybridcars</a>, <a href="http://news.google.com/news?num=100&hl=en&lr=&c2coff=1&tab=wn&ie=UTF-8&q=%22oil+problems%22&scoring=d">oil problems</a>, <a href="http://news.google.com/news?num=100&hl=en&lr=&c2coff=1&tab=wn&ie=UTF-8&scoring=d&q=%22energy+crisis%22&btnG=Search+News">energy crisis</a></p>
 
-<p><b>additonal suggested links</b>: <a href="http://www.edmunds.com/reviews/list/top10/105562/article.html?tid=edmunds.h..recedmunds.topten.3.* ">top 10 ways to equip your car for a greener planet</a> (thanks, janine!), <a href="http://fuh2.com">fuh2</a> (thanks, <a href="http://fuh2.com">josh</a>!), <a href="http://www.hydrogennow.org/Facts/FAQs.htm">hydrogen now</a> (thanks, <a href="http://sympatico.ca">bozobuss</a>!) <a href="http://thenewvernacular.blogspot.com/2005/09/maybe-higher-gas-prices-are-exactly.html">higher gas prices are exactly what we need</a> (thanks, <a href="http://thenewvernacular.blogspot.com/">mike</a>!)</p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_05_dec_27.mov">rb_05_dec_27.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>additonal suggested links</b>: <a href="http://www.edmunds.com/reviews/list/top10/105562/article.html?tid=edmunds.h..recedmunds.topten.3.* ">top 10 ways to equip your car for a greener planet</a> (thanks, janine!), <a href="http://fuh2.com">fuh2</a> (thanks, <a href="http://fuh2.com">josh</a>!), <a href="http://www.hydrogennow.org/Facts/FAQs.htm">hydrogen now</a> (thanks, <a href="http://sympatico.ca">bozobuss</a>!) <a href="http://thenewvernacular.blogspot.com/2005/09/maybe-higher-gas-prices-are-exactly.html">higher gas prices are exactly what we need</a> (thanks, <a href="http://thenewvernacular.blogspot.com/">mike</a>!)</p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_05_dec_27.mov">rb_05_dec_27.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-12-27 13:55:15 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-12-27 13:55:15 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_26.html"><b>Rocketboom Mon, 26 Dec 2005 10:58:47 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_26.html">Rocketboom Mon, 26 Dec 2005 10:58:47 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_26.html'/><img src='http://www.rocketboom.net/images/rb_05_dec_26.jpg'/> 
-<p><b>story links:</b> original post: <a href="http://www.rocketboom.com/vlog/archives/2004/10/rb_04_oct_27.html">october 27, 2004</a>; <a href="http://www.vassmer.com/computermuseum/ti994a-parsec.html">parsec</a>, <a href="http://www.brainjar.com/java/games/asteroids/">java ateroids</a>, <a href="http://www.mathcs.sjsu.edu/faculty/rucker/asteroids/asteroids.htm">ateroids hack</a>, <a href="http://www.nanahiro.com/compe/main.html">treasure box</a> and <a href="http://www.samorost2.net/samorost1/">samorost</a> [<a href="http://www.waxy.org/links/archive/2004/10/index.shtml">via</a>], thinking machine [<a href="http://www.kottke.org/remainder/04/10/6816.html">via</a>], <a href="http://www.yetisports.org/">yeti sports</a>, <a href="http://www.googlewhack.com/">google whacker</a>, <a href="http://www.wearabledissent.com/101/floridaballot.html">online election voting machine</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_05_dec_26.mov">rb_05_dec_26.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> original post: <a href="http://www.rocketboom.com/vlog/archives/2004/10/rb_04_oct_27.html">october 27, 2004</a>; <a href="http://www.vassmer.com/computermuseum/ti994a-parsec.html">parsec</a>, <a href="http://www.brainjar.com/java/games/asteroids/">java ateroids</a>, <a href="http://www.mathcs.sjsu.edu/faculty/rucker/asteroids/asteroids.htm">ateroids hack</a>, <a href="http://www.nanahiro.com/compe/main.html">treasure box</a> and <a href="http://www.samorost2.net/samorost1/">samorost</a> [<a href="http://www.waxy.org/links/archive/2004/10/index.shtml">via</a>], thinking machine [<a href="http://www.kottke.org/remainder/04/10/6816.html">via</a>], <a href="http://www.yetisports.org/">yeti sports</a>, <a href="http://www.googlewhack.com/">google whacker</a>, <a href="http://www.wearabledissent.com/101/floridaballot.html">online election voting machine</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_05_dec_26.mov">rb_05_dec_26.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-12-26 16:58:47 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-12-26 16:58:47 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_23.html"><b>Rocketboom Fri, 23 Dec 2005 12:27:14 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_23.html">Rocketboom Fri, 23 Dec 2005 12:27:14 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_23.html'/><img src='http://www.rocketboom.net/images/rb_05_dec_23.jpg'/> 
-<p><b>story links:</b> music: <a href="http://jazzstage.us/">dance of the sugar plum fairy</a> rendition by  <a href="http://www.pkorecords.com/cds/xmas/xmas.htm">the paul keller ensemble</a>; <a href="http://www.saksfifthavenue.com/">saks</a>, <a href="http://www.citarella.com/">citarella</a>, <a href="http://www.theshopsatcolumbuscircle.com">shops at columbus circle</a>, <a href="http://www.radiocity.com/">radio city music hall</a>, <a href="http://www.nyc.gov/html/nypd/">nypd</a>, <a href="http://www.rockefellercenter.com/ ">rockefeller center</a>, <a href="http://www.nyctourist.com/xmas_rockice.htm">the ice rink at rockefeller center</a>, <a href="http://www.brookstone.com/">brookstone</a>, <a href="http://www.grandcentralterminal.com/ ">grand central</a>, <a href="http://www.dunhamstudios.com/cititour.htm">the station at citigroup center</a>, <a href="http://fao.com/home.jsp ">fao schwarz</a>, <a href="http://www.lincolncenter.org/">lincoln center</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_05_dec_23.mov">rb_05_dec_23.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> music: <a href="http://jazzstage.us/">dance of the sugar plum fairy</a> rendition by  <a href="http://www.pkorecords.com/cds/xmas/xmas.htm">the paul keller ensemble</a>; <a href="http://www.saksfifthavenue.com/">saks</a>, <a href="http://www.citarella.com/">citarella</a>, <a href="http://www.theshopsatcolumbuscircle.com">shops at columbus circle</a>, <a href="http://www.radiocity.com/">radio city music hall</a>, <a href="http://www.nyc.gov/html/nypd/">nypd</a>, <a href="http://www.rockefellercenter.com/ ">rockefeller center</a>, <a href="http://www.nyctourist.com/xmas_rockice.htm">the ice rink at rockefeller center</a>, <a href="http://www.brookstone.com/">brookstone</a>, <a href="http://www.grandcentralterminal.com/ ">grand central</a>, <a href="http://www.dunhamstudios.com/cititour.htm">the station at citigroup center</a>, <a href="http://fao.com/home.jsp ">fao schwarz</a>, <a href="http://www.lincolncenter.org/">lincoln center</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_05_dec_23.mov">rb_05_dec_23.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-12-23 18:27:14 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-12-23 18:27:14 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/">
-<b>Rocketboom</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_22.html"><b>Rocketboom Thu, 22 Dec 2005 07:26:22 -0600</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.rocketboom.com/vlog/">
+Rocketboom</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_22.html">Rocketboom Thu, 22 Dec 2005 07:26:22 -0600</a>
+</td></tr></table>
 
 <a href='http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_22.html'/><img src='http://www.rocketboom.net/images/rb_05_dec_22.jpg'/> 
-<p><b>story links:</b> <a href="http://www.fabiosirna.com/journal/39/diy-paper-bookmarks">diy bookmarks</a>, <a href="http://cgi.ebay.com/8-Ft-One-of-a-Kind-LEGO-STAR-WARS-REBEL-ATTACK-CRUISER_W0QQitemZ6022866702QQcategoryZ19009QQrdZ1QQcmdZViewItem">lego attack cruiser</a> (thanks, thefloormat</a>!), <a href="http://impoy.com/">time person of the year</a>, <a href="http://www.fimoculous.com/year-review-2005.cfm">best of the best lists</a>, <a href="http://www.nytimes.com/2005/12/20/science/sciencespecial2/20cnd-evolution.html?incamp=article_popular_5">intelligent design farce</a>, <a href="http://porkporn.com/media/picard_final_wmv.wmv">captain piccard mashup</a>, <a href="http://www.worldwidejam.tv/images/vids/Present.2004.wmv">parkour santa</a>. <a href="http://www.andycheatwood.com/junk/ChristmasTimefortheJews.mov">christmas time for the jews</a>, <a href="http://www.starw.org/riggins/documents/usomov.mov">ufo sighting in atlantic city</a>, <a href="http://franciscodaum.blogspot.com/2005/12/nixon-speech-excerpt-united-for-peace.html">nixon</a></p><table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
-<tr><td width="100%"><b>Files:</b></td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;<a href="http://www.rocketboom.net/video/rb_05_dec_22.mov">rb_05_dec_22.mov</a> (146.5 KB, video/quicktime)</td></tr>
-</table></td></tr></table>
+<p><b>story links:</b> <a href="http://www.fabiosirna.com/journal/39/diy-paper-bookmarks">diy bookmarks</a>, <a href="http://cgi.ebay.com/8-Ft-One-of-a-Kind-LEGO-STAR-WARS-REBEL-ATTACK-CRUISER_W0QQitemZ6022866702QQcategoryZ19009QQrdZ1QQcmdZViewItem">lego attack cruiser</a> (thanks, thefloormat</a>!), <a href="http://impoy.com/">time person of the year</a>, <a href="http://www.fimoculous.com/year-review-2005.cfm">best of the best lists</a>, <a href="http://www.nytimes.com/2005/12/20/science/sciencespecial2/20cnd-evolution.html?incamp=article_popular_5">intelligent design farce</a>, <a href="http://porkporn.com/media/picard_final_wmv.wmv">captain piccard mashup</a>, <a href="http://www.worldwidejam.tv/images/vids/Present.2004.wmv">parkour santa</a>. <a href="http://www.andycheatwood.com/junk/ChristmasTimefortheJews.mov">christmas time for the jews</a>, <a href="http://www.starw.org/riggins/documents/usomov.mov">ufo sighting in atlantic city</a>, <a href="http://franciscodaum.blogspot.com/2005/12/nixon-speech-excerpt-united-for-peace.html">nixon</a></p><table class="attachments">
+<tr><th>Files:</th></tr>
+<tr><td><a href="http://www.rocketboom.net/video/rb_05_dec_22.mov">rb_05_dec_22.mov</a> (146.5 KB, video/quicktime)</td></tr>
+</table>
 
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2005-12-22 13:26:22 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">daily</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2005-12-22 13:26:22 UTC</td></tr>
+<tr><th>Filed under:</th><td>daily</td></tr>
 </table>
 
 </body></html>

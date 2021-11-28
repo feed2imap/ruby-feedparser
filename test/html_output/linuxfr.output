@@ -11,27 +11,22 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">atom</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Type:</th>
+<td>atom</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/atelier-formation-debian-wheezy-et-le-bureau-xfce-a-paris-le-18-mai"><b>Atelier-Formation Debian Wheezy et le bureau XFCE à Paris le 18 mai</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/atelier-formation-debian-wheezy-et-le-bureau-xfce-a-paris-le-18-mai">Atelier-Formation Debian Wheezy et le bureau XFCE à Paris le 18 mai</a>
+</td></tr></table>
 
 <div><p>Pour fêter l'<a href="http://linuxfr.org/news/debian-episode-vii">officialisation de la nouvelle version de Debian, Wheezy</a>, l'association StarinuX (GNU/Linux et Logiciels OpenSource), dans le cadre de ses formations mensuelles, organise l'atelier-formation « Prise en main de Wheezy et du bureau XFCE » : installation, configuration &#8230; une formation concrète et pratique. Découvrez la qualité de la distribution Debian et du bureau XFCE, léger et efficace. Une pierre deux coups !</p>
 
@@ -41,46 +36,40 @@ body {
 Une participation annuelle de 15 &#8364; (7,5 &#8364; en tant que demandeur d'emploi) est requise.</p>
 
 <p>Infos : contact CHEZ starinux.org</p></div><ul><li>lien n°1 : <a href="http://linuxfr.org/redirect/86259" hreflang="fr" title="http://www.starinux.org">Le site de StarinuX</a></li><li>lien n°2 : <a href="http://linuxfr.org/redirect/86260" hreflang="fr" title="http://www.starinux.org/ateliers-sx.php">Inscription</a></li></ul><div></div>    <p><a href="http://linuxfr.org/news/atelier-formation-debian-wheezy-et-le-bureau-xfce-a-paris-le-18-mai#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-07 13:35:05 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Benoît Sibaud, Florent Zara and antoinesx</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Debian</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-07 13:35:05 UTC</td></tr>
+<tr><th>Author:</th><td>Benoît Sibaud, Florent Zara and antoinesx</td></tr>
+<tr><th>Filed under:</th><td>Debian</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/18-mai-presentation-d-openstreetmap-a-perpignan"><b>18 mai : présentation d’OpenStreetMap à Perpignan</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/18-mai-presentation-d-openstreetmap-a-perpignan">18 mai : présentation d’OpenStreetMap à Perpignan</a>
+</td></tr></table>
 
 <div><p>Le samedi 18 mai à partir de 9h30 une présentation d&#8217;OpenStreetMap aura lieu à Perpignan(66) en collaboration avec le GULL Perpinux. Cette présentation, assurée par les contributeurs de Catalogne Nord, a pour but de mieux faire connaître cet outil de cartographie libre et collaboratif. La présentation aborde les parties théoriques concernant le projet, les différentes utilisations des cartes et les outils pour mettre à jour la base de données OpenStreetMap. L'organisation de la cartopartie du 1er juin sera aussi abordée lors de cette matinée.</p>
 
 <p>OpenStreetMap est un outil en ligne, libre et collaboratif, fondée en 2004 dans le but de réaliser une cartographie du monde. De nombreux outils et logiciels permettent de réaliser et d&#8217;imprimer des cartes à partir de la base de données OpenStreetMap. Ces cartes peuvent être thématiques (pistes cyclables, accessibilités des lieux publics, etc.) ou généralistes. OpenStreetMap est devenu célèbre en 2010 lors du tremblement de terre à Haïti, de nombreux contributeurs ayant participé à la réalisation de la carte de Port aux Princes en quelques jours. Cette carte a pu alors être utilisée par les associations humanitaires sur place.</p></div><ul><li>lien n°1 : <a href="http://linuxfr.org/redirect/86257" hreflang="fr" title="http://www.perpinux.org">Perpinux</a></li><li>lien n°2 : <a href="http://linuxfr.org/redirect/86258" hreflang="fr" title="http://openstreetmap.fr/">Openstreetmap France</a></li></ul><div></div>    <p><a href="http://linuxfr.org/news/18-mai-presentation-d-openstreetmap-a-perpignan#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-07 10:00:41 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Nÿco, Xavier Teyssier, draconis and tuiu pol</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Communauté, découverte, présentation, openstreetmap</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-07 10:00:41 UTC</td></tr>
+<tr><th>Author:</th><td>Nÿco, Xavier Teyssier, draconis and tuiu pol</td></tr>
+<tr><th>Filed under:</th><td>Communauté, découverte, présentation, openstreetmap</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/tempete-dans-les-nuages-openstack-et-le-bazar-des-api"><b>Tempête dans les nuages : OpenStack et le bazar des API</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/tempete-dans-les-nuages-openstack-et-le-bazar-des-api">Tempête dans les nuages : OpenStack et le bazar des API</a>
+</td></tr></table>
 
 <div><p>Un des débats qui fait rage parmi les développeurs d'OpenStack réside dans le choix d'un framework commun pour le développement de leurs API. Pour information ou rappel, <a href="http://fr.wikipedia.org/wiki/OpenStack" title="Définition Wikipédia">OpenStack</a> est un moteur de <em>cloud</em> (informatique en nuage) de type <a href="http://fr.wikipedia.org/wiki/IaaS" title="Définition Wikipédia">IaaS</a> (Infrastructure as a Service) issu de la fusion de la plateforme de cloud de la NASA (projet Nebula) et de Cloud Files de Rackspace (cloud storage), la société texane d'hébergement. Cette pile de logiciels libres est écrite en Python sous licence Apache et s'appuie sur la norme <a href="http://fr.wikipedia.org/wiki/WSGI" title="Définition Wikipédia">WSGI</a> pour exposer ses APIs.</p>
 
@@ -193,24 +182,21 @@ Une participation annuelle de 15 &#8364; (7,5 &#8364; en tant que demandeur d'em
 Doug Hellman s'appuie sur les acquis du projet Ceilometer pour promouvoir l'utilisation de Pecan/WSME, et Kurt Griffiths a pour lui l'appui de Rackspace, fondateur du projet. </p>
 
 <p>Une affaire à suivre&#8230;</p></div>    <p><a href="http://linuxfr.org/news/tempete-dans-les-nuages-openstack-et-le-bazar-des-api#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-07 09:27:41 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Benoît, Christophe Guilloux, Florent Zara, GeneralZod, Jean Gabes, Katyucha, Nÿco, Xavier Teyssier, Zarmakuizz and lamiricore</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Internet</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-07 09:27:41 UTC</td></tr>
+<tr><th>Author:</th><td>Benoît, Christophe Guilloux, Florent Zara, GeneralZod, Jean Gabes, Katyucha, Nÿco, Xavier Teyssier, Zarmakuizz and lamiricore</td></tr>
+<tr><th>Filed under:</th><td>Internet</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/openstreetmap-pourquoi-vous-devriez-l-utiliser"><b>OpenStreetMap : pourquoi vous devriez l'utiliser</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/openstreetmap-pourquoi-vous-devriez-l-utiliser">OpenStreetMap : pourquoi vous devriez l'utiliser</a>
+</td></tr></table>
 
 <div><p>OpenStreetMap (OSM), souvent appelé « la Wikipédia des cartes », gagnerait à être plus connu parmi les libristes. Je suis moi-même un contributeur récent, puisque j'ai appris à contribuer à OpenStreetMap grâce à une sympathique personne qui animait le stand OSM au <a href="https://fosdem.org/2013/">FOSDEM 2013</a>&#8230; et je suis devenu, depuis cette date, un contributeur assidu.</p>
 
@@ -321,24 +307,21 @@ Doug Hellman s'appuie sur les acquis du projet Ceilometer pour promouvoir l'util
 <li><a href="http://resultmaps.neis-one.org/">http://resultmaps.neis-one.org/</a> divers outils pour connaître les contributeurs qui nous entourent, nos statistiques&#8230;</li>
 <li>Et si vous êtes plus marin que terrien : <a href="http://www.openseamap.org">http://www.openseamap.org</a></li>
 </ul></div>    <p><a href="http://linuxfr.org/news/openstreetmap-pourquoi-vous-devriez-l-utiliser#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-07 09:19:25 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexis de Lattre, Florent Zara, Jiehong, L@ur3nt, Nicolas Casanova, Nonolapéro, Nÿco, TBTB, Xavier Teyssier, djabal and fravashyo</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Open Data, hfi</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-07 09:19:25 UTC</td></tr>
+<tr><th>Author:</th><td>Alexis de Lattre, Florent Zara, Jiehong, L@ur3nt, Nicolas Casanova, Nonolapéro, Nÿco, TBTB, Xavier Teyssier, djabal and fravashyo</td></tr>
+<tr><th>Filed under:</th><td>Open Data, hfi</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/x-org-est-mort-vive-wayland-2"><b>X.Org est mort, vive Wayland ! (2)</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/x-org-est-mort-vive-wayland-2">X.Org est mort, vive Wayland ! (2)</a>
+</td></tr></table>
 
 <div><p>L&#8217;activité du projet Wayland, projet visant à remplacer le vieillissant X.Org, a été très importante ces derniers mois. En voici les principaux faits marquants.</p>
 
@@ -454,24 +437,21 @@ Doug Hellman s'appuie sur les acquis du projet Ceilometer pour promouvoir l'util
 <p>Concernant les systèmes BSD, cela bouge aussi pas mal. La principale difficulté du passage à Wayland est la <a href="http://linuxfr.org/news/x-org-est-mort-vive-wayland#toc_8">dépendance obligatoire du noyau à KMS</a>. Les <a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTM0NDU">pilotes Intel prennent maintenant en charge KMS pour OpenBSD</a>. Les <a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTMwNzA">pilotes Radeon sont en train d&#8217;être portés sur FreeBSD</a> (on peut trouver <a href="https://wiki.freebsd.org/AMD_GPU"><em>ici</em></a> le statut du pilote). Rappelons que depuis FreeBSD 9.1, le <a href="http://www.freebsd.org/releases/9.1R/announce.html">pilote Intel prend en charge KMS</a>. Enfin, Solaris&#8239;11 prend KMS en charge pour Intel, et offrira une prise en charge de Radeon pour la version 12. Un bon résumé sur les systèmes BSD dans <a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTI5Njk">cet article</a> de <em>Phoronix</em>.</p>
 
 <p>On peut donc supposer que 2014 signera l&#8217;amorce du déclin de X sous GNU/Linux, et sous UNIX en général.</p></div>    <p><a href="http://linuxfr.org/news/x-org-est-mort-vive-wayland-2#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-07 09:59:29 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Davy Defaud, Jarvis, Jiehong, Nÿco, Xavier Claude, antistress and bayo</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">X, wayland</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-07 09:59:29 UTC</td></tr>
+<tr><th>Author:</th><td>Davy Defaud, Jarvis, Jiehong, Nÿco, Xavier Claude, antistress and bayo</td></tr>
+<tr><th>Filed under:</th><td>X, wayland</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/revue-de-presse-de-l-april-pour-la-semaine-18-de-l-annee-2013"><b>Revue de presse de l'April pour la semaine 18 de l'année 2013</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/revue-de-presse-de-l-april-pour-la-semaine-18-de-l-annee-2013">Revue de presse de l'April pour la semaine 18 de l'année 2013</a>
+</td></tr></table>
 
 <div><p>La revue de presse de l'April est régulièrement éditée par les membres de l'association. Elle couvre l'actualité de la presse en ligne, liée au logiciel libre. Il s'agit donc d'une sélection d'articles de presse et non de prises de position de l'association de promotion et de défense du logiciel libre.</p>
 <h2 id="toc_0">Sommaire</h2>
@@ -559,24 +539,21 @@ Doug Hellman s'appuie sur les acquis du projet Ceilometer pour promouvoir l'util
 <ul><li><a href="http://www.itespresso.fr/drm-veto-w3c-specification-eme-64280.html">[ITespresso] DRM: vers un veto du W3C sur la spécification EME?</a></li>
 <li><a href="http://www.silicon.fr/drm-w3c-eme-85727.html">[Silicon.fr] DRM: le W3C va-t-il rejeter la spécification EME?</a></li>
 </ul></div>    <p><a href="http://linuxfr.org/news/revue-de-presse-de-l-april-pour-la-semaine-18-de-l-annee-2013#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-06 15:06:40 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">echarp</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Internet, presse, revue</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-06 15:06:40 UTC</td></tr>
+<tr><th>Author:</th><td>echarp</td></tr>
+<tr><th>Filed under:</th><td>Internet, presse, revue</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/paperwork-besoin-de-testeurs"><b>Paperwork : besoin de testeurs</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/paperwork-besoin-de-testeurs">Paperwork : besoin de testeurs</a>
+</td></tr></table>
 
 <div><p><a href="https://github.com/jflesch/paperwork#readme">Paperwork</a> est un outil pour faciliter la gestion de la paperasse de tous les jours. Il a été conçu pour les flemmards désorganisés comme moi, dans une optique de « scan &amp; forget » : vous devriez pouvoir juste scanner un document, l'enterrer dans une pile de papiers quelconque, et quand même le retrouver le jour où vous en avez besoin. Après tout, trier est un travail de machine.</p>
 
@@ -597,24 +574,21 @@ Doug Hellman s'appuie sur les acquis du projet Ceilometer pour promouvoir l'util
 </p>
 
 <p>Merci beaucoup à ceux qui l'ont déjà testé, et merci d'avance à ceux qui vont le faire,</p></div>    <p><a href="http://linuxfr.org/news/paperwork-besoin-de-testeurs#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-06 07:34:05 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Christophe Guilloux, Florent Zara, Jérôme Flesch and Nÿco</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Communauté</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-06 07:34:05 UTC</td></tr>
+<tr><th>Author:</th><td>Christophe Guilloux, Florent Zara, Jérôme Flesch and Nÿco</td></tr>
+<tr><th>Filed under:</th><td>Communauté</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/retour-sur-django-1-5"><b>Retour sur Django 1.5</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/retour-sur-django-1-5">Retour sur Django 1.5</a>
+</td></tr></table>
 
 <div><p>Le mardi 26 février, 11 mois après la 1.4, est sortie la version 1.5 du <em>framework</em> web Django, écrit en Python. Ce framework, basé sur un concept Modèle-Gabarit-Vue (MGV, à rapprocher du MVC), est conçu pour le développement rapide et reprend la plupart des grands principes de Python (« <em>Explicit is better than implicit</em> », notamment), ce qui en fait la plate-forme de développement Web idéale pour les perfectionnistes sous pression.</p>
 
@@ -838,24 +812,21 @@ Twitter, bit.ly, Askimet&#8230;)</li>
 <ul><li>la prise en charge des index multi-colonnes <a href="http://south.aeracode.org/ticket/1217">ticket correspondant</a></li>
 <li>le changement simple du modèle User (voir <a href="https://groups.google.com/forum/?fromgroups=#!topic/south-users/CTpNthRf9Kc">cette discussion</a> sur les problèmes à résoudre) </li>
 </ul><p>Vous pouvez éditer ce paragraphe en cliquant sur le crayon</p></div>    <p><a href="http://linuxfr.org/news/retour-sur-django-1-5#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-05 21:24:51 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Atem18, Johan Charpentier, Nÿco, RoPP, Thomas DEBESSE, Xavier Claude, jcr83, redgriff and tuiu pol</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Python</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-05 21:24:51 UTC</td></tr>
+<tr><th>Author:</th><td>Atem18, Johan Charpentier, Nÿco, RoPP, Thomas DEBESSE, Xavier Claude, jcr83, redgriff and tuiu pol</td></tr>
+<tr><th>Filed under:</th><td>Python</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/les-journaux-linuxfr-org-les-mieux-notes-du-mois-d-avril-2013"><b>Les journaux LinuxFr.org les mieux notés du mois d'avril 2013</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/les-journaux-linuxfr-org-les-mieux-notes-du-mois-d-avril-2013">Les journaux LinuxFr.org les mieux notés du mois d'avril 2013</a>
+</td></tr></table>
 
 <div><p>LinuxFr.org propose des dépêches et articles, soumis par tout un chacun, puis revus et corrigés par l'équipe de modération avant publication. C'est la partie la plus visible de LinuxFr.org, ce sont les dépêches qui sont le plus lues et suivies, sur le site, via Atom/RSS, ou bien via partage par messagerie instantanée, par mail, ou encore via médias sociaux.</p>
 
@@ -872,48 +843,42 @@ Twitter, bit.ly, Askimet&#8230;)</li>
 <li><a href="http://linuxfr.org/users/dgellow/journaux/bookmark-don-t-copy-paste-me">Bookmark : Don't copy paste me !</a> par Sam E.&#8239;;</li>
 <li><a href="http://linuxfr.org/users/case42/journaux/bookmark-ca-bouge">[Bookmark] Ça bouge&#8230;</a> par case42.</li>
 </ul></div><ul><li>lien n°1 : <a href="http://linuxfr.org/redirect/86233" hreflang="fr" title="http://linuxfr.org/redaction"> Participez à l&#x27;écriture d&#x27;un article </a></li><li>lien n°2 : <a href="http://linuxfr.org/redirect/86234" hreflang="fr" title="http://linuxfr.org/journaux/nouveau">Écrivez votre journal </a></li><li>lien n°3 : <a href="http://linuxfr.org/redirect/86235" hreflang="fr" title="http://linuxfr.org/news/nouveau"> Proposez une dépêche </a></li></ul><div></div>    <p><a href="http://linuxfr.org/news/les-journaux-linuxfr-org-les-mieux-notes-du-mois-d-avril-2013#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-05 18:56:43 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Florent Zara</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">LinuxFr.org</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-05 18:56:43 UTC</td></tr>
+<tr><th>Author:</th><td>Florent Zara</td></tr>
+<tr><th>Filed under:</th><td>LinuxFr.org</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/maison-du-libre-de-brest-un-echec-qui-reussit"><b>Maison du libre de Brest : un échec qui réussit</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/maison-du-libre-de-brest-un-echec-qui-reussit">Maison du libre de Brest : un échec qui réussit</a>
+</td></tr></table>
 
 <div><p>En 2004, l'April lançait le projet de maison du libre, dont l'idée de base était de « créer un pôle associatif et espace citoyen d&#8217;appropriation du numérique autour du logiciel libre sur Paris ; regrouper différentes associations qui œuvrent à une appropriation sociale et démocratique de la société de l&#8217;information, pour croiser leurs savoir-faire, promouvoir un usage collectif et militant des TIC et ouvrir un espace d&#8217;expression citoyenne appuyé sur le multimédia pour l&#8217;accueil du public ». Ce projet n'a pas beaucoup évolué même s'il n'est pas abandonné, mais il a su inspirer la communauté brestoise : ainsi en 2010 naissait la maison du libre de Brest (dite MDL29), association regroupant diverses associations œuvrant directement ou indirectement pour le libre.</p>
 
 <p>Cependant, en 2013, la MDL29 décide de mettre fin à ce projet. Il y a certes un échec de celui-ci, mais cela n'est qu'une conséquence de la réussite de l'association : celle-ci est devenue un GULL (groupe d'utilisateurs de logiciels libres) très actif, et même plus actif dans le domaine de la promotion du libre que l'ensemble des associations qui faisaient partie de la maison du libre. Il a donc été décidé de faire évoluer l'objet de l'association pour ne plus regrouper les associations du libre mais pour remplacer les GULL locaux tout en laissant vivre les autres associations à côté.</p>
 
 <p>Le titre de première maison du libre est donc remis en jeu, à vous de faire vivre la communauté de votre région pour porter haut les couleurs de cette belle idée !</p></div><ul><li>lien n°1 : <a href="http://linuxfr.org/redirect/86229" hreflang="fr" title="http://wiki.april.org/w/Maison_du_Libre">Maison du libre sur le wiki de l&#x27;april</a></li><li>lien n°2 : <a href="http://linuxfr.org/redirect/86230" hreflang="fr" title="http://www.april.org/groupes/mdl/">Groupe de travail maison du libre à l&#x27;april</a></li><li>lien n°3 : <a href="http://linuxfr.org/redirect/86231" hreflang="fr" title="http://mdl29.net/">MDL 29</a></li></ul><div></div>    <p><a href="http://linuxfr.org/news/maison-du-libre-de-brest-un-echec-qui-reussit#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-05 15:55:53 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Benoît Sibaud and Denis Dordoigne</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Communauté</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-05 15:55:53 UTC</td></tr>
+<tr><th>Author:</th><td>Benoît Sibaud and Denis Dordoigne</td></tr>
+<tr><th>Filed under:</th><td>Communauté</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/debian-episode-vii"><b>Debian : Épisode VII</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/debian-episode-vii">Debian : Épisode VII</a>
+</td></tr></table>
 
 <div><p>La version 7.0 de la distribution GNU/Linux <a href="http://fr.wikipedia.org/wiki/Debian" title="Définition Wikipédia">Debian</a> est sortie aujourd'hui. Elle a pour nom de code : <a href="http://pixar.wikia.com/Wheezy">Wheezy</a> (le <a href="http://fr.wikipedia.org/wiki/manchot" title="Définition Wikipédia">manchot</a> en caoutchouc avec un <a href="http://fr.wikipedia.org/wiki/nœud papillon" title="Définition Wikipédia">nœud papillon</a> rouge dans <a href="http://fr.wikipedia.org/wiki/Toy Story 2" title="Définition Wikipédia">Toy Story 2</a>).</p>
 
@@ -1149,24 +1114,21 @@ qui n'est plus du tout maintenue par Trolltech/Digia depuis au moins 3 ans ;</l
 <li>Aura-t-on un autre système d'affichage qu'X.Org ?</li>
 <li>Aura-t-on des paquets construits avec autre chose que GCC ?</li>
 </ul><p>Vous le saurez dans le prochain épisode.</p></div>    <p><a href="http://linuxfr.org/news/debian-episode-vii#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-05 06:27:51 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Benoît Sibaud, Christophe Guilloux, Gauthier Monserand, Jarvis, Jiehong, Kwiknclean, NeoX, Nicolas Casanova, Nÿco, Sylvestre Ledru, TBTB, Xavier Claude, ZeroHeure, alpentux, antistress, etbim, j, jihele, patrick_g, symoon, thomasv and tuxicoman</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Debian, debian, hfi, 7, admin</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-05 06:27:51 UTC</td></tr>
+<tr><th>Author:</th><td>Benoît Sibaud, Christophe Guilloux, Gauthier Monserand, Jarvis, Jiehong, Kwiknclean, NeoX, Nicolas Casanova, Nÿco, Sylvestre Ledru, TBTB, Xavier Claude, ZeroHeure, alpentux, antistress, etbim, j, jihele, patrick_g, symoon, thomasv and tuxicoman</td></tr>
+<tr><th>Filed under:</th><td>Debian, debian, hfi, 7, admin</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/programmez-votre-raspberry-pi-depuis-le-confort-de-votre-navigateur-web-et-en-javascript"><b>Programmez votre Raspberry Pi depuis le confort de votre navigateur Web - et en JavaScript!</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/programmez-votre-raspberry-pi-depuis-le-confort-de-votre-navigateur-web-et-en-javascript">Programmez votre Raspberry Pi depuis le confort de votre navigateur Web - et en JavaScript!</a>
+</td></tr></table>
 
 <div><p>Nous sommes de plus en plus nombreux à avoir envie d'expérimenter avec des projets hardware. Le Raspberry Pi s'est imposé en un an comme une excellente plateforme, très peu chére et facile d'accès. Il est très bien adapté aux projets « connectés » puisque le modèle B intègre en standard un port Ethernet et qu'un dongle Wifi coûte moins de 10 euros.</p>
 
@@ -1200,24 +1162,21 @@ qui n'est plus du tout maintenue par Trolltech/Digia depuis au moins 3 ans ;</l
 <h4 id="toc_2">Sources et Evolutions</h4>
 
 <p><a href="http://pijs.io">pijs.io</a> est lui-même développé en JavaScript avec le framework <a href="http://www.meteor.com">Meteor</a> et est <a href="https://github.com/tbideas/asteroid">entièrement disponible en open-source</a>. L'auteur est à la recherche de nouveaux utilisateurs, et à l'écoute de leurs idées et envies !</p></div>    <p><a href="http://linuxfr.org/news/programmez-votre-raspberry-pi-depuis-le-confort-de-votre-navigateur-web-et-en-javascript#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-04 17:56:28 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Benoît Sibaud, Pierre Jarillon and Xavier Claude</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Matériel, concours_embarqué_201304, raspberrypi</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-04 17:56:28 UTC</td></tr>
+<tr><th>Author:</th><td>Benoît Sibaud, Pierre Jarillon and Xavier Claude</td></tr>
+<tr><th>Filed under:</th><td>Matériel, concours_embarqué_201304, raspberrypi</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/mons-le-16-mai-qui-contribue-a-wikipedia-et-pourquoi"><b>Mons, le 16 mai : Qui contribue à Wikipédia, et pourquoi ?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/mons-le-16-mai-qui-contribue-a-wikipedia-et-pourquoi">Mons, le 16 mai : Qui contribue à Wikipédia, et pourquoi ?</a>
+</td></tr></table>
 
 <div><p>Ce jeudi 16 mai 2013 à 19h se déroulera la dix-neuvième séance montoise des Jeudis du Libre de Belgique. Le sujet de cette séance : <strong>Qui contribue à Wikipédia, et pourquoi ?</strong></p>
 
@@ -1240,24 +1199,21 @@ qui n'est plus du tout maintenue par Trolltech/Digia depuis au moins 3 ans ;</l
 <p>Si vous êtes intéressé(e) par ce cycle mensuel, n&#8217;hésitez pas à consulter <a href="http://jeudisdulibre.be/grille-pour-mons/">l'agenda</a>.</p>
 
 <p>Pour rappel, les Jeudis du Libre se veulent des rencontres autour de thématiques des Logiciels Libres. Les rencontres montoises se déroulent chaque troisième jeudi du mois, et sont organisées dans des locaux et en collaboration avec des Hautes Écoles et Facultés Universitaires du Pôle Hainuyer d'enseignement supérieur impliquées dans les formations d&#8217;informaticiens (UMONS, HECFH et Condorcet), et avec le concours de l&#8217;A.S.B.L. LoLiGrUB, active dans la promotion des logiciels libres.</p></div>    <p><a href="http://linuxfr.org/news/mons-le-16-mai-qui-contribue-a-wikipedia-et-pourquoi#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-04 17:03:45 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Benoît Sibaud and Francois Bayart</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Communauté, mons, jeudisdulibre, wikipedia</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-04 17:03:45 UTC</td></tr>
+<tr><th>Author:</th><td>Benoît Sibaud and Francois Bayart</td></tr>
+<tr><th>Filed under:</th><td>Communauté, mons, jeudisdulibre, wikipedia</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/etat-des-pilotes-graphiques-libres-pour-soc"><b>État des pilotes graphiques libres pour SoC</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/etat-des-pilotes-graphiques-libres-pour-soc">État des pilotes graphiques libres pour SoC</a>
+</td></tr></table>
 
 <div><p>Si les lecteurs de LinuxFr.org sont généralement bien au fait de l'état de prise en charge des puces graphiques de leur PC (Intel HD Graphics, AMD Radeon, NVIDIA GeForce) par les pilotes libres, il n'en est pas toujours de même s'agissant de la prise en charge des puces graphiques embarquées dans les <a href="http://fr.wikipedia.org/wiki/SoC" title="Définition Wikipédia">SoC</a> (« <em>System on Chip</em> », système sur puce, contenant en général processeur, mémoire, stockage et périphériques).</p>
 
@@ -1360,24 +1316,21 @@ qui n'est plus du tout maintenue par Trolltech/Digia depuis au moins 3 ans ;</l
 <p>Les pilotes libres en cours de développement le sont donc par des tiers qui pratiquent la rétro-ingénierie : sacrée perte de temps (cela dit, la lecture des brevets sur le matériel a parfois pu faire office de documentation en permettant aux développeurs de progresser dans leur travail de compréhension des mécanismes mis en œuvre par le matériel&#8230;).</p>
 
 <p>Et encore : les développeurs compétents dans ce domaine étant déjà employés par des sociétés travaillant sur certaines de ces solutions graphiques sous <a href="http://fr.wikipedia.org/wiki/Accord de non-divulgation" title="Définition Wikipédia">accord de non-divulgation</a>, ils ne peuvent écrire du code pour des pilotes libres concernant ces matériels. Du coup on assiste à un jeu de participations croisées : Luc Verhaegen alias libv et Rob Clark ne pouvant coder sur PowerVR, le premier se rabat alors sur Mali, <a href="http://phoronix.com/forums/showthread.php?80092-The-State-Of-ARM-SoC-GPU-Linux-Drivers&amp;p=327764#post327764">lequel Rob Clark ainsi que Erik Faye-Lund alias kusma ne pouvant de leur côté coder sur Mali, se rabattent respectivement sur Adreno et Tegra</a>&#8230;</p></div>    <p><a href="http://linuxfr.org/news/etat-des-pilotes-graphiques-libres-pour-soc#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-05 11:17:18 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Benoît Sibaud, Nÿco, Xavier Claude, antistress, karteum59 and olivier esver</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">X</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-05 11:17:18 UTC</td></tr>
+<tr><th>Author:</th><td>Benoît Sibaud, Nÿco, Xavier Claude, antistress, karteum59 and olivier esver</td></tr>
+<tr><th>Filed under:</th><td>X</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news">
-<b>LinuxFr.org : les dépêches</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://linuxfr.org/news/slimerjs-0-6"><b>SlimerJS 0.6</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://linuxfr.org/news">
+LinuxFr.org : les dépêches</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://linuxfr.org/news/slimerjs-0-6">SlimerJS 0.6</a>
+</td></tr></table>
 
 <div><p>SlimerJS est un navigateur web « scriptable », utilisable en ligne de commande. Par le biais d'un script Javascript, il vous permet de charger une page, de « cliquer » dessus, de manipuler la page, d'en extraire des données, etc. SlimerJS est en fait un navigateur similaire à <a href="http://phantomjs.org">PhantomJS</a>, excepté qu'il est basé sur Gecko, le moteur de rendu de Firefox, au lieu de WebKit. Et il propose une API identique à celle de PhantomJS. Dans cette première version stable de SlimerJS, l&#8217;implémentation de cette API n'est pas 100% terminée, il est toutefois déjà possible de réaliser pas mal de chose.</p>
 
@@ -1396,11 +1349,11 @@ qui n'est plus du tout maintenue par Trolltech/Digia depuis au moins 3 ans ;</l
 <p>Le projet a débuté fin décembre. Et toute contribution est la bienvenue, que ce soit sur la documentation (encore incomplète&#8230;) ou sur le code source, entièrement en Javascript ;-)</p>
 
 <p>SlimerJS est une application XUL (et non pas une extension), qui nécessite Firefox ou XulRunner pour fonctionner. « <em>Slimer</em> » vient du nom d'un des fantômes de <em>Ghostbuster</em> ;-) Film dont des références ont souvent été reprise dans le projet Mozilla.</p></div>    <p><a href="http://linuxfr.org/news/slimerjs-0-6#comments">Lire les commentaires</a></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-05-03 17:15:57 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Laurent J, Nÿco, Xavier Teyssier and tuiu pol</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">JavaScript, navigateur, tests, headless, firefox</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-05-03 17:15:57 UTC</td></tr>
+<tr><th>Author:</th><td>Laurent J, Nÿco, Xavier Teyssier and tuiu pol</td></tr>
+<tr><th>Filed under:</th><td>JavaScript, navigateur, tests, headless, firefox</td></tr>
 </table>
 
 </body></html>

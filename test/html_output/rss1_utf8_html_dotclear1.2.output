@@ -11,28 +11,23 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog">
-<b>Alexx'Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://alexx.ikse.org/blog">
+Alexx'Blog</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 <br/>
 De tout et de rien, mais surtout de rien
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog">
-<b>Alexx'Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog?2004/06/18/6-node-launched"><b>.node launched</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://alexx.ikse.org/blog">
+Alexx'Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://alexx.ikse.org/blog?2004/06/18/6-node-launched">.node launched</a>
+</td></tr></table>
 
 <p><a href="http://bix.enix.org/index.php/2004/06/16/441-NodeDotnodeLogicielSocialFranaisSansPub">Tout</a> <a href="http://lunacymaze.org/index.php/2004/06/17/14-DuNouveauPourLesRnseauxSociauxSurInternetNodeDotnode">le</a> <a href="http://tito.bankiz.org/?rub=blogc&amp;a=45">monde</a> en parle déjà sauf moi ...
 <a href="http://dotnode.com" hreflang="fr">.node</a>, le réseau social d'origine française à vocation internationale a été lancé publiquement le 16 juin 2004.</p> <p><a href="http://dotnode.com" hreflang="fr">.node</a> (prononcer dot-node) est donc un réseau social ...
@@ -50,24 +45,21 @@ On peut reprocher le coté sectaire de la chose, mais il se trouve que cela appo
 
 <p>Une version 1.1 apportera réélement de grosses nouveautés par rapport à ce qui existe.
 Pour rejoindre le réseau, guettez vos messageries ... peut-être qu'un amis va vous inviter :)</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-06-18 15:14:04 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Developpement</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-06-18 15:14:04 UTC</td></tr>
+<tr><th>Author:</th><td>Alexx</td></tr>
+<tr><th>Subject:</th><td>Developpement</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog">
-<b>Alexx'Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog?2004/04/08/5-sidebar-generator-2"><b>SideBar Generator 2...</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://alexx.ikse.org/blog">
+Alexx'Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://alexx.ikse.org/blog?2004/04/08/5-sidebar-generator-2">SideBar Generator 2...</a>
+</td></tr></table>
 
 <p>Toujours plus fort ...<br />
 A présent, le générateur de panel gère le champs 'description' du RSS ...
@@ -83,24 +75,21 @@ Si le RSS contient un champs description, il faudra cliquer sur le titre, puis s
 
 <p><strong>NB</strong>: Il semble qu'il y ai un pb de parse pour linuxfr.org ... il semblerait qu'il manque <code>&lt;![CDATA[</code> pour encadrer la 'description', afin que les balises HTML passent correctement, au lieu d'arreter le parsing.<br />
 <strong>NB2</strong>: Ca ne passe plus la validation XHTML1.1, car j'ai du ajouter un attribut target au lien pour que ceux-ci s'ouvre bien dans la partie principal du browser et non dans la sidebar (Vu sur Mozilla 1.6 et 1.7B, mais fonctionnait 'normalement' sur FireBird0.8... a moins que ce ne soit FireFird le mauvais élève ;) )</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-04-08 16:04:59 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Developpement</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-04-08 16:04:59 UTC</td></tr>
+<tr><th>Author:</th><td>Alexx</td></tr>
+<tr><th>Subject:</th><td>Developpement</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog">
-<b>Alexx'Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog?2004/03/24/4-ie-respecte-les-normes-w3c-les-plus-recentes"><b>IE respecte les normes W3C les plus récentes</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://alexx.ikse.org/blog">
+Alexx'Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://alexx.ikse.org/blog?2004/03/24/4-ie-respecte-les-normes-w3c-les-plus-recentes">IE respecte les normes W3C les plus récentes</a>
+</td></tr></table>
 
 <p>Nan, ca, c'etait une blague ...<br />
 Par contre, quand il n'aime pas qqchose, il le fait bien savoir !</p>
@@ -111,47 +100,41 @@ A force de tailler dans le CSS à a hache, la page passe a present (sur le vrai 
 <p>Mais je n'ai pas reussi a isoler le pb :/</p>
 
 <p>Si vous avez des pistes ....</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-03-24 12:09:18 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Coup de gueule</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-03-24 12:09:18 UTC</td></tr>
+<tr><th>Author:</th><td>Alexx</td></tr>
+<tr><th>Subject:</th><td>Coup de gueule</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog">
-<b>Alexx'Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog?2004/03/23/3-re-google-censure-par-la-republique-bananiere-francaise"><b>Re: Google censuré par la république bananière Française !</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://alexx.ikse.org/blog">
+Alexx'Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://alexx.ikse.org/blog?2004/03/23/3-re-google-censure-par-la-republique-bananiere-francaise">Re: Google censuré par la république bananière Française !</a>
+</td></tr></table>
 
 <p>Marre des paranoïaques ...</p> <p>Cf. le Journal de manchot sur <a href="http://linuxfr.org" hreflang="fr">LinuxFR</a> : <a href="http://linuxfr.org/~manchot/10802.html">http://linuxfr.org/~manchot/10802.html</a><br />
 et mes commentaires: <a href="http://linuxfr.org/comments/377316.html">http://linuxfr.org/comments/377316.html</a> et <a href="http://linuxfr.org/comments/377319.html">http://linuxfr.org/comments/377319.html</a></p>
 
 <p><em>A bon entendeur ...</em></p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-03-23 21:48:43 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Coup de gueule</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-03-23 21:48:43 UTC</td></tr>
+<tr><th>Author:</th><td>Alexx</td></tr>
+<tr><th>Subject:</th><td>Coup de gueule</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog">
-<b>Alexx'Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog?2004/03/09/2-creer-ses-propres-panelssidebars-a-partir-de-rssrdf"><b>Créer ses propres Panels/SideBars à partir de RSS/RDF</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://alexx.ikse.org/blog">
+Alexx'Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://alexx.ikse.org/blog?2004/03/09/2-creer-ses-propres-panelssidebars-a-partir-de-rssrdf">Créer ses propres Panels/SideBars à partir de RSS/RDF</a>
+</td></tr></table>
 
 <p>Je me suis amusé ce soir à faire un générateur de Panel/SideBar pour Mozilla/Fire[bird|fox]/Galeon à partir des RSS/RDF que l'on peut trouver de plus en plus souvent sur les sites de news (linuxfr en tete bien sur ;), mais aussi libération, clubic.com ...)<br /></p>
 
@@ -167,24 +150,21 @@ et mes commentaires: <a href="http://linuxfr.org/comments/377316.html">http://li
 <p>Tout les commentaires seront les bienvenu ....<br />
 Il y a sans doute des bugs (c'est obligatoire pour un truc programmer en 15 minutes à l'arrache ;) ), merci de me les rapporter si vous en croisez un.<br />
 Si vous avez des RSS/RDF interessant, ca peut-etre sympa de mettre ca en commentaire :)</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-03-09 22:45:47 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Developpement</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-03-09 22:45:47 UTC</td></tr>
+<tr><th>Author:</th><td>Alexx</td></tr>
+<tr><th>Subject:</th><td>Developpement</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog">
-<b>Alexx'Blog</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog?2004/01/31/1-sco-connerie-observee-notez-la-recursion"><b>SCO Connerie Observée (notez la recursion ;) )</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://alexx.ikse.org/blog">
+Alexx'Blog</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://alexx.ikse.org/blog?2004/01/31/1-sco-connerie-observee-notez-la-recursion">SCO Connerie Observée (notez la recursion ;) )</a>
+</td></tr></table>
 
 <p>Nos amis SCO (<a href="http://www.sco.com">sco.com</a> je me demande pourquoi je le precise) devraient préciser la phrase qui est sur leur page d'accueil :<br />
 "MyDoom virus alert - Be caution about opening emails with attachments."<br />
@@ -193,11 +173,11 @@ ainsi :<br />
 Qui, aux dernières nouvelles, n'est en rien affecté par les problemes purement windowsiens de virus/vers email...</p>
 
 <p>Enfin bref ... on ne pourra plus se moquer pendant une petite 15aine de jour bientot ;)</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-01-31 21:19:20 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Alexx</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Juste pour rire ...</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-01-31 21:19:20 UTC</td></tr>
+<tr><th>Author:</th><td>Alexx</td></tr>
+<tr><th>Subject:</th><td>Juste pour rire ...</td></tr>
 </table>
 
 </body></html>

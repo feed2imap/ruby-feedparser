@@ -11,63 +11,52 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog">
-<b>Normalization</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://alexx.ikse.org/blog">
+Normalization</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 <br/>
 Paf
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog">
-<b>Normalization</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><b>content:encoded</b>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://alexx.ikse.org/blog">
+Normalization</a>
+</td></tr><tr><th>Item:</th>
+<td>content:encoded</td></tr></table>
 
 <p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
+<hr/>
+<table class="metadata">
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog">
-<b>Normalization</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><b>HTML direct</b>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://alexx.ikse.org/blog">
+Normalization</a>
+</td></tr><tr><th>Item:</th>
+<td>HTML direct</td></tr></table>
 
 <p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
+<hr/>
+<table class="metadata">
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://alexx.ikse.org/blog">
-<b>Normalization</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><b>Escaped</b>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://alexx.ikse.org/blog">
+Normalization</a>
+</td></tr><tr><th>Item:</th>
+<td>Escaped</td></tr></table>
 
 <p>Ceci est test&eacute;&#xc3a9;&#201;. Je parle d'&lt;html&gt;.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
+<hr/>
+<table class="metadata">
 </table>
 
 </body></html>

@@ -23,25 +23,24 @@ module FeedParser
       s += "<body>\n"
 
       s += <<-EOF
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<table class="feed-header">
       EOF
       r = ""
       r += "<a href=\"#{@link}\">\n" if @link
       if @title
-        r += "<b>#{@title.escape_html}</b>\n"
+        r += @title.escape_html
       elsif @link
-        r += "<b>#{@link.escape_html}</b>\n"
+        r += @link.escape_html
       else
-        r += "<b>Unnamed feed</b>\n"
+        r += "Unnamed feed"
       end
       r += "</a>\n" if @link
-      headline = "<tr><td align=\"right\"><b>%s</b></td>\n<td width=\"100%%\">%s</td></tr>"
+      headline = "<tr><th>%s</th>\n<td>%s</td></tr>"
       s += (headline % ["Feed title:", r])
       s += (headline % ["Type:", @type])
       s += (headline % ["Encoding:", @encoding])
       s += (headline % ["Creator:", @creator.escape_html]) if @creator
-      s += "</table></td></tr></table>\n"
+      s += "</table>\n"
 
       if @description and @description !~ /\A\s*</m
         s += "<br/>\n"
@@ -75,32 +74,31 @@ module FeedParser
 
     def to_html(localtime = true)
       s = <<-EOF
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
+<table class="header">
       EOF
       r = ""
       r += "<a href=\"#{@feed.link}\">\n" if @feed.link
       if @feed.title
-        r += "<b>#{@feed.title.escape_html}</b>\n"
+        r += @feed.title.escape_html
       elsif @feed.link
-        r += "<b>#{@feed.link.escape_html}</b>\n"
+        r += @feed.link.escape_html
       else
-        r += "<b>Unnamed feed</b>\n"
+        r += "Unnamed feed"
       end
       r += "</a>\n" if @feed.link
-      headline = "<tr><td align=\"right\"><b>%s</b></td>\n<td width=\"100%%\">%s</td></tr>"
+      headline = "<tr><th>%s</th>\n<td>%s</td></tr>"
       s += (headline % ["Feed:", r])
 
       r = ""
       r += "<a href=\"#{link}\">" if link
       if @title
-        r += "<b>#{@title.escape_html}</b>\n"
+        r += @title.escape_html
       elsif link
-        r += "<b>#{link.escape_html}</b>\n"
+        r += link.escape_html
       end
       r += "</a>\n" if link
       s += (headline % ["Item:", r])
-      s += "</table></td></tr></table>\n"
+      s += "</table>\n"
       s += "\n"
       if @content and @content !~ /\A\s*</m
         s += "<br/>\n"
@@ -108,19 +106,18 @@ module FeedParser
       s += "#{@content}" if @content
       if @enclosures and @enclosures.length > 0
         s += <<-EOF
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="2" cellspacing="2">
+<table class="attachments">
         EOF
-        s += '<tr><td width="100%"><b>Files:</b></td></tr>'
+        s += '<tr><th>Files:</th></tr>'
         s += "\n"
         @enclosures.each do |e|
-          s += "<tr><td>&nbsp;&nbsp;&nbsp;<a href=\"#{e[0]}\">#{e[0].split('/')[-1]}</a> (#{e[1].to_i.to_human_readable}, #{e[2]})</td></tr>\n"
+          s += "<tr><td><a href=\"#{e[0]}\">#{e[0].split('/')[-1]}</a> (#{e[1].to_i.to_human_readable}, #{e[2]})</td></tr>\n"
         end
-        s += "</table></td></tr></table>\n"
+        s += "</table>\n"
       end
-      s += "\n<hr width=\"100%\"/>\n"
-      s += '<table width="100%" cellpadding="0" cellspacing="0">' + "\n"
-      l = '<tr><td align="right"><font color="#ababab">%s</font>&nbsp;&nbsp;</td><td><font color="#ababab">%s</font></td></tr>' + "\n"
+      s += "\n<hr/>\n"
+      s += '<table class="metadata">' + "\n"
+      l = '<tr><th>%s</th><td>%s</td></tr>' + "\n"
       if @date
         if localtime
           s += l % [ 'Date:', @date.to_s ]

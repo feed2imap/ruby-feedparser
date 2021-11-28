@@ -11,753 +11,628 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">ISO-8859-1</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>ISO-8859-1</td></tr></table>
 <br/>
 Feed Notícias FINEP
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3372"><b>Glauco Arbix participa de inauguração do Centro de inovação da Cisco</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3372">Glauco Arbix participa de inauguração do Centro de inovação da Cisco</a>
+</td></tr></table>
 
 <p>FINEP propõe parceria com a multinacional para criação de fundos específicos de P&D</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-26 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-26 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3377"><b>Inova Petro divulga resultado final</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3377">Inova Petro divulga resultado final</a>
+</td></tr></table>
 
 <p>Foram selecionadas 11 empresas</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-26 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-26 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/ct_petro/resultados/ListadosPlanosdeNegociosAprovadosAposRecursos.pdf"><b>Inova Petro: resultado final</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/ct_petro/resultados/ListadosPlanosdeNegociosAprovadosAposRecursos.pdf">Inova Petro: resultado final</a>
+</td></tr></table>
 
 <p>Foram selecionadas 11 empresas</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-26 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-26 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3378"><b>Inova Energia: esclarecimentos</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3378">Inova Energia: esclarecimentos</a>
+</td></tr></table>
 
 <p>Prazo para envio de Planos de Negócios é 29/08. Tire aqui suas dúvidas.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-26 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-26 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/pagina.asppagprogramas_inovacred"><b>Aviso importante: limites para financiamentos reembolsáveis</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/pagina.asppagprogramas_inovacred">Aviso importante: limites para financiamentos reembolsáveis</a>
+</td></tr></table>
 
 <p>Pedidos com valor até R$ 10 dez milhões devem ser encaminhados aos agentes credenciados no programa Inovacred. Caso o estado não possua agente, o pedido pode ser feito via programa Inova Brasil.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-26 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-26 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3373"><b>Primeiro Instituto Senai de Inovação do Brasil será lançado em setembro</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3373">Primeiro Instituto Senai de Inovação do Brasil será lançado em setembro</a>
+</td></tr></table>
 
 <p>Evento ocorrerá durante o 1º Seminário Internacional de Inovação Industrial em Eletroquímica, nos dias 16 e 17/09</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-26 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-26 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3374"><b>Glauco Arbix fala sobre projetos de inovação</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3374">Glauco Arbix fala sobre projetos de inovação</a>
+</td></tr></table>
 
 <p>Palestra acontece no dia 27/8 no Encontro Previ de Governança Corporativa</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-26 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-26 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3371"><b>FINEP vai investir direto em empresas</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3371">FINEP vai investir direto em empresas</a>
+</td></tr></table>
 
 <p>Fundo de Investimento em Participações de R$ 200 milhões será lançado em breve</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-22 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-22 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/ct_bio/documentos/Navipecasprorrogacaodeprazocronogramav3.pdf"><b>Navipeças: prorrogação de prazo</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/ct_bio/documentos/Navipecasprorrogacaodeprazocronogramav3.pdf">Navipeças: prorrogação de prazo</a>
+</td></tr></table>
 
 <p>As propostas podem ser enviadas até 29/08</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-22 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-22 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3369"><b>Inscrições no Prêmio Jovem Cientista acabam em 30 de agosto</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3369">Inscrições no Prêmio Jovem Cientista acabam em 30 de agosto</a>
+</td></tr></table>
 
 <p>A 27ª edição tem como tema "Água: desafios da sociedade"</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-21 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-21 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3368"><b>FINEP 30 Dias será anunciado no 5º Congresso Brasileiro de Inovação</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3368">FINEP 30 Dias será anunciado no 5º Congresso Brasileiro de Inovação</a>
+</td></tr></table>
 
 <p>Nova metodologia entra em vigor no dia 3/9</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-19 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-19 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3366"><b>Melhores empresas para se trabalhar no Rio também inovam</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3366">Melhores empresas para se trabalhar no Rio também inovam</a>
+</td></tr></table>
 
 <p>FINEP apoiou projetos de sete empresas de um total de 30 premiadas</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-19 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-19 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3367"><b>Programa Ibero-Americano de Inovação entrega prêmio do concurso para criação de logomarca</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3367">Programa Ibero-Americano de Inovação entrega prêmio do concurso para criação de logomarca</a>
+</td></tr></table>
 
 <p>Vencedora é uruguaia</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-19 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-19 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3365"><b>FINEP e Embrapa têm R$ 20 milhões para infraestrutura de pesquisa</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3365">FINEP e Embrapa têm R$ 20 milhões para infraestrutura de pesquisa</a>
+</td></tr></table>
 
 <p>Foco é apoiar OEPAS - Organizações Estaduais de Pesquisa Agropecuária</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-16 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-16 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/acoes_transversais/editais/CartaConviteOEPAS2013VersaoFinal.pdf"><b>Carta Convite - OEPAS 01/2013</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/acoes_transversais/editais/CartaConviteOEPAS2013VersaoFinal.pdf">Carta Convite - OEPAS 01/2013</a>
+</td></tr></table>
 
 <p>Envio de propostas: até 16/09/2013</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-15 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-15 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3363"><b>Tecnova lança primeiro edital</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3363">Tecnova lança primeiro edital</a>
+</td></tr></table>
 
 <p>Santa Catarina é o primeiro estado contemplado, por meio da Fapesc</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-14 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-14 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3361"><b>Concurso de fotografia do CNPq vai premiar com R$ 30 mil</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3361">Concurso de fotografia do CNPq vai premiar com R$ 30 mil</a>
+</td></tr></table>
 
 <p>As inscrições vão até o dia 30/8</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-14 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-14 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/inova_petro/documentos/6aChamadaInovarSemente-FAQ.pdf"><b>Inovar Semente - Veja o FAQ</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/inova_petro/documentos/6aChamadaInovarSemente-FAQ.pdf">Inovar Semente - Veja o FAQ</a>
+</td></tr></table>
 
 <p>Perguntas Frequentes da 6ª chamada para Capitalização de Fundos de Capital Semente</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-14 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-14 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3360"><b>Dilma inaugura unidade de biotecnologia financiada pela FINEP</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3360">Dilma inaugura unidade de biotecnologia financiada pela FINEP</a>
+</td></tr></table>
 
 <p>Fábrica do Cristália irá produzir medicamentos contra o câncer</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-13 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-13 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/acoes_transversais/documentos/FAQ-Instrumento3.pdf"><b>PNI/Parques Tecnológicos: FAQ nº 3</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/acoes_transversais/documentos/FAQ-Instrumento3.pdf">PNI/Parques Tecnológicos: FAQ nº 3</a>
+</td></tr></table>
 
 <p>Veja nova lista de Perguntas Frequentes</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-13 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-13 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3359"><b>FINEP e FAPESP lançam nova chamada do PIPE/PAPPE Subvenção</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3359">FINEP e FAPESP lançam nova chamada do PIPE/PAPPE Subvenção</a>
+</td></tr></table>
 
 <p>Propostas podem ser enviadas até 27 de setembro</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-13 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-13 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/inova_aerodefesa/documentos/RESULTADO_SELECAO_EMPRESAS_LIDERES_APOS_RECURSOS_INOVA_AERODEFESA.pdf"><b>Inova Aerodefesa: resultado seleção empresas líderes após recursos</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/inova_aerodefesa/documentos/RESULTADO_SELECAO_EMPRESAS_LIDERES_APOS_RECURSOS_INOVA_AERODEFESA.pdf">Inova Aerodefesa: resultado seleção empresas líderes após recursos</a>
+</td></tr></table>
 
 <p>Próxima etapa: workshop de instrução e fomento a parcerias: 27/08/2013</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-12 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-12 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3356"><b>FINEP anuncia workshop e empresas habilitadas do Inova Aerodefesa</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3356">FINEP anuncia workshop e empresas habilitadas do Inova Aerodefesa</a>
+</td></tr></table>
 
 <p>Evento acontece dia 27/8 em SP</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-12 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-12 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/acoes_transversais/documentos/ProrrogacaodePrazo.pdf"><b>PNI/Parques Tecnológicos: prorrogação de prazos</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/acoes_transversais/documentos/ProrrogacaodePrazo.pdf">PNI/Parques Tecnológicos: prorrogação de prazos</a>
+</td></tr></table>
 
 <p>Veja novo cronograma. Data final para envio eletrônico da proposta agora é 30/08</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-12 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-12 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3354"><b>Começa julgamento do Prêmio FINEP</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3354">Começa julgamento do Prêmio FINEP</a>
+</td></tr></table>
 
 <p>Pré-qualificação dos projetos termina dia 16/8</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-12 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-12 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3355"><b>FINEP apoia novidade nos ares</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3355">FINEP apoia novidade nos ares</a>
+</td></tr></table>
 
 <p>Aeronave brasileira desenvolvida pela Novaer Craft terá protótipo ainda este ano</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-12 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-12 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/editais/vigentes.asp?codigoFonte=34"><b>Inova Agro: edital alterado</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/editais/vigentes.asp?codigoFonte=34">Inova Agro: edital alterado</a>
+</td></tr></table>
 
 <p>Há uma errata e retificação dos critérios Etapa 2: Seleção de Empresas Líderes</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-09 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-09 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3350"><b>Inova Saúde - Equipamentos Médicos 02/2013</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3350">Inova Saúde - Equipamentos Médicos 02/2013</a>
+</td></tr></table>
 
 <p>No ar a lista de aprovados após recursos, link para plano de negócios e guia de preenchimento</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-09 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-09 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/ct_transpo/documentos/ModelodePlanodeNegocios_InovaSaudefarmacos.pdf"><b>Inova Saúde - Biofármacos</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/ct_transpo/documentos/ModelodePlanodeNegocios_InovaSaudefarmacos.pdf">Inova Saúde - Biofármacos</a>
+</td></tr></table>
 
 <p>Veja o modelo do plano de negócios, a ser apresentado até 05 de setembro</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-09 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-09 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3349"><b>Workshop do Inova Saúde reúne setor farmacêutico em São Paulo</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3349">Workshop do Inova Saúde reúne setor farmacêutico em São Paulo</a>
+</td></tr></table>
 
 <p>Demanda do edital chegou a R$ 3,3 bilhões</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-09 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-09 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/subvencao/documentos/resultado_preliminar_etapa02_merito.pdf"><b>TI MAIOR: resultado da avaliação de mérito</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/subvencao/documentos/resultado_preliminar_etapa02_merito.pdf">TI MAIOR: resultado da avaliação de mérito</a>
+</td></tr></table>
 
 <p>Propostas irão agora para a fase conclusiva</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-06 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-06 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3346"><b>Divulgado resultado preliminar do Inova Petro e anunciado segundo edital do Programa</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3346">Divulgado resultado preliminar do Inova Petro e anunciado segundo edital do Programa</a>
+</td></tr></table>
 
 <p>Nova chamada será lançada em outubro</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-06 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-06 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/subvencao/documentos/subvencaoeconomica-tabela-classificados.pdf"><b>Nanotecnologia: resultado preliminar da avaliação de mérito</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/subvencao/documentos/subvencaoeconomica-tabela-classificados.pdf">Nanotecnologia: resultado preliminar da avaliação de mérito</a>
+</td></tr></table>
 
 <p>Resultado final está previsto para 10/09</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-06 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-06 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/acoes_transversais/documentos/Respostasasperguntasmodulo2.pdf"><b>Parques Tecnológicos: novo FAQ disponível</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/acoes_transversais/documentos/Respostasasperguntasmodulo2.pdf">Parques Tecnológicos: novo FAQ disponível</a>
+</td></tr></table>
 
 <p>Veja nova lista de Perguntas Frequentes</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-05 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-05 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://download.finep.gov.br/chamadas/inova_petro/resultados/inovapetrolistadosplanosdenegociosaprovados.pdf"><b>Inova Petro: resultado preliminar</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://download.finep.gov.br/chamadas/inova_petro/resultados/inovapetrolistadosplanosdenegociosaprovados.pdf">Inova Petro: resultado preliminar</a>
+</td></tr></table>
 
 <p>Veja os planos de negócios aprovados</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-05 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-05 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3341"><b>FINEP é destaque na Revista Especial Inovação, do Valor Econômico</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3341">FINEP é destaque na Revista Especial Inovação, do Valor Econômico</a>
+</td></tr></table>
 
 <p>Agência é citada em diversas matérias</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-02 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-02 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3342"><b>FINEP 30 Dias é lançado em SP durante reunião da MEI</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3342">FINEP 30 Dias é lançado em SP durante reunião da MEI</a>
+</td></tr></table>
 
 <p>Iniciativa representa redução drástica no tempo de análise de projetos</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-02 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-02 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3340"><b>FINEP recebe demanda de R$ 43 bilhões para inovação</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3340">FINEP recebe demanda de R$ 43 bilhões para inovação</a>
+</td></tr></table>
 
 <p>Resultado é somatório das cartas de manifestação de interesse de sete editais</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-01 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-01 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3338"><b>Clique FINEP tem perto de 10 mil visualizações</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3338">Clique FINEP tem perto de 10 mil visualizações</a>
+</td></tr></table>
 
 <p>Ferramenta foi lançada em junho</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-01 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-01 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3339"><b>FINEP promove workshop do programa Inova Saúde</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.finep.gov.br/imprensa/noticia.asp?cod_noticia=3339">FINEP promove workshop do programa Inova Saúde</a>
+</td></tr></table>
 
 <p>Evento em SP tem foco na linha de Fármacos</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-08-01 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-08-01 03:00:00 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.finep.gov.br/rss/rss.asp">
-<b>FINEP</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www2.finep.gov.br/forum/controller?COMMAND=command.displayLogin&TEMPLATE_DEST=template.pessoajuridica.login&MODULO=operacao&IDF=261"><b>Equipamentos médicos: FAP disponível</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.finep.gov.br/rss/rss.asp">
+FINEP</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www2.finep.gov.br/forum/controller?COMMAND=command.displayLogin&TEMPLATE_DEST=template.pessoajuridica.login&MODULO=operacao&IDF=261">Equipamentos médicos: FAP disponível</a>
+</td></tr></table>
 
 <p>Acesse aqui o Formulário para Apresentação de Propostas</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2013-07-30 03:00:00 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2013-07-30 03:00:00 UTC</td></tr>
 </table>
 
 </body></html>

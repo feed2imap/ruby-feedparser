@@ -11,27 +11,22 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">atom</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Type:</th>
+<td>atom</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6357"><b>Hello Again</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6357">Hello Again</a>
+</td></tr></table>
 
 <p>Our former IT guy dropped by the office this morning to say hi. He'd left earlier in the year for a better-paying job, but had the day off and was in the area, so thought he'd stop in.</p>
 
@@ -50,24 +45,21 @@ body {
 <p>Our former IT guy's confused, slightly frightened look told me everything I needed to know: I <i>had</i> in fact dreamed his previous visit, and, yes, now sounded like a dangerous, unbalanced psychotic. Hoping to rally the situation, I immediately ramped up the enthusiasm level and greeted him, now confident we hadn't seen each other in months. "Heyyyyyy!" So how <i>is</i> everything?" Then I sat back and listened—feeling more than slightly pissed off, however unreasonably, about getting locked into the same goddamn conversation twice.  I didn't want to be rude. It was simply that from my perspective, however caked with lunacy it might be, this entire reunion was pretty redundant. In my head I kept thinking, "Damn it, we just <i>did</i> this! I want to get some lunch." </p>
 
 <p>And so, after ten minutes of catch-up, I did just that. (Luckily I didn't wake up at this point. I have a bad memory and lucid dreams, it's not like I'm living in a <i>Twilight Zone</i> episode or anything.)</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-04-19 18:07:04 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-04-19 18:07:04 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>2007</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6350"><b>Action Hero Showdown</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6350">Action Hero Showdown</a>
+</td></tr></table>
 
 <div align="center"><a href="http://www.cracked.com/index.php?name=News&sid=1838"><img src="http://www.jaypinkerton.com/img/rambopainting.jpg" width="450" height="297" border="0"></a></div>
 
@@ -77,24 +69,21 @@ body {
 
 <center><a href="http://www.cracked.com/index.php?name=News&sid=1838" target="_blank"><strong>Click Here to Read<BR>
 "Action Hero Showdown"</strong>(at Cracked.com)</a></center>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-04-13 16:02:06 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Cracked</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-04-13 16:02:06 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>Cracked</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6316"><b>It Came From My C Drive 2</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6316">It Came From My C Drive 2</a>
+</td></tr></table>
 
 <p>Once again (read the first one <a href="http://www.jaypinkerton.com/2006/01/it_came_from_my_c_drive.php">here</a>), the results of a leisurely stroll through my C Drive over coffee this morning. </p>
 
@@ -209,71 +198,62 @@ body {
 
 <h6>That's All For Now, Folks! Let's Get Drunk!</h6><br />
 <center><img src="http://www.jaypinkerton.com/pinkercran.jpg"></center><br />
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-04-01 19:01:18 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Misc</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-04-01 19:01:18 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>Misc</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6291"><b>Stupid Detective Mysteries</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6291">Stupid Detective Mysteries</a>
+</td></tr></table>
 
 <center><img src="http://www.jaypinkerton.com/img/obviousdick01.jpg"></center>
         <center><img src="http://www.jaypinkerton.com/img/obviousdick02.jpg"></center><br />
 <center><img src="http://www.jaypinkerton.com/img/obviousdick03.jpg"></center><br />
 <center><img src="http://www.jaypinkerton.com/img/obviousdick04.jpg"></center>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-20 17:26:14 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Original Comics</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-20 17:26:14 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>Original Comics</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6284"><b>Put My Blarney Stones In Your Mouth</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6284">Put My Blarney Stones In Your Mouth</a>
+</td></tr></table>
 
 <p>Happy St. Patricks Day! How are you? I'm ridiculously hungover, It's fucking cold out, and I'm going back to bed. </p>
 
 <p>But first: a scathing holiday-themed piece of mine is up at Cracked called <a href="http://www.cracked.com/index.php?name=News&sid=1729">St. Patrick's Day Exposed</a> (it's a shit title, I know), as well as another holiday-themed piece of mine from last year that one of the Cracked editors exhumed and reposted. It's mostly just an excuse to tell a <a href="http://www.cracked.com/index.php?name=News&sid=1730">lot of filthy jokes about pooping and sexual assault</a>. (Guess which article's getting linked around more?)</p>
 
 <p>Anyway, thats all I got. By the sound of it, two feral cats are clawing themselves to death in the alley outside my apartment. I might referee that for a while if they let me. Otherwise, some aspirin and a warm bed beckon.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-17 16:36:53 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-17 16:36:53 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>2007</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6283"><b>Getting Angry About Things I'm Unqualified To Discuss</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6283">Getting Angry About Things I'm Unqualified To Discuss</a>
+</td></tr></table>
 
 <center><img src="http://www.jaypinkerton.com/img/wahlberg.jpg"></center>
 
@@ -282,24 +262,21 @@ body {
 <p>Or, at least, as much as you’re able to check out before the sun sets. Frankly, it’s a touch long. We each took ten trailers to review, assuming they’d be about a paragraph in length apiece, somehow forgetting our respective longwinded prose styles. It now sits towering and blotting out the sun, an imposing <i>War &amp; Peace</i> of catty film review.</p>
 
 <p>If you <i>do</i> manage to get through it and, against all reason, decide it <i>still wasn’t long enough,</i> do yourself a favor and surf over to <a href="http://manvsclown.cracked.com/2007/03/post_30.php">Pete’s blog link to the same article,</a> where—Pete being Pete—he’s helpfully posted all the weaker bits I cut out of the damn article in the first place, this time as an introduction to the article proper: as the old maxim goes, put your club foot forward.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-15 16:00:10 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-15 16:00:10 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>2007</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6268"><b>In Times Of Crisis, You Can Count On Me (To Be A Big Pussy)</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6268">In Times Of Crisis, You Can Count On Me (To Be A Big Pussy)</a>
+</td></tr></table>
 
 <center><img src=http://www.jaypinkerton.com/img/subway02.gif></center>
 
@@ -350,46 +327,40 @@ body {
 <p>The handsome young guy smugly walks back to his seat, where he pretends to ignore the quiet admiration of everyone else on the subway car. Elsewhere on the train, five attractive women get down to the business of imagining what the handsome young guy would feel like inside them, drilling them right there in the car. Meanwhile, I’m standing around like a moron, wearing a dumb “woke up with a spider on my face” expression and still internally debating whether I’ll break the old guy’s spine if I move him. (Apparently not.)</p>
 
 <p>Calmly, hoping to save as much face as I can, I put my book down, smooth out my jacket, walk over to the handsome young guy and punch him as many times in the throat as I can before I’m pulled off his quivering, bloody body. (Note: this doesn’t actually happen, I just sit back down.)</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-15 15:52:12 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-15 15:52:12 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>2007</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6250"><b>"...And You Can Take That to the LAKE."</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6250">"...And You Can Take That to the LAKE."</a>
+</td></tr></table>
 
 <center><img src="http://cracked.com/jp/holmes02.jpg"></center>
 
 <p><a href="http://www.cracked.com/index.php?name=News&sid=1682" target="_blank">Larry Holmes' GrillMaster XL</a> makes its advertorial debut over at Cracked.com. With acknowledgement to JP.com forum regular Scott Feenstra for the idea, since he actually talks like this in casual conversation.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-15 15:52:12 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Cracked</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-15 15:52:12 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>Cracked</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6160"><b>Two-Fisted Tales of Fisting</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6160">Two-Fisted Tales of Fisting</a>
+</td></tr></table>
 
 <center><img src="http://www.jaypinkerton.com/img/fisting00.jpg"></center>
         <center><img src="http://www.jaypinkerton.com/img/fisting01.jpg"></center><br />
@@ -397,47 +368,41 @@ body {
 <center><img src="http://www.jaypinkerton.com/img/fisting03.jpg"></center><br />
 <center><img src="http://www.jaypinkerton.com/img/fisting04.jpg"></center><br />
 <center><img src="http://www.jaypinkerton.com/img/fisting05.jpg"></center>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-15 15:52:12 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Original Comics</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-15 15:52:12 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>Original Comics</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6154"><b>Tales Written With the Express Intent of Astonishment</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6154">Tales Written With the Express Intent of Astonishment</a>
+</td></tr></table>
 
 <center><img src="http://www.jaypinkerton.com/img/timeapparatus00.jpg"></center>
         <center><img src="http://www.jaypinkerton.com/img/timeapparatus01.gif"></center><br />
 <center><img src="http://www.jaypinkerton.com/img/timeapparatus02.gif"></center><br />
 <center><img src="http://www.jaypinkerton.com/img/timeapparatus03.gif"></center><br />
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-15 15:52:12 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Original Comics</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-15 15:52:12 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>Original Comics</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6141"><b>Dogs Are Idiots</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6141">Dogs Are Idiots</a>
+</td></tr></table>
 
 <center><img src="http://www.jaypinkerton.com/img/retardeddog.jpg"></center>
 
@@ -487,24 +452,21 @@ body {
 <p>But nothing like that happened. He jumped around beforehand, thinking we were going for a walk. He had no idea I was leaving him at the vet until I actually left. He was oblivious to what was coming next when they put him under. Afterwards, snoozing on the couch with his swollen crotch, he never connected me to the pain. He was just happy to be home and snoozing on the couch. I’m not sure how I expected it would play out—possibly with him getting drunk and taking a swing at me—so the fact that he doesn't blame me for, or is even remotely aware of, his own castration means I don’t have any option but to shoulder the guilt for it until one of us dies.</p>
 
 <p>Maybe he’s not as stupid as he looks.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-15 15:52:13 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Essays</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-15 15:52:13 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>Essays</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6072"><b>Shameless Hype #3</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6072">Shameless Hype #3</a>
+</td></tr></table>
 
 <center><img src="http://www.jaypinkerton.com/img/iss3/cover.jpg"></center>
 
@@ -604,24 +566,21 @@ Max Burbank is/was one of the writers over at Roger Barr's I-Mockery.com, and I'
 <p>The downside of this, though, is that there are always one or two things that make it into the magazine that I <i>just didn't think were funny</i>, either because I felt they were too pandering, or too "easy," or too lowbrow (I'm a bit of a comedy snob). Then they get the biggest response of anything else in the magazine, and I hate humanity just that much more. </p>
 
 <p>Issue #3, for me, had the highest ratio to date of shit I either loved or really liked over stuff that I thought was lacking. Leafing through it now, it's just really strong. It feels like we started to hit our stride a little, and I liked the fact that we got adventurous with some higher-brow comedy (like our <i>New Yorker</i> parody) that might not be the most popular thing in the issue, but damn it, it was funny and smart. John Hargrave's "Homeless Marketing Consultant" is probably the funniest infiltration we've done yet; I liked being able to get Fastman in for another story (even if he does only have a walk-on appearance in it); Michael Ian Black's got a hilarious essay in there; Neal Pollack has an extremely cutting spoof column of the <i>New Yorker's</i> David Remnick. There's just a lot of stuff in here I enjoy an awful lot. </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-15 15:52:13 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Cracked</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-15 15:52:13 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>Cracked</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6071"><b>Shameless Hype #2</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6071">Shameless Hype #2</a>
+</td></tr></table>
 
 <center><img src="http://www.jaypinkerton.com/img/iss2/cover.jpg"></center>
 
@@ -723,24 +682,21 @@ Chris Sims writes the incredibly funny <i><a href="http://the-isb.blogspot.com/"
 <p>Whew! Okay, that's it. Issue #3 hits stands this week, so watch out for Shameless Hype #3. Thanks for reading.</p>
 
 <p>Jay</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-15 15:52:13 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Cracked</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-15 15:52:13 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>Cracked</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6058"><b>No, I'm Not Dead</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=6058">No, I'm Not Dead</a>
+</td></tr></table>
 
 <p>I've gotten a lot of emails recently wondering if I'd died or was otherwise incapacitated grieviously. I suppose it's a reasonable enough conclusion, given that I haven't posted anything new and have barely visited my own forum in weeks and weeks and weeks. Below, then: what I've been doing instead of updating the website.</p>
 
@@ -783,24 +739,21 @@ Chris Sims writes the incredibly funny <i><a href="http://the-isb.blogspot.com/"
 <p>Oh, I've been getting a lot of email about posting another one of those "What I Did In the Latest Issue of Cracked," like I did for Issue #1. So I'll post that tomorrow.</p>
 
 <p>Jay</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-15 15:52:13 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-15 15:52:13 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>2006</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://jaypinkerton.cracked.com/">
-<b>Jay Pinkerton.com</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=5973"><b>Why I Am Not Allowed To Shop By Myself</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://jaypinkerton.cracked.com/">
+Jay Pinkerton.com</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://blogs.cracked.com/cgi-bin/mt-atom.cgi/weblog/blog_id=15/entry_id=5973">Why I Am Not Allowed To Shop By Myself</a>
+</td></tr></table>
 
 <center><img src="http://www.jaypinkerton.com/img/wallet.jpg"></center>
 
@@ -828,11 +781,11 @@ Chris Sims writes the incredibly funny <i><a href="http://the-isb.blogspot.com/"
 <p>As for me, I’m happy enough to have relinquished the money management in the household. Our Xbox puppy simulator is engaging enough that I barely have the time to go shopping now anyway. </p>
 
 <p>Now if you’ll excuse me, Batman needs a walk. </p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2007-03-15 15:52:13 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Jay Pinkerton</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2007-03-15 15:52:13 UTC</td></tr>
+<tr><th>Author:</th><td>Jay Pinkerton</td></tr>
+<tr><th>Filed under:</th><td>2006</td></tr>
 </table>
 
 </body></html>

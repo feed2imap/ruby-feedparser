@@ -11,28 +11,23 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php">
-<b>PuisqueG5mn</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">ISO-8859-1</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php">
+PuisqueG5mn</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>ISO-8859-1</td></tr></table>
 <br/>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php">
-<b>PuisqueG5mn</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/07/08/184-ninjaaa"><b>Ninjaaa</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php">
+PuisqueG5mn</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/07/08/184-ninjaaa">Ninjaaa</a>
+</td></tr></table>
 
 <br/>
 Pfouloulou ben dites donc c'est pas les mises à jour qui étouffent ce blog en ce moment! Pas mal de choses à boucler en fait: changement d'appart', grosgros voyage à organiser... enfin je vous en causerai plus longtemps un de ces quatre. En attendant, comme je ne fais que passer, voila un ninja:<br />
@@ -43,24 +38,21 @@ Et aussi je voulais remercier tous ceux qui m'ont proposé le merveilleux jeu Da
 <img src="http://www.grandk.net/puisqueG5mn/images/cadeaux/Cadeau_Lunavorax_04_07_06.png" alt="" /><br />
 
 Moi-même donc, en Laverne, un des personnages psychotiques de ce jeu %) j'adore :D merci!
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-07-08 16:24:02 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">GrandK</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Cadeaux!</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-07-08 16:24:02 UTC</td></tr>
+<tr><th>Author:</th><td>GrandK</td></tr>
+<tr><th>Subject:</th><td>Cadeaux!</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php">
-<b>PuisqueG5mn</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/06/27/183-merci-id-o-rama-merci"><b>Merci Id-o-rama, merci</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php">
+PuisqueG5mn</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/06/27/183-merci-id-o-rama-merci">Merci Id-o-rama, merci</a>
+</td></tr></table>
 
 <br/>
 Ben vive la France tiens, merci bien hein! super <a href="http://www.id-o-rama.net" target="_blank">Id-o-rama!</a> Il me promet la lune, une merveille des merveilles, un incroyable trésor, de la substantifique moëlle : <a href="http://www.abandonware-france.org/ltf-jeu.php3?id=76">par la,</a> et quoi? rien? fichier indisponnible? FICHIER INDISPONNIBLE?? raaaah mais un jour il sera de nouveau mien! J'en fais le serment!<br />
@@ -77,24 +69,21 @@ Au fait, prononcez "Idéorama" :<br />
 </object> <br />
 
 autrement, ça le fout en boule. *love*  ^^ lé kro mougnon en bouuule! :) *love*
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-27 14:12:56 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">GrandK</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Ma vie trépidante</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-27 14:12:56 UTC</td></tr>
+<tr><th>Author:</th><td>GrandK</td></tr>
+<tr><th>Subject:</th><td>Ma vie trépidante</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php">
-<b>PuisqueG5mn</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/06/23/182-misunderstood-a-la-fiesta-de-la-mousica"><b>Misunderstood a la fiesta dé la mousica</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php">
+PuisqueG5mn</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/06/23/182-misunderstood-a-la-fiesta-de-la-mousica">Misunderstood a la fiesta dé la mousica</a>
+</td></tr></table>
 
 <br/>
 Parfois je me dis qu'Annecy à des cotés un peu trop idylliques pour permettre aux artistes de s'exprimer en toute crédibilité...<br />
@@ -105,24 +94,21 @@ Parfois je me dis qu'Annecy à des cotés un peu trop idylliques pour permettre 
 
 
 Vouaip... ça aurait ptètre mieux rendu dans une cave quoi %)
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-23 16:02:32 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">GrandK</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Ma vie trépidante</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-23 16:02:32 UTC</td></tr>
+<tr><th>Author:</th><td>GrandK</td></tr>
+<tr><th>Subject:</th><td>Ma vie trépidante</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php">
-<b>PuisqueG5mn</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/06/18/181-grandk-s-ghetto-blaster"><b>GrandK's Ghetto Blaster</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php">
+PuisqueG5mn</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/06/18/181-grandk-s-ghetto-blaster">GrandK's Ghetto Blaster</a>
+</td></tr></table>
 
 <br/>
 Pour un mois de juin bien funky-godiveau (oui je donne dans la couleur locale en ce moment), voila une toute nouvelle programation pour la fameuse RadioGrandK, la radio qui va. Sur votre gauche ou bien <a href="http://www.grandk.net/radio.blog/?autoplay=1" target="_blank">tout simplement ici</a>. Avec du LocoRoco, du David Bowie, du Jambons et d'autres trucs que j'aime bien. Et pour fêter ça, une allégorie des mieux senties (si si!) intitulée sobrement: "La liberté par la musique" ou "Le vol du GrandK porté par le chant des anges de son GhettoBlaster, admirée par le céphalopode octopodidae emblème, au dessus de l'Aptéryx totem montrant au monde son amour profond, sous les rayons du disque ardent".<br />
@@ -132,24 +118,21 @@ Pour un mois de juin bien funky-godiveau (oui je donne dans la couleur locale en
 <br />Et en prime bande de petits canaillous, une mini GrandK dandinante:<br />
 <br />
 <img src="http://www.grandk.net/puisqueG5mn/images/letsdance.gif" alt="" /><br /><br />Voilaaa! Mouvez vos bodies les copains!^^
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-18 17:59:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">GrandK</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Ma vie trépidante</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-18 17:59:00 UTC</td></tr>
+<tr><th>Author:</th><td>GrandK</td></tr>
+<tr><th>Subject:</th><td>Ma vie trépidante</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php">
-<b>PuisqueG5mn</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/06/13/180-festival-ze-wonder-bilan"><b>Festival - Ze wonder bilan</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php">
+PuisqueG5mn</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/06/13/180-festival-ze-wonder-bilan">Festival - Ze wonder bilan</a>
+</td></tr></table>
 
 <br/>
 Et voila. Le festival est fini... La semaine est passée à une vitesse incroyable! Voila les méga giga stars rencontrés en vrai de vrai:<br />
@@ -170,24 +153,21 @@ Conférences, films de fin d'études, courts métrages, longs métrages... tout 
 <img src="http://www.grandk.net/puisqueG5mn/images/cadeaux/cadeau_Id-o_12-06.jpg" alt="" />
 <br />
 Donc un festival vraiment vraiment chouette... On a pu voir Azur et Asmar avec Michel Ocelot à Coté de nous, boire du punch avec Monsieur Amano, et du champagne avec Tim Burton. Moebius était un peu moins accessible mais bon. :) Un vrai bonheur quoi! Seulement, avec moins de 3-4 heures de sommeil par nuit, on fait un peu les loques aujourd'hui! :D Bientôt ce blog reprendra son cours normal! ^^
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-12 22:59:25 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">GrandK</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Ma vie trépidante</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-12 22:59:25 UTC</td></tr>
+<tr><th>Author:</th><td>GrandK</td></tr>
+<tr><th>Subject:</th><td>Ma vie trépidante</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php">
-<b>PuisqueG5mn</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/06/07/179-en-retard-mais-bon"><b>En retard mais bon</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php">
+PuisqueG5mn</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/06/07/179-en-retard-mais-bon">En retard mais bon</a>
+</td></tr></table>
 
 <img src="http://www.grandk.net/puisqueG5mn/images/annecy2006_1.jpg" alt="" /><br />
 Bonbonbon je sais je suis en retard ça fait 3 jours que ça a commencé. Mais on a eu un gros programme surchargé de oufe genre faire des bisous à Moëbius des trucs comme ça. Pour votre peine et si vous les aviez pas déja vus, je vous mets le cadeau que j'ai fait  pour l'anniversaire de la frétillante <a href="http://ciboulette.fr/blog/">Miss Gally</a>:<br />
@@ -196,24 +176,21 @@ Bonbonbon je sais je suis en retard ça fait 3 jours que ça a commencé. Mais o
 <br />
 <img src="http://www.grandk.net/puisqueG5mn/images/cadeaux/cadeau_pour_Diane_06-06.jpg" alt="" /><br />
 <br />Voila! bientôt des photos et des dessins par centaines! euh... par dixaines! euuuuuuh... bon deux trois trucs quoi. :)
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-07 12:19:20 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">GrandK</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Ma vie trépidante</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-07 12:19:20 UTC</td></tr>
+<tr><th>Author:</th><td>GrandK</td></tr>
+<tr><th>Subject:</th><td>Ma vie trépidante</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php">
-<b>PuisqueG5mn</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/05/29/178-loooong-week-end"><b>Loooong week-end</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php">
+PuisqueG5mn</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/05/29/178-loooong-week-end">Loooong week-end</a>
+</td></tr></table>
 
 <br/>
 Je sais pas vous, mais moi j'ai fait le pont. Alors puisque j'avais 5mn j'ai fait plein de trucs. J'ai appris à voler:<br />
@@ -240,24 +217,21 @@ Je me suis aussi risquée à <a href="http://www.grandk.net/puisqueG5mn/index.ph
 <br />
 
 Voilaaa! :)
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-05-29 21:15:26 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">GrandK</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Ma vie trépidante</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-05-29 21:15:26 UTC</td></tr>
+<tr><th>Author:</th><td>GrandK</td></tr>
+<tr><th>Subject:</th><td>Ma vie trépidante</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php">
-<b>PuisqueG5mn</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/05/23/177-le-festival"><b>Le festival?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php">
+PuisqueG5mn</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/05/23/177-le-festival">Le festival?</a>
+</td></tr></table>
 
 <br/>
 Comme le fais très justement remarquer mon cher commentateur Solo par cette phrase: "mais c quo le festival d'Annecy exactement? c'est du ciné? sur combien de jours?", je n'ai jamais vraiment expliqué ce qu'était ce Wonder Festival, avec un grand W. Je m'en vais de ce pas réparer cette bévue:
@@ -274,24 +248,21 @@ Et cette année, l'invité d'honneur c'est... Tim Burtoooon! Hiiiiiiiiiii! *bave
 
 
 <a href="http://www.annecy.org/ressources/others/annecy2005.swf">Pour finir de vous faire baver,un petit apperçu de l'année dernière</a> (bon oubliez la musique hein :D )...
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-05-23 09:55:15 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">GrandK</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Ma vie trépidante</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-05-23 09:55:15 UTC</td></tr>
+<tr><th>Author:</th><td>GrandK</td></tr>
+<tr><th>Subject:</th><td>Ma vie trépidante</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php">
-<b>PuisqueG5mn</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/05/19/176-j-17"><b>J-17</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php">
+PuisqueG5mn</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/05/19/176-j-17">J-17</a>
+</td></tr></table>
 
 <img src="http://www.grandk.net/puisqueG5mn/images/festival_annecy2006.jpg" alt="" /><br />
 
@@ -303,24 +274,21 @@ Et pour tous les grands malades en pleine attente, un chooli compte à rebours:<
 
 <iframe src="http://www.grandk.net/bonus/horloges/FestivalClock.html" frameborder="0" scrolling="no" height="35" width="65"></iframe><br />
 :D
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-05-19 19:39:49 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">GrandK</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Ma vie trépidante</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-05-19 19:39:49 UTC</td></tr>
+<tr><th>Author:</th><td>GrandK</td></tr>
+<tr><th>Subject:</th><td>Ma vie trépidante</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php">
-<b>PuisqueG5mn</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/05/15/175-note-flash-eclair-speciale-ryoga"><b>Note Flash éclair spéciale Ryoga</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php">
+PuisqueG5mn</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.grandk.net/puisqueG5mn/index.php?2006/05/15/175-note-flash-eclair-speciale-ryoga">Note Flash éclair spéciale Ryoga</a>
+</td></tr></table>
 
 <br/>
 Il y a peu, l'ami Gasp m'a demandé de participer à l'invasion du blog de son pote, le sautillant <a href="http://www.ryogasp.com/blog/">Ryoga</a>, avec un de mes poulpes adorés... le voici en grand ^^ :
@@ -329,11 +297,11 @@ Il y a peu, l'ami Gasp m'a demandé de participer à l'invasion du blog de son p
 <img src="http://www.grandk.net/puisqueG5mn/images/cadeaux/cadeau_pour_ryoga_0406.jpg" alt="" />
 <br />
 <br />Ah et voici un presque nouveau venu sur la blogosphère, <a href="http://pohenegamouk.free.fr/index.php">Moukmouk</a>! Je dis "presque" parce que certains bloggueurs (dont votre servitateuse) ont déja eu la chance  d'avoir un apperçu de ses talents d'Ours conteur par mail, depuis un petit moment déja... ^^ allez-donc y jeter un oeil!
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-05-15 16:04:31 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">GrandK</font></td></tr>
-<tr><td align="right"><font color="#ababab">Subject:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Cadeaux!</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-05-15 16:04:31 UTC</td></tr>
+<tr><th>Author:</th><td>GrandK</td></tr>
+<tr><th>Subject:</th><td>Cadeaux!</td></tr>
 </table>
 
 </body></html>

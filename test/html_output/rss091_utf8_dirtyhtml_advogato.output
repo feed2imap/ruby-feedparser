@@ -11,28 +11,23 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
-<b>Advogato diary for sopwith</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">rss</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith</a>
+</td></tr><tr><th>Type:</th>
+<td>rss</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 <br/>
 Advogato diary for sopwith
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
-<b>Advogato diary for sopwith</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=10"><b>21 Sep 2004</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/sopwith/diary.html?start=10">21 Sep 2004</a>
+</td></tr></table>
 
 <br/>
 On the Fedora front:
@@ -46,22 +41,19 @@ On the Fedora front:
 <p> On the everything-else front:
 
 <p> <a href="http://cakeru.image.pbase.com/image/33879157/large.jpg" >a funny picture</a>.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-09-21 21:20:46 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-09-21 21:20:46 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
-<b>Advogato diary for sopwith</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=9"><b>24 Aug 2004</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/sopwith/diary.html?start=9">24 Aug 2004</a>
+</td></tr></table>
 
 <br/>
 The Fedora community can really use people who are willing to go through bugzilla and tame things down there. There are just a ton of bugs that the package maintainers will have no time to get to.
@@ -69,22 +61,19 @@ The Fedora community can really use people who are willing to go through bugzill
 It's not the most exciting task, but it's something that almost anyone can help with in as small or large quantities as desired.
 <p>
 Also needed are community leaders for each of the architectures. E.g. Justin Forbes is The Man for AMD64, but we can always use peeps for ia64 and s390* :)
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-08-24 23:07:13 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-08-24 23:07:13 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
-<b>Advogato diary for sopwith</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=8"><b>27 Jul 2004</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/sopwith/diary.html?start=8">27 Jul 2004</a>
+</td></tr></table>
 
 <br/>
 What's happening with Fedora lately:
@@ -93,22 +82,19 @@ What's happening with Fedora lately:
 <li>The devel tree is totally unfrozen again, so broken deps should be fixable if not fixed.
 <li>CVS should be rolled out "soon"
 </ul>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-07-27 16:38:36 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-07-27 16:38:36 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
-<b>Advogato diary for sopwith</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=7"><b>23 Apr 2004</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/sopwith/diary.html?start=7">23 Apr 2004</a>
+</td></tr></table>
 
 <br/>
 Cool link of the day is <a href="http://www.tradingbrain.com/" >TradingBrain</a>.
@@ -116,122 +102,104 @@ Cool link of the day is <a href="http://www.tradingbrain.com/" >TradingBrain</a>
 <p> If you added a user-login feature, you could use a neural network to combine individual responses into something meaningful. Neat experiment in distributed decision-making, in any case.
 
 <p> FC2test3 is being pushed out and is on track for Monday release.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-04-23 15:09:39 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-04-23 15:09:39 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
-<b>Advogato diary for sopwith</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=6"><b>22 Apr 2004</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/sopwith/diary.html?start=6">22 Apr 2004</a>
+</td></tr></table>
 
 <a href="http://www.benandjerrys.com/" >Ben &amp; Jerry's</a> annual Free Cone Day. Tuesday, April 27 12pm-8pm. Follow the link to find out where.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-04-22 19:35:13 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-04-22 19:35:13 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
-<b>Advogato diary for sopwith</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=5"><b>21 Apr 2004</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/sopwith/diary.html?start=5">21 Apr 2004</a>
+</td></tr></table>
 
 <br/>
 Plots orkut people on a map: <a href="http://www.datawhorehouse.com/orkut/" >http://www.datawhorehouse.com/orkut/</a>.
 
 <p> PS. If you still haven't gotten an orkut invite, send me an e-mail of introduction, already. :)
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-04-21 15:49:59 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-04-21 15:49:59 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
-<b>Advogato diary for sopwith</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=4"><b>20 Apr 2004</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/sopwith/diary.html?start=4">20 Apr 2004</a>
+</td></tr></table>
 
 <br/>
 Only a few diary entries ago, I was complaining about the last company meeting. Now a new one is coming up, and I'm really looking forward to meeting all the great people that work at Red Hat.
 <p>
 Dropping by to say hello to the advogato crowd,<p>
 -- Elliot
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2004-04-21 03:00:51 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2004-04-21 03:00:51 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
-<b>Advogato diary for sopwith</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=3"><b>16 Sep 2003</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/sopwith/diary.html?start=3">16 Sep 2003</a>
+</td></tr></table>
 
 <a href="http://people.redhat.com/sopwith/" >My home page</a>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2003-09-16 20:41:24 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2003-09-16 20:41:24 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
-<b>Advogato diary for sopwith</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=2"><b>12 Apr 2001</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/sopwith/diary.html?start=2">12 Apr 2001</a>
+</td></tr></table>
 
 <br/>
 I hate this open source game - it just proves my in(s)anity.
 
 <p> &lt;/rant&gt;
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2001-04-12 15:53:44 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2001-04-12 15:53:44 UTC</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/">
-<b>Advogato diary for sopwith</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.advogato.org/person/sopwith/diary.html?start=1"><b>19 Sep 2000</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.advogato.org/person/sopwith/">
+Advogato diary for sopwith</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.advogato.org/person/sopwith/diary.html?start=1">19 Sep 2000</a>
+</td></tr></table>
 
 <br/>
 It's 02:01, I can't sleep, and there's a bunch of company 
@@ -280,9 +248,9 @@ I'm done with the unprovoked insults and needless griping,
 so LART me and get back to your regularly scheduled world.
  I'm sure by lunchtime I'll have gotten enough sleep to 
 regret this all.
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2000-09-20 06:45:03 UTC</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2000-09-20 06:45:03 UTC</td></tr>
 </table>
 
 </body></html>

@@ -11,48 +11,40 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><b>L' reading list in Google Reader</b>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">atom</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td>L' reading list in Google Reader</td></tr><tr><th>Type:</th>
+<td>atom</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>L' reading list in Google Reader</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.liberation.fr/page.php?Article=387680"><b>Un «Sacre d'opinion» pour Ségolène Royal</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>L' reading list in Google Reader</td></tr><tr><th>Item:</th>
+<td><a href="http://www.liberation.fr/page.php?Article=387680">Un «Sacre d'opinion» pour Ségolène Royal</a>
+</td></tr></table>
 
 <p>L'Observatoire de l'Opinion Libération-LH2 place la présidente de la région Poitou-Charentes largement devant les éléphants du PS dans la course à la candidature • Un «plébiscite» qui montre que les sympathisants de gauche sont sensible à son discours de Bondy sur la sécurité.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-05 18:31:17 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">(author unknown)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">reading-list, read</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-05 18:31:17 UTC</td></tr>
+<tr><th>Author:</th><td>(author unknown)</td></tr>
+<tr><th>Filed under:</th><td>reading-list, read</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><b>L' reading list in Google Reader</b>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.lemonde.fr/web/article/0,1-0@2-3224,36-779647,0.html?xtor=RSS-3208"><b>Soutenue par les milieux populaires, Ségolène Royal divise le Parti socialiste</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td>L' reading list in Google Reader</td></tr><tr><th>Item:</th>
+<td><a href="http://www.lemonde.fr/web/article/0,1-0@2-3224,36-779647,0.html?xtor=RSS-3208">Soutenue par les milieux populaires, Ségolène Royal divise le Parti socialiste</a>
+</td></tr></table>
 
 <p>Selon une enquête Ipsos pour &quot;Le Monde&quot;, les propositions de Mme Royal en matière de lutte contre la délinquance suscitent l'approbation de la majorité des Français (et de plus de 80 % des électeurs du FN) mais divisent l'électorat socialiste.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2006-06-05 18:58:40 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">(author unknown)</font></td></tr>
-<tr><td align="right"><font color="#ababab">Filed under:</font>&nbsp;&nbsp;</td><td><font color="#ababab">reading-list, read</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2006-06-05 18:58:40 UTC</td></tr>
+<tr><th>Author:</th><td>(author unknown)</td></tr>
+<tr><th>Filed under:</th><td>reading-list, read</td></tr>
 </table>
 
 </body></html>

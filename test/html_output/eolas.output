@@ -11,27 +11,22 @@ body {
 </style>
 </head>
 <body>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed title:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Type:</b></td>
-<td width="100%">atom</td></tr><tr><td align="right"><b>Encoding:</b></td>
-<td width="100%">UTF-8</td></tr></table></td></tr></table>
+<table class="feed-header">
+<tr><th>Feed title:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Type:</th>
+<td>atom</td></tr><tr><th>Encoding:</th>
+<td>UTF-8</td></tr></table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/26/Eolas-au-Journal-Officiel"><b>Eolas au Journal Officiel</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/26/Eolas-au-Journal-Officiel">Eolas au Journal Officiel</a>
+</td></tr></table>
 
 <p>Il suf&shy;fit de par&shy;tir à la plage cinq minu&shy;tes et la Gloire vient frap&shy;per à votre porte.</p>
 <p>Assem&shy;blée Natio&shy;nale, 2e séance du ven&shy;dredi 24 juillet 2009. <a href="http://www.assemblee-nationale.fr/13/cri/2008-2009-extra/20091035.asp#P6779_8003">Extrait du compte-rendu ana&shy;ly&shy;ti&shy;que</a>.</p>
@@ -49,23 +44,20 @@ body {
 <p>&nbsp;</p>
 </blockquote>
 <p>Notre démo&shy;cra&shy;tie va mieux, assu&shy;ré&shy;ment, mais ça n&#8217;est pas encore ça.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-26 17:51:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-26 17:51:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/23/Une-journ%C3%A9e-particuli%C3%A8re"><b>Une journée particulière</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/23/Une-journ%C3%A9e-particuli%C3%A8re">Une journée particulière</a>
+</td></tr></table>
 
 <p><em>Par Dadou&shy;che</em></p>
 
@@ -336,23 +328,20 @@ Je vou&shy;drais pour con&shy;clure en extraire ces lignes, mises en exer&shy;gu
 <p>[<a href="http://www.maitre-eolas.fr/post/2009/07/23/#rev-pnote-1439-15" id="pnote-1439-15">15</a>] même pro&shy;blème que pour le 20 h de France 2</p>
 <p>[<a href="http://www.maitre-eolas.fr/post/2009/07/23/#rev-pnote-1439-16" id="pnote-1439-16">16</a>] en fait, le temps que je cor&shy;rige, relise, recor&shy;rige et rere&shy;lise ce billet, elle a eu le temps de le <a href="http://www.hachette.com/livre/marie-pierre-courtellemont-les-bebes-congeles-de-seoul-335816.html">publier</a></p>
 <p>[<a href="http://www.maitre-eolas.fr/post/2009/07/23/#rev-pnote-1439-17" id="pnote-1439-17">17</a>] et pas que dans cette affaire, puisqu&#8217;il a notam&shy;ment con&shy;sa&shy;cré une <a href="http://mots-croises.france2.fr/54100097-fr.php">émis&shy;sion</a> au pro&shy;cès Fofana quinze jours après le début des audien&shy;ces, en pré&shy;sence notam&shy;ment de deux des avo&shy;cats con&shy;cer&shy;nés</p></div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-23 22:02:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dadouche</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-23 22:02:00 UTC</td></tr>
+<tr><th>Author:</th><td>Dadouche</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/23/Un-mot-du-proprio"><b>Un mot du proprio</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/23/Un-mot-du-proprio">Un mot du proprio</a>
+</td></tr></table>
 
 <p>Je pars quel&shy;ques jours en vacan&shy;ces bien méri&shy;tées au soleil.</p>
 
@@ -361,23 +350,20 @@ Je vou&shy;drais pour con&shy;clure en extraire ces lignes, mises en exer&shy;gu
 
 
 <p>Soyez sages.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-23 00:05:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-23 00:05:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/22/Le-juge-est-il-tenu-par-ses-promesses"><b>Comment prévoir ce que le juge va décider ?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/22/Le-juge-est-il-tenu-par-ses-promesses">Comment prévoir ce que le juge va décider ?</a>
+</td></tr></table>
 
 <p><em>Par Paxa&shy;ta&shy;gore</em></p>
 
@@ -405,23 +391,20 @@ Je vou&shy;drais pour con&shy;clure en extraire ces lignes, mises en exer&shy;gu
 
 
 <p>Il est frap&shy;pant de voir à cet égard que le monde poli&shy;ti&shy;que ignore tota&shy;le&shy;ment cette ques&shy;tion, qui pour&shy;tant expli&shy;que lar&shy;ge&shy;ment le cli&shy;vage impor&shy;tant exis&shy;tant entre le monde poli&shy;ti&shy;que et le monde judi&shy;ciaire. Peut-être devrait-on ins&shy;tau&shy;rer un sys&shy;tème simi&shy;laire à celui des Amé&shy;ri&shy;cains&#160;? Nos juges y gagne&shy;raient peut être en légi&shy;ti&shy;mité, les hom&shy;mes poli&shy;ti&shy;ques seraient con&shy;duits aussi à s&#8217;inter&shy;ro&shy;ger sur ce qu&#8217;ils atten&shy;dent d&#8217;un bon juge&#8230; Tou&shy;tes sor&shy;tes de réflexions qui font actuel&shy;le&shy;ment défaut chez nous.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-22 14:43:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Paxatagore</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-22 14:43:00 UTC</td></tr>
+<tr><th>Author:</th><td>Paxatagore</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/22/D%C3%A9lit-de-solidarit%C3%A9-%3A-%C3%89ric-Besson-marque-un-point"><b>Délit de solidarité : Éric Besson marque un point</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/22/D%C3%A9lit-de-solidarit%C3%A9-%3A-%C3%89ric-Besson-marque-un-point">Délit de solidarité : Éric Besson marque un point</a>
+</td></tr></table>
 
 <p>Le tri&shy;bu&shy;nal cor&shy;rec&shy;tion&shy;nel de Rodez a relaxé aujourd&#8217;hui le Gui&shy;néen <a href="http://www.maitre-eolas.fr/post/2009/07/01/1467-si-eric-besson-n-existait-pas">pour&shy;suivi pour avoir hébergé un com&shy;pa&shy;triote</a>.</p>
 
@@ -439,23 +422,20 @@ Je vou&shy;drais pour con&shy;clure en extraire ces lignes, mises en exer&shy;gu
 
 
 <p>Rap&shy;pe&shy;lons que le par&shy;quet avait requis 5 mois de pri&shy;son avec sur&shy;sis.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-22 14:07:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-22 14:07:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/22/Le-G%C3%A9n%C3%A9ral-Sabrocl%C3%A8re"><b>Le Général Sabroclère</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/22/Le-G%C3%A9n%C3%A9ral-Sabrocl%C3%A8re">Le Général Sabroclère</a>
+</td></tr></table>
 
 <p>Il était une fois en Répu&shy;bli&shy;que Bold&shy;zare un géné&shy;ral, le géné&shy;ral Sabro&shy;clère, qui arriva au pou&shy;voir en pro&shy;met&shy;tant de faire de l&#8217;armée de son pays sa pre&shy;mière prio&shy;rité, car comme tout homme poli&shy;ti&shy;que, il n&#8217;avait que des prio&shy;ri&shy;tés, ce qui l&#8217;obli&shy;geait à les numé&shy;ro&shy;ter pour dis&shy;tin&shy;guer tou&shy;tes ces cho&shy;ses qui pas&shy;sent en pre&shy;mier.</p>
 
@@ -506,23 +486,20 @@ Je vou&shy;drais pour con&shy;clure en extraire ces lignes, mises en exer&shy;gu
 
 
 <p>Les Bold&shy;za&shy;res ont plus de chance que nous.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-22 12:31:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-22 12:31:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/21/Quelques-mots-sur-l-affaire-Orelsan"><b>Quelques mots sur l'affaire Orelsan</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/21/Quelques-mots-sur-l-affaire-Orelsan">Quelques mots sur l'affaire Orelsan</a>
+</td></tr></table>
 
 <p>Ça me déman­&shy;geait depuis quel­&shy;ques mois de par­&shy;ler de cette affaire. Sa nou­&shy;velle jeu­&shy;nesse cha­&shy;ren­&shy;taise m’en four­&shy;nit l’occa­&shy;sion.</p>
 <p>Ainsi, les Tar­&shy;tuf­&shy;fes sont lâchés de nou­&shy;veau, et encore une fois, une liberté fon­&shy;da­&shy;men­&shy;tale est fou­&shy;lée du pied au nom des meilleu­&shy;res cau­&shy;ses. Et vous êtes priés d’applau­&shy;dir.</p>
@@ -588,23 +565,20 @@ déter&shy;mi&shy;nés par la Loi.</p>
 <p>Ils l&#8217;ont écrit à une épo&shy;que où tout texte, pour paraî&shy;tre et être repré&shy;senté publi&shy;que&shy;ment, devait au préa&shy;la&shy;ble être approuvé par le Roi. C&#8217;est cette auto&shy;ri&shy;sa&shy;tion qui s&#8217;appe&shy;lait la Cen&shy;sure. Et c&#8217;est exac&shy;te&shy;ment cela que ce com&shy;por&shy;te&shy;ment vise à réta&shy;blir. Alors peut-être que des fémi&shy;nis&shy;tes, des mili&shy;tants des droits des fem&shy;mes trou&shy;ve&shy;ront que leur cause, qui est bonne, est tel&shy;le&shy;ment bonne qu&#8217;elle jus&shy;ti&shy;fie ce réta&shy;blis&shy;se&shy;ment.</p>
 <p>Qu&#8217;ils sachent qu&#8217;ils me trou&shy;ve&shy;ront tou&shy;jours sur leur che&shy;min pour leur bar&shy;rer la route. Aux côtés d&#8217;Orel&shy;san.</p>
 <p>À con&shy;di&shy;tion qu&#8217;il ne chante pas.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-20 23:36:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-20 23:36:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/17/Les-anti-inflammatoires-permettent-ils-de-voir-des-jeunes-filles-nues"><b>Les anti-inflammatoires permettent-ils de voir des jeunes filles nues ?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/17/Les-anti-inflammatoires-permettent-ils-de-voir-des-jeunes-filles-nues">Les anti-inflammatoires permettent-ils de voir des jeunes filles nues ?</a>
+</td></tr></table>
 
 <p>La Cour Suprême se penche parfois sur des questions fondamentales, sans mauvais jeu de mot. L'une d'entre elles est celle de la&nbsp;<em>privacy</em>, mal traduit par “vie privée”, le concept de&nbsp;<em>privacy</em>&nbsp;étant plus large que cela. Il s'agit du droit reconnu à tout individu de garder secret ce qui la concerne, et de ne révéler publiquement ou aux autorités que ce qu'elle veut bien révéler, sans pouvoir être forcé de révéler plus. Cela inclut notre vie privée, mais aussi l'intégrité corporelle et le patrimoine (la perquisition, la réquisition d'un bien est une atteinte à la&nbsp;<em>privacy</em>).&nbsp;</p>
 <p>Ce droit est consacré par le Quatrième amendement à la Constitution des États-Unis.</p>
@@ -631,23 +605,20 @@ déter&shy;mi&shy;nés par la Loi.</p>
 <p>Cet arrêt, outre le fait qu'il me permet de faire un titre de billet avec les mots « jeune fille nue » qui va faire beaucoup pour augmenter le nombre de visiteurs clients potentiels, trouve un écho en France où le Gouvernement s'interrogeait il y a peu sur la possibilité de&nbsp;<a href="http://www.liberation.fr/societe/0101568773-fouille-des-cartables-en-vue">créer un corps spécifique d'agents pour fouiller les cartables des élèves</a>, et où&nbsp;<a href="http://www.ouest-france.fr/actu/actuDet_-Fouilles-musclees-de-gendarmes-dans-des-colleges-du-Gers_39382-759508_actu.Htm">des fouilles spectaculaires</a>&nbsp;ont eu lieu dans le cadre d'opérations anti-drogue menées par la gendarmerie, avec des chiens et même des fouilles à corps. Ce que les parents d'élève n'apprécient guère, et on peut les comprendre.&nbsp;</p>
 <p>La solution française, aboutissant à ne pas vouloir attribuer de pouvoirs de police aux enseignants (alors que rien ne s'y oppose, et même que les principes généraux du droit administratif le permettent) et à réserver cela à la police aboutit à un résultat plus traumatisant encore pour les élèves tout en renforçant une image d'impuissance nuisant à l'autorité. Je ne sais pas si elle est due à une résistance des enseignants qui ne voudraient pas de ce pouvoir, ou à un choix de l'État qui veut réserver toute coercition à la police, au risque de détériorer son image, en soulignant la répression au détriment de la protection qui est pourtant l'essence de la police. Une solution raisonnable est cependant difficile à trouver, les juges américains se déchirant eux-même sur l'encadrement de ce pouvoir de police. Voilà un thème de débat qui mériterait la sérénité et le dépassement des clivages politiques.&nbsp;</p>
 <p>Prochaine épisode de notre rubrique de droit américain : Horatio Caine va-t-il devoir s'acheter une cravate ?</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-19 22:23:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-19 22:23:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/19/Un-petit-tour-aux-%22compas%22"><b>Un petit tour aux "compas"</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/19/Un-petit-tour-aux-%22compas%22">Un petit tour aux "compas"</a>
+</td></tr></table>
 
 <p>Sylvie Véran, chroniqueuse judiciaire au Nouvel Observateur et blogueuse (j'ai déjà eu l'occasion de dire combien, pour les chroniqueurs judiciaires, le blog est un complément idéal de leurs articles papiers, la contrainte de place disparaissant),<a href="http://chroniquesjudiciaires.blogs.nouvelobs.com/archive/2009/07/17/tgi.html"> vous propose d'assister à quelques audiences de comparution immédiate à Paris</a>, et pas n'importe lesquelles, celles du <span class="Apple-style-span" style="text-decoration: line-through;">15</span>&nbsp;16 juillet, qui comme son nom l'indique, est le <strong>sur</strong>lendemain du 14.</p>
 <p>Neuf dossiers, neufs trajectoires qui se croisent, fruit du hasard des audiences et des accidents de la vie.</p>
@@ -656,23 +627,20 @@ déter&shy;mi&shy;nés par la Loi.</p>
 <p>Sur David D., il s'en sort très bien avec ses 3 mois fermes. Il aurait pu être condamné à dix ans, avec un minimum théorique de deux ans, et la prison ferme était obligatoire pour le juge. Les peines planchers, dont vous verrez ici le caractère nécessaire et dissuasif. Bienvenue dans le monde réel.</p>
 <p>Enfin, sur l'affaire Lamine A., j'aurais été l'avocat, j'aurais plaidé que c'était une citation d'Orelsan.&nbsp;</p>
 <p>Bonne lecture et bon dimanche.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-19 14:16:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-19 14:16:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/18/Br%C3%A8ves-du-samedi"><b>Brèves du samedi</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/18/Br%C3%A8ves-du-samedi">Brèves du samedi</a>
+</td></tr></table>
 
 <p>Quelques suivis d'articles antérieurs.</p>
 <p><a href="http://www.rue89.com/2009/07/17/tristan-sadeghi-lyceen-bloqueur-finalement-inscrit-en-terminale">Rue89 nous apprend</a> que <a href="http://www.maitre-eolas.fr/post/2009/07/08/1474-les-cinq-erreurs-d-authueil">le lycéen qui faisait l'objet de pressions</a> à la légalité douteuse de la part de son proviseur a pu se réinscrire dans son lycée sans condition. Le proviseur a probablement compris qu'il avait tort quand le ministre de l'Éducation nationale, Luc Chatel, l'a soutenu.</p>
@@ -694,23 +662,20 @@ déter&shy;mi&shy;nés par la Loi.</p>
 <p>J'ai fermé les commentaires sous le billet principal. Les commentaires, c'est comme les sushis, c'est bon si c'est frais.</p>
 <hr /><p>Mon cher ami Éric Besson a commencé sa cure de réalité. S'il ne démord pas que le délit de solidarité n'existe pas, il explique être prêt <a href="http://www.lemonde.fr/societe/article/2009/07/17/delit-de-solidarite-eric-besson-pret-a-modifier-legerement-la-loi_1220181_3224.html#xtor=RSS-3208">à modifier légèrement la loi</a>. Encore un effort, Éric, tu y es presque.&nbsp;</p>
 <p>Bon week end.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-18 08:52:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-18 08:52:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/15/Appel-dans-l-affaire-Halimi-%3A-la-faute-de-MAM"><b>Appel dans l'affaire Halimi : la faute de MAM</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/15/Appel-dans-l-affaire-Halimi-%3A-la-faute-de-MAM">Appel dans l'affaire Halimi : la faute de MAM</a>
+</td></tr></table>
 
 <br/>
 Ainsi, à la demande de la famille d'Ilan Halimi, le Garde des Sceaux a demandé au parquet de faire appel du verdict dans l'affaire Fofana. Cela a surpris plusieurs de mes lecteurs qui m'ont écrit pour me dire leur étonnement face à cette ingérence du pouvoir politique dans les affaires de la Justice. <br /><br /><p>C'est qu'évidemment, à force d'entendre les politiques esquiver toute question qui les dérangent ayant trait avec la justice en invoquant la séparation des pouvoirs et une mystérieuse prohibition de commenter l'action de la justice, on est surpris quand, l'opportunité politique l'exigeant, ils s'en affranchissent avec la même vigueur qu'ils l'invoquaient la veille. </p>
@@ -748,23 +713,20 @@ ministre de la justice. A l'audience, leur parole est libre.</p>
 <p>Là où l'affaire tourne à la farce, c'est quand l'avocat de la partie civile rêve à voix haute d'une modification de la loi pour permettre la publicité des débats (encore une fois, voyez à quoi elle tient ici...). Voici que la victime demande qu'on fasse appel pour elle et qu'on change la loi par la même occasion. Je passerai sur le fait que l'avocat en question était l'avocat du RPR dont le garde des sceaux fut la dernière présidente, car je me refuse à croire qu'en République, des choix publics tinssent à ce genre de considération. Mais je tremble quand même que ce souhait soit suivi d'effet, deux députés qu'on ne peut soupçonner d'être indifférents à l'opinion publique ayant déposé une proposition de loi dans ce sens (Messieurs Barouin et Lang). Si le législatif aussi se met à jouer les larbins des victimes, il ne reste que le judiciaire pour garder la tête froide.</p>
 <p>Je me contenterai donc de regretter que ce ministre ait raté sa première occasion de se comporter en vrai Garde des Sceaux plutôt qu'en valet des victimes, ait manqué de réfléchir avant d'agir, et que visiblement personne dans cette affaire ne se soit interrogé à la Chancellerie pour savoir ce qu'on avait à reprocher à ce procès, remarquablement conduit de l'avis général par une formidable présidente, Nadia Ajjan, et ce qui leur permettait d'estimer que leur opinion valait mieux que celle de neuf jurés et trois juges qui ont assistés aux 29 jours de débat et ont délibéré trois jours durant pour fixer ces peines, très légèrement inférieures aux réquisitions du parquet (à croire que les plaidoiries de la défense servent à quelque chose...).</p>
 <p>La mémoire d'Ilan Halimi méritait mieux que ce cirque.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-15 12:00:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-15 12:00:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/12/Les-proc%C3%A9dures-p%C3%A9nales-d-exceptions-vivent-elles-leurs-derni%C3%A8res-heures"><b>Les procédures pénales d'exceptions vivent-elles leurs dernières heures ?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/12/Les-proc%C3%A9dures-p%C3%A9nales-d-exceptions-vivent-elles-leurs-derni%C3%A8res-heures">Les procédures pénales d'exceptions vivent-elles leurs dernières heures ?</a>
+</td></tr></table>
 
 <p>Je n'ose y croire, tant j'en ai rêvé, mais là, la cour européenne des droits de l'homme semble sonner le glas d'un aspect parmi les plus scandaleux de la procédure pénale française, qui pourtant n'en manque pas.</p>
 <p>Par un arrêt Salduz c. Turquie du 27 novembre 2008 (<a href="http://cmiskp.echr.coe.int/tkp197/view.asp?item=1&amp;portal=hbkm&amp;action=html&amp;highlight=36391/02&amp;sessionid=26557937&amp;skin=hudoc-fr" hreflang="fr">Requête no 36391/02</a>), la Grande Chambre de la Cour a condamné la Turquie pour violation du droit à un procès équitable pour une loi qui refusait l'accès à un avocat au stade de l'enquête de police en raison de son objet qui, vous l'aurez deviné puisqu'il permet de porter atteitne aux droits de l'homme sous les applaudissements de l'opinion publique, est de lutter contre le terrorisme.&nbsp;</p>
@@ -788,23 +750,20 @@ ministre de la justice. A l'audience, leur parole est libre.</p>
 <p>Conclusion logique : les procédures française d'exception ne sont pas conformes à la Convention européenne des droits de l'homme. Toutes les personnes qui ont avoué des faits dans ce laps de 48 heures peuvent demander une indemnisation pour violation de leurs droits, et la révision de leur procès (<a href="http://www.legifrance.gouv.fr/affichCode.do;jsessionid=3CE6A4CED79C87428AA3D2450626E35A.tpdjo05v_3?idSectionTA=LEGISCTA000006138100&amp;cidTexte=LEGITEXT000006071154&amp;dateTexte=20020713">art. 626-1 du CPP</a>) si elles ont été condamnées sur la base de ces aveux, car leur procédure est présumée avoir porté une atteinte irrémédiable à leurs droits de la défense.</p>
 <p>Peut-être vois-je midi à ma porte car depuis 2004, où j'ai participé aux manifestations des avocats contre ce volet de la loi Perben II, je suis convaincu que cette procédure est contraire aux droits de l'homme. Je lirai donc avec intérêt tout point de vue contradictoire visant à démontrer que je me trompe.</p>
 <p>Car si tel n'est pas le cas, le 27 novembre 2008 fut une belle journée pour les droits de l'homme.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-13 08:13:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-13 08:13:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/12/BatMam-et-Robin"><b>BatMam et Robin</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/12/BatMam-et-Robin">BatMam et Robin</a>
+</td></tr></table>
 
 <p><em>Par Dadouche</em></p>
 <hr />
@@ -828,23 +787,20 @@ M. Jean-Marie Bockel, secrétaire d'Etat à la justice, remplit toute mission et
 <p>[<a href="http://www.maitre-eolas.fr/post/2009/07/12/#rev-pnote-1426-1" id="pnote-1426-1">1</a>] même si nous avons déjà connu des Ministres Délégués auprès du Ministre de la Justice</p>
 <p>[<a href="http://www.maitre-eolas.fr/post/2009/07/12/#rev-pnote-1426-2" id="pnote-1426-2">2</a>] après avoir dans un premier temps mis en note de qui ces personnages sont les <em>sidekicks</em> ou fidèles seconds, je me suis dit qu'il valait mieux laisser chercher (enfin, c'est pas très compliqué)... Ca occupera ceux qui sont en vacances et ça distraira ceux qui sont au boulot</p>
 </div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-12 10:00:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Dadouche</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-12 10:00:00 UTC</td></tr>
+<tr><th>Author:</th><td>Dadouche</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/06/1470-faut-il-se-chauffer-au-gaz-pour-etre-juge-en-virginie-occidentale"><b>Faut-il se chauffer au gaz pour être juge en Virginie occidentale ?</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/06/1470-faut-il-se-chauffer-au-gaz-pour-etre-juge-en-virginie-occidentale">Faut-il se chauffer au gaz pour être juge en Virginie occidentale ?</a>
+</td></tr></table>
 
 <p>Lors de sa récente session, la Cour suprême a rendu un arrêt important changeant de manière spectaculaire sa position sur la très délicate question de l'indépendance de fait des juges élus.</p>
 
@@ -921,23 +877,20 @@ M. Jean-Marie Bockel, secrétaire d'Etat à la justice, remplit toute mission et
 <p>Prochain épisode&nbsp;: les anti-inflammatoires permettent-ils de voir des jeunes filles nues&nbsp;?</p>
 <div class="footnotes"><h4>Notes</h4>
 <p>[<a href="http://www.maitre-eolas.fr/post/2009/07/06/#rev-pnote-1415-1" id="pnote-1415-1">1</a>] Qui est comme tout le monde le sait la capitale de la Virginie Occidentale.</p></div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-10 00:19:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-10 00:19:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/09/Du-remue-m%C3%A9nage"><b>Du remue-ménage</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/09/Du-remue-m%C3%A9nage">Du remue-ménage</a>
+</td></tr></table>
 
 <p>Certains d'entre vous ont pu le vivre en direct, il y a eu de grosses coupures cet après midi, mais ca y est, la mue est faite&nbsp;: mon blog tourne sous Dotclear 2.</p>
 
@@ -958,23 +911,20 @@ M. Jean-Marie Bockel, secrétaire d'Etat à la justice, remplit toute mission et
 
 
 <p>Merci de m'indiquer toute anomalie que vous pourriez rencontrer&nbsp;: la chasse aux bugs est ouverte. Et on dit bravo et merci à Rémi.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-08 22:32:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-08 22:32:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/08/1474-les-cinq-erreurs-d-authueil"><b>Les cinq erreurs d'Authueil</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/08/1474-les-cinq-erreurs-d-authueil">Les cinq erreurs d'Authueil</a>
+</td></tr></table>
 
 <p>Mon ami Authueil reproche souvent aux juristes leur côté pinailleur. Je m'en voudrais de lui donner tort et vais relever cinq erreurs dans <a href="http://authueil.org/?2009/07/07/1385-un-lycee-c-est-fait-pour-etudier">son dernier bille</a>t, dans lequel il exprime son approbation de la décision d'un proviseur <a href="http://www.rue89.com/2009/07/06/jai-17-ans-et-je-suis-exclu-car-jai-fait-blocage-contre-darcos">ayant soumis la réinscription d'un lycéen en terminale dans son établissement à l'engagement de sa part de ne pas se livrer à nouveau à un blocage</a> comme il l'avait fait plus tôt dans l'année scolaire pour des motifs politiques.</p>
 
@@ -1055,23 +1005,20 @@ M. Jean-Marie Bockel, secrétaire d'Etat à la justice, remplit toute mission et
 <p>PS&nbsp;: Je ne l'avais pas vu, mais <a href="http://dinersroom.eu/2823/refus-dinscription-dans-un-lycee-abus-de-pouvoir-ou-aveu-de-faiblesse/">Jules le dit mieux que moi</a>.</p>
 <div class="footnotes"><h4>Notes</h4>
 <p>[<a href="http://www.maitre-eolas.fr/post/2009/07/08/#rev-pnote-1474-1" id="pnote-1474-1">1</a>] Si cette politique du roseau lui a été imposée par la voie hiérarchique, l'administration refusant toute confrontation, ma critique reste la même, mais se transmet par la voie hiérarchique au ministre.</p></div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-08 11:12:18 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-08 11:12:18 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/08/1473-ces-gens-sont-des-menteurs"><b>Ces gens sont des menteurs</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/08/1473-ces-gens-sont-des-menteurs">Ces gens sont des menteurs</a>
+</td></tr></table>
 
 <p>À écouter, à podcaster (<a href="itpc://radiofrance-podcast.net/podcast09/rss_10078.xml">iTunes</a>, <a href="http://radiofrance-podcast.net/podcast09/rss_10078.xml">Lien RSS</a>), l'émission <a href="http://sites.radiofrance.fr/chaines/france-culture2/emissions/pieds/fiche.php?diffusion_id=75188">Les Pieds Sur Terre du 6 juillet 2009</a>, diffusée sur France Culture, qui revient sur le fameux délit de solidarité, celui dont le ministre qui ne devrait pas exister nie l'existence. Pauline Maucort et Olivier Minot sont allés interviewer des gens qu'on a arrêté, placé en garde à vue, et oui, pour certains poursuivis et condamnés pour avoir aidé un étranger en situation irrégulière. Des acteurs, sans doute.</p>
 
@@ -1103,23 +1050,20 @@ M. Jean-Marie Bockel, secrétaire d'Etat à la justice, remplit toute mission et
 <p>Mais pourquoi donc n'arrivè-je pas à applaudir&nbsp;?</p>
 <div class="footnotes"><h4>Notes</h4>
 <p>[<a href="http://www.maitre-eolas.fr/post/2009/07/08/#rev-pnote-1473-1" id="pnote-1473-1">1</a>] La réponse se trouve à l'article premier des Constitutions de la Congrégation du Très-Saint-Rédempteur : “ Son but est de continuer le Christ Sauveur en annonçant la Parole de Dieu aux pauvres, selon ce qu'il a dit de lui-même: «Il m'a envoyé évangéliser les pauvre» ” ; “Elle s'acquitte de cette tâche avec un élan missionnaire qui la porte vers les urgences pastorales en faveur des plus délaissés, surtout des pauvres, à qui elle s'efforce d'apporter la Bonne Nouvelle.” Ça signe la bande organisée.</p></div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-08 00:24:19 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-08 00:24:19 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/07/1472-de-l-art-delicat-de-donner-des-lecons-a-qui-n-a-pas-appris-les-siennes"><b>De l'art délicat de donner des leçons à qui n'a pas appris les siennes</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/07/1472-de-l-art-delicat-de-donner-des-lecons-a-qui-n-a-pas-appris-les-siennes">De l'art délicat de donner des leçons à qui n'a pas appris les siennes</a>
+</td></tr></table>
 
 <p>Un fait divers a fait quelque peu ricaner sur le web, une forme d'arroseur arrosé, internet tenant parfois d'une cour de récréation où on aime à rire aux dépens d'autrui (c'est toujours mieux comme métaphore que <a href="http://www.numerama.com/magazine/13345-Pour-Denis-Olivennes-Internet-est-le-tout-a-l-egout-de-la-democratie.html">la plomberie</a>).</p>
 
@@ -1207,23 +1151,20 @@ M. Jean-Marie Bockel, secrétaire d'Etat à la justice, remplit toute mission et
 <hr />
 
 <p>(PS&nbsp;: Merci de ne pas citer les noms des protagonistes de cette affaire, le message serait immédiatement supprimé dans son intégralité, je ne vais pas m'amuser à faire de la correction).</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-07 01:11:58 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-07 01:11:58 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/06/1468-les-ternes-vitres-de-la-republique"><b>Les ternes vitres de la République</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/06/1468-les-ternes-vitres-de-la-republique">Les ternes vitres de la République</a>
+</td></tr></table>
 
 <p>Alassane T. est mauritanien, il a 46 ans. Il habite Orléans, où il est laveur de vitres. Depuis 6 ans, il se rend une fois par mois au commissariat de police d'Orléans pour en nettoyer les carreaux. On l'y connait, on le salue et on le laisse circuler librement dans les bureaux.</p>
 
@@ -1274,23 +1215,20 @@ M. Jean-Marie Bockel, secrétaire d'Etat à la justice, remplit toute mission et
 <div class="footnotes"><h4>Notes</h4>
 <p>[<a href="http://www.maitre-eolas.fr/post/2009/07/06/#rev-pnote-1468-1" id="pnote-1468-1">1</a>] Le recours doit impérativement être déposé dans les 48 heures de la notification.</p>
 <p>[<a href="http://www.maitre-eolas.fr/post/2009/07/06/#rev-pnote-1468-2" id="pnote-1468-2">2</a>] Je dois à la Vérité et à la Cour des comptes d'ajouter ici un peut-être, tant <a href="http://lesactualitesdudroit.20minutes-blogs.fr/archive/2009/07/05/la-police-des-etrangers-brasse-trop-d-air.html">le taux d'exécution des reconduites à la frontière est bas, et en diminution constante</a> ; je me flatte d'y être un peu pour quelque chose.</p></div>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-06 11:01:22 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-06 11:01:22 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 <hr/><!-- *********************************** -->
-<table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
-<table width="100%" bgcolor="#EDEDED" cellpadding="4" cellspacing="2">
-<tr><td align="right"><b>Feed:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/">
-<b>Journal d'un avocat</b>
-</a>
-</td></tr><tr><td align="right"><b>Item:</b></td>
-<td width="100%"><a href="http://www.maitre-eolas.fr/post/2009/07/03/1469-sarkozy-je-te-vois-prevenu-je-te-relaxe"><b>« Sarkozy je te vois » : Prévenu, je te relaxe</b>
-</a>
-</td></tr></table></td></tr></table>
+<table class="header">
+<tr><th>Feed:</th>
+<td><a href="http://www.maitre-eolas.fr/">
+Journal d'un avocat</a>
+</td></tr><tr><th>Item:</th>
+<td><a href="http://www.maitre-eolas.fr/post/2009/07/03/1469-sarkozy-je-te-vois-prevenu-je-te-relaxe">« Sarkozy je te vois » : Prévenu, je te relaxe</a>
+</td></tr></table>
 
 <p>Épi&shy;lo&shy;gue de l&#8217;affaire de la célè&shy;bre saillie&#160;: «&#160;Sar&shy;kozy je te vois&#160;»&#160;: <a href="http://tempsreel.nouvelobs.com/speciales/societe/libertes_sous_pression/20090703.OBS2936/sarkozy_je_te_vois__le_jugement_rendu_ce_vendredi.html">le juge de proxi&shy;mité de Mar&shy;seille a relaxé l&#8217;ensei&shy;gnant pour&shy;suivi pour tapage diurne inju&shy;rieux</a>.</p>
 
@@ -1314,10 +1252,10 @@ M. Jean-Marie Bockel, secrétaire d'Etat à la justice, remplit toute mission et
 
 
 <p>Vou&shy;loir donc ména&shy;ger la chè&shy;vre et le chou me paraît donc ici mala&shy;droit et déplacé. Une relaxe un peu plus cin&shy;glante aurait eu ma pré&shy;fé&shy;rence. Parce que la liberté d&#8217;expres&shy;sion le vaut bien.</p>
-<hr width="100%"/>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td align="right"><font color="#ababab">Date:</font>&nbsp;&nbsp;</td><td><font color="#ababab">2009-07-03 11:59:00 UTC</font></td></tr>
-<tr><td align="right"><font color="#ababab">Author:</font>&nbsp;&nbsp;</td><td><font color="#ababab">Eolas</font></td></tr>
+<hr/>
+<table class="metadata">
+<tr><th>Date:</th><td>2009-07-03 11:59:00 UTC</td></tr>
+<tr><th>Author:</th><td>Eolas</td></tr>
 </table>
 
 </body></html>
