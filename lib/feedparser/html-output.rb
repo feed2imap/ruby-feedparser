@@ -2,6 +2,14 @@ require 'feedparser'
 require 'feedparser/filesizes'
 
 module FeedParser
+  STYLESHEET = <<~EOF
+  <style type="text/css">
+  body {
+    margin: 2em auto;
+    max-width: 960px;
+  }
+  </style>
+  EOF
   class Feed
     def to_html(localtime = true)
       s = ''
@@ -11,6 +19,7 @@ module FeedParser
       s += "<head>\n"
       s += "<title>#{@title.escape_html}</title>\n"
       s += "<meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\">\n"
+      s += FeedParser::STYLESHEET
       s += "</head>\n"
       s += "<body>\n"
 
@@ -51,13 +60,15 @@ module FeedParser
 
   class FeedItem
     def to_html_with_headers(localtime = true)
-      s = <<-EOF
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<body>
-  EOF
+      s = '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">'
+      s += '<html>'
+      s += '<head>'
+      s += FeedParser::STYLESHEET
+      s += '</head>'
+      s += '<body>'
       s += to_html(localtime)
-      s += "\n</body>\n</html>"
+      s += "</body>"
+      s += "</html>"
       s
     end
 

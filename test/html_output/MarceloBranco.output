@@ -3,6 +3,12 @@
 <head>
 <title>MarceloBranco's Blog</title>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<style type="text/css">
+body {
+  margin: 2em auto;
+  max-width: 960px;
+}
+</style>
 </head>
 <body>
 <table border="1" width="100%" cellpadding="0" cellspacing="0" borderspacing="0"><tr><td>
