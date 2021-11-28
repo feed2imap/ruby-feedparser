@@ -1,8 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
+<!doctype html>
+<html lang=en>
 <head>
+<meta charset="utf-8"/>
 <title>ArXiv Query: search_query=all:electron&amp;id_list=&amp;start=0&amp;max_results=10</title>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <style type="text/css">
 body {
   margin: 2em auto;

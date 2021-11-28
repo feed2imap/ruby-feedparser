@@ -13,12 +13,11 @@ module FeedParser
   class Feed
     def to_html(localtime = true)
       s = ''
-      s += '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">'
-      s += "\n"
-      s += "<html>\n"
+      s += "<!doctype html>\n"
+      s += "<html lang=en>\n"
       s += "<head>\n"
+      s += "<meta charset=\"utf-8\"/>\n"
       s += "<title>#{@title.escape_html}</title>\n"
-      s += "<meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\">\n"
       s += FeedParser::STYLESHEET
       s += "</head>\n"
       s += "<body>\n"
@@ -60,9 +59,10 @@ module FeedParser
 
   class FeedItem
     def to_html_with_headers(localtime = true)
-      s = '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">'
-      s += '<html>'
+      s = "<!doctype html>\n"
+      s += '<html lang="en">'
       s += '<head>'
+      s += '<meta charset="utf-8"/>'
       s += "<title>#{@title.escape_html}</title>\n"
       s += FeedParser::STYLESHEET
       s += '</head>'
