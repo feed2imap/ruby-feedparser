@@ -63,6 +63,7 @@ module FeedParser
       s = '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">'
       s += '<html>'
       s += '<head>'
+      s += "<title>#{@title.escape_html}</title>\n"
       s += FeedParser::STYLESHEET
       s += '</head>'
       s += '<body>'
