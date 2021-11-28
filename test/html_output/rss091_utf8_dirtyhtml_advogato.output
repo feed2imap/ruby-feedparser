@@ -8,6 +8,39 @@ body {
   margin: 2em auto;
   max-width: 960px;
 }
+
+table.header {
+  margin-bottom: 1em;
+}
+
+table.header, table.metadata, table.attachments {
+  font-family: Helvetica, Verdana, sans-serif;
+}
+
+table.header, table.metadata, table.attachments, pre {
+  width: 100%;
+  padding: 0.5em;
+  background: #eeeeec;
+  border: 1px solid #babdb6;
+}
+
+table.header th, table.metadata th, table.attachments th {
+  text-align: right;
+  width: 50px;
+}
+
+blockquote {
+  font-style: italic;
+  color: #2e3436;
+  border-left: 2px solid #babdb6;
+  padding-left: 0.5em;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #babdb6;
+  margin: 1em auto
+}
 </style>
 </head>
 <body>
