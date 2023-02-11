@@ -5,7 +5,8 @@ module FeedParser
   STYLESHEET = <<~EOF
   <style type="text/css">
   body {
-    margin: 2em auto;
+    margin: 1em auto;
+    padding: 0px 1em;
     max-width: 960px;
   }
 
