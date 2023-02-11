@@ -10,6 +10,15 @@ module FeedParser
     max-width: 960px;
   }
 
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  figure {
+    margin: 0px;
+  }
+
   table.header {
     margin-bottom: 1em;
   }
