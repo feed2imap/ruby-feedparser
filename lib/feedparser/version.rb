@@ -1,3 +1,3 @@
 module FeedParser
-  VERSION = "0.1i.0"
+  VERSION = "0.11.0"
 end
