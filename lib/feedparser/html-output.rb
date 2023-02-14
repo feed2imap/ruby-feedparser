@@ -17,6 +17,8 @@ module FeedParser
 
   figure {
     margin: 0px;
+    max-width: 100%;
+    height: auto;
   }
 
   table.header {
