@@ -1,7 +1,7 @@
 # encoding: UTF-8
 
 require 'test/unit'
-require 'mocha/setup'
+require 'mocha/test_unit'
 
 require 'feedparser/sgml-parser'
 
