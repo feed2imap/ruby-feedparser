@@ -68,13 +68,13 @@ begin
     s.summary = "Ruby library to parse ATOM and RSS feeds"
     s.name = PKG_NAME
     s.version = PKG_VERSION
-    s.requirements << 'none'
     s.require_path = 'lib'
     s.autorequire = 'feedparser'
     s.files = PKG_FILES
     s.description = "Ruby library to parse ATOM and RSS feeds"
     s.authors = ['Lucas Nussbaum']
     s.add_runtime_dependency 'magic'
+    s.add_development_dependency 'mocha'
   end
 
   Gem::PackageTask.new(spec) do |pkg|
