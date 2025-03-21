@@ -9,7 +9,7 @@ require_relative 'lib/feedparser/version.rb'
 PKG_NAME = 'ruby-feedparser'
 PKG_VERSION = FeedParser::VERSION
 
-PKG_FILES = [ 'README', 'COPYING', 'LICENSE', 'setup.rb', 'Rakefile']
+PKG_FILES = [ 'README', 'COPYING', 'LICENSE', 'Rakefile']
 Find.find('lib/', 'test/', 'tools/') do |f|
   if FileTest.directory?(f) and f =~ /\.svn/
     Find.prune
