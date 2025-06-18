@@ -39,7 +39,7 @@ module FeedParser
     end
     str.force_encoding(encoding)
     str = str.chars.select { |c| c.valid_encoding? }.join
-    str.encode('UTF-8')
+    str.encode('UTF-8', invalid: :replace, undef: :replace, replace: '?')
   end
 
   # an RSS/Atom feed
